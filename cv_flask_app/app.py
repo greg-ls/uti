@@ -277,6 +277,11 @@ def assign_contact_to_mission(mission_id):
     logger.info("Assignation d'un contact")
     return send_from_directory('dev', 'index.html')
 
+@app.route('/dev/api/missions/<int:mission_id>/contact_partenaire/assign', methods=['POST'])
+def assign_contact_partenaire_to_mission(mission_id):
+    logger.info("Assignation d'un contact partenaire ")
+    return send_from_directory('dev', 'index.html')
+
 @app.route('/dev/api/missions/en-cours', methods=['GET'])
 def get_current_missions():
     logger.info("Accès à la page des missions en cours")
