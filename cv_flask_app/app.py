@@ -352,6 +352,55 @@ def assign_commercial_to_client(client_id):
     return send_from_directory('dev', 'index.html')
 
 # =============================================================================
+# API GESTION DES PARTENAIRES
+# =============================================================================
+
+@app.route('/dev/api/partenaire', methods=['GET'])
+def get_partenaire():
+    logger.info("Accès à la page des partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire', methods=['POST'])
+def create_client():
+    logger.info("Création d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>', methods=['GET'])
+def get_partenaire(partenaire_id):
+    logger.info("Accès à la fiche d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>', methods=['PUT'])
+def update_partenaire(partenaire_id):
+    logger.info("Modification d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>', methods=['DELETE'])
+def delete_partenaire(partenaire_id):
+    logger.info("Suppression d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts', methods=['GET'])
+def get_partenaire_contacts(partenaire_id):
+    logger.info("Récupération des contacts d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts', methods=['POST'])
+def create_partenaire_contact(partenaire_id):
+    logger.info("Ajout d'un contact d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts/<int:contact_id>', methods=['PUT'])
+def update_partenaire_contact(partenaire_id, contact_id):
+    logger.info("Modifications d'un contact d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts/<int:contact_id>', methods=['DELETE'])
+def delete_partenaire_contact(partenaire_id, contact_id):
+    logger.info("Suppression d'un contact d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
 # API GESTION DES COMMERCIAUX (ADMIN SEULEMENT)
 # =============================================================================
 
