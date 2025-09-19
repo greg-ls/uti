@@ -1,0 +1,229 @@
+PRODUCT OWNER / CHEF DE PROJET / BUSINESS ANALYST
+
+DOMAINE D'INTERVENTION
+Product Owner PSPO et Chef de projet technico-fonctionnel avec plus de 10 ans d'expérience sur des projets d’innovation transverses, complexes, internationaux, en français et en anglais : L’Oréal, Canal+, Bouygues Telecom, France Télévisions, Carrefour…
+
+CERTIFICATIONS
+Professional Scrum Product Owner (PSPO I) Scrum.org
+Professional Scrum Master (PSM I) Scrum.org
+Microsoft Certified: Azure Data Fundamentals DP-900
+
+COMPETENCES
+Définition de projet
+Ecoute, recueil et analyse des besoins des clients et des utilisateurs
+Elaborer les roadmaps avec des jalons en fonction des priorités, des risques, des délais et des ressources
+Story mapping avec le métier dans Klaxoon
+Rédaction des User Stor spécifications fonctionnelles détaillées dans Jira, Trello…
+
+Pilotage et organisation
+Suivi de l’avancement du projet à l’aide d’indicateurs et de tableaux de bord
+Coordination entre les différentes équipes et parties prenantes
+Conduite du changement
+Reporting au client lors des points régulier (weekly, bi-monthly…)
+Diffusion d’une newsletter Canva (KPIs, avancement, évolutions…) à l’ensemble des parties prenantes
+
+Gestion de projet
+Alimentation et gestion au quotidien du backlog de fonctionnalités & correctifs
+Suivi des développements dans le respect du calendrier et des standards de qualité
+Participation et animation des rituels agiles (daily, backlog grooming, sprint planning, démo, rétrospective)
+Gestion de la charge de l'équipe
+
+Technique
+Modélisation des données, SQL, MongoDB, PostgreSQL, GCP BigQuery
+Spécification des APIs (REST, Streaming, JSON, XML, Swagger, Postman, SoapUI)
+Diagrammes de séquence, BPMN, UML
+UX/UI : Figma, Sketch, Zeplin, Canva
+Dashboards : Looker, Power BI
+Lancement des jobs/MEPs via GitLab / Jenkins
+Monitoring via Datadog / Kibana / Azure
+Recette via Gherkin / Cucumber
+Paiement : IBAN/CB, 3DS, SEPA, SystemPay, Docapost/Contralia
+Autres solutions : SmartJog, Aspera, Qualtrics, Qualifio, Adobe Campaign
+Projet : Jira/Confluence, Trello,SNow, Klaxoon
+Process : ServiceNow (Virtual Agent, NowAssist), Zendesk
+
+Langues
+Anglais
+Tchèque et Slovaque
+
+EXPERIENCE
+L'ORÉAL Chef de projet – EMEA CRM
+De 02/2024 à 12/2024
+
+Contexte
+Au sein du département IT Europe, je suis chargé d’un MVP, puis du déploiement de la brique logicielle Qualtrics pour divers parcours Online et Offline, B2C et B2B de nouvelles marques et pays, d'assurer une transition fluide vers une architecture logicielle modernisée, ainsi que de piloter une migration de données historiques vers une nouvelle base de données.
+
+Tâches
+Gestion de projet
+Gestion et encadrement de 3 chefs de projet business et 2 Tech Leads
+Priorisation des sujets, évolutions et correctifs et allocation des charges de travail en fonction des enjeux stratégiques
+Supervision des roadmaps et des plannings projet et suivi du budget alloué
+Validation des spécifications fonctionnelles et techniques
+Suivi des développements techniques et tests de qualité (QA)
+Reporting régulier (weekly, bi-monthly) sur l’état d’avancement des projets
+Gestion du changement et formation afin de faciliter l’adoption de la solution
+
+Réalisations
+Mise en œuvre des scénarios existants et développement de nouveaux scénarios NPS Qualtrics pour 8 marques et 11 pays à l’échelle EMEA
+Préparation des maquettes HTML des emails d’enquête de satisfaction avec les agences des marques/pays
+Recueil de consentement RGPD via OneTrust
+
+Données et dataviz
+Refonte des dashboards Qualtrics pour une meilleure visualisation des résultats et insights
+Migration des données existantes vers un nouveau modèle de la base de données (MongoDB, GCP)
+Transition des flux d’échanges basés sur FTP vers des API en temps réel (RESTful)
+Interfaçage avec les API de Salesforce Marketing (SFMC), Sales (SFSC) et Commerce Cloud (SFCC)
+Visualisation des données à l’aide de Google Looker, Power BI et GCP BigQuery
+
+Environnement technique
+Looker, Power BI, MongoDB Compass, Postman, GCP BigQuery, Azure Monitor, Adobe Campaign, Salesforce, Qualtrics, Qualifio, Jira, ServiceNow
+
+CANAL+ Product Owner MAM – MEDIAHUB
+De 08/2021 à 01/2024
+
+Contexte
+Au sein de l’équipe MediaHub Media Asset Management (MAM), j'interviens en tant que Product Owner dans une équipe de 8 personnes (PO, UX/UI, 5 devs, 1 testeur) sur les projets de l’innovation autours des systèmes MAM et Documentation des médias.
+
+Tâches
+Gestion de projet
+Ecoute, recueil et analyse des besoins exprimés par les équipes
+Rédaction des spécifications (user-stories) dans Jira
+Validation des maquettes UX/UI dans Sketch et Zeplin
+Elaboration et communication des roadmaps pour les epics, évolutions et correctifs dans Klaxoon
+Gestion et priorisation du backlog en alimentant et enrdonnant les fonctionnalités à développer
+Animation des rituels agiles (stand-ups, grooming, sprint planning, rétrospectives)
+Suivi des indicateurs de performance (KPI) pour ajuster les ressources et priorités au besoin
+Reporting d’avancement régulier
+Conduite du changement et support aux utilisateurs
+
+Réalisations
+Cadrage et développement du POC des modules de la Documentation automatique des médias par IA et du Moteur de recherche (objectifs, KPI, go/nogo)
+Expérimentation avec Zendesk et ServiceNow dans le projet d’innovation du service client (chatbot IA)
+Améliorations du player (sélecteur piste vidéo/audio/stt, zoom, jog shuttle...)
+Mise en place d’un système de tagging pour les emplacements des annonces publicitaires (Ad slot)
+Amélioration du module pour la préparation des médias pour des diffusions linéaires et non-linéaires, SVOD, TVOD, replays
+Suivi des indicateurs de performance Core Web Vitals (Temps de réponse, LCP, INP, CLS…)
+
+Données et dataviz
+Migration et intégration des données de documentation des médias Canal+ France, International et News depuis divers logiciels historiques vers la plateforme centralisée
+Analyse de l’existant (MDD, Swagger) et spécification des API REST et Streaming (diagrammes de séquence)
+Développement des dashboards et des reportings pour suivre etptimiser les performances du système
+
+Environnement technique
+PostgreSQL, Jenkins, Datadog, Jira, Confluence, Sketch, Zeplin, Klaxoon, SmartJog, Aspera, Scala, Zendesk, ServiceNow
+
+BOUYGUES TELECOM SIR Chef de projet IT – PROVISIONING SIR
+De 07/2019 à 07/2021
+
+Contexte
+Au sein du Département Provisioning fixes et mobiles (SI Réseau), je participe en tant que Chef de projet IT au programme de la refonte et mutualisation des provisioning fixes et mobile.
+
+Tâches
+Participation aux études avec les différentes directions (DSI, Réseau, Marketing…)
+Spécification des solutions de vérification de l’éligibilité technique des services xDSL et FTTH (fibreptique) et d’autres technologies de haut débit B2B et B2C
+Coordination entre les différentes équipes et parties prenantes
+Conception détaillée de projets en respectant scrupuleusement les formats définis et l’existant
+Négociation des API avec des FAI partenaires afin d’obtenir les données sur la topologie et la bande passante
+Participation à la stratégie de mise en production et mise en service, en accord avec le directeur de projet
+
+FRANCE TELEVISIONS NUMERIQUE Product Owner Digital – FRANCETVINFO.FR
+De 02/2019 à 07/2019
+
+Contexte
+Au sein de l'équipe de la Plateforme Digitale, j'assure le rôle de Product Owner sur le projet d'homogénéisation des systèmes de gestion de contenu (CMS) destiné à réduire les coûts de maintenance et améliorer l'expérience des internautes.
+
+Tâches
+Participation active aux rituels agile (rétrospective, démo, grooming, sprint planning, etc.)
+Alimentation et gestion au quotidien du backlog de fonctionnalités & correctifs
+Priorisation et suivi des développements dans le respect du calendrier et des standards de qualité
+Recueil, analyse et synthèse des besoins, rédaction d’US et de spécifications fonctionnelles
+Réalisation de zonings dans le respect des principes de conception sur tous les supports
+Amélioration des sites de Francetvinfo.fr en respectant les standards d’accessibilité (RGAA)
+Recette fonctionnelle des développements sur la plateforme, en lien avec le responsable qualité
+Interface avec tous les interlocuteurs du projet (équipes techniques, graphiques, équipes marketing et partenariats, rédactions, équipes support…)
+Mise à jour des taxonomies / tags entre les différents systèmes CMS
+
+Environnement technique
+Didomi, Gatewayvf, SSO Gigya, Chartbeat, Piano, Drupal, PIC, Kibana, Figma, Adobe Campaign, Symfony, PHP
+
+CANAL+ Product Owner Digital – BOUTIQUE.CANAL.FR
+De 02/2016 à 02/2019
+
+Contexte
+Product Owner Digital de la feature team Vente (PM, PO, Tech Lead, 5 développeurs, 2 testeurs) dans le cadre d'un projet de transformationmnicanal ayant pourbjectif de recenser l'ensemble des sites Canal+ sur une même et unique plateforme afin de faciliter et de fluidifier l’expérience client.
+
+Tâches
+Gestion de projet
+Relation et coordination avec les équipes Marketing et avec les équipes de développement full stack
+Gestion des projets réalisés avec les partenaires FAI (Orange, Bouygues), les distributeurs Darty/Fnac/Boulanger et les centres d'appels
+Animation des cérémonies agiles : story mapping, product board, backlog review, sprint demo, sprint retrospective, daily stand-up meetings et test factories
+Priorisation du backlog etrganisation de la charge de travail pour le sprint en cours
+Rédaction des user stories en incluant le contexte métier, UX/UI et les spécificités techniques
+Organisation et animation des réunions d’avancement
+Exécution des MEPs via Jenkins et GitLab
+Validation des évolutions et analyse et résolutions des bugs remontés
+
+Réalisations
+Réalisations de nombreux parcours de vente web (boutique.canal.fr) ciblant des audiences différentes (POC, campagnes marketing conquête, ARPU, anti-churn, souscription, login, avec/sans engagement, espace client, parrainage, jeunes...)
+Cadrage de l'étape et du processus de paiement (IBANu CB, ponctuel/récurrent, 3DS, SystemPay, Mandat de prélèvement SEPA, Signature électronique via Docapost/Contralia...)
+Conception des API permettant aux partenaires FAI (Bouygues, Orange...) de proposer lesffres Canal+ dans leurs parcours client.
+Vérifications d’éligibilité et souscriptions asynchro via des API, suivi des ventes et des KPI dans le BI, validation de la solution avec les métiers et les partenaires
+Evolutions de l'outil CRM de suivi des abonnements et de vente à destination des téléconseillers et de l'application tablette pour les vendeurs en boutique
+Mise en place du « panier » pour l’ensemble des canaux de vente.
+Conception des processus de création, de reprise et de validation et des API liés.
+
+Données et dataviz
+L’orchestration via une base MongoDB et les données CRM hébergées dans AWS
+Monitoring des performances dans Kibana et dans Power BI
+
+Environnement technique
+Postman, SoapUI, Swagger, Jenkins, GitLab, Kibana, JIRA, Confluence, SQL, DBeaver, API REST, WebSequenceDiagrams, Cucumber
+
+ALD AUTOMOTIVE Product Owner – GESTION DES STOCKS
+De 06/2015 à 01/2016
+
+Tâches
+Productwner de l'application de gestion de stock des véhicules et de leur préparation pour la vente (300 utilisateurs, 6 pays)
+Gestion des équipes de développement et de test situées en Inde
+Animation des sessions agiles avec les métiers et avec les développeurs : product board, backlog grooming, sprint planning et demo
+Rédaction des spécifications, de la matrice des exigences, des reportings
+Suivi des mises en production (planning, coordination, validation) et support aux utilisateurs
+
+CARREFOUR Assistant à maîtrise d’ouvrage (AMOA) – E-COMMERCE
+De 02/2013 à 05/2015
+
+Tâches
+Responsable AMOA du processus « Animation commerciale » vis à vis du métier et de l'éditeur dans le cadre d'un projet de refonte des front et back-offices des sites de vente en ligne Drive.carrefour.fr et Ooshop
+
+Projets gérés
+Développement d’un moteur des promotions
+Développement d’unutil de gestion du programme de fidélité
+Conception d’un API de récupération des données de stock
+Participation aux ateliers avec les métiers et aux déploiements des solutions sur le terrain (magasins Carrefour)
+Rédaction des expressions de besoin, des matrices des exigences, des SFG et SFD et validation des quotations
+Suivi quotidien des équipesffshore au Brésil et en Inde (développement et tests)
+Conception des cahiers de recette à partir des processus métiers pour l'équipe de test, déroulement des tests et production des reportings (qualité, avancement)
+Configuration de l'interface utilisateur et développement d'un reporting automatisé à partir de HP Quality Center
+Réalisation des synchronisations automatiques entre HP QC et 3utils de tests différents (Mantis, Salome et Mega) via leurs API
+
+WINSITE Business Analyst
+De 09/2010 à 09/2012
+
+Tâches
+Analyse des processus métiers de la Mairie de Prague, Département législation et loi, dans le but de les améliorer et de faciliter l'intégration du système workflow Adobe LiveCycle
+Gestion complète du développement de la solution et suivi qualité
+Etude de faisabilité de l'utilisation de PDA par la police municipale de Prague
+
+IPSOS Chef de projet IT
+De 09/2009 à 07/2010
+
+Tâches
+Gestion de plusieurs projets informatiques et maintenance de l'infrastructure du callcenter
+Responsable de la fusion du système d'information et du système d'administration du centre d'appels VoIP
+Négociation avec l'éditeur du système d'information NIPO Software
+
+FORMATION
+2005 à 2010 PRAGUE UNIVERSITY OF ECONOMICS AND BUSINESS Master en Systèmes et technologies de l'information BAC+5
+Mémoire rédigé en anglais : « Business Process Modeling: A Logical Perspective »
+2008 à 2009 NORWEGIAN UNIVERSITY OF SCIENCE AND TECHNOLOGY Année en bourse d'étude en Norvège
+Domaines étudiés : Gestion de projet agile, Business intelligence, Intelligence artificielle

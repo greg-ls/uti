@@ -1,0 +1,163 @@
+Profil
+
+IBR dispose de 15 ans d’expérience en BI et en maîtrise d’ouvrage, avec une double compétence technico-fonctionnelle. Après un début de carrière en tant que développeuse / consultant SAS, elle a évolué vers des fonctions de Business Analyst, intervenant sur l’ensemble du cycle projet (recueil des besoins, spécifications, coordination, tests, accompagnement au changement). Ses missions, réalisées dans des environnements agiles et internationaux, ont renforcé ses compétences en gestion de projet, communication transverse et travail en équipe. Elle possède par ailleurs une très bonne connaissance du secteur de l’assurance (dont IARD), acquise au sein d’acteurs tels que Groupama, MMA, CAAGIS, Systalians, ou MFPS.
+
+Compétences fonctionnelles
+
+Assurance (Santé, Prévoyance, Retraite, IARD)
+Finance de marché et d’entreprise (Comptabilité, Gestion, Risques de marché)
+Réglementaire (Lutte Anti-Blanchiment, Solvabilité)
+Animations d’ateliers
+Recueil et Analyse des besoins utilisateurs
+Rédaction, validation des spécifications fonctionnelles
+Estimation des charges et élaboration de planning
+Recette fonctionnelle et technique (stratégie, exécution)
+Coordination et suivi des contributeurs projet
+Formation et support aux utilisateurs
+Data Management & ETL
+Traitement, Alimentation, Modélisation des datamarts
+Requêtage et reporting SAS et Business Objects
+Développement d’applications décisionnelles
+Mise en place et calcul d’indicateurs
+Automatisation de flux de données (SAS, BO)
+Adaptabilité
+Esprit d’analyse
+Communication
+Rigueur
+Esprit d’équipe
+
+Compétences techniques
+
+Matériels et OS : Unix, Windows, EBX Orchestra
+SGBDR : Oracle, SQL Server 2000, MySQL, Access, Teradata
+Langages : SQL, PL/SQL, SAS Base/Macro, Shell Script
+Décisionnel : SAS (AML, Base-Macro, Connect, Enterprise Guide, Web report studio, Management console, Add-In for Microsoft office, Stored process, Sas V9), Business object V6 et XIR2, Qlickview
+Gestion de projet & collaboration / Méthodologie : AGILE, Jira, Confluence, SharePoint
+Bureautique : Microsoft office
+
+Diplomes
+
+2006 - Licence professionnelle Conception de systèmes décisionnels - IUT Vannes
+
+Formations
+
+2025 - Devenir Business Analyste en Système d’Information : les Fondamentaux de A à Z
+2010 - Module Système d'Information et de Décision - CNAM Paris
+2006 - Formation SAS 9 BI Server - SAS Institute
+2006 - La plateforme SAS : Architecture technique, logique et fonctionnelle
+2006 - ETL : Méthodologie de mise en place du Datawarehouse, connexion aux bases de données
+
+Expériences professionnelles
+
+2023 – 2025:
+Formation : Devenir Business Analyst en SI – Les fondamentaux de A à Z
+Suivi d’un parcours structuré visant à consolider les compétences essentielles du métier de Business Analyst dans les systèmes d'information.
+Approfondissement des techniques de recueil des besoins, de modélisation, de rédaction de spécifications fonctionnelles et des principales méthodologies projet (Agile, cycle en V).
+Formation à distance en théologie – Campus Adventiste du Salève
+Études portant sur la compréhension des textes bibliques, la pensée critique et les enjeux éthiques, dans le cadre d’une démarche de développement personnel et spirituel.
+Voyages à visée interculturelle – États-Unis, Bahamas, Haïti, Mexique
+Immersions dans des environnements culturels variés favorisant le développement de l’adaptabilité, de la communication interculturelle et de l’ouverture d’esprit.
+
+2022 – 2023: CAISSE DE DEPOT ET PLACEMENT DU QUEBEC (CDPQ) – via Larochelle Groupe Conseil (Montréal): - Business Analyst
+Taches
+Intervention au sein de l’équipe TN (Département des risques de crédit).
+Analyse des besoins d’affaires liés à de nouveaux produits ou à l’évolution de solutions existantes.
+Traduction des contraintes métier auprès des équipes techniques.
+Rédaction de spécifications fonctionnelles détaillées.
+Conception de simulations pour valider les évolutions envisagées.
+Analyse des anomalies et proposition d’actions correctives.
+Alignement des solutions informatiques avec les objectifs métiers.
+Environnement technique: SQL Server, Visual Studio, Jira, Confluence, SharePoint, Microsoft Office 365, Teams.
+
+2016 – 2021 : BIA CONSULTING (Paris) - Business Analyst / Consultante SAS
+Contexte: GROUPAMA
+Taches
+Suivi de la production et évolutions pour les tableaux de bord de l’équipe Data Management Pilotage.
+Réalisation de demandes ad hoc, extraction et traitement de données.
+Participation à la campagne des bordereaux (mise à l’écart des affiliés non déclarés dans la DSN).
+Analyse des besoins métiers, rédaction des spécifications techniques, macro-chiffrages, proposition de solutions.
+Environnement technique : Excel avancé (TCD, formules, VBA), SQL, PowerPoint, Word, Teams.
+
+2016 – 2021 : BIA CONSULTING (Paris) - Business Analyst / Consultante SAS
+Contexte:  SOCIETE GENERALE
+taches
+Projet FILAE (Fraude Interne et Lutte Anti-Blanchiment - Électronique).
+Analyse de la faisabilité technique, rédaction de spécifications détaillées.
+Préparation et animation des ateliers métiers, support à la recette.
+Développement et mise à jour de flux, rapports et scénarios SAS AML.
+Rédaction de guides utilisateurs, support à la qualification, coordination avec le centre de compétence SAS.
+Environnement technique : SAS AML, SAS Base / Macro, SAS Enterprise Guide, SQL, Excel, PowerPoint, JIRA, Teams.
+
+2016 – 2021 : BIA CONSULTING (Paris) - Business Analyst / Consultante SAS
+Projet 3: LONDON CLEARING HOUSE
+taches
+Intégration au sein de l’équipe Data Management Risk Reporting.
+Suivi de la production (BAU), développement de rapports sur les expositions au risque, appels de marge et reporting réglementaire.
+Conception et alimentation de flux SAS, gestion de la qualité des données.
+Refonte du rapport KCCP : automatisation des traitements, conception technique et jeux de tests.
+Environnement technique : SAS Reporting et ETL, Oracle, SAS Base / Macro / Enterprise Guide, SQL, Excel, Shell Unix, PowerPoint.
+
+2010 – 2016 – Ingénieure d’étude et développement SAS – AIXIAL (Paris)
+Contexte : MDM Analyste Data Management – TECHNIP
+Taches
+Référente technico-fonctionnelle sur la cohérence des données entre le MDM central et les systèmes satellites.
+Support de niveau 2, amélioration des processus, documentation, élaboration de KPI, formation utilisateurs.
+Animation de la communauté Data (Agora).
+Environnement technique : EBX Orchestra, Excel, PowerPoint, SharePoint, Teams, Outlook, SQL.
+
+2010 – 2016 – Ingénieure d’étude et développement SAS – AIXIAL (Paris)
+contexte: Consultante SAS – MFPS
+Taches
+Maintenance applicative de l’outil de calcul des indemnités journalières.
+Analyse des besoins, rédaction des spécifications, automatisation, développement, mise en production.
+Environnement technique : SAS/Base–Macro 9.2, SQL, Windows, Microsoft Office.
+
+2010 – 2016 – Ingénieure d’étude et développement SAS – AIXIAL (Paris)
+Contexte: Consultante SAS – CAAGIS (Crédit Agricole Assurances)
+Taches
+Mise en place d’un entrepôt de données financier lié au projet ALM / Solvency II.
+Étude de faisabilité, spécifications fonctionnelles, développement de macros SAS, support utilisateurs, reporting.
+Environnement technique : SAS/Base–Macro 9.2, Enterprise Guide, SQL, Excel.
+
+2010 – 2016 – Ingénieure d’étude et développement SAS – AIXIAL (Paris)
+contexte: SYSTALIANS (Réunica)
+Environnement technique : SAS/Base–Macro 9.2, Enterprise Guide, Web Report Studio, Microsoft Office.
+Taches
+Directive Solvency II : recueil des besoins, rédaction de spécifications technico-fonctionnelles, automatisation.
+Assistance à la MOA pour les métiers transverses de l’Usine Retraite.
+
+2010 – 2016 – Ingénieure d’étude et développement SAS – AIXIAL (Paris)
+Contexte: AXA GROUP SOLUTIONS
+Taches
+Projet Gestion des Campagnes Marketing multi-produits.
+Reporting, automatisation, collaboration avec l’équipe offshore.
+Migration Unix vers Linux / SAS Base vers SAS EG.
+
+2010 – 2016 – Ingénieure d’étude et développement SAS – AIXIAL (Paris)
+Contexte: AAA-DATA
+Taches
+Intégration de nouveaux pays dans la base véhicules Monde.
+Développement, tests, automatisation et mise en production de flux complexes.
+
+2010 – 2016 – Ingénieure d’étude et développement SAS – AIXIAL (Paris)
+Contexte: Consultante SAS – MMA
+Taches
+Création d’un datamart Courtage IARD et d’un processus de calcul de scores.
+Migration de la base des doublons.
+
+Mars 2008 – Octobre 2008 – Ingénieure études & développement BO – NOUVELI
+Contexte: 3M SANTE
+Taches
+Maintenance univers BO, reporting paie intérimaires, refonte de rapports.
+
+Mars 2008 – Octobre 2008 – Ingénieure études & développement BO – NOUVELI
+Contexte: SAUR
+Taches
+Conversion BO client lourd vers client léger, refonte de rapports, support utilisateurs.
+
+Avril à Août 2007 – SAS Programmeur stagiaire – INFORMATIQUE BANQUE POPULAIRE
+Taches
+Mise en place d’une solution décisionnelle pour la gestion de campagnes marketing.
+Maintenance évolutive SAS, développement, extraction, automatisation, ciblages marketing.
+Environnement technique global : Windows, Unix, Oracle, SAS (Base, Macro, EG, AML, Web Report Studio), SQL, Talend, Excel avancé, PowerPoint, Outlook, SharePoint, Teams.
+

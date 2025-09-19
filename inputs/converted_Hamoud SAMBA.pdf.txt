@@ -1,0 +1,173 @@
+SAMBA
+Hamoud
+CONTACT PROFI L
+0789484554 Ingénieur QA/Recette très dynamique et polyvalent, je dispose d’une
+samba.hamoud@gmail.com expérience significative dans plusieurs aspects du test : tests fonctionnels,
+Bobigny, IDF tests API, tests End to End, tests automatiques, la coordination et le pilotage
+des projets de tests.
+FORMATION EXPÉRIENCES PROFESSIONNELES
+Master Professionnel
+Administration des Entreprises QA SENIOR SUR LE PROGRAMME EDENRED+ (Paris)
+et Management général
+08/2022 – 02/2025
+2020
+Participation à la création d’une solution multi-plateforme (web et
+Paris Graduate Business School mobile), multi-tenant (plusieurs pays), multi-langue. Son but est de
+fournir et gérer les avantages sociaux des salariés des entreprises
+clientes dans le monde. Ex d’avantages sociaux en France : tickets
+Mastère Spécialisé
+restaurant, kadéos, tickets CESU, tickets mobilité…etc.
+Productique et informatique
+avancée (4 tribus constituées chacune de 3 à 4 feature teams d'environ 10
+2010 personnes => agile SAFe)
+Ecole centrale de Lille
+Missions :
+Master 2 Professionnel Systèmes
+⬥ Spécifications :
+d’information pour l’industrie
+o Validation des user stories avec le reste de l’équipe
+2009 o Création/Revue/Correction des critères d’acceptation
+Université des sciences et technologies de ⬥ Gestion des tests
+Lille o Conception et exécution des tests manuels pour les sprints en
+cours : tests API, base de données et front fonctionnels
+o Tester la plateforme à travers Salesforces (leads, comptes,
+COMPÉTENCES
+opportinutés, quotes et contracts)
+o Création de tests plans/ tests exécutions sur JIRA/XRAY
+o Exécution des tests manuels et automatiques
+QA en mode agile/SAFe
+o Rédaction et mise à jour de la documentation de test
+Automatisation de tests
+o Tester la responsivité de la plateforme
+Coordination et pilotage de tests
+o Donner le Go/NoGo pour le déploiement en UAT et en PROD
+User acceptance tests (recette)
+o Rédaction et mise à jour de la documentation de test
+o Monitoring et investigation des anomalies grâce aux logs datadog
+⬥ Tests E2E
+CERTIFICATIONS
+o Tests E2E intra-tribu : validation du scope fonctionel de la tribu
+avant le déploiement en UAT/Stagging et en PROD
+ISTQB Foundation Level
+o Tests E2E inter-tribus : validation de la bonne intégration, le
+paramétrage, les contrats d’interface et les échanges entre les
+ISTQB Advanced Level (Test Analyst)
+différents projets/plateformes constituants la solution Edenred+
+ISTQB Advanced Level (Test
+Manager)
+Scope fonctionnel : Moyens de paiement (virement, carte bleue,
+prélèvement et virement instantanné), Management d’utilisateurs,
+LANGUES
+Intégration d’outils RH (Lucca, payfit…), Support et expérience utilisateur
+Français
+Environnement technique : web, jira/confluence, postman, swagger,
+BDD, TDD, datadog, unleash, google analytics, infobip, Gherkin, responsiveness
+Anglais: Compétences
+professionelles complètes
+1
+PMO / QA LEAD DE TESTS END TO END CHEZ DISNEYLAND PARIS (Paris)
+10/2021 – 07/2022
+Pilotage et coordination des activités de tests pour des projets transverses au sein de la division digitale. Trois
+projets finalisés dans un contexte international. Travail réalisé en totale autonomie avec beaucoup
+d’interactions avec divers interlocuteurs en fonction de chaque projet et de son avancement
+Missions :
+⬥ Gestion de projet
+o Participation aux réunions de cadrage
+o Piloter les risques projets (qualitatifs, planning...)
+o Communiquer quotidiennement sur l’avancement, les retards et les points de blocages
+o Organisation et animation des points de synchro du projet
+o Suivi et mise à jour du planning
+o Vérifier le respect du cahier des charges
+⬥ Gestion de tests
+o Mise en place de la stratégie de test
+o Supervision de la rédaction des test cases par les équipes métier concernées
+o Coordination des besoins de tests avec les équipes offshore (en Inde)
+o Participation à la rédaction des test cases
+o Suivi de l'exécution des tests par les opérationnels
+o Exécutions des test cases techniques et fonctionnels
+o Vérification en base de données.
+o Organisation et animation des triage meetings
+⬥ Bug management
+o Suivi et communication sur les anomalies
+o Etude et analyse des workarounds
+o Priorisation
+⬥ Reporting
+o Reporting quotidien sur l'avancement des activités de test (création, exécution, correction de bug...)
+o Création du rapport de tests
+⬥ Release Management
+o Organisation et animation des réunions de Go NoGo pour le déploiement en PROD
+o Planification de la mise en production
+o Création du planning détaillé des taches à faire pour assurer la mise en production
+o Organisation et pilotage du commande center le jour du déploiement
+Scope fonctionnel : e-commerce, billetterie, offres promotionnelles
+Environnement technique : Smartsheet, Confluence, Jira, ALM, Excel, SQL
+RESPONSABLE DE RECETTE CHEZ OUI.SNCF (Paris)
+06/2018 – 08/2021
+Responsable de recette d’une application billettique pour le contrôle des titres de transport physiques et
+dématérialisés (sur mobile) grâce à la technologie NFC (dans une équipe de 9 personnes dans un environnement
+agile)
+Missions :
+⬥ Processus et méthodologie
+o Analyse et revue de la documentation fonctionnelle et technique (cahier de charge) créé par les experts
+billettiques
+o Aide à la rédaction des critères d’acceptation sur Confluence
+⬥ Gestion de projet
+o Participation aux réunions de cadrage et de chiffrage
+o Assistance et support au client en cas d’anomalies bloquantes
+o Back-up du P.O
+⬥ Gestion de tests
+o Mise en place de la stratégie de tests : tests fonctionnels et tests de non-régression (TNR)
+o Implémentation des tests manuels sur XRAY/JIRA
+o Gestion et maintenance du référentiel de tests
+o Création et maintenance de jeux de donnes de test 2
+o Création et mise à jour des jobs jenkins pour l’export des résultats des tests automatiques vers Xray
+o Exécution de tests manuels
+o Test de webservices avec Postman
+o Qualification des nouvelles versions d’Android livrés par Samsung pour être compatible avec la billettique
+o Qualification de la version finale de notre application à envoyer à Appel pour validation
+⬥ Defect management
+o Suivi des anomalies
+o Assistance à l’équipe cliente en cas de blocage
+Scope fonctionnel : Billettique (gestion des contrats de transport sur l’ensemble du territoire), cartes à puce (Calypso
+et hoplink), NFC
+Environnement technique : NFC, Postman, Confluence, Jira, Xray, BDD, SQL, Jenkins, Java, Gitlab, Webservice,
+Android, Gherkin
+TEST MANAGER CHEZ VOLUNTIS (Paris)
+04/2014 – 05/2018
+Leader V&V (Validation et Vérification) d’une application de santé (Medical Device) disponible sur Web, Android
+et IOS dans un contexte international (équipe de 10 personnes avec une méthodologie scrum et dans un contexte
+international)
+Missions :
+⬥ Gestion d’équipe
+o Lead d’une équipe de 5 testeurs
+o Participation au recrutement
+o Assurer la formation des nouveaux testeurs
+o Former l’équipe sur le processus (des medical device) et les nouveaux outils
+⬥ Gestion de projet
+o Réalisation de plan de charge
+o Mise en place et suivi du planning de test
+o Coordination des activités de test
+o Participation à la rédaction des user stories : à travers le shaping et le grooming
+⬥ Gestion de tests
+o Mise en place de stratégie de tests
+o Gestion et maintenance du référentiel de tests
+o Implémentation de tests manuels
+o Revue des tests et des analyses fonctionnelles (cas aux limites, partitions d’équivalence ..etc)
+⬥ Automatisation de tests
+o Développement de la première version du Framework d’automatisation de tests (web et mobile)
+o Développement de tests automatiques (web et mobile)
+o Exécution de tests manuels et automatiques
+⬥ Reporting
+o Reporting régulier à travers des KPI sur les activités de test
+o Reporting sur l’avancement des bugs
+o Mise à jour de la matrice de traçabilité
+⬥ Gestion des anomalies
+o Planification et animation des réunions de bug triage et de bug arbitrage
+o Investigation et priorisation des anomalies
+Scope fonctionnel : e-commerce, billetterie, offres promotionnelles
+Environnement technique : Smartsheet, Confluence, Jira, ALM, Excel, SQL
+INGENIEUR ETUDE ET DEVELOPPEMENT CHEZ ALTEN (Paris)
+03/2011 – 01/2014
+Développement et validation d’outils de tests et de softwares embarqués. Essentiellement pour le secteur de
+l’automobile pour Renault et PSA, et pour l’industrie lourde pour AREVA (projet Barracuda).
+3

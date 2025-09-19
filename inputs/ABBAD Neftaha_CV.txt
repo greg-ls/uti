@@ -1,0 +1,163 @@
+                   CV envoyé par Hellowork. Contient des données personnelles : ne pas utiliser, diffuser, copier sans le consentement de son auteur.
+
+
+
+
+             Neftaha Abbad Andaloussi
+
+
+             Ingénieur QA
+             Testeur logiciel certifié ISTQB avec une solide expérience dans la conception, l'exécution et
+             l'automatisation des tests. Passionnée par la qualité logicielle et l'amélioration continue des
+
+             processus de développement.
+
+
+
+                                                   Expériences professionnelles
+
+              TesteuseMaintenance et évolution d'une application interne
+
+              De juin 2021 à novembre 2024 SaintGobain Aubervilliers
+
+              Migration d'un projet Visual Studio 2009 vers Visual Studio 2012
+              Correction d'anomalies et des bogues
+              Gestion de projet avec Gitlab
+              Tests de maintenance corrective
+              Rapport et bilan de tests de recette via jira
+              Déploiement en Prod
+              Maintenance de l'application en fonction des besoins des clients
+
+              Analyse des incidents
+
+              Gestion de la production
+              Gestion et utilisation de bases de données Oracle
+              Mise en place de tests automatisés et intégration continue
+              Intégration et optimisation de pipelines CI/CD avec Jenkins et GitLab
+              Création de scripts d'automatisation pour le déploiement d'application C#
+              Gestion des environnements de production et des environnements Cloud
+
+              Testeuse fonctionnelle & API/support
+              De février 2020 à août 2020 RS2I LevalloisPerret
+
+              Création de cahiers de tests unitaires décrivant les jeux de tests fonctionnels
+
+              Élaboration de la matrice de couverture (périmètre de test)
+
+              Exécution de recettes complexes (TNR, tests de bout en bout, tests de recevabilité)
+
+              Recherche, extraction et analyse des données via des requêtes SQL sur PgAdmin
+
+              Rédaction des fiches de tests de recette (flux batch et IHM)
+              Suivi des anomalies détectées et saisies dans Xray
+              Exécution de batchs automatisés sous PowerShell avec préparation des JDDs
+              Conception de cas de test
+
+              Compte rendu de réunions et préparation de tableaux de suivi des versions
+
+              applicatives
+
+              Reporting et bilans de tests via Jira
+
+              Élaboration des cahiers de recettes par sprint agile sur Xray
+
+              Tests API via Postman, SoapUI (requêtes POST/GET)
+              Exécution des tests intra et inter API
+              Réception, qualification et suivi des incidents de production
+
+              Coordination avec les développeurs pour la résolution des anomalies
+              Rédaction de modes opératoires pour les incidents récurrents
+
+              Conception et déploiement d'une application de gestion d'un établissement
+              touristique
+
+              De mars 2017 à septembre 2017 NSI Casablanca, Maroc
+
+              Analyse fonctionnelle /Maquettes
+              Tests des flux utilisateur et cohérence des écrans
+              Vérification que l’analyse fonctionnelle couvre bien toutes les exigences métiers
+              Garanties des spécifications et de l'utilisation des maquettes
+              Création et utilisation des procédures stockées
+              Tests des interactions entre l'interface Winforms et la base de données
+              Modélisation de la structure de la base de données
+
+
+         Diplômes et Formations
+
+              Ingénieur Devops 
+
+              De novembre 2024 à mars 2025 Ecole des mines Datascientest Paris
+
+              Master2 Technologie de l'hypermédia
+
+              De 2019 à 2020 Paris 8 SaintDenis
+
+              Ingénieur logiciel
+
+              De 2018 à 2019 Esisa Fes
+
+Compétences
+                                          
+Base de données                                        
+Oracle, SQL, MySQL, PgAdmin
+                                          
+Méthodologies de tests                    
+Tests fonctionnels, tests de              
+régression, tests de performance,         
+tests d'intégration, tests                
+d'acceptation, tests API                  
+                                          
+Outils de gestion de tests
+                                          
+Agile(Scrum), cycle en V
+                                          
+Outils & Environnements                   
+Jira, Slack, Xray, Confluence, Office     
+236, Postman, SoapUI, Linux,              
+Windows                                   
+                                          
+Automatisation des tests
+Selenium, JUnit, TestNG, Appium           
+                                          
+Automatisation, CI/CD,
+                                          
+Sécurité et Performance
+                                          
+Docker, Kubernetes, Jenkins,
+                                          
+Gitlab, Terraform, Ansible,
+                                          
+Grafana, Datadog
+                                          
+Tests en environnement cloud              
+AWS, Azure, GCP                           
+                                          
+Soft skills
+                                          
+Communication
+                                          
+Sens relationnel
+                                          
+Capacité d'adaptation
+                                          
+Travail en équipe
+                                          
+                                          
+                                          
+Formations
+                                          
+                                          
+ISTQB Niveau Fondation, Syllabus v4.0                             
+                                          
+Bash an Linux
+                                          
+Linux Administration
+                                          
+Python for Devops                         
+                                          
+                                          
+Langues                                   
+                                          
+Français Courant
+Anglais Technique opérationnel
+                                          

@@ -1,0 +1,113 @@
+FORMATION  
+- Ingénieur d'État en Informatique (2010-2013)  
+- CPGE Math SUP/Math SPE (2007-2010)  
+
+COMPÉTENCES PERSONNELLES  
+- Adaptabilité  
+- Sens de l’organisation et de la planification  
+- Orientée Delivery et satisfaction client  
+- Qualités rédactionnelles  
+- Détermination et autonomie  
+- Aptitude à gérer les conflits  
+- Engagement  
+- Bon relationnel et sens de la communication  
+- Esprit d’analyse et de synthèse  
+- Esprit d’équipe  
+
+Business Analyst - Moyens de Paiement  
+
+EXPÉRIENCE PROFESSIONNELLE  
+
+**Business Analyst Virements Internationaux**  
+Société Générale / Transactis (09/2018 – À ce jour)  
+
+Contexte :  
+- Développement et accompagnement sur le projet consolidation T2 T2S-migration XML ISO 20022  
+- Réalisation de mappings MXMT, pour T2 et CBPR+  
+- Enrichissement des modèles de données MT et MX  
+- Conformité « nom et adresse » des transferts pour les virements internationaux dans le cadre du règlement européen UE 2015/847  
+- Mise en place de l’évolution SWIFT GPII (Suivi en temps réel des flux Swift échangés)  
+- Mise en place de la nouvelle version du Progiciel EVOLAN Payment Engine V3  
+- Contributeur dans le cadre du projet VAN : Virtual Account Number pour les clients corporates VIP de la Société Générale  
+- Participation au projet fusion de la BP et la SG  
+
+Tâches :
+- Cadrage des besoins avec les équipes métier  
+- Assurer le bon niveau de service des filières d’émissions et réceptions des virements internationaux  
+- Animation et pilotage des réunions d’étude de faisabilité avec les parties prenantes  
+- Élaboration des estimations de la charge consolidée (Analyse, Design, Réalisation, Recette)  
+- Responsable de la maintenance des applications historiques  
+- Participe au cadrage des sujets avec le responsable ME et la maîtrise d’ouvrage  
+- Participation aux différentes Releases et préparation des contrôles post mise en production  
+- Analyses et résolutions des incidents de production et d’homologation  
+- Participation aux comités filières avec la maîtrise d’ouvrage fonctionnelle, l’équipe d’homologation, les équipes ME/MO des applications connexes (le cas échéant)  
+
+**Gestionnaire d'applications MP**  
+BNP Paribas / DSI RA (08/2015 – 09/2018)  
+
+Contexte :  
+- ORION : Moteur de paiement de la DSI RA  
+- Mpayment : Paiement Mobile  
+- SEPA : Virements européens SEPA SCT  
+- IVISION : Finance Trade – Commerce International  
+
+Tâches :
+- Gestion des requêtes et des incidents sur toute la plateforme de contrôle de gestion  
+- Analyse et Conception Technique  
+- Coding  
+- Recette  
+- Mise en Production  
+
+**Ingénieur Études et Développements COBOL MVS**  
+Capgemini / CSB BNP Paribas (09/2013 – 08/2015)  
+
+Contexte :  
+- Migration des données des produits vers un nouveau référentiel OPRA  
+- PCEx : Produits charge exploitation  
+
+Tâches :
+- Gestion des requêtes et des incidents sur toute la plateforme de contrôle de gestion  
+- Analyse et Conception Technique  
+- Coding  
+- Recette  
+- Mise en Production  
+
+COMPÉTENCES FONCTIONNELLES  
+- Banque d’investissement et de financement  
+- Banque de Détail  
+- Commerce International  
+- Moyens de paiement  
+- Coordination et management de projet  
+- Système d’information et schéma directeur (existant, cible, planning, budget)  
+
+COMPÉTENCES TECHNIQUES 
+LANGAGES  
+- COBOL MVS  
+- MICROFOCUS  
+- JAVA  
+- XML  
+- SQL  
+- DB2  
+- IA LISP  
+
+OUTILS  
+- Quality Center  
+- Altova  
+- JIRA  
+- ITSM  
+
+MÉTHODES  
+- AGILE  
+- Cycle en V  
+
+BUREAUTIQUES  
+- Word  
+- Excel  
+- PowerPoint  
+- Notepad++  
+- PSPAD  
+
+LANGUES  
+- Français : Bilingue  
+- Anglais : Courant  
+- Espagnol : Basique  

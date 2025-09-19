@@ -1,0 +1,220 @@
+OTTO ESSAME Ingénieur Technico-Fonctionnel Mainframe
+
+
+DOAMINE D'INTERVENTION
+Plus de 25 ans d'expérience dans le développement et la maintenance d'applications, la gestion de projets et le management d'équipes de développeurs.
+Expert en cycles de vie de projets Mainframe complexes dans les secteurs de la banque et de l'assurance, avec une grande capacité à rédiger des spécifications fonctionnelles et techniques.
+
+COMPETENCES FONCTIONNELLES
+Rédaction de spécifications fonctionnelles générales et détaillées
+Réalisation
+Elaboration d'un plan de test
+Suivi de la recette
+Elaboration des dossiers d'exploitation
+Organisation et maintenance de la documentation
+Maintenance à chaud et maintenance évolutive
+Gestion des anomalies récurrentes
+Communication avec la hiérarchie, le métier, la maîtrise d'ouvrage, la production
+Encadrement de réalisateurs
+Conduite de réunion, comptes rendus
+
+COMPÉTENCES TECHNIQUES
+Matériel & Systèmes : IBM 30XX, IBM PC - MVS, DOS, WINDOWS 10
+Télétraitement : CICS, IMS
+Langages : COBOL, C, C++
+Outils : TSO, JCL, FILE AID, ENDEVOR, SMARTEST, XPEDITOR, DIMENSIONS, MQ SERIES, MS PROJECT, JIRA
+Ateliers : PACBASE, IBM ECLIPSE (RTC, RPP, ICONE), VISUAL C++ (MFC, COM, Multithreading)
+SGBD : DB2, VSAM, IDMS, DATACOM
+Recette : QUALITY CENTER
+Méthodes : MERISE, UML
+
+PARCOURS PROFESSIONNEL
+09/2023 - 04/2024 Analyste Mainframe Crédit Agricole Titres
+contexte
+Elaboration de la solution technique à partir des spéfications fonctionnelles générales
+tâches
+Rédaction de spécifications détaillées
+Développement
+Tests unitaires et tests d'intégration des deux chaines de traitement créées
+Environnement technique : IBM ECLIPSE (RTC, RPP, ICONE), TSO, DB2, MS Office
+
+09/2022 - 05/2023 Analyste Mainframe La Banque Postale Consumer Finance
+tâches
+Développement
+Test unitaire et d'intagration
+Rédaction de rétro-documentation technique
+Environnement technique : IBM ECLIPSE (RTC, RPP), TSO, MS Office, JIRA
+
+08/2018 - 08/2022 Créateur, Organisateur, Gestionnaire Projets e-commerce et événementiels
+tâches
+Création et gestion d'une boutique en ligne
+Création et organisation du Kizomba Tallinn Festival
+
+03/2018 - 07/2018 Responsable d'application BNP BDDF
+contexte
+Intermédiaire entre le Gestionnaire d'application et le prestataire des services de maintenance
+tâches
+Maintenance évolutive
+Gestion de l'obsolescence de l'application
+Gestion des évolutions transversales à plusieurs application en coordination avec les autres RA
+Rédaction de spécifications techniques pour les back offices
+Elaboration et automatisation des plans de test
+Environnement technique : MS OFFICE, Quality Center, DB2, FILEAID, TSO, COBOL
+
+03/2017 - 03/2018 MOA Groupe RENAULT
+contexte
+Etude de besoins
+tâches
+Rédaction des spécifications fonctionnelles générales à partir des demandes métier
+Validation des spécifications fonctionnelles détaillées rédigées par les analystes
+Intermédiaire entre le métier Garantie et une équipe de développeurs basée en Inde
+Prise en charge complète de la vie quotidienne et des évolutions du plan d'optimisation 2017
+Elaboration, conduite et validation de la recette
+Formation du métier sur les nouvelles fonctionnalités des outils
+Environnement technique : MS OFFICE, Service Manager, DB2, FILEAID
+
+10/2013 - 12/2016 Analyste Mainframe STIME
+tâches
+Rédaction des spécifications fonctionnelles et techniques
+Maintenance évolutive
+Relecture du cahier des charges et modification avec le métier
+Suivi des corrections
+Gestion des incidents
+Encadrement d'analystes programmeurs dans le cadre d'évolutions importantes
+Organisation et Animation pour la résolution des incidents récurrents
+Réaliser des Tests « Non Régression »
+Réalisation des campagnes de test sous QC
+Suivi des defects
+Extraction des jeux de données pour intégration en recette
+Suivi de la livraison jusqu'à la production
+Environnement technique : MS OFFICE, DB2, PACBASE, COBOL, FILEAID, DIMENSIONS
+
+10/2012 - 10/2013 Analyste Mainframe DIRECT ASSURANCE – Groupe AXA France
+tâches
+Rédaction de Spécifications fonctionnelles détaillées
+Développement
+Tests et recette
+Environnement technique : MS OFFICE, JCL, DB2, COBOL
+01/2012 - 10/2012 Analyste Mainframe BP2S
+Analyse technique
+Développement
+Tests et recette
+Support à l'homologation et à la production
+Analyse et résolution des incidents
+Environnement technique : MS OFFICE, COBOL, IDMS, CICS, 2Strack, Quality Center
+
+06/2010 - 01/2012 Analyste Mainframe NATIXIS
+tâches
+Gestion des incidents
+Maintenance évolutive sur trois applications du département
+Responsable d'application sur les applications PLAN et OAA (outils de gestion d'épargne investie en OPCVM) :
+Etude d'impact
+Rédaction des spécifications
+Gestion des anomalies
+Développement
+Test et recette
+Suivi de production
+Comitologie de gestion de projet
+Interventions en développement en renfort sur l'application PEA
+Environnement technique : MS OFFICE, PL1, COBOL, PACBASE, DB2, DL1, IMS
+
+06/2009 - 06/2010 Analyste Mainframe CREDIT FONCIER
+tâches
+Analyse technique
+Développement
+Tests et recette
+Environnement technique : MS OFFICE, PACBASE, DB2
+
+08/2008 - 05/2009 Analyste Mainframe STIME
+tâches
+Rédaction de spécifications fonctionnelles détaillées pour une équipe de développeurs basée en Roumanie
+Recette des traitements modifiés
+Gestion des incidents de production
+Maintenance évolutive
+Suivi des demandes utilisateurs
+Environnement technique : MS OFFICE, PACBASE, DB2, JCL, DIMENSIONS, ENDEVOR
+
+09/2007 - 07/2008 Analyste Mainframe AXA France
+tâches
+Analyste technique
+Développement
+Tests et recette
+Documentation
+Environnement technique : PACBASE, CICS, DB2, FILEAID, ENDEVOR, SMARTEST, MS OFFICE
+
+11/2005 - 08/2007 Analyste Mainframe EURO SECURITIES PARTNERS
+contexte
+Création (réalisation) du TP de l'application « Flux externes » : sélection, consultation et recyclage des ordres de bourse
+tâches
+Analyste technique
+Développement
+Tests et recette
+
+08/2004 - 10/2005 Analyste Mainframe Natixis Banques Populaires
+tâches
+Analyse fonctionnelle et technique des données inutiles du nouveau référentiel, pour optimiser le TP et le modèle de données
+Elaboration du guide de migration de l'ancien référentiel vers le nouveau pour les applications du domaine Finance
+Mise en place de la purge des valeurs obsolètes :
+Analyse, développement, prépration et suivi de la mise en production
+Environnement technique : PACBASE, DB2, FILEAID, UTRANS, MS OFFICE
+
+10/2003 - 07/2004 Analyste Mainframe AXA France
+tâches
+Développement des traitements de contrôle et de mise en forme fonctionnelle des données clients
+Développements dans le cadre de la rationnalisation des flux externes dans le cadre de la fusion des pôles AXA
+Tests
+Etude sur l'optimisation des traitements relatifs à la rémunération des apporteurs de contrats individuels
+Environnement technique : COBOL, PACBASE, JCL, ENDEVOR, SMARTEST, DB2
+
+12/2001 - 09/2003 Analyste Mainframe BP2S
+tâches
+Mise en place de la création simplifiée TP des warrants, actions, et obligations
+Mise en place de l'intégration de cours valeurs fournis par un fédérateur de cours
+Evolutions ISIN dans l'ensemble des traitements TP du référentiel valeurs
+Environnement technique : IDMS, CICS, COBOL, JCL, ENDEVOR, XPEDITER, MS OFFICE
+
+04/2000 - 10/2001 Analyste Mainframe AXA France
+tâches
+Analyse d'impact
+Planification de la réalisation et des charges
+Encadrement d'analystes programmeurs
+Coordination avec les applications connexes et les utilisateurs
+Environnement technique : MS PROJECT, MS OFFICE, PACBASE, COBOL, JCL, ENDEVOR, SMARTEST
+
+09/1999 - 03/2000 Analyste Mainframe SERVICE CENTRAL DES TITRES - BRUNOY (CREDIT AGRICOLE)
+tâches
+Intégration de la gestion des comptes titre de titulaires décédés au cours de l'année fiscale
+Intégration des spécifications fonctionnelles 1999 envoyées par la DGI
+Environnement technique : MS OFFICE, COBOL, PACBASE, DATACOM,CICS, JCL, FILE AID, SMARTEST
+
+12/1998 - 08/1999 Analyste Mainframe SERVICE GENERALE
+contexte
+Equipe maîtrise d'œuvre (4 personnes), préparation au lancement du 10 juin 1999
+tâches
+Analyse des tâches
+Assistance à la réalisation du planning des tâches et du plan de charge
+Conception du questionnaire destiné aux maîtres d'œuvres
+Synthèse des questionnaires retournés et analyse d'impact
+Environnement technique : MS OFFICE
+
+03/1998 - 12/1998 Analyste Mainframe CAISSE NATIONALE DU CREDIT AGRICOLE
+tâches
+Réalisation de l'évolution EURO pour les transferts électroniques de chèques entre la CAISSE NATIONALE et les CAISSES REGIONALES
+Suivi de la recette technique et fonctionnelle
+Environnement technique : DB2, COBOL, CICS, JCL, FILE AID, VISIO, MS OFFICE
+
+09/1994 - 09/1995 Ingénieur de développement INTELCAM
+tâches
+Conception et réalisation d'un logiciel de gestion temps réel de plusieurs équipements de télécommunication
+Environnement technique : NOYAU TEMPS REEL, C, DOS
+
+DIPLOMES
+09/1995 - 06/1996 DESS : Gestion Commerciale Université PARIS VI
+09/1994 - 06/1995 DESS : Systèmes Electroniques et Micro-ondes Université PARIS VI
+
+FORMATIONS
+03/1998 - 04/1998 Formation grands systèmes IBM INFORSUD
+
+LANGUES
+Français : Langue maternelle
+Anglais : Courant

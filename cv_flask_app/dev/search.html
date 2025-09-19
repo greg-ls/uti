@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recherche CV - par UTI</title>
+    
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="css/editor.css">
+    <link rel="stylesheet" href="css/comparison.css">
+    <link rel="stylesheet" href="css/search.css">
+</head>
+<body>
+    <div class="header">
+        <div class="logo" onclick="goHome()">Éditeur de CV par UTI</div>
+        <div class="user-badge">Marie Dupont</div>
+    </div>
+
+    <div class="main-container" id="mainContainer">
+        <!-- Search Section -->
+        <div class="search-section" id="searchSection">
+            <div class="search-header">
+                <h2>🔍 Recherche de CVs</h2>
+                <p>Trouvez les CVs correspondant à une offre de mission</p>
+            </div>
+            
+            <!-- Content will be loaded from comparison functionality -->
+            <div class="search-content" id="searchContent">
+                <!-- Comparison content will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript Files -->
+    <script src="data/job-offers.js"></script>
+    <script src="js/comparison.js"></script>
+    <script src="js/search.js"></script>
+</body>
+</html>

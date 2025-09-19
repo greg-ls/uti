@@ -1,0 +1,76 @@
+Achraf HAMMOUCH INGÉNIEUR INFORMATIQUE & DATA SCIENCE
+Diplômé de l’École d’Ingénieurs du Littoral Côte d’Opale (EILCO), je suis passionné par l’exploitation des données et le développement de solutions technologiques. Curieux et motivé, j’aime relever des déﬁs dans le domaine du développement, de l’analyse et de l’ingénierie des données, avec pour objectif de concevoir des solutions innovantes et impactantes.
+
+ achraf.hammouch.me@gmail.com
+ +33 6 98 32 79 60
+ 26 ans
+Permis B
+
+Compétences
+Programmation Python, R, C/C++, JavaScript, Node.js, VBA
+Base de données SQL, PL/SQL, PostgreSql, Oracle, MongoDB, Hadoop
+Business Intelligence Tableau, Microsoft Power BI, Looker, QlikView, Talend
+Machine Learning Pandas, Numpy, Scikit- learn, TensorFlow/Keras, PyTorch, Pyspark, OpenCV (Computer Vision), NLTK, Dataiku
+Cloud GCP, AWS, Firebase
+DevOps Git, GitHub, Jenkins
+Gestion Suite Microsoft Oﬃce, Google Workspace, Slack, Trello, Jira
+
+Certiﬁcations
+Google Cloud : Big Data and Machine Learning Fundamentals
+
+Langues
+Français Courant
+Anglais Professionnel
+Arabe Langue maternelle
+
+Atouts
+Travail en équipe
+Autonomie
+Autoformation
+
+Centres d'intérêt
+Football
+Voyages
+Activité Associative
+Ancien vice-président d'un club de football de l'EILCO, à Calais, France.
+
+Expériences professionnelles
+De novembre 2024 à mars 2025
+Développeur Web | Data & DevOps Lynetic Paris, France
+Développement d’une application web sur le cloud
+- Développement du backend en Node.js avec Firebase Functions, intégrant l’authentiﬁcation et la gestion des droits d’accès.
+- Optimisation des données et requêtes sur Firestore pour assurer leur cohérence et intégrité.
+- Déploiement et gestion de l’application sur Firebase Hosting, avec intégration aux API serverless.
+- Mise en place d’un service Python pour l’automatisation du nettoyage et de la normalisation des données Firestore.
+- Automatisation des déploiements avec GitHub Actions pour garantir stabilité et scalabilité.
+
+D'octobre 2022 à mai 2024
+Data Scientist | Engineer Lyveat France Paris, France
+Création de solutions d’analyse et de visualisation de données
+- Développement de tableaux de bord interactifs avec Tableau, adaptés aux besoins des différents départements.
+- Modélisation et optimisation des bases de données pour assurer une intégration et une exploitation eﬃcaces des données.
+- Automatisation des processus d’extraction et de traitement des données (AWS, Oracle, MongoDB) avec Python et SQL.
+- Conception de modèles de machine learning en Python pour l’analyse des données.
+- Administration de Tableau : gestion des droits d’accès et automatisation des tâches récurrentes.
+
+De mai 2022 à août 2022
+Data Engineer BPCE-SI Villeneuve-d'Ascq, France
+Application de détection des anomalies d'intégration des données
+- Conception et développement de modules d’analyse des journaux de logs à l’aide de Python.
+- Développement de fonctionnalités dédiées à l’identiﬁcation et au suivi des anomalies dans les ﬂux de données.
+- Mise en place du stockage structuré des résultats dans des tables techniques pour une exploitation optimisée.
+- Rédaction et maintenance de la documentation technique pour faciliter la compréhension et l’évolution du projet.
+
+De mai 2021 à août 2021
+Data Scientist Chambre d'Agriculture Oujda, Maroc
+Dashboard interactif des volumes de précipitations
+- Collecte, nettoyage et transformation des données via Talend pour garantir leur qualité et leur ﬁabilité.
+- Conception de modèles de machine learning en Python pour analyser les tendances et prévoir les volumes de précipitations.
+- Développement d’un tableau de bord interactif sur Power BI pour une visualisation claire et accessible des données climatiques.
+
+Diplômes et Formations
+De septembre 2021 à 2023
+Diplôme d'ingénieur : Ingénierie en informatique et sciences des données Ecole d'Ingénieurs du Littoral Côte d'Opale Calais, France
+
+De septembre 2018 à 2021
+Diplôme d'ingénieur : Science des Données et Cloud Computing Ecole Nationale des Sciences Appliquées Oujda, Maroc

@@ -1,0 +1,288 @@
+DEVELOPPEUR FULLSTACK .NET /ANGULAR
+PROFIL :
+Développeur full stack passionné avec 10 ans d'expérience, spécialisé en .NET et Angular. Compétences solides en conception, développement et déploiement d'applications web complexes. Fortes compétences techniques associées à une aptitude remarquable pour collaborer efficacement avec diverses parties prenantes, assurant la livraison de solutions de haute qualité.
+EXPERIENCES PROFESSIONNELLES
+ANYWR - Paris	Depuis 03/2024
+Consultant Full stack .Net / Angular
+Contexte
+ Mise en place des packages NuGet pour des projets communs pour :
+Faciliter les développements après.
+Gagner du temps
+Avoir des codes cleans
+Event sourcing
+Tâches : 
+Développement
+Mise en place des Unit Tests
+Documentation
+Environnement technique: .NET 8, RabbitMQ, Active Directory, Sqlserver, Sql, API, Logger, Refit, Event Sourcing & CQRS, JWT, Unit Tests, Git, AutoMapper, Swagger, OutboxMessage, Hangfire, Design Pattern (Mediator, Factory, Singleton, Builder…), Microservices.
+Anywr - Paris	  06/2024 à 12/2024
+Consultant Full stack .Net
+Contexte
+Projet : Workflows 
+ Développement des modules e-commerce basés sur les microservices (Produit, Panier, Réduction, Commande).
+Tâches : 
+Développement from scratch
+Catalogue de produits : Permet de gérer et consulter la liste des produits disponibles à la vente.
+Panier d’achat (Basket) :
+Permet aux utilisateurs d’ajouter ou supprimer des produits de leur panier. 
+Utilise Redis pour le stockage temporaire. 
+Réductions (Discount) : 
+Applique des réductions ou coupons sur les produits ou paniers.
+Communication inter-services via gRPC.
+Commande (Ordering) : 
+Gère la validation des paniers, la création des commandes et leur traitement.
+Reçoit des événements du microservice Panier via RabbitMQ.
+Passerelle d’API (YARP API Gateway) : 
+Sert de point d’entrée unique pour le client web.
+Redirige les requêtes vers les bons microservices en interne. 
+Interface Web (WebUI - ShoppingApp) : Application web ASP.NET Razor + Bootstrap qui permet aux utilisateurs : de parcourir les produits, de remplir leur panier, d’appliquer des réductions, de passer commande.
+Environnement technique: .NET (7, 8), RabbitMQ, PostgreSQL, Sqlserver, Sql, API, Logger, Refi, CQRS, Vertical Architecture, JWT, Git, AutoMapper, Swagger, Design Pattern (Mediator, Factory, Singleton, Builder…), Microservices, ASP.NET Web API, Docker, RabbitMQ, MassTransit, gRPC, YARP API Gateway, Redis, SQLite, Bootstrap 4, et razor page
+ARDIAN - Paris	  03/2022 à 12/2024
+Consultant Full stack .Net / Angular
+Contexte
+Projet : Workflows 
+ Une application pour la gestion des déclarations réglementaires des employés de la société en respectant les workflows pour chaque type de déclaration à faire.
+Tâches : 
+Traitement et maintenance applicative du projet legacy
+Refonte totale de l’application
+Mise en place d’un module pour la gestion des documents (GED) 
+Gestion des jobs
+Changement de l’architecture de projet (SOA en Event Sourcing + CQRS)
+Migration des anciennes données
+Tests unitaires, d’intégrations
+Déploiement vers les environnements (DEV, TEST, UAT, PROD)
+Amélioration de la performance de l’application
+Envoi de rappel de mails
+Synchronisation des données users avec l’AD
+Documentation
+13 personnes en agile
+Environnement technique: .NET (5, 7, 8), Angular (13, 14, 15), Azure Cloud, Azure DevOps, RabbitMQ, Active Directory, Sqlserver, Sql, API, Logger, Refit, Event Sourcing & CQRS, Javascript, TypeScript, PrimeNG, Figma, JWT, Unit Tests et Integration Tests, Selenium, Specflow, Git, AutoMapper, Swagger, OutboxMessage, Hangfire, Design Pattern (Mediator, Factory, Singleton, Builder…), Microservices.
+ARDIAN - Paris	  03/2022 à 12/2024
+Consultant Full stack .Net / Angular
+Contexte
+Projet : Commons 
+ un projet .NET regroupant un ensemble de librairies NuGet, destinées à centraliser les fonctionnalités réutilisables (utilitaires, extensions, services transverses, constantes, …).
+Tâches :
+Mise en place des GED pour la gestion des documents
+Gestion des jobs
+Création d’abstractions pour Outbox Pattern, RabbitMQ, HangFire, …
+Abstraction pour la gestion des déclarations
+Création d’un state machine pour l’event Sourcing
+Factorisation des méthodes pour l’accès à l’AD
+Unit Tests
+Création de méthode d’extension pour Swagger, Reflection
+Environnement technique: .NET 5 & 7, Azure Cloud, Azure DevOps, RabbitMQ, Active Directory, Sqlserver, Sql, API, Logger, Refit, Event Sourcing & CQRS, JWT, Unit Tests, Git, AutoMapper, Swagger, OutboxMessage, Hangfire, Design Pattern (Mediator, Factory, Singleton, Builder…), Microservices.
+LES PETITS CHAPERONS ROUGES	  09/2020 – 02/2022
+Consultant Full stack .Net / Angular
+Contexte
+J’ai participé à six 06 projets de LPCR dont j’ai détaillé ci-dessous :
+projet 6 : Badgeuse   Janvier 2022 - Février 2022 
+Une application pour la gestion des pointages des salariés de chaque crèche et aussi pour les parents des enfants.
+Analyse des besoins, conception et développement des APIs. 
+Déploiement en Recette et PROD.
+Documentation technique.
+Environnement technique: .NET 5, C#, Active Directory, Sqlserver, Sql, API, Logger, Unit Tests, Swagger, Design Pattern, Postman, SOA.
+projet 5 : Espace Directrice    Décembre 2021 – Janvier 2022 
+Développement from scratch d’une application web spéciale pour les directrices crèches :
+Développement des APIs
+Coaching technique des autres développeurs
+Manipulation directe sur Salesforce pour faire des traitements ou des requêtes SOQL
+Mise en place de l’authentification par SSO à partir d’un compte Microsoft
+Gestion électronique des documents (GED) en stockant les documents sur l’AZURE STORAGE
+Navigation par crèche car une directrice peut être une directrice d’une ou plusieurs crèches
+Déploiement
+Environnement technique : .NET 5, C#, AspNet Core, WebApi, Entity Framework Core, LINQ, Logger, Swagger, Middleware (apikey, Jwt, error handler), Automapper, Miscrosoft Graph, Json, WebServices, RestFul, Azure Cloud (Active directory, Storage Azure, …), SQL, Procédure stockée et Vue, SOQL de Salesforce, Postman, Architecture SOA, Active Directory, Salesforce, SSMS, Dbeaver, Jira, Git, Github, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html …
+projet 4 : Espace Client   Octobre. 2021 – Décembre 2022
+Application pour la gestion des inscriptions ou pré-inscriptions des enfants par les familles que ce soient leurs parents ou leurs tuteurs.
+Prise en main des existants et TMA
+Audit de codes
+Coaching technique des autres développeurs
+Manipulation directe sur SALESFORCE pour faire des traitements ou des requêtes SOQL (création ou suppression de compte famille, de préinscription, changer statut de préinscription, …)
+Développement des APIs
+Déploiement vers le CLOUD AZURE
+Gestion électronique des documents (GED) en stockant les documents sur l’AZURE STORAGE
+Développement de toutes les modules :
+Module permettant de créer un compte famille à la fois sur SALESFORCE et dans la base de données aussi
+Module préinscription d’un enfant en crèche par un représentant ou parent
+Module suivre ou modifier une demande de préinscription (la famille qui a fait une demande de préinscription pour son enfant peut annuler la demande jusqu’à un certain statut)
+Module permettant d’afficher toutes les informations concernant la famille enregistrée sur SALESFORCE
+Affichage des informations sur une ou des crèches dans lesquelles la famille a préinscrit son enfant
+Module pour le changement de mot de passe
+Environnement technique : .NET 5, C#, AspNet Core, WebApi, Entity Framework Core, LINQ, Logger, Swagger, Middleware (apikey, Jwt, error handler), Automapper, Miscrosoft Graph, Json, WebServices, RestFul, Azure Cloud (Active directory, Storage Azure, …), SQL, Procédure stockée et Vue, SOQL de Salesforce, Postman, Architecture SOA, Active Directory, Salesforce, SSMS, Dbeaver, Jira, Git, Github, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html …
+projet 3 : Espace B2B   Juillet. 2021 – Septembre 2021
+Application dédiée pour les entreprises clients de LPCR qui achètent des places chez LPCR pour les revendre après.
+Prise en main des existants et TMA
+Audit de codes
+Coaching technique des autres développeurs
+Développement des APIs
+Mise en place de l’authentification
+Gestion électronique des documents (GED) en stockant les documents sur l’AZURE STORAGE
+Développement de toutes les modules de la partie admin
+Module utilisateur qui permet de donner accès à un compte au portail B2B 
+Module client pour affecter une entreprise (client) un interlocuteur
+Module contact ou interlocuteur pour affecter à une ou plusieurs entreprises un interlocuteur
+Module administrateur pour la gestion des admins et superadmin (seul un compte super admin peut supprimer un admin ou en ajouter)
+Mise en place d’un page dashboard pour afficher des données statistiques (KPIs)
+Environnement technique : .NET 5, C#, AspNet Core, WebApi, Entity Framework Core, LINQ, Logger, Swagger, Middleware (apikey, Jwt, error handler), Automapper, Miscrosoft Graph, Json, WebServices, RestFul, Azure Cloud (Active directory, Storage Azure, …), SQL, Procédure stockée et Vue, SOQL de Salesforce, Postman, Architecture SOA, Active Directory, Salesforce, SSMS, Dbeaver, Jira, Git, Github, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html …
+projet 2 : Chaperon & crèche expert
+Applications pour les audits internes.
+Prise en main des existants
+Refonte totale de l’application Crèche Back pour remplacer l’existant
+Amélioration de l’interface de l’application
+Séparation du FRONT-END et du BACK-END
+Création d’un batch qui met à jour les données de l’API pour la gestion de la liste des crèches en PROD (batch exécuté tous les soirs)
+Optimisation de l’application
+Audit des codes
+Mise en place de la campagne d’audit pour éviter de dupliquer les paramétrages chaque année
+Mise en place d’une interface graphique qui permet de gérer les référentiels, caractéristiques et sous-caractéristiques pour que les administrateurs puissent les faire directement dans l’espace administrateur au lieu d’appeler tout le temps un développeur
+Trier toutes les listes par ordre croissant dans l’application
+Paramétrage des audits pour les questionnaires
+Génération des rapports d’audit (SSRS)
+Statistique des audits effectués (par région/crèche/type, …)
+Environnement technique : .NET Framework, C#, MVC, WebApi, Entity Framework 6.x, LINQ, Logger, Swagger, Middleware, Json, WebServices, Rest, SQL, Procédure stockée et Vue, Postman, Architecture SOA, Active Directory, SSMS, Dbeaver, Jira, Git, Github, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html, SSIS, SSRS, RabbitMQ
+projet 1 : Monitoring
+Dashboard UI pour la gestion des flux de synchronisation entre les projets .NET et Salesforce.
+Création des APIs
+Mise en place de l’architecture en FRONT 
+Création d’un template du dashboard
+Lister les flux avec leur statut correspondant à chaque lancement d’un flux et un bouton qui permet de relancer un flux spécifique en cas d’erreur
+Logger toutes les actions effectuées
+Téléchargement des détails d’erreurs au format txt.
+Environnement technique : .NET Framework, C#, MVC, WebApi, Entity Framework, LINQ, Logger, Swagger, Json, WebServices, SQL, Postman, Architecture SOA, , SSMS, Dbeaver, Jira, Git, JS, ES 6, Typescript, Angular, Bootstrap, Css, Html 
+BRAIN SOLUTION	  01/2020 – 08/2020
+Consultant Full stack .Net / Angular
+Contexte
+ Application pour la gestion des avocats et les barreaux de Belgique.
+Refonte de l’application principale de l’entreprise
+Prise en main des existants
+Traitement et maintenance applicatif
+Optimisation de l’application
+Audit des codes
+Gestion du Multilingue
+Environnement technique : .NET Framework, C#, MVC, WebApi, Entity Framework 6.x, LINQ, Logger, Swagger, Middleware, Json, WebServices, Rest, SQL, Procédure stockée et Vue, Postman, Architecture SOA, Active Directory, SSMS, Slack, Tfs, Jira, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html
+BOCASAY 	  10/2019 – 12/2019
+Développeur Full stack .Net / Angular
+Contexte
+PROJET 2 : Coursicab
+ une application qui sert à réserver une course en ligne pour le transport d’un passager ou d’un colis dans beaucoup de pays en Europe le jour même.
+Tâches :
+Prise en main des existants
+Traitement et maintenance applicatif
+Audit des codes
+Déploiement (DEV, TEST, PROD)
+   Environnement technique : MySql, PhpStorm, Php (Symfony 3.4), Javascript, JQuery, Twig, Html, Css, Sql, Json, XML, Git, Apache, docker, BitBucket, Api, Rest
+PROJET 1 : Gestion des ventes en ligne
+Tâches :
+Mise en place de l’architecture SOA
+Analyse et conception
+Création d’un dépôt git
+Mise en place de l’architecture de back et front 
+Développement des fonctionnalités
+Correction des retours
+Estimation des tâches
+Déploiement et mise en production de l’application
+   Environnement technique: .NET, C#, AspNet Core, WebApi, Entity Framework Core, LINQ, Logger, Swagger, Middleware (apikey, Jwt, error handler), Automapper, Json, WebServices, RestFul, SQL, Postman, Architecture SOA, SSMS, Dbeaver, Jira, Git, Github, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html, trello…
+LECOFRUIT 	  01/2019 – 09/2019
+Développeur Full stack .Net / Angular
+Contexte
+Projet : Gampl
+ Application servant pour le suivi de poids de récoltes de chaque paysan d’une société d’exploitation et d’exportation de légumes.
+Tâches :
+Analyse de la spécification et conception des diagrammes de classe
+Création d’un dépôt SVN
+Mise en place de l’architecture du projet (front-end et back-end)
+Mise en place de la base de données
+Développement des fonctionnalités
+Documentation des web services
+Mentor des développeurs juniors
+Coaching et support technique
+   Environnement technique : .NET, C#, AspNet MVC 5, WebApi, Entity Framework 6.x, LINQ, Logger, Dapper, Swagger, Middleware (apikey, Jwt, error handler), Automapper, Json, WebServices, RestFul, SQL, Postman, Architecture SOA, SSMS, Dbeaver, Jira, SVN, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html, trello, Sql server, SSIS, procédure stockée et vue…
+STAR 	  08/2017 – 12/2018
+Développeur .Net
+Contexte
+Projet : Star Evaluation
+ outil de gestion des évaluations et suivi des évolutions des collaborateurs de star.
+Tâches :
+Analyse et prise en main des existants
+Analyse des avenants et développement des nouvelles fonctionnalités
+Maintenance (débogage, correction des bugs, optimisation, livraison chez le client)
+Coaching, support technique et formation sur l’utilisation chez le client
+Déploiement et mise en production de l’application
+Restructuration de l’architecture
+   Environnement technique : .NET, C#, AspNet MVC 5, WebApi, Entity Framework 6.x, LINQ, Logger, Dapper, Swagger, Middleware (apikey, Jwt, error handler), Automapper, Json, WebServices, RestFul, SQL, Postman, Architecture SOA, SSMS, Dbeaver, Jira, SVN, JS, ES 6, Typescript, Angular, Material, Bootstrap, Css, Html, JIRA, Sql server, SSIS, procédure stockée et vue, Active Directory, fusioncharts, SAGE…
+GEOFIT 	  03/2017 – 07/2017
+Développeur .Net 
+Contexte
+Projet : SIG
+   création d’une DLL (librairie) pour l’automatisation des actions à faire dans le logiciel AUTOCAD.
+Tâches :
+Analyse et prise en main des existants
+Analyse des avenants et développement des nouvelles fonctionnalités
+Maintenance (débogage, correction des bugs, optimisation)
+Développement de la DLL
+Génération de la DLL pour la livraison
+   Environnement technique : .NET, C#, Oracle 11g, Postgresql, LINQ, Logger, Visual studio, Winform, ObjectARX, Ado.net, Git, Mentis, Autocad…
+BVAMS 	  10/2015 – 02/2017
+Développeur WEB SIG 
+Contexte
+Projet : Africa SIG
+   mise en place des applications web mapping sur le système d’information géographique (SIG) en France et en Afrique.
+Tâches :
+Analyse et prise en main des existants
+Analyse et prise en main des existants
+Analyse des avenants et développement des nouvelles fonctionnalités
+Maintenance (débogage, correction des bugs, optimisation)
+Développement de portails cartographiques de la zone Afrique : Bénin ( www.geobenin.bj/fr, www.geobenin.bj/carto/www), Mali (www.igm-mali.ml/Visionneuse) 
+Gestion du nombre des voyageurs montant et descendant d’un arrêt à un autre
+Gestion des utilisateurs, des menus et de la visibilité des couches
+Import des couches géographiques
+Coloration et paramétrage des couches
+Gestion de la partie Administrateur de chaque application
+   Environnement technique : PostgreSql, SqlLite, Subime text, notepad ++, PHP, Js, OpenLayers, Sql, Xml, JSON, Html/css, Framework Chinook, Git, Mentis, ExtJs, Mapserver, Jquery, GoogleMaps, SIG, Qgis, Apache, …
+Prénom: Eddy
+Nom: RAJAONARY
+Célibataire
+E-MAIL
+heriniaina.eddy10@gmail.com
+TÉLÉPHONE
+07 52 06 05 77
+ANNÉES D’EXPÉRIENCE
+10 ans d’expérience
+LOCALISATION
+Paris
+COMPETENCES TECHNIQUES
+COMPETENCES TECHNIQUES
+Langages de programmation
+C#, VB.Net, PHP, SQL, Entity Framework, .Net MVC Core, WebAPI, WebForms, ASP.Net, .Net Core, ANGULAR, Typescript, React (JS / Native), JavaScript, HTML5, CSS3.
+Base de données
+SQLServer, Transact SQL, PostgreSQL, PL/SQL, Oracle, MySQL, SqlLite, SSIS, SSRS, DataCapture
+Framework & librairies
+EntityFramework, Dapper, Bootstrap, PrimeNG, Material Design, Tailwind css
+Architecture
+CQRS (Command Query Responsibility Segregation), SOA (Services Oriented Architecture), Vertical Architecture, N-tiers, Event Sourcing, Microservices
+Tests
+Unit Tests, Integrations Tests, Tests automatisés en utilisant Selenium et Specflow
+Outils 
+Visual Studio, DevOps Azure Server, SQL Server Management, PLSQL, Dbeaver, Postman, Git, Swagger, Design Pattern, JWT, Active Directory, RabbitMQ, Logger, Refit, Jobs, Figma, Adobe XD
+FORMATIONS & CERTIFICATIONS
+FORMATIONS & CERTIFICATIONS
+2025
+Formation Azure Cloud (AZ-900 & AZ-204)
+Centre de formation Datasientest – Paris
+2015
+Master II en Informatique de Gestion, Génie Logiciel et IA
+ISPM – Institut Supérieur Polytechnique, Madagascar
+20013
+License en Informatique de Gestion, Génie Logiciel et IA
+ISPM – Institut Supérieur Polytechnique, Madagascar
+2009
+Baccalauréat série scientifique (C)
+Lycée Arcade, Madagascar
+Langues
+Langues
+Français
+Courant
+Anglais
+Niveau technique
+Malgache
+Langue maternelle

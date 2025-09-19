@@ -1,0 +1,126 @@
+SDI Product Owner Expérience : 7 ans
+Esprit d’équipe
+Disponibilité
+Ecoute
+Autonomie
+Esprit d’initiative
+Skills
+Consultante depuis 2016, je maitrise l’accompagnement et la gestion de projets dans les méthodologies agiles et les cycles classiques, en Back et en Front. Je souhaite mettre en évidence ma casquette technico-fonctionnelle ainsi que mes connaissances acquises durant ces nombreuses années dans les domaines des médias, de l’assurance et de la distribution hôtelière.
+
+Expériences clés :
+2018 ACCOR Chef de projet fonctionnel
+2019 ACCOR PO portail HOD
+2021 CAMCA Chef de projet BI
+2023 TF1 PO Finance PPP
+
+Compétences métiers
+Gestion de projet
+Gestion stratégique des organisations
+Définition des besoins
+Conception Data Warehouse Fouille de données
+Conduite de changement
+
+Compétences techniques
+Data et conception: SQL, SQLPLUS, PL/SQL, MySQL – UML Merise
+Langages de programmation: HTML, XML, DTD, CSS, PHP, JAVA, J2EE, C
+Logiciels, serveurs, EDI et Outils: Éclipse, Microsoft Office, SQLDevelopper, WampServer, Code Blocks, Gedit, Netbeans, Zend Framework, SublimText, AnalyseSI, JMerise, Git, NodeJS, SQLServer, Tomcat, Sharepoint, JIRA Software & Confluence, ALM / Quality Center, Airview, Postman API, TradeExpress EDI, AzureDevops, Trello, Figma, QLIK
+
+Etudes et formations
+2019 Formation PSPO I
+2016 Master MIAGE Apprentissage, Université Paris-Saclay (Université d’Evry Val d’Essonne)
+2014 Licence Informatique, Université de Reims CHAMPAGNE-ARDENNE
+2013 DUT Informatique Analyste Programmeur, IUT de Reims CHALONS CHARLEVILLE
+
+Langues
+Anglais (B2)
+
+2021 - 2023 (18 mois)
+Groupe TF1 Cadre de la mission : Product Owner Finance
+Contexte : Développement des outils de la régie publicitaire du Groupe sur les sujets finances Projets et évolutions : Facturation, Digitalisation des factures, Nouvelles conditions générales de vente sur les valorisations
+Composition des équipes : Dev (8) – PO (6) – TechLead (2)
+Réalisations :
+Prise en charge des évolutions et projets en liaison avec les métiers de la Pub et les autres membres des équipes (PO)
+Maintien de la relation Users et DSI : recueillir et analyser les besoins, réaliser le cadrage des nouveaux projets, porter assistance aux utilisateurs dans la formalisation de leurs besoins et leurs impacts sur les autres Produits
+Conception fonctionnelle et technique des solutions, formaliser les users stories, règles, workflow et
+tests métiers associés Suivi avec l’équipe de l’avancement du Produit, de la visibilité sur cet avancement, du maintien du backlog et des éventuels points de blocage
+Respect des engagements en termes de qualité du Delivery, de la roadmap (charges et délais)
+Définition et réalisation des tests d’acceptation, conduite des recettes métiers
+Suivi des KPI’s et analyse des feedbacks utilisateurs Suivi du bon déploiement et support/formation en exploitation des développements réalisés.
+Environnement technico-fonctionnel : Postman API Platform, SQL Developer, Atlassian JIRA & Confluence, AzureDevops, TradeExpress EDI, Trello
+
+2019 - 2021 (14 mois)
+CAMCA (Caisse d'Assurances Mutuelles du Crédit Agricole) – Groupe CA Cadre de la mission : Chef de projet MOA
+Contexte : Mise en place d’un nouvel outil décisionnel de consultation de rapports et d’un outil self-service de reporting
+Composition des équipes : Développeurs externes (5) – Equipe MOA BI (7)
+Réalisations :
+Responsable de 2 chantiers du projet BI
+Définition des expressions de besoin avec les utilisateurs et chiffrage
+Animation des ateliers design et ergonomie avec les métiers
+Rédaction des spécifications technico-fonctionnelles
+Animation des réunions de suivi des chantiers
+Animation de COPROJ avec les métiers
+Priorisation, suivi du backlog de livrables, de reportings et de l’évolution des applications
+Planification des livrables avec la MOE Suivi des plannings et coordinations des équipes MOE & MOA
+Environnement technico-fonctionnel : QLIKSense, QLIKView, Desktop Intelligence (BO), Eurassur, SQL Developer, Trello
+
+2018 - 2019 (10 mois)
+ACCOR Cadre de la mission : Product owner
+Contexte : Mise en place d’un nouveau programme de fidélité pour les clients Platinum dans le cadre du projet ALL (Accor Live Limitless)
+Composition des équipes : Développeurs externes (3/4) – Equipe de recette interne (3) – Ref IT interne (1) – Proxy PO (1) – PO (1)
+Réalisations :
+Animation des ateliers avec les UX/UI Designer
+Conception du design applicatif sous Figma en collaboration avec les UX/UI
+Préparation des expressions de besoins et demande des macro-chiffrages
+Maintenance du backlog d’évolutions sous JIRA
+Organisation des cérémonies agiles avec l’ensemble des équipes TEST & DEV & PO (Sprint planning,
+daily meeting, sprint review, rex)
+Rédaction des users stories
+Mise en place des dates de MEP;
+Animation des réunions de suivi des projets ;
+Animation et préparation des formations utilisateurs ;
+Gestion documentaire sous Confluence
+Participation aux comités de pilotage des projets stratégique et veiller aux respects des délais de MEP.
+Suivi des plannings et coordinations des équipes DEV & TEST; Priorisation du backlog
+Environnement technico-fonctionnel : JIRA & Confluence, Figma, Pack Office, Trello, Oracle, ALM Quality Center
+
+2016 - 2018 (27 mois)
+ACCOR Cadre de la mission : Chef de projet fonctionnel AMOA
+Contexte : Dans le cadre du nouveau plan digital qui vise à réduire le time to market de l’intégration des nouvelles marques / nouveaux hôtels et se remettre à niveau par rapport aux concurrents comme Booking ou Expedia, un des projets de ce plan est de refondre l’ensemble des applications de gestion des données hôtelières en un seul nouveau portail accessible aux hôtels et centraux.
+Composition des équipes : Développeurs externes (5) – Equipe de recette interne (5) – Ref IT interne (1) – Chef de projet fonctionnel (3)
+Réalisations :
+Responsable du modèle de données applicatif du nouveau portail ;
+Gestion de toutes les évolutions du modèle de données (de la demande à la mise en production)
+Définition des besoins applicatifs sous cycle classique (en V)
+Conduite au changement : préparation des supports de formations et ateliers de formations support /
+Suivi des anomalies applicatives
+admin / déploiement Suivi du versionning & présentations aux équipes support
+Définition d’un planning de mise en recette et de mise en production.
+Environnement technico-fonctionnel : Sharepoint, DBeaver, Postman API, Pack Office, Oracle, ALM Quality Center
+
+2016 (8 mois)
+ACCORHOTELS
+Cadre de la mission : AMOA
+Contexte : Dans le cadre du nouveau plan digital qui vise à réduire le time to market de l’intégration des nouvelles marques / nouveaux hôtels et se remettre à niveau par rapport aux concurrents comme Booking ou Expedia, un des projets de ce plan est de refondre l’ensemble des applications de gestion des données hôtelières en un seul nouveau portail accessible aux hôtels et centraux (Admin).
+Réalisations :
+Conception technico-fonctionnelle du référentiel de données du futur portail
+Assistante PO sur l’écriture des users stories
+Structuration des nouveaux templates de données par brand hôtelière Support et formations utilisateurs
+
+2014-2016 (17 mois)
+ACCORHOTELS
+Cadre de la mission : Expert Extraction Admin Contexte : Les services BI / projets transverses ont souvent besoin de KPI, métriques ou de données hôtels (données descriptives, de réservation, prix, planning, etc.) Au sein de l’entité Admin, une équipe est en charge de gérer toutes les demandes d’extraction de données ainsi que de faire leur loading massif sur demande des hôtels.
+Réalisations :
+Conception de rapports de données sous Impromptu
+Conception d’un outil interne dynamique d’accès aux bibliothèques de données pour les autres
+équipes admins :
+Recueil des besoins et rédaction de cahiers des charges
+Conception de l’application en Java EE
+Animation ateliers de suivi du projet
+Rédaction Guide d’utilisation & d’installation
+Mise en place du plan de déploiement sur postes fixes
+Environnement technique : Impromptu, Eclipse, Pack Office, SQL
+
+Maltem Consulting Group 8 place du marché, 92200 Neuilly sur Seine. Tél +33 (0) 1 77 78 13 00 +33 (0) 1 77 78 13 01 contact@maltem.com
+1/3
+2/3
+3/3

@@ -1,0 +1,88 @@
+Développeur .NET Senior 
+
+Expériences professionnelles
+
+Depuis 09/2023 : Développeur .NET au sein de LexisNexis
+•	Développement de nouvelles fonctionnalités sur LexisPoly plateforme permettant la gestion complète des documents juridiques et judiciaires.
+•	Développement de nouvelles fonctionnalités sur BackOffice et l’ensemble des Apis utilisé par LexisPoly.
+•	Analyse et corrections des bugs (N3).
+•	Ajout de nouveaux endpoints destinés aux partenaires de LexisNexis.
+•	Intégration du nouveau partenaire LegalVision pour la gestion des annonces légales.
+•	Développement des tests automatisés avec Testcafe.
+•	Participation et animations des différentes cérémonies de SCRUM (Daily, Sprint planning, Retrospective) .
+Environnement technique : .NET 4.8, .NET 6.0, Web API, React, SqlServer, Javascript, Jquery, GIT, SCRUM, TestCafe.
+
+03/2022-07/2023 : Développeur .NET au sein de ALD Automotive
+•	Développement de nouvelles fonctionnalités sur AldCarmaket plateforme B2B pour la vente des véhicules d’occasion.
+•	Maintenance corrective et évolutive du BackOffice , FrontOffice et APIs.
+•	Développement sur Microsoft Azure (WebApp, Azure Functions, APIM …)
+•	Participation et animations des différentes cérémonies de SCRUM (DSM, Framing, Grooming, Démo, Retrospective …) .
+•	Pilotage technique de features.
+•	Déploiement sur les pipelines CI/CD automatisé.
+Environnement technique : .NET 4.6, .NET 6.0, Web API, Cloud Azure, React, Typescript, SqlServer, Javascript, Jquery, GIT, Jira. SCRUM
+
+04/2021-03/2022 : Développeur .NET au sein de FNAC DARTY
+•	Conception et développement des modules du projet Relations Clients (RCD)
+•	Analyse et corrections des anomalies.
+•	Ajout de l’authentification Azure AD dans le back-office de la RCD.
+•	Participation aux différents rituels agiles de (Daily Meeting, Poker Planning, Sprint Planning, Démo, Rétrospectives …) 
+•	Déploiement en recette et mises en production des développements en collaboration avec les équipes d’intégration technique.
+Environnement technique : .NET 4.6/4.0, Webforms/MVC3, SqlServer, Javascript, Jquery, WCF, REST, TFS, GIT, Jira. SCRUM
+
+09/2019-01/2021 : Développeur .NET confirmé au sein de CARREFOUR
+•	Conception et développement de l’application GAME permettant aux magasins Carrefour de réserver les quantités sur les catalogues. 
+•	Participation aux sprints planning et chiffrage des différents développements.
+•	Création et amélioration des rapports SSRS ainsi que les fichiers Macros.
+•	Optimisation des différents traitements sur l’application GAME.
+•	Amélioration de l’ergonomie de l’application 
+•	Déploiement de l’application sur les environnements Carrefour.
+Environnement technique : .NET 4.5, ASP.NET MVC5, C#, SSRS, Entity Framework, WCF, GIT, Azure Devops, SQLServer, Ajax, Jquery, Kendo, Macros vb, SCRUM.
+
+02/2018-06/2019 : Développeur & analyste .NET au sein de DAVISON AQUITAINE
+Client : Axens (11/2018-06/2019)
+•	Rédaction des dossiers des spécifications fonctionnelle et techniques pour une partie ou de la totalité d'un projet utilisé. 
+•	Concevoir, maintenir et développer des applications C# ou en VB6.
+•	Rédiger la documentation relative aux applications. 
+•	Maintenance évolutive de l’ensemble des applications internes de Axens
+Environnement technique : .NET 4.5, C#, Entity Framework, WPF, VB, GIT.
+JIRA, SCRUM. 
+Client : CDISCOUNT (02/2018-10/2018)
+•	Automatisation, maintenance et qualification de tests fonctionnels via les automates de tests Selenium, Specflow et Appium
+•	Corrections des anomalies liées aux tests automatisés 
+•	Détections des régressions et gestion des Mantis
+•	Spécification des Gherkins
+•	Chiffrage des tests.
+•	Etude et mise en place du DataGenerator en Selenium
+Environnement et Outils : .NET 4.7, C#, SQLServer, NodeJs, Spefclow, Selenium, Appium, TFS, Jenkins, TestLink, JIRA, SCRUM. 
+
+03/2016-01/2018 : Ingénieur étude et développement au sein de CGI
+Client :	 CARREFOUR FRANCE
+•	Conception et Réalisation des modules évolutifs du système de gestion commerciale de Carrefour France 
+•	Rédaction des dossiers de spécifications techniques et fonctionnelles.
+•	Rédaction et déroulement des tests unitaires.
+•	Gestions des problèmes et Incident à impact majeur
+•	Accompagnement de l’équipe support.
+•	Refactoring et optimisation du code. 
+•	Refonte des rapports depuis Crystal report en SSRS.
+Environnement et Outils : .NET 4.0, ASP.NET MVC4, ASP.NET WebForms, C#, VB.NET, Visual Studio, SQL Server, JAVASCRIPT, SSRS, SAP Cristal Report, TFS, SVN, Quality Center, SharePoint.
+
+Formation 
+- 2013-2016 : Cycle ingénieur en génie Informatique à l’Ecole Nationale des Sciences Appliquées de Fès.
+- 2011-2013 : Classes préparatoires intégrées à l’Ecole nationale des sciences appliquées de Fès.
+- 2011 : Baccalauréat, option : Sciences Mathématique B, Lycée Al Khawarizmi à Casablanca.
+
+Compétences techniques
+Technologies .NET : .Net4.8, .Net 6.0, .Net Core, Web API, MVC5, WebForms, C#, VB, Entity Framework, T-SQL, WPF, linq, Razor .
+Cloud Azure : .WebApp, Azure Functions, Azure storage, Cache Redis, Service Bus .
+Web : HTML/CSS, React, Typescript, Javascript, Jquery, Bootstrap, Kendo .
+Base de données : SQL Server, Oracle .
+Reporting : SSRS, Crystal Report, Macros VB. 
+Gestion de version : GIT, Azure Devops, TFS,  SVN
+Utilitaire de gestion : Sciforma, SharePoint, JIRA.
+Testing : Specflow, Selenium, Appium, Jenkins, Quality Center, TestLink.
+Bonnes pratiques : SOLID, Pair Programming, Clean Code, TDD, BDD.
+
+Langues
+Arabe : Langue maternelle.
+Français : Lu, écrit, parlé.
+Anglais : Lu, écrit, parlé.

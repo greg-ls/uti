@@ -1,0 +1,130 @@
+BI Data Engineer / Analyste Finops
+
+PROFIL
+
+Spécialiste confirmé dans le domaine de la Business Intelligence et de l'ingénierie des données, je transforme les données
+complexes en insights stratégiques pour les entreprises. Mon objectif est de continuer à évoluer dans des environnements dynamiques et collaboratifs, où mes compétences peuvent avoir un impact concret.
+
+
+DIPLOMES
+
+2014-2016 PARIS YNOV CAMPUS Master Chef de projet Data
+2013-2014 UNIVERSITÉ MONTPELLIER Maitrise MIAGE
+2010-2013 UNIVERSITÉ PARIS SUD Licence Economie Appliquée Université Paris Saclay(Paris Sud)
+2009-2010 LYCÉE LIMAMOULAYE (DAKAR) Baccalauréat Mathématiques/Physique Chimie
+
+COMPÉTENCES TECHNIQUES
+
+Power BI
+DAX
+Power Query
+Databricks
+Pyspark
+SQL
+Python
+Azure Data Factory
+Azure Synapse Analytics
+Microsoft Fabric
+Azure
+Azure Devops
+DBT
+BigQuery
+Airflow
+Git
+Gitlab
+Snowflake
+SSIS
+SSAS
+SSRS
+JIRA
+
+CERTIFICATIONS
+
+Microsoft Certified Power BI Data Analyst Associate
+Microsoft Certified Fabric Analytics Engineer Associate
+Databricks Certified Data Engineer Associate
+
+EXPERIENCES PROFESSIONNELLES
+
+Data Engineer Azure Data Solution |Databricks | Power BI | Finops depuis Novembre 2022 AXA FRANCE
+
+Projet 1: Optimisation des coûts cloud Azure par applications /Greenops
+
+Contexte : Databricks
+Tâches :
+Mise en place d'un delta lake Databricks (migration data flows Power BI service suite à des problèmes d'optimisations)
+Analyse diagnostics, cadrages, mise en place des spécifications fonctionnelles et techniques, gouvernance et sécurité des données
+Mise en place d'une nouvelle architecture Data
+Configuration & optimisation et déploiements de solutions Azure
+Cadrage des besoins métiers pour suivre les consommations par périmètre DSI
+Mise en place de l'architecture Data/Bi pour une bonne compréhension des besoins
+Mise en place du Médaillon architecture et ingestion des données Bronze, Silver, Gold
+Création de pipelines, de data flow, maintenances des jobs et gouvernance des données
+Stockage de données sur les solutions de stockages Azure (Azure Delta Lake, Azure Data Lake)
+Répartition des émissions de Co2 par périmètre DSI
+
+Contexte : Orchestration
+Tâches :
+Orchestration des traitements Databricks sur workload Databricks
+Utilisation Azure Data Factory dtb et airflow
+Utilisation des CICD Github pour le versionnage des notebooks, des modèles sémantiques
+
+Contexte : Microsoft Fabric/Power BI
+Tâches :
+Mise en place d'un modèle en étoile optimisé (18 tables)
+Mise en place d'un référentiel Finops pour l'affectation des applications par DSI
+Suivi des consommations des applications et de leurs émissions en Co2
+Création de rapports, de mesures DAX, d'une application avec plus 400 utilisateurs
+La solution est actuellement en maintenance quotidienne, utilisation de Power automate pour faire des alertes aux responsables de tribus
+Mise en place des indicateurs Finops pour le suivi des couts comme les migrations, les projections, alerting et optimisations
+
+Contexte : Finops
+Tâches :
+Pilotage/Analyse/Optimisations
+S'assurer de la qualité des données en respectant les exigences du métier
+Mise en place des KPI pertinentes pour le suivi Finops
+Participation à la mise en place de la projection V0 à chaque année
+Suivre les optimisations des applications sur le reporting Finops Power BI et alerter les métiers en cas de surconsommation
+Mise en place d'un tracker Finops pour tracker les potentiels optimisations sur les VM, les disques et le rightsizing, Savings Plan
+Participer à l'alignement de la finance sur la Target à atteindre en fin d'année
+
+Gouvernance Finops
+Faire des points quotidiens pour responsabiliser les métiers sur les notions Finops en particulier avec l'arrivée de L'IA
+Mise en place et animation de la gouvernance Finops
+Participer et animer les comités de suivi de projet
+Préparation et animation des comités de pilotages
+Supervise les mises à jours des optimisations dans le tracker (Valides, Annuler, Reportés, New)
+Mise en place d'un reporting de gant pour l'état d'avancement des sujets Finops
+
+Réalisation:
+La solution est en production et actuellement en maintenance, 3 millions de savings collectés via cette application, est utilisée pour toute l'équipe D Technologies Performance et permet à AXA France de se fixer des objectifs en terme d'émissions de Co2.
+
+Projet 2: Migration projet Mainframe Saas vers Delta Lake
+
+Contexte : Cadrage des besoins métier
+Tâches : 
+Diagnostic les données et requêtes issues du projet Saas pour optimiser le modèle
+Mise en place de l'architecture Data/BI pour avoir une vue précise du projet
+Développement des pipelines de données, mise en place des couches Bronze, Silver, Gold
+Mise en place d'un référentiel Excel pour la mise à jour des mappings SA
+Création du modèle de données Power BI, des rapports, des KPI avec DAX, d'une application Power BI
+Usage de power automate pour les besoins métiers sur les rapports et la mise à jour automatique des fichiers sharepoint
+
+Réalisation:
+Migration faite en 3 mois, modèle mise en production et actuellement en maintenance, la migration permet à Axa France et Axa Go de faire des économies des coûts de cpu par systèmes applicatifs.
+L'application est utilisée par les équipes de Mainframe d'Axa GO et l'équipe D Tech d'AXA FRANCE
+
+Consultant Power BI Septembre 2016- Octobre 2022 Société Générale
+
+Contexte : 
+Migration des Packages SSIS vers SSDT 2019, création des flux SSIS,des cubes SSAS
+Tâches :
+Stockage des données dans un data Warehouse, développement de dataflows
+Optimisation du modèle de données à partir des cubes SSAS
+Création de rapports et d'applications sur Power BI Service, maintenance des refreshs
+Administration Power Bi service et déploiements sur Azure Devops
+
+Réalisation
+La solution permet à l'équipe IARD d'analyser et de projeter la solvabilité des clients et de la mise en place des pistes d'optimisations à partir des rapports
+La solution est utilisée par l'équipe DSI IARD
+

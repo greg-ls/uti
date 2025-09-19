@@ -1,0 +1,427 @@
+
+
+
+
+                             Consultant Sénior SAP FICO
+                                              +18 d’expériences
+DOMAINE D'INTERVENTION
+
+
+Expert SAP FICO.
+En tant que Expert SAP FICO, j'apporte une exper se approfondie combinant compétences fonctionnelles, techniques et
+mé er pour op miser les processustifinanciers et comptables. Ma maîtrise du paramétrage et de la conﬁguration des
+solutions SAP S/4 HANA, associée à une collaboration étroite avec les équipes mé ers, garan t des intégrations réussies et
+parfaitement adaptées aux besoins spéciﬁques des entreprises.
+J’ai mené à bien des projets de transformation digitale majeurs, incluant des migrations complexes vers S/4 HANA et
+l’intégration de Fiori, en répondant aux objec fs stratégiques tout en respectant les délais et les budgets. Grâce à une
+vision globale et une exécution précise, je suis un partenaire stratégique clé, capable de maximiser l’efficacité des systèmes
+ﬁnanciers et d’apporter une valeur ajoutée signiﬁca ve aux organisations.
+Solide expérience en Support. Je suis reconnu pour mon efficacité et mon orientation client.
+Caractéristiques principales :
+      Transformation Digitale ti Migration vers SAP S/4HANA : Exper se avancée en processustifinanciers et
+          comptables, avec une intégration ﬂuide aux modules d'achats et de ventes. Expérience dans la conception de
+          solutions innovantes utilisant les environnements Fiori.
+      Expertise Technique & Métier : Compétences en mise en œuvre, support et conﬁguration des modules SAP (FI-GL,
+          FI-AR, FI-AP, FIAA, FSCM, FI-CA, MM, SD, CO, VIM et Ariba), ges on des mises à jour, interfaces SAP- autre
+          application externe, et direction des projets de migration de données et de support.
+      Leadership & Orientation Résultats : Capacité prouvée à livrer des résultats de haute qualité dans des délais
+          serrés tout en favorisant la collaboration et la communication au sein des équipes.
+Qualités personnelles :
+Consciencieux, adaptable et engagé à fournir des solutions axées sur les besoins des entreprises pour améliorer la
+performance financière et opérationnelle.
+
+
+DIPLOMES
+     Diplôme d'ingénieur chef de projet SAP à l’école d’ingénieurs CESI de Rouen.                                  2004
+     Master 2 management des systèmes d'information IAE d’Amiens.                                                   2003
+FORMATIONS SAP
+     Formation interne SAP S/4 HANA simple finance 2015
+     Formation SAP Module     2010
+     Formation reprise des données et gestion des autorisations            2009
+     Formation interne     2008
+
+ LANGUES
+     Anglais courant
+     Français langue maternelle
+
+ COMPETENCES
+ Consultant Fonctionnel SAP FI CO
+      Analyses fonctionnelles par processus: Order to Cash, Procure to Pay, Finance to Manage, Invest to Divest.
+      Solide Expérience dans la Mise en place de Core Model, Déploiement.
+      Organisation de Workshops design, Paramétrage, Test Unitaires, Intégration Fonctionnelle MM SD PP,
+          Assistance Post-démarrage, stabilisation de la solution.
+ Assistance à Maitrise d’Ouvrage
+      Conduite de changement, Support expression de besoins,
+      Interface avec équipes informatiques et métier (les comptables).
+      Organisation des recettes fonctionnelles UAT.
+      Formation utilisateurs, rédaction de manuels utilisateurs.
+Expert en Accompagnement des Comptables
+       Assistance directe et soutien continu aux comptables pendant les périodes de clôture comptable.
+       Résolution proactive des problèmes cycliques liés à la clôture.
+       Maintien d'un contact étroit et collaboratif avec les équipes comptables pour assurer une clôture efficace et
+        sans heurts.
+      Formation et soutien aux équipes comptables sur les meilleures pratiques et les nouvelles procédures de
+        clôture.
+ Responsable SAP Support, TMA, Centre de compétence.
+      Assurer le support niveau 1, 2 et 3 sur le module FI CO en France et à l'international
+      Encadrement de 4 à 24 personnes.
+      Montée en compétences des équipes internes client.
+      Pilotage de l’activité, Suivi des KPI, Reporting au Senior manager.
+ Compétences Fonctionnelles Finance
+      Maîtrise des fonctionnalités comptables (comptabilité générale, comptabilité clients, Comptabilité fournisseur,
+        comptabilité des immobilisations, gestion de Trésorerie, états financiers) et de contrôle de gestion (frais
+        généraux, coûts de production, pilotage financier, décisionnel).
+      Lien Finance - autres domaines : impact financier et comptable du processus achats - approvisionnement
+        (contrats, commandes, gestion des articles et des stocks) et du processus ventes (livraison, facturation, relation
+        clients).
+Compétence pilotage de projet SI
+      Pilotage et suivi des développements jusqu’à la mise en production.
+      Compétences en fusion acquisition sous SAP ECC ti S/4 (environ 15 projets)
+      Management des équipes avec répartition des tâches.
+      Accompagnement au changement : Conseil, Schémas directeurs, Cartographie des Processus,
+      Méthodologie et conduite de projet (Agile) ti Gestion de budget et suivi des plannings.
+Compétences logicielles (SAP– BW- ABAP) :
+          SAP-FI (Finance) : comptabilité générale, fournisseurs, clients, intégration avec les modules achats et ventes
+           (MM et SD), gestion des immobilisations (FI-AA).
+          SAP-CO (Controlling) : comptabilité des centres de coûts et centres de profit, calcul de coût de revient (ordres de
+           fabrication, frais généraux) ti reporting.
+          SAP-MM (Materials Management) : base articles et fournisseurs, flux contrats, commandes, réception, contrôle
+           des factures, gestion de stocks, intégration entre FI-CO-MM.
+          SAP-SD : (Sales and Distribution) : données du client, commandes, livraisons, prix, facturation, intégration entre
+           FI-CO-SD.
+          SAP I-SU : Gestion et facturation des clients résidentiels, commerciaux et industriels, ainsi que les prospects.
+          SAP-BW : export de données SAP dans BW (Business Warehouse), budget et facturation, états financiers,
+           décisionnel.
+          SAP-ABAP : Notion debug, user-exits, tables spécifiques, formulaires, autorisations.
+ EXPERIENCES PROFESSIONNELLES
+
+
+ Période : Juillet 2023 à ce jour
+ Entreprise : SIG France
+ Rôle : Consultant Sénior SAP S/4 HANA FICO
+
+Contexte : Mise en place d’une comptabilité analy que pour obtenir des coûts complets pour un meilleur
+pilotage de l’ac vité.
+Consultant SAP S/4 Hana Finance (FI & CO) expérimenté pour mission dédiée à la Tierce Maintenance Applica ve (TMA)
+chez SIG France l'un des principaux fournisseurs européens de solutions spécialisées pour le bâ ment à des clients
+professionnels au Royaume-Uni, en France, en Allemagne, en Irlande, au Benelux et en Pologne.
+Tâches
+       Identification et mise en œuvre des solutions pour op miser les processustifinanciers.
+       Accompagnement du business sur l’amélioration con nuelle des process mé er FI/CO.
+       Animation des ateliers de formations des nées aux utilisateurs côté mé er.
+       Assurer le support niveau 1, 2 et 3 sur le module FI CO en France et à l'international : Espagne.
+       Prise en charge et analyse des incidents et des demandes d'évolution.
+       Recueil du besoin, rédaction des spéciﬁcations fonctionnelle, paramétrage, tests, receMes et mise en production...
+       Proposi on de solutions, chiﬀrage et planning.
+       Rédaction des spéciﬁcations fonctionnelles générales et détaillées.
+       Mise en œuvre et réalisation du paramétrage SAP FI et CO.
+       Réalisation des tests, des receMes et mise en production.
+       Ges on et maintenance des interfaces.
+       Ges on des corrections et évolutions : modiﬁcation des spéciﬁcations fonctionnelles, paramétrage, receMe
+        fonctionnelle, documentations utilisateurs.
+     Capitalisation des ckets traités sur les diﬀérents modules.
+     Rédaction des spéciﬁcations fonctionnelles et destifiches de paramétrages FI.
+     Par cipation à la mise en production des modules FI et VIM.
+     Réalisation des tests unitaires et d'intégration sur SAP FI et VIM.
+     Traitement des incidents sur les modules FI et VIM.
+     Intégration des notes de frais des employés saisies dans Notys vers SAP.
+     Analyse et Intégration des relevés bancaires via la plateforme de paiement E-control.
+     Conﬁguration des paramètres fonctionnels pour la création de l’interface.
+     Paramétrage et adaptation des fonctionnalités de ges on des immobilisations et des comptes fournisseurs dans
+        SAP S/4 HANA selon les besoins spéciﬁques de l'entreprise.
+     Développement des mappings de données pour correspondre aux structures de données dans SAP S/4 HANA.
+     Déﬁni on des procédures de support aux utilisateurs sur les solutions.
+     Organisation et pilotage des UAT.
+     Assistance et formation des utilisateurs.
+Environnement technique : SAP S4 HANA, MDG, FI, CO, SD, MM, BW, BI, CRM, VIM
+
+ Période : Mai 2023 à Juillet 2023
+ Entreprise : Réseau de Transport d'Électricité RTE
+ Rôle : Consultant Sénior SAP S/4 HANA FICO ti migration des données
+
+Contexte : Gestion de projets / Projet de build S/4 HANA :
+Le présent marché porte sur le projet S4us de mise en place du nouveau socle ERP S/4HANA, en remplacement du socle ERP
+actuel (SAP ECC6), qui doit délivrer des processus simpliﬁés et op misés dans les domaines Finance ti Achat, et Client.
+Deux approches ont été retenues pour ce projet de transformation :
+    1.   Sur le périmètre du Brownﬁeld (Client), le projet doit abou r à la conversion de l’environnement produc f ECC ISU
+         vers S/4HANA utili es au S4 2023, incluant SAP GRC Access Control, SAP Enable Now et SAP Solman.
+    2.   Sur le périmètre du Greenﬁeld (Finance et Achat), la phase de concep on générale esttifinalisée et les Dossiers de
+         Concep on Générale sur les diﬀérents périmètres fonctionnels ont été validés par le mé er.
+  Tâches:
+  Assurer la conduite de projets, pour son domaine fonctionnel ou plus largement dans le cadre de projets
+      transversaux.
+  Rédaction de spéciﬁcations fonctionnelles détaillées de la base des données issues des bases SAP CRM, SAP IS-U et
+      MDG.
+  Concep on (Spéciﬁcation fonctionnelles détaillées et réalisation de traitements associés d’extraction des données
+      utilisant l’environnement et les outils de développement SAP.
+  Concep on (Spéciﬁcation fonctionnelles détaillées et Spéciﬁcations Techniques détaillées) des Indicateurs
+      Symphonie res tuant par Workﬂow fonctionnel (de Mise en service, de résiliation, de facturation récurrente et de
+      changement d’oﬀre) la volumétrie des contrats SAP KO (non encore facturés), et répar ssant les contrats bloqués
+      par origine du blocage.
+  Concep on de reporting mé ers (Spéciﬁcation fonctionnelles détaillées)
+  Rédaction associée des supports documentaires demandés par le responsable fonctionnel.
+  SAP cockpit de migration ti ReceMe des évolutions et corrections d’anomalies.
+Environnement technique : SAP S4 HANA, MDG, IS-U, FI, CO, SD, MM, BW, BI ti CRM
+
+ Période : Septembre 2021 à Avril 2023
+ Entreprise : PLASTIC OMNIUM
+ Rôle : Domain Leader FICO
+
+Tâches:
+Amélioration des Processus Comptables
+  Collaboration avec divers clients pour analyser et op miser les processus comptables.
+  Mise en œuvre de solutions pour améliorer l'efficacité et la précision des opérations de clôture.
+  Expérience avérée dans l'identification et la résolution des inefficacités dans les processus comptables.
+  Développement et standardisation des procédures de clôture pour garan r la conformité et latifiabilité des
+     rapportstifinanciers.
+
+ Gestion de projets
+  Assurer la conduite de projets, pour son domaine fonctionnel ou plus largement dans le cadre de projets
+  transversaux.
+  Assurer la fusion et l'intégration de 8 sociétés à l'échelle internationale dans le core model SAP.
+  S/4 HANA ERP Blueprint] [Deep Dive workshop] – Controlling ti Finance
+  Chef de projet CES pour le programme Plas ctiomnium d’implémentation de la solution VIM de
+     dématérialisation des factures fournisseur.
+  Coordonner les projets réalisés au niveau Division par les consultants SAP FI et CO du domaine.
+  Veiller à ce que les objec fs du projet soient aMeint, en qualité de la solution livrée, coût et planning.
+  Ges on de l'exper se des processus et des applications de la Trésorerie.
+  Par cipation aux déploiements, mise à niveau, nouvelles fonctionnalités, implémentation
+  Paramétrage des applications de paiement sécurisé CASHPOOLER.
+
+Gestion du Core Model
+  Analyser, concevoir, meMre en œuvre et supporter les solutions applica ves dans le domaine de latifinance pour la
+     Division, dans une op que de cohérence et pérennité.
+  Eﬀectuer les modiﬁcations de paramétrage pour répondre aux demandes de changement.
+    Spéciﬁer les développements ABAP et en assurer la receMe.
+    Superviser les évolutions apportées par les équipes SAP des régions Europe, Amérique et Aise.
+    Garan r leur conformité avec le Core Model pour le domaine, leur apporter conseil et exper se pour les sujets
+     complexes.
+    Proposer des améliorations de la solution actuelle en accord avec le business pour op miser l’utilisation
+    de l’ERP et oﬀrir un reporting intégré.
+    Contribuer aux ac vités de formation (documentation, conduite de sessions).
+    Fournir un support après démarrage projet outilivraison de nouvelles fonctionnalités.
+
+Relation avec le Métier Finance
+  Assurer le rôle d’interlocuteur privilégié des Business Process Owners (BPO) Finance ti Controlling.
+  Organiser les comités fonctionnels pour le domaine, avec l’appui du BPO Division, à une fréquence
+  trimestrielle.
+  Animer les réunions bimensuelles avec les homologues SAP des régions et par ciper aux réunions hebdo CAB SI
+      Support.
+  Assurer directement un sou en de niveau 3 pour les problèmes relevant du domaine Finance, faire réaliser le support
+      L3 par l’expert Controlling.
+  Lorsque c’est nécessaire, apporter un support SI au mé er lors des clôtures mensuelles.
+Environnement technique : SAP ECC6, modules FI, FM, CO, MM, SD, / VIM / CASHPOOLE
+
+ Période : Février 2018 à Juillet 2021
+ Entreprise : HEIDELBERG MATERIALS
+ Rôle : Responsable d’application SAP Finance ti controlling (en interne)
+
+Tâches : 
+    Management et gestion de diﬀérents projets :
+
+       Déploiement d'un core model en mode SAP S/4 Hana du groupe Heidelberg Cement (57 sociétés
+       juridiques).
+       Projets de reprise et fusion sous SAP ti Mise en place de l’auto-facturation.
+       Mise en place de la solution de dématérialisation des factures fournisseurs VIM.
+       Mise en place des programmes SAP concernant la trisation (securi zation) ABS (ING).
+       Concep on de l’interface de notre de frais ti Concep on de l’interface de paie.
+    Gestion des délais et des objectifs de la clôture comptable :
+       Élaboration de calendriers de clôture pour respecter les délais réglementaires et internes.
+       Coordination des tâches et des ressources pour assurer la réalisation des objec fs de clôture.
+       Surveillance et évaluation des performances des processus de clôture pour proposer des améliorations
+         con nues.
+     Coordination de l'équipe projet (Mé ers / Prestataires / Groupe One IT).
+     Migration des données LSMW ti LTMC.
+     Processus de comptabilité et paiement fournisseurs ti Processus de comptabilité clients.
+     Audit, étude de besoins, de faisabilité (Internal Control System ICS).
+     Réﬂexion stratégique sur les projets en adéquation avec l’approche du groupe et les besoins en locale.
+     Travail collabora f avec les équipes internes concernées et validation des choix fonctionnels aMendus.
+     Validation de cahier des charges spéciﬁque fonctionnel, schéma directeur informa que.
+     Coordination et ges on des nouvelles demandes d’évolutions avec l’AMS (Accenture).
+     Pilotage é Suive traitement et la mise à jour des ckets (les délais, Qualités et Coûts).
+Environnement technique : SAP ECC6, S/4 Hana modules FI, FM, CO, MM, SD, …… / ALM / BASWARE,
+
+ Période : Juillet 2016 à Janvier 2018
+ Entreprise : Total Energies
+ Rôle : IT Expert - SAP FI-CO
+
+ Contexte : Programme Template Europe : projet européen de refonte du système d’information de la branche Raffinage-Marketing de TOTAL.
+Tâches: 
+Coordination fonctionnelle sur le domainetifinance (interface entre le mé er en Europe et les équipesMOE
+      externalisées en France et en Inde).
+  Ges on des évolutions SAP FI AR AP GL TR ti CO
+  Interlocuteur de la MOE Groupe (paramétrage des besoins France (plans de comptes, schémas
+      comptables,tifiscalité, immobilisations, règlements fournisseurs, interface …).
+  Validation du besoin avec les interlocuteurs mé er ti Encadrement des consultants SAP et suivi
+  Contrôle de la cohérence et validation des chiﬀrages fournis par le prestataire MOE.
+  Suivi des mises en œuvre et communication sur l'avancement.
+  ReceMe des livraisons du prestataire MOE.
+  Coordination des ressources sur des sujets transverses ti Reporting d'avancement.
+Environnement technique : SAP ECC6, modules FI, FM, CO, MM, SD, / HP Omega / Themis
+
+ Période : Juin 2015 à Juin 2016
+ Entreprise : Commissariat à l'énergie atomique et aux énergies alternatives CEA
+ Rôle : Chef de projet SAP FI-CO – Projet infogérance SAP CEA
+
+ Contexte: Dans le cadre de la gestion de la tierce maintenance applicative TMA SAP
+  Tâches: 
+  Animation des ateliers de concep on.
+  Mise en place de projets puis maintenance évolu ve et correc ve.
+  Interlocuteur privilégié, spécialisé dans le mé er de la comptabilité publique.
+  Qualiﬁcation des besoins client dans le domaine de la maintenance et des demandes d’évolutions.
+  Qualiﬁcation et résolution des incidents SAP.
+  Analyse et déﬁni on des besoins, Assistance à maîtrise d’ouvrage, rédaction de spéciﬁcations.
+  fonctionnelles, mise en place du paramétrage, organisation et tests jusqu’à mise en production.
+  Paramétrage FI-CO.
+  Probléma ques par culières, implémentation standard FI AR AP GL TR, CO centre de coût et centre de
+      proﬁt.
+  Mise en place des solutions et suivi.
+  Support utilisateurs.
+  Encadrement d’équipe, chiﬀrage, suivi et reporting (qualité, coût et délai).
+  Élaboration des tableaux de suivi d’ac vité.
+Environnement technique : SAP ECC6, modules FI, FM, CO, MM, SD …… / HP Nautile
+
+ Période : Mars 2015 à Juin 2015
+ Entreprise : Institut de radioprotection et de sûreté nucléaire IRSN
+ Consultant sénior SAP finance et logistique
+
+Contexte :
+Dans le cadre du GBCP (la ges on budgétaire et comptable publique), est un projet d’intégration de la solution SAP
+(AGORA).
+Le projet (GBCP) contribue à la modernisation de la fonctiontifinancière au sein des opérateurs de l’État.
+   Tâches : 
+   Suivi des campagnes de tests d’une équipe de 5 testeurs
+   Réunion de suivi avec l’intégrateur
+   Rédaction des comptes rendus d’avancement de la receMe ti Rédaction des guides utilisateurs
+   Formation des utilisateurs sur la préparation et la réalisation de la receMe.
+Environnement technique : SAP ECC6, modules FI, FM, CO, MM, SD ti CR
+
+ Période : Février 2014 à Mars 2015
+ Entreprise : Électricité de France EDF
+ Rôle : SAP Team Leader FI-CA - Projet SIMM
+
+ Contexte : 
+ Dans le cadre du SIMM (Système d’Information de Marché de Masse) est un projet d’intégration de lasolution SAP
+ CRM (Ges on de la Relation Client), SAP ISU (Administration Des Ventes), BW (DataWarehouse) et Canal Services
+ SIMM pour la clientèle EDF.
+ Tâches:
+  Analyse des besoins client dans le domaine de la maintenance et des évolutions du SIMM.
+  Par cipation aux ateliers de la concep on détaillée et générale.
+  Vériﬁcation et validation des dossiers de concep on détaillée et générale ti du paramétrage fonctionnel
+      SAP FI.
+  Intégration CRM, Intégration FI-SD ti Intégration FI-CO.
+  Coordination des ressources sur des sujets transverses.
+  Encadrement d’équipe, chiﬀrage, suivi et reporting (qualité, coût et délai).
+  Pilotage receMe et coordination de la receMe et mise en place.
+  Reporting d'avancement.
+Environnement technique : SAP IS-U, FI, CO, SD, BW BI, CRM et ETL / outils de tests : HP ALM
+
+ Période : Janvier 2013 à Janvier 2014
+ Entreprise : Safran
+ Rôle : Responsable de validation flux finance – Projet SAP MOVE
+
+ Contexte : 
+ Migration technique du paysage SAP X56 vers la nouvelle plateforme mutualisée et sécurisée ti Mise àniveau
+ version.
+ Tâches :
+  Analyse et validation ﬂux logis que ettifinance sur SAP.
+  Adaptation du paramétrage SAP FI/CO.
+  Coordination des ac vités AMO/AME.
+  Analyse et développement pour la reprise des données et l’interface avec SAP.
+  Reprise de données comptables : LSMW, batch-input, call transaction.
+  Extraction, enrichissement, transcodiﬁcation et injection des données dans SAP.
+  Travail en coordination avec les intervenants à la reprise de données ti Pilotage de la receMe.
+  Encadrement d’équipe, chiﬀrage, suivi et reporting ti Élaboration des tableaux de suivi d’ac vité.
+Environnement technique : SAP ECC6, modules FI, FM, CO, MM, SD, PP, PM…… / HP QC ALM11
+
+
+
+ Période : Avril 2011 à Décembre 2012
+ Entreprise : ECOMOUV
+ Rôle : Consultant fonctionnel SAP FI-GL, AP ti AR - Projet SAP Ecotaxe
+
+Contexte : 
+Dans le cadre du Grenelle de l’environnement, a été créée une “Ecotaxe” kilométrique visant à faire payer
+aux poids lourds l’usage du réseau routier national.
+Tâches :
+  Analyse des interfaces web service dans CRM et SAP
+  Animation d'ateliers de concep on détaillée et générale
+  Paramétrage SAP FI-CA
+  Implémentation d'interfaces batch avec les transformations XML
+  Processus facturation client et recouvrement ti Coordination tests, receMe et mise en place
+  Animation des workshops ti Formation des utilisateurs.
+Environnement technique : SAP ECC6, modules FI, CO, MM, PS, CRM, PI, soapUI, IHM CRM / HP QC ALM11
+
+ Période : Janvier 2010 à Mars 2011
+ Entreprise : Agence pour l'informatique financière de l'État AIFE
+ Rôle : Consultant fonctionnel SAP FI (équipe TDC tenue de comptabilité) - Projet Chorus SAP
+
+Projet de rénovation du SI Financier de l'Etat, basé sur l'ERP SAP, ayant pour but de gérer la dépense, les recettes non
+ﬁscales et la comptabilité de l'État.
+ Tâches :
+  Analyse des besoins clients.
+  Animation d'ateliers de concep on détaillée.
+  Concep on d'interfaces SAP.
+  Concep on de règles d'extractions d'écritures comptables Chorus
+  Paramétrage SAP FI.
+  Points d’intégrations de paramétrage FI-MM ti FI-SD.
+  Ges on des Idoc.
+  Rédaction des dossiers de concep on détaillée et générale.
+  Validation des plans de tests et des jeux d'essais.
+  Suivi de l’exécution des scénarii de tests et la ges on des anomalies ti Ac vités TMA.
+Environnement technique : SAP ECC6.0 – SRM et CRM
+
+ Période : Novembre 2007 à Décembre 2009
+ Entreprise : Agence de Mutualisation des Universités et Établissements
+ Rôle : Consultant fonctionnel SAP finance – Projet SAP SIFAC
+
+Contexte : 
+Mise en place d’une comptabilité analytique pour obtenir des coûts complets pour un meilleur pilotage de
+l’activité.
+Tâches
+    Analyse du cahier des charges, des spéciﬁcations fonctionnelles et des évolutions des applications de
+      gestions.
+   tifinancières et comptables.
+    Rédaction des dossiers de concep on détaillée et générale ;
+    Paramétrage SAP FI.
+    Réalisation des UAT.
+    Intégration FI avec les modules achats et ventes (MM et SD).
+    Rédaction de documentations de formation Support aux utilisateurs.
+Environnement technique : SAP ECC6.0
+
+
+ Période : Octobre 2006 à Octobre 2007
+ Entreprise : DSI École centrale de Paris
+ Rôle : Consultant Fonctionnel SAP logistique et finance
+
+Contexte : 
+Déploiement de SIFAC SAP Modules MM/SD/FI/CO
+Tâches : 
+     Analyse des besoins clients
+     Analyse fonctionnelle par processus
+     Recueil des besoins fonctionnels et rédaction de l’expression des besoins dédiée au support applica f
+      SAP
+  Mise en place de Core Model, déploiement
+  Paramétrage, tests et intégration fonctionnelle
+  Reprise des données (LSMW)
+  Support aux utilisateurs
+Environnement technique : SAP ECC6.0
+
+ Période : Novembre 2005 à Septembre 2006
+ Entreprise : BNP PARIBAS Personal Finance
+ Rôle : Coordinateur d'équipes de tests – Projet Cetelem Banque ti Direct Assurance
+
+Contexte: La mission s’inscrit dans le cadre du projet Cetelem Banque - Direct Assurance, qui consiste à intégrer des produits
+direct assurance dans l’oﬀre de CETELEM BANQUE.
+Tâches: 
+   Mise en place de stratégie de tests
+   Elaboration d'un plan de tests (étapes, scénarii et cahier de receMe...)
+   Etablissement et suivi destifiches d'anomalie
+   Méthodes d’amélioration des processus de tests
+   Management des équipes avec répar on des tâches et suivi des plannings ti Reporting d'avancement.
+Environnement technique : SIEBEL - SICLID -HARY / HP Quality Center
+
+
+
+
+                                                                                                                       9

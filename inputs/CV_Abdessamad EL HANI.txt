@@ -1,0 +1,56 @@
+
+Consultant fonctionnel sénior – Support Fonctionnel & Recette
+Complètement bilingue en anglais
+
+
+Langues
+Anglais : Bilingue
+
+CompÉtences
+Projets SI: Méthodes Agiles (Scrum)
+Base de données: Bonnes connaissances en SQL
+Outils: Jira, Xray, Squash, Microsoft Power BI, Oracle SQL Developer, Confluence, ServiceNow, Postman, SoapUI, Kibana, Elasticsearch, AppDynamics, ServiceNav, Spotfire, PuTTY, MobaXterm (SSH), Gitlab, Office 365
+
+
+Diplômes:
+2018 - Master Management Information System & Digital Business Consulting
+IAE Marseille, Marseille
+
+ExpÉriences professionnelles
+HSBC banque, Île-de-France
+De 06/21 à 04/25 (46 mois) – Consultant Support Fonctionnel niveau 2 & Conduite du changement
+Tâches :
+Recevoir et prendre en charge les questions et les incidents signalés par les utilisateurs sur l’outil ServiceNow
+Gérer le backlog des incidents et des demandes pour assurer un traitement efficace
+Élaborer des procédures et des solutions pour résoudre les problèmes rencontrés et les documenter dans Confluence
+Assurer le suivi du statut et de l'avancement des bugs signalés en centralisant les informations dans Confluence
+Collaborer étroitement avec les utilisateurs et les équipes techniques pour résoudre les incidents
+Évaluer les performances en calculant des indicateurs tels que l'âge moyen du backlog des incidents, le délai de résolution, et le ratio incidents ouverts/clos
+Réaliser un suivi hebdomadaire du traitement des incidents en se basant sur les indicateurs de performance établis
+Supervision des traitements batchs via TSO ou Spotfire en production et intervention en cas d’échec
+Examiner les logs pour identifier les causes profondes des problèmes et proposer des solutions appropriées via Kibana & Elasticsearch
+Surveiller les performances et la disponibilité des applications à l’aide d’AppDynamics et ServiceNav
+Coordonner les échanges avec les équipes internes et les parties prenantes externes lors d’incidents liés aux traitements batch ou aux flux de streaming data
+Animation des cellules de crise en environnement de production : diagnostic collaboratif, mobilisation des ressources clés et suivi post-mortem pour éviter les récurrences
+Administrer les fiches utilisateurs et maintenir leur intégrité
+Préparation de la conduite du changement et rédaction des livrables d’accompagnement : User Guide, Mode d’emploi … en les consolidant sur Confluence
+Élaboration d'un programme de formation pour les utilisateurs, avec mise à disposition des supports sur Confluence
+
+Allianz Trade, Île-de-France
+De 09/2018 à 04/2021 (32 mois) – Testeur Fonctionnel & API
+Tâches
+Construction des plans de test de chaque sprint agile sur Xray
+Conception des jeux d’essai et définition des données de tests nécessaires à la validation des cas métiers
+Exécution rigoureuse des scénarios de test manuels avec une attention portée à la couverture fonctionnelle
+Enregistrement, qualification et suivi des incidents dans JIRA jusqu’à leur clôture, en lien avec les équipes de développement et la TMA
+Réalisation de campagnes de tests de non-régression pour sécuriser les mises en production récurrentes
+Coordination et pilotage des actions de la TMA afin d’assurer un traitement efficace des anomalies fonctionnelles
+Utilisation des documents Swagger pour analyser les contrats d’API REST et structurer les tests d’intégration
+Mise en œuvre de tests d’API via POSTMAN et SoapUI : simulation d'appels aux services REST avec manipulation des méthodes GET, POST, PUT, DELETE
+Analyse des réponses JSON/XML pour s’assurer de la conformité fonctionnelle et technique des flux inter-applicatifs
+Vérification de la cohérence des interfaces exposées avec les spécifications métiers et techniques
+Collaboration avec les développeurs pour garantir la bonne prise en compte des retours de test sur les web services
+Participation aux rituels agiles et contribution au suivi qualité tout au long du sprint
+Rédaction du procès-verbal de recette fonctionnelle à chaque cycle de validation, avec synthèse des tests effectués et des anomalies corrigées
+Production de reportings hebdomadaires pour suivre la progression des tests et des corrections en lien avec la TMA
+Élaboration de la stratégie de recette

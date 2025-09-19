@@ -1,0 +1,166 @@
+REF: UTIGROUP_ABE
+Business Analyst CRM SALESFORCE
+
+COMPETENCES FONCTIONNELLES
+CRM Salesforce:
+RANGER 194 badges, 3 super badges
+Business Administration Specialist Superbadge
+Lightning Experience Reports & Dashboards Specialist Superbadge
+Security Specialist Superbadge
+Maîtrise d’ouvrage :
+Recueil et Analyse des exigences fonctionnelles
+Rédaction d’expressions de besoin et des spécifications détaillées
+Rédaction de cas de Test pour les utilisateurs UAT et tests de non régression
+Documentation
+Utilisation d’ALM (Quality Center) pour suivre la recette
+Conduite de projet :
+Recueil et analyse des besoins, participation aux workshops
+Rédaction de cahiers des charges et des spécifications fonctionnelles
+Organisation et réalisation des recettes : techniques, fonctionnelles, intégration, Etude de faisabilité, analyse d’impacts UAT et non régression
+Organisation et accompagnement des releases
+Conduite du changement : communication, modes opératoires, procédures
+
+COMPETENCES TECHNIQUES
+Business Analyse
+Définition du besoin
+Support utilisateurs
+Squash, Jira, AzureDevops
+Fondamentaux du Marketing Digital - Google
+Excel (Formules/TCD)
+SQL
+CRM Salesforce
+
+DIPLOMES
+2014-2015 : MASTÈRE SPÉCIALISÉ - INSTITUT MINES- TELECOM BUSINESS SCHOOL- Evry, France
+2009-2012 : DIPLÔME D’INGENIEUR - ESPRIT - Tunis, Tunisie
+2007-2009 : PREMIER CYCLE - INSTITUT PREPARATOIRE AUX ETUDES D’INGENIEURS DE TUNIS - Tunis, Tunisie
+
+LANGUES
+Anglais : opérationnel
+
+EXPERIENCES PROFESSIONNELLES
+ARDIAN (Depuis Octobre 2022)
+BUSINESS ANALYST, SUPPORT UTILISATEURS
+Contexte: Maintenance évolutive et corrective des applications internes chez ARDIAN (PortfolioManagementTool/iCredit)
+Taches
+Recueil des besoins auprès des utilisateurs/ métier
+Assurer le support des utilisateurs au quotidien
+Documenter ces applications (procédures, modes opératoires, manuels de formation)
+Suivi de l’avancement sur Azure Devops
+Gestion des anomalies : détection, analyse et suivi
+Création des demandes ServiceNow et suivi des livraisons avec le prestataire Thalès en UAT et Prod
+Recette des bugs/ évolutions finalisés par les Devs
+Gestion des priorités, Affectation des tickets dans l’équipe et suivi de l’avancement et du reste à faire
+Weekly avec le TechLead et le Manager
+Environnement technique : Azure Devops, Confluence
+
+VINCI (Avril - Septembre 2022)
+BUSINESS ANALYST, SUPPORT UTILISATEURS
+Contexte: Mise en place de Salesforce pour les chantiers de Vinci MedPrefa
+Taches
+Ateliers recueil du besoin
+Rédaction des User Stories qui répondent au besoin
+Sprint reviews avec les utilisateurs
+Implémentation de la solution sur Salesforce : Création d’objets, fields, flows, validation rules, list views, reports, page layout, lightening pages, dynamic forms
+Automatisation d’opérations grâce aux workflows/ boutons/custom notifications
+Accompagnement en phase d’UAT
+Exécution de la recette et suivi Business As Usual
+Amélioration de la qualité de données suite à la migration pour Ingenico TSS (Terminaux, Solutions et Services)
+Reconstitution des Dashboards/Reports perdus pour Ingenico
+Chargement des nouvelles listes du catalogue de produits commercialisés par Ingenico
+Assistance/ support après migration WorldLine (Ingenico TSS)
+Environnement technique : CRM Salesforce, Agile
+
+Février 2018 à Mars 2022: ALGOFI (4 ans)
+SENIOR BUSINESS ANALYST
+Contexte: Natixis ~ 8 mois
+Projet de mise en place d’un outil d’océrisation Salesforce, développé par un partenaire externe afin de réduire la saisie manuelle des états financiers et des projections. Equipes financements structurés.
+Taches
+Rédaction/modification des spécifications
+Comptes rendus suite réunions avec le business
+Schématiser les user workflows avec le partenaire ISV
+Recueil des besoins, étude de faisabilité et organisation des échanges avec la TMA/ Mode Agile
+Tests : Nouvelles fonctionnalités et Non régression
+Environnement technique : Singular (construit sur du Salesforce), Microsoft Excel, Confluence, Jira, CRM Salesforce, nCino
+
+Février 2018 à Mars 2022: ALGOFI (4 ans)
+SENIOR BUSINESS ANALYST
+Contexte : Amundi Asset Management ~ 18 mois
+Taches
+Mise à jour des informations des Users/ Groupes/ Permission sets sur Salesforce lightning
+Analyse comparative de données entre deux CRM
+Charger les fichiers dans Salesforce et éviter les doublons
+Modification et génération de Reports/ Dashboards dans Salesforce
+Modification des Approval process/ Workflows
+Suivi du développement d’un nouvel outil de reporting excel: opérations de souscription/ rachat, info clients, info FCP
+Assurer une remontée de qualité et la plus automatisée possible des encours et des flux des clients
+Maîtriser et justifier les ajustements ‘manuels’
+Rédaction/ modification des spécifications et Tests : Nouvelles fonctionnalités et Non régression
+Modification d’Approval process/ Custom fields/ Page Layouts
+Coordination avec l’ensemble des intervenants projet : instances, correspondants, MOA, IT. / suivi des actions de remédiation avec les Devs
+Recueil des besoins, étude de faisabilité et organisation des échanges avec la TMA
+Environnement technique : Tableau software, SQL, Microsoft Excel, Oracle Business Intelligence, Jira, Agile, CRM Salesforce
+
+Février 2018 à Mars 2022: ALGOFI (4 ans)
+SENIOR BUSINESS ANALYST
+Contexte: BNP PARIBAS ~ 18 mois
+Taches
+Rédaction/ modification des spécifications et Tests : Nouvelles fonctionnalités et Non régression
+Modification d’Approval process/ Custom fields/ Page Layouts
+Coordination avec l’ensemble des intervenants projet : instances, correspondants, MOA, IT. / suivi des actions de remédiation avec les Devs
+Recueil des besoins, étude de faisabilité et organisation des échanges avec la TMA
+Environnement technique : Tableau software, SQL, Microsoft Excel, Oracle Business Intelligence, Jira, Agile, CRM Salesforce
+
+2015 – 2018: ECONOCOM (3 ans)
+BUSINESS ANALYST
+Contexte: BNP Paribas (14 mois)
+Contexte : Outil d’allocation des coûts, de simulation budgétaire et de reporting à disposition des fonctions et métiers
+Taches
+Recueil des besoins, étude de faisabilité et organisation des échanges avec le prestataire
+Rédaction des spécifications fonctionnelles, suivi des développements et stratégie de recette
+Accompagnement de la MOA fonction risque sur l’implémentation de nouveaux besoins fonctionnels
+Suivi et encadrement des équipes de développement en Roumanie
+Environnement technique : SQL, application interne, Jira
+
+2015 – 2018: ECONOCOM (3 ans)
+BUSINESS ANALYST
+Contexte: Crédit Agricole (Pacifica/Predica/ CACI) (6 mois)
+Taches
+Amélioration du portail collaboratif et des paramètres de sécurité, en fonction des profils et des groupes
+Aider le client à organiser un grand atelier de brainstorming entre les agences régionales
+Environnement technique : SQL, application interne, MS Office
+
+2015 – 2018: ECONOCOM (3 ans)
+BUSINESS ANALYST
+Contexte: Natixis Lease (7 mois)
+Projet au forfait avec une équipe de l’éditeur Cassiopae dans les locaux de Natixis. Migration de la version V3 vers la version V4.5 de Cassiopae.
+Intégration de Cassiope sur la partie Leasing -Recette fonctionnelle, Tests d’Acceptation et Tests unitaires.
+Taches
+Exécution des plans de tests et aide à prioriser les correctifs à livrer selon les besoins du client
+Stratégie de recette fonctionnelle de l’ERP Cassiopae, en mode Agile et en collaboration avec l’éditeur
+Environnement technique : SQL, Cassiopae (crédit, financement), Filezilla, Jira, Agile
+
+2015 – 2018: ECONOCOM (3 ans)
+BUSINESS ANALYST
+Contexte: GENERALI Assurances (6 mois)
+Contexte : Consultant fonctionnel - Étude sur le contexte, les pratiques et les outils existants pour la comptabilité
+Taches
+Participation à la rédaction des documents de l’étude préalable (besoins et exigences fonctionnelles, processus, définition de la cible)
+Analyse et interprétation des informations/ données collectées auprès des métiers
+Définition d’une stratégie d’exécution garantissant une piste d’audit fiable et des comptes justifiés
+Environnement technique : Microsoft Office, applications internes
+
+2013 – 2014 (1 an): TATA CONSULTANCY SERVICES, New Delhi, Inde
+Support IT & Maintenance applicative
+Contexte: General Electric Europe
+Taches
+Organisation et allocation des tâches dans l’équipe afin d’optimiser le traitement des demandes en attentes
+Enseignement des bases du Français aux membres de l’équipe
+Conseil et accompagnement des utilisateurs pour l’utilisation d’un CRM de leasing
+Suivi de l’avancement du développement/ traitement des demandes des clients et reporting quotidien
+Environnement technique : SQL, Microsoft Office, HP ALM, Jira
+
+UTI GROUP        Contact commercial: Claire DESCHARREAUX
+SA au capital de 638 350,68 €        06 63 64 33 06
+68, rue de Villiers Levallois-Perret Cedex        claire.descharreaux@uti-group.com
+www.uti-group.com    1/1

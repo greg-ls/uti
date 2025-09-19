@@ -1,0 +1,117 @@
+Isabelle MATHEY
+Analyste Programmeur/ Responsable d'Application AS400
+
+DOMAINES D’INTERVENTIONS
+Analyses fonctionnelles et techniques,
+Développement, tests unitaires, d'intégration et de non-régression,
+Support de recette,
+Formation utilisateurs
+Accompagnement et support technique et fonctionnel
+Intervention sur incident.
+
+COMPÉTENCES TECHNIQUES
+Développement Transact-SQL, Visual studio 2005/2012, Lotus Script, Perforce, RPGIII, RPGIV, RPG ILE, RPG FREE, CLP, QUERY, SQL, IBM Rational Developer
+SGBD MS SQL Server (2005) , DB2,
+Systèmes AS400, et Windows
+Progiciels, ERP MS BI (SSIS), Lotus Notes Domino, SAP BW/BI FI/CO PM SD/MM, Remedy
+
+DOMAINES FONCTIONNELS
+Business Intelligence, CRM, Administration Des Ventes, Banque,
+
+FORMATION
+1985 DUT Statistiques et Informatique
+
+LANGUES
+Anglais : opérationnel
+
+EXPÉRIENCE PROFESSIONNELLE
+Depuis février 2020 : Groupe CHAMPION 14 sociétés pour 18 établissements
+Analyste-Programmeur
+Activités :
+Traitement des demandes utilisateurs et des incidents
+Gestion de la relation avec le fournisseur IBM pour l’Iseries
+Exploitation et suivi des travaux de l’ERP de gestion commerciale DEFI
+Retro documentation des programmes RPG, RPGLE, QMQRY, SQL et langage de contrôle dans le cadre des demandes utilisateurs, des incidents et du déploiement du futur ERP M3.
+Analyse technico-fonctionnelle, Développements, tests unitaires, tests de non-régression
+Suivi de la procédure d’inventaire de fin d’année en magasins.
+Projets :
+Domaine Iseries , gestion commerciale , finance
+Maintenance des interfaces DEFI-Comptabilité INFOR ANAEL pour les tiers, les écritures comptables achats, ventes, caisses et les paiements du site web par Paypal  et Hipay
+Paramétrage des clients livraison pour compte et transfert dans le cadre de la création de nouveaux magasins
+Migration par une save21 de toutes les applications de l’Iseries vers un nouvel Iseries en Juin 2020
+Gestion des menus utilisateurs.
+Réinitialisation du compteur des dossiers clients avec maintenance corrective sur les procédures d’archivage sur des mois glissants de DEFI
+Dématérialisation des éditions de la facturation pour l’échéance de  juillet 2024
+Interface vers les sites Qweeby-Chorus pour les factures éligibles de l’administration
+Participation aux ateliers finances et audit du futur ERP M3
+Environnement technique : AS400, RPG 3 4 ILE FREE, CLP , Microsoft 365
+
+Depuis mars 2016 : HSBC
+Analyste-Programmeur
+Activités :
+Lien MOA/MOE
+Analyse technico-fonctionnelle, Développements, tests unitaires, tests de non-régression
+Traitement administratif des changements pour les mises en production
+Intervention sur les incidents
+Projets :
+Domaine AS400 et Clients :
+Développement d’une interface entre le progiciel SAB et le Core Banking pour la gestion des clients. Celle-ci maintient plus de 40 fichiers en temps réel ou batch et se substitue aux applications existantes avant l’implémentation de SAB.
+Synchronisation et déploiement de nouvelles versions d’applications maison-mère avec du spécifique France :
+GSIF : Extraction quotidienne des données clients pour la « customer du diligence » vers la maison mère.
+FATCA–CRS : Règlementaire des obligations fiscales internationales et européennes
+Maintenance corrective :
+Sur la mobilité bancaire de la loi MACRON
+Sur la consultation de la synthèse des comptes clients
+Pour le calcul de la ligne métier dans la mise à jour client interactive
+Environnement technique : AS400, RPG 3 4 ILE FREE, CLP, IBM Rational Developer
+
+1988 2015 : Agfa Graphics
+Parcours :
+2010-2016 : Responsable Application en environnement international
+2006-2010 : Responsable Application pour l’Europe
+1988-2006 : Analyste Programmeur puis Responsable Application Graphique
+Activités :
+Analyses fonctionnelles et techniques,
+Développement, tests unitaires, d'intégration et de non-régression,
+Support de recette,
+Formation utilisateurs
+Accompagnement et support technique et fonctionnel
+Intervention sur incident
+Langue de travail : français, anglais
+Projets :
+Domaine CRM et BI :
+Maintenance évolutive et corrective du CRM : développement, test et mise en production
+Développement d’une interface d’exportation des données CRM de Lotus Notes vers MS-SQL
+Création et modification des tables de la base de données MS-SQL et des procédures rattachées
+Maintenance des packages SSIS et déploiement des solutions
+Extraction et mise en forme des données de Business Intelligence pour l’outil Account Explorer Tool
+Suivi en production de la publication mensuelle de l’outil AET
+Conférence call avec ma hiérarchie et déplacement en Belgique pour le suivi des projets
+Création des bases de documents du CRM à chaque lancement de pays : 27 pays au total
+Gestion de la sécurité d'accès pour 1000 utilisateurs et suivi d'exploitation des bases de données
+Développement des agents Lotus script de mise à jour des données
+Installation sur les AS400 d'Europe des extractions des données clients pour alimenter le CRM
+Développement des interfaces d’importation des données clients de SAP dans le CRM
+Migration de 2 serveurs MS-SQL 2000 de France vers 6 serveurs MS-SQL 2005 en Belgique
+Domaine AS400 :
+Mise en place d’un logiciel de traitement des commandes de systèmes d’équipements
+Gestion des menus utilisateurs et formation de 20 utilisateurs
+Développement des applications : Statistiques Commerciales, Commissionnement, Ristournes, Facturations
+Mise en place des applications techniques de la maison-mère (Parc machine – Contrats - SAV) avec reprise de données de 2 anciennes applications des divisions commerciales Copie et Graphique
+Développement des interfaces locales dues à la gestion du magasin sur un système ES/9000
+Développement de requêtes Query pour les services Finance et Administration des Ventes
+Extraction de données pour la génération de powercubes avec Cognos Powerplay
+Déploiement des nouvelles versions des applications ADV de la maison-mère pour la France.
+Migration de toutes les applications d'un IBM38 vers un AS400
+Environnement technique :
+MS BI (SSIS), Lotus Notes Domino, Lotus script, SAP BW/BI FI/CO
+IBM38, AS400 RPG 3 4 ILE FREE, SQL
+
+1986 –1988 Nestlé – Ex Rowntree-Machintosh Noisiel (77)
+Programmeur
+Sous IBM38, développement dans le domaine statistique et commercial
+
+UTI GROUP Vincent Foulquier
+SA au capital de 1 723 459 € 06 77 19 25 94
+68, rue de Villiers Levallois-Perret Cedex vincent.foulquier@uti-group.com
+Tel : 01 41 49 05 10 1/2 www.uti-group.com

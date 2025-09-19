@@ -1,0 +1,136 @@
+Senior Data Analyst
+Secteur d’activités : Luxe, Banque, Industrie, Distribution spécialisée
+Compétences techniques
+
+Connaissances : Cadrage, Pilotage, Modélisation, Développement, Recette, Méthodologie Agile (Scrum)
+Langages : SQL, DAX, BigQuerry, Python
+Outils : Power BI, GCP, Alteryx, Postgresql, Snowflake, SAP BO, SQL Server, PowerShell, Talend, Suite Microsoft (SSIS), Datastage, Oracle, DollarUniverse, Azure, Jira, Draw.io, ControlM, Blue Yonder
+
+Certifications : 
+PL-300 : Power BI Data Analyst Associate ID Certif : 17B0FD-6N1848
+
+Expériences professionnelles:
+SEPHORA – BI REFERENT Septembre 2024 à Aujourd’hui
+Prestation pour le compte de l’équipe Offre Europe de Sephora :
+Référent métier BI auprès de plusieurs hubs européens.
+Cadrage de la migration vers Power BI.
+Mise en œuvre et coordination de la conduite du changement.
+Suivi de l’avancement du projet en lien avec le Product Owner.
+Formation des équipes métier à Power BI.
+Migration des rapports.
+Secteur d’activité : Retail
+Domaine fonctionnel : Luxe
+Contexte technique : GCP, Power BI
+
+Bonpoint – Data Analyst Mars 2024 à août 2024
+Prestation pour le compte de la DSI de la Maison Bonpoint :
+Consolidation des données issues des différentes applications métier.
+Création d’un reporting unifié sur Power BI.
+Calcul des KPI fiables et pertinents au service de la prise de décision.
+Mettre à la disposition du client une solution maitrisée en interne pour permettre la maintenance et les évolutions.
+Secteur d’activité : Industrie
+Domaine fonctionnel : Luxe
+Contexte technique : Alteryx, Power BI
+
+RIMOWA – Data Engineer Juillet 2023 à février 2024
+Prestation pour le compte de la DSI et l’équipe CRM de RIMOWA :
+Analyse des besoins métiers.
+Développement, déploiement et maintenance des pipelines de données ETL/ELT.
+Recette technique
+Gestion des incidents et problèmes techniques liés à Google Cloud.
+Surveillance et gestion des coûts liés à l'utilisation des services GCP.
+Optimisation des requêtes SQL pour améliorer les performances dans BigQuerry.
+Secteur d’activité : Industrie
+Domaine fonctionnel : Luxe
+Contexte technique : GCP, Power BI, Jira
+
+KERING – Data Engineer Septembre 2022 à juin 2023
+Prestation pour le compte de la DSI et l’équipe des Ressources Humaines du Groupe KERING :
+Analyse des besoins métiers
+Identification des sources de données (Bases de données, applications, …)
+Etablissement des connexions Power BI → GCP
+Mise en place des Dashboard Power BI
+Formation des collaborateurs internes à Power BI
+Recette technique / fonctionnelle
+Secteur d’activité : Industrie
+Domaine fonctionnel : Luxe
+Contexte technique : Power BI, GCP, Jira
+
+Renault Group – Data Analyst Janvier 2022 à septembre 2022
+Prestation pour le compte de l’équipe Cloud Platform Connected Vehicles de Renault Group :
+Traitement, exploitation et intégration des données
+Création des Rapports PBI
+Mise en place de KPIs et reporting des performances
+Mise en place de process d’automatisation
+Gestion des incidents
+Secteur d’activité : Industrie
+Domaine fonctionnel : Automobile
+Contexte technique : Power BI, Power Automate, Postgresql, Jira, ServiceNow
+
+Société Générale – Business Analyst Juillet 2021 à décembre 2021
+Prestation pour le compte de l’équipe du Pilotage Commercial de la Société Générale :
+Accompagnement des évolutions du système décisionnel
+Traitement des retours métier
+Recette technique (Datastage, SQL)
+Animation des ateliers métier et étude de besoin
+Rédaction des spécifications fonctionnelles
+Priorisation et traitement des JIRA
+Secteur d’activité : Banque
+Domaine fonctionnel : Finance
+Contexte technique : Datastage, SQL, Unix, Teradata
+
+BNP Paribas – Business Analyst Janvier 2021 à juillet 2021
+Prestation pour le compte de la banque BNP Paribas, équipe BMSA chargée du monitoring des données et la gestion des applications bancaires :
+Rédactions des spécifications fonctionnelles
+Recette technique
+Création des mapping de données
+Rédaction des dictionnaires de données
+Recette des flux de données (paiements, transactions, messages...) en fonction des normes métier
+Animation des ateliers métier et études de besoin
+Animation et participation aux daily meetings
+Participation / Animation des cérémonies agiles (Poker Planning, Sprint Review, Retrospective)
+Création des user stories pour alimenter la backlog
+Secteur d’activité : Banque
+Domaine fonctionnel : Finance
+Contexte technique : Json, SSIS, SSMS (Travail en mode agile)
+
+REXEL – GPA/TMA Décembre 2019 à janvier 2021
+Prestation pour le compte de la DSI de REXEL, équipe GPA/TMA chargée de la maintenance et de la gestion des applications en production (Suivi d’exploitation) :
+Exploitation Applicative, administration du plan Batch
+Maintenance corrective / maintenance évolutive
+Evolution des procédures stockées
+Support technique, Traitement de tickets
+Monitoring et contrôle du plan de PROD
+Livraisons
+Secteur d’activité : Distribution spécialisée
+Domaine fonctionnel : DSI Production / DSI BI
+Contexte technique : SQL Server, MS BI (SSIS SSAS), Talend, Azure, Power BI, QlikSense, DollarUniverse.
+
+BRED – MOE Novembre 2018 à décembre 2019
+Prestation pour le compte de la DSI BRED, équipe en charge de la maîtrise et du développement du Système d’Information décisionnel de la banque :
+Création et développement des flux décisionnels
+Création des tables SQL/DDL
+Gestion des bases de données
+Migration de données
+Recette technique (Datastage, SQL)
+Rédaction des expressions de besoin
+Conduite d’ateliers avec les métiers
+Monitoring du plan de PROD
+Maintenance du Système d’Information décisionnel
+Traitement des retours métier
+Animation et participation aux daily meetings
+Participation / Animation des cérémonies agiles (Poker Plannig, Sprint Review, Retrospective)
+Création des user stories pour alimenter la backlog
+Secteur d’activité : Banque
+Domaine fonctionnel : Finance
+Contexte technique : Datastage, Dbeaver, Squirrel, ControlM, PowerShell, PowerAMC (Travail en mode agile)
+
+Diplômes:
+2018 Master Veille Stratégique Intelligence et Innovation – Université de Lille
+2017 Ingénieur de données – Ecole des Sciences de l’information (ESI) (Rabat, Maroc)
+2014 Classes préparatoires MP – Lycée IBN GHAZI (Rabat, Maroc)
+
+Langues
+Arabe : Langue maternelle
+Français : Lu, parlé et écrit
+Anglais : Lu, parlé et écrit

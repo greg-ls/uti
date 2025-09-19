@@ -1,0 +1,182 @@
+Support technique et fonctionnel
+Agile, C#, VB.NET, SQL, Service Now
+
+CONNAISSANCES TECHNIQUES
+Langages : C#, VB.NET, SQL, T-SQL, Visual Basic, C
+Frameworks : .Net, WinForms, Entity Framework
+Base de données : SQL SERVER
+IDE : Visual Studio
+Outils versionning : TFS
+Méthodologies : Agile Scrum, Cycle en V
+
+FORMATIONS
+Janvier-Juin 2015 : Formation diplômante de niveau Bac+4 « Concepteur Développeur Informatique » - Centre de formation DORANCO, Paris 20ème
+Dec 2003-Juin2004 : Formation Technicien Supérieur Systèmes et Réseaux informatiques - Centre de formation GEFI, Créteil
+1987-1992 : Ingénieur Electronique Institut d’électronique Tizi-Ouzou (Algérie)
+De 1993 à 1999 : Doctorat Electronique à l’Université de Valenciennes
+
+LANGUES
+Anglais : Lu, Ecrit, Parlé
+
+EXPERIENCE PROFESSIONNELLE
+Depuis Décembre 2020 : ELECTROLUX
+Support technique et fonctionnel sur l’application e-commerce B to B
+Contexte :
+Le site B to B ELECTROLUX est le site européen de vente en ligne (e-commerce) destiné à 30 pays (sur ce site, les clients comme FNAC DARTY peuvent faire des consultations, des commandes, suivre le statut du produit etc..., les bons de factures ...)
+C’est un portail internet basé sur une architecture .Net - Webforms - ASP.NET - VB.Net -Sql Server (100 % Web) (sans MVC ni Entity framework)
+
+Taches :
+Participation aux Daily Meeting
+Support technico-fonctionnel (principalement en anglais) et maintenance de l’application e-Commerce B2B développé en ASP.NET (VB.NET)
+Gestion des évolutions sur d'autres systèmes en liaison avec l'application e-Commerce (en C# ou VB.NET selon le système)
+Investigation des problèmes / Diagnostic
+Gestion des bugs et des anomalies avec l’outil Service Now
+Relation avec les K-Users
+Développement pour améliorer les outils d'administration et de monitoring
+Relation avec le Business (anglais)
+Méthodologie Agile
+Environnement technique
+.Net – Webforms – ASP.Net – VB.Net – SQL SERVER – TSQL – Procédures stockées – Agile – Service Now
+
+De Mars 2018 à Nov. 2019 : CLEAR CHANNEL (aujourd’hui Cityz Media, Boulogne-Billancourt)
+Ingénieur de Développement
+Contexte
+Evolution d’une application de gestion d’espaces publicitaires qui comprend :
+Taches
+La gestion des contenus et formats publicitaires : grands formats classiques (colle), vitrines rétroéclairées, bus, …
+La gestion des partenaires : villes (mobiliers urbains), réseaux de transport (Bus, Métros ...), …
+La gestion des cibles : les points de contact en France (rues, centres commerciaux, transports, ...), cartographie des enseignes pour optimiser le ciblage, emplacements pertinents selon divers critères
+L’évaluation de la pertinence des campagnes publicitaires par des études d'impact
+Intervention en mode Agile au sein d’une équipe de 6 personnes comprenant des développeurs, 1 Lead, 2 QA et 1 DevOps.
+Etude et compréhension du modèle de données et du processus métier
+Compréhension du besoin et de son intégration au sein de l’ensemble
+Définition des sprints et répartition des tâches,
+Conception et développement
+Tests
+Versionning sous TFS
+Réunions de planification et de suivi de l’avancement (daily meeting, réunions de sprints)
+Environnement: Visual Studio 2013, C#, .Net 4.5, WPF MVVM Light, Linq, Sql Server 2014, procédures stockées T-SQL, Entity framework 6.1, IOC Unity, Web services WCF, TFS, Agile Scrum
+
+Janvier 2018 à Avril 2018 : SGS (Arcueil)
+Ingénieur de Développement
+Contexte
+Maintenance corrective et évolutive d’un système de gestion d’information de laboratoires (LIMS : Laboratory Information Management System) :
+Taches
+Etude des différents process métiers (Prélèvement, gestion des échantillons, analyse, reporting, ...)
+Etude et compréhension du modèle de données
+Prise en charge des demandes de corrections et d’évolutions émanant des différents laboratoires
+Tests et déploiement
+Versionning sous SVN
+Réunions de planification et de suivi de l’avancement
+Environnement : Sql Server 2012, Visual Studio 2015, VB.Net, SVN
+
+Juillet 2017 à Décembre 2017 : Saint-Gobain (Aubervilliers)
+Ingénieur de Développement
+Contexte
+Maintenance corrective et évolutive d’une application Web de gestion des performances de lignes de production de verres :
+Taches
+Etude des différents process métiers et de leurs interactions
+Etude et compréhension du modèle de données
+Suivi des retours utilisateurs et maintenance corrective
+Maintenance évolutive et implémentation selon les règles de gestion
+Tests
+Déploiement sur les différents environnements (Développement, Test, Production)
+Versionning sous SVN
+Réunions de planification et de suivi de l’avancement
+Environnement : Visual Studio 2012, VB.Net, C#, WebForms, Oracle SQL Developer, PL/SQL, SVN, Service-Now, ...
+
+Mai 2016 à Juin 2017 : Allianz (La Défense)
+Ingénieur de Développement
+Contexte
+Développement de la partie Editique (génération dynamique de documents word, automation) d’une application de Tarification et de gestion de contrats d’assurance, débogage :
+Taches
+Appropriation du vocabulaire métier
+Etude du modèle de données
+Compréhension et formulation des règles de gestion
+Etude de l’existant et correction de bugs et des incohérences
+Etude des différents scénarios et Tests
+Génération dynamique des divers documents (Devis, Affaire nouvelle, Contrats, Avenants, Attestation, …) pour différentes approches (approche globale, approche par site) en fonction des garanties souscrites et du type de site
+Environnement : Visual Studio 2010, Vb.Net, Winforms, MS Access2007/2010, Word, Méthode Agile
+Développement, maintenance et support de plusieurs applications d’assurances (Gestion des demandes Clients, Tarification, Souscription, Génération de contrat, ...) :
+Maintenance corrective et évolutive
+Paramétrage et gestion des habilitations sur les applications
+Développement, correction et exécution de robots de pilotage du système IMS
+Tests
+Déploiement sur les différents environnements (Développement, Test, Production)
+Versionning sous SVN
+Réunions de planification et de suivi de l’avancement
+Environnement : VB.Net, WinForms, VBA, Word, Visual Studio 2010, SVN, Sql Server, IMS (Information Management System)
+
+De Novembre 2015 à Février 2016 : Adaming INTI (Paris Montparnasse)
+Contexte : Formateur .Net
+Environnement : Visual Studio, C# .Net, POO
+
+De Juillet 2005 à Novembre 2014 : Chopin Technologies (Villeneuve-la-Garenne)
+Ingénieur, chef de projet R&D Soft et Hard
+Contexte: 
+Développement d'une application IHM permettant la gestion et le pilotage de l'appareil de mesure par spectrométrie infrarouge.
+Taches:
+Analyse/conception
+Définition de l'architecture (structure des bases de données, fonctionnalités de l'IHM, définition de nouvelles fonctionnalités, évolutions, ...)
+Spécifications techniques
+Développement
+Implémentation logicielle
+Tests et validations
+Déploiement et installation
+Environnement : Visual Studio 2010, Vb.Net, Winforms
+Gestion et suivi de la sous-traitance de divers projets de développement d'applications
+Environnement : Visual Studio 2010, C# .Net, WinForms, Sqlce, développement de cartes électroniques
+Développement d’applications de gestion et pilotage de plusieurs appareils de mesure reliés à un PC via la liaison réseau et le port série.
+Définition de l'architecture et évolution des fonctionnalités
+Interface de contrôle et de liaison avec les différents appareils de mesure (liaison série et liaison réseau)
+Conception et intégration des modules ActiveX (VB6) gérant chaque appareil
+Tests et validations
+Déploiement et installation
+Environnement : PC sous XP et Win 2000, VB6
+Etude et test d'une chaîne d'acquisition, de gestion et de contrôle appliquée à la thermométrie sans fil.
+Etude et test de la partie hard d'acquisition : sonde<->microcontrôleur<->module wifi
+Etude et test du module client : module port d'accès wifi<->Application de gestion et contrôle
+Environnement: PC sous XP, VB6, Liaison réseau (sockets), Assembleur, PIC 18F8722, MicroshipMPLAb, ICD2 (InCircuit-Debugger), module wifi (LantronixWiPort), Module point d'accès wifi (Netgear)
+
+De Janvier 2005 à Juin 2005 : PICPROVIDEO (Saint-Michel sur Orge)
+Ingénieur R&D en Electronique (Analogique et Numérique)
+contexte : Conception et développement de modules hard et soft pour la vidéo (analogique et numérique) professionnelle et grand public.
+Environnement : VHDL (Quartus), C/C++ (Visual C++, MFC), FPGA (altera), I2C, PIC, incrustation d’images, décimation, BT656, …
+
+Mars-Sept 2002 : Ingénieur d’Etudes et de réalisation, chez 9 Telecom
+Contexte : 
+A partir d’une application opérationnelle de gestion et de programmation d’autocommutateurs :
+Tâches : 
+Evolution de l’application pour gérer plusieurs commutateurs en parallèle,
+Passage d’une programmation séquentielle à une programmation multi-threads,
+Test et validation de la nouvelle version du produit avant mise en exploitation.
+Environnement : C, Script Shell, Dec Unix, Sun Solaris (programmation multi-threads), SunLinkX25
+
+Déc 2001- Fév-2002 (3 mois), Ingénieur d’Etudes et de réalisation, chez Logatique :
+Contexte : Plate-forme de gestion et supervision de messages d’alarme.
+Tâches : 
+Définition d’un cahier des charges,
+Elaboration de la solution proposée et d’un document de conception détaillée,
+Implémentation du logiciel,
+Test et validation (simulation et test réel avec téléphones GSM).
+Environnement : PC, Linux, C (programmation multi-threads)
+
+Mai - Nov 2001 : Ingénieur d’Etudes et de réalisation, chez SAGEM
+Contexte : Envoi d’objets SMS pour téléphones GSM via la liaison série.
+Taches : 
+Elaboration d’un document de conception détaillé, -
+Etude du jeu de commandes AT du téléphone GSM utilisé,
+Elaboration du protocole d’envoi,
+Implémentation du logiciel,
+Test et validation (vitesse, nombre et dimension des objets SMS…).
+Environnement : PC, Windows NT, C sous Visual C++, Commandes AT, Oscilloscope
+
+Mai 2000 – Avril 2001 (11 mois), Ingénieur d’Etudes et de réalisation, chez XIRING
+Contexte : Conception et réalisation d’un modem acoustique pour rendre communicant par téléphone un lecteur de cartes à puces (Xiload) avec un centre serveur distant.
+
+De 1994 à 1999 : Laboratoire d’OPTO-ACOUSTO-ELECTRONIQUE
+Contexte 
+Thèse de Doctorat : 
+Taches : 
+Conception et réalisation d’un vidéoprojecteur laser stéréoscopique (images en relief).
+

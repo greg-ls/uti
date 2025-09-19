@@ -1,0 +1,174 @@
+Consultante Lead Tech BI Expertise MSBI POWER BI 10 ans d’expérience
+FORMATIONS
+2014 Formation professionnelle en Business Intelligence à Microsoft International It Academy
+Pour l’obtention du diplôme MCTS SQL Server Business Intelligence Development and Maintenance
+2014 Formation en anglais général à British Council
+Obtention du certificat en anglais général
+2013 Formation professionnelle en Oracle SQL Developer à l'ORADIST
+Obtention du diplôme OCE (Oracle Certified Expert)
+2013 Formation professionnelle en Business Intelligence à GTEC Group QLIKVIEW/TALEND/SQL Server/Sage 100 Edition Pilotée
+Diplomes
+2013 License en Informatique fondamentale (MPI Système Prépatoire Intégré) Ecole Nationale d'Ingénieurs à Carthage ENIC
+COMPETENCES OPERATIONNELLES
+MOA/AMOA Accompagnement des métiers, Animation d’atelier, Analyse des besoins, Cadrage des besoins métiers, Étude de faisabilité, Chiffrage du planning, Co-conception des solutions technique avec les architectes Conduite du changement.
+Application de la méthodologie Agile SCRUM
+Gestion de projet Pilotage technique d’équipes, Coordination, Planification des taches, Suivi des activités,
+MOE/AMOE Analyse et rédaction des spécifications Techniques, Elaboration des scénarios de test, Développements de solutions optimisées Recettes techniques / Support Métiers, Notions Réalisation de POC
+COMPETENCES TECHNIQUES
+AGILITE : Agile, Scrum, Safe, Cycle en V
+BASES DE DONNEES : SQL Server 2008-R2 / 2012 / 2014 / 2016 / 2017 / 2019, MDS
+CLOUD : AZURE DATA FACTORY, AZURE DEVOPS, CI-CD, AZURE BLOB STORAGE
+ETL : SSIS, TALEND
+PLATEFORME DEVELOPPEMNT : Visual Studio 2015 / 2017 / 2019 / 2022
+DATAVIZ : Power BI, SSRS, DevExpress Reporting
+LANGAGES : MDX, DAX, SQL, T-SQL, C#, VBA
+GESTION DE PROJET : Jira, Confluence, Git, ServiceNow
+LANGUES
+Anglais : professionnel
+EXPERIENCE PROFESSIONNELLE
+05/2024 à aujourd’hui KPMG Tech Lead BI – Experte MSBI
+Contexte : Secteurs et Comptes Prioritaires Suivi RH Recrutement Gestion des ETP (Équivalents Temps Plein)
+Taches:
+Recueil et pilotage de la réception des inputs fonctionnels
+Cadrage des besoins
+Réception des spécifications fonctionnelles, Features et User Stories
+Réception et validation des critères d’acceptance définis
+Intervention / Engagement en qualité de Tech-Lead sur la qualité technique et sur la mise en œuvre :
+Définition des bonnes pratiques et des process d’équipe (Development Workflow, MEP, CutOver ...)
+Conception de la solution technique à employer avec les architectes
+Découpage en tâches sur le backlog
+Répartition et affectation des tâches aux développeurs
+Coordination des différents intervenants
+Participation aux développement et Expertise Technique auprès de l’équipe
+Garantie de la qualité des livrables, via la mise en place de bonnes pratiques (code review, CI/CD, DoD, DoR)
+OnBoarding et accompagnement des nouvelles ressources intégrant l'équipe
+Release Management & Monitoring de la Production
+Rédaction et publication de la Release Notes Technique
+Support des recettes Métier et des tests Quality Control
+Attribution des US, Bugs aux développeurs
+Suivi du planning avec le Service Delivery Manager afin d’assurer un pilotage budgétaire efficace
+Environnement technique : SQL Server 2019 – Transact SQL MDS Visual Studio 2019, SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), SQL Server Reporting Services (SSRS) Azure Data Factory Power BI Azure Devops Git ServiceNow
+04/2023 à 05/2024 SCP (Société de Canal de Provence) Tech Lead BI – Experte MSBI
+Contexte : TMA Migration des rapports Qliksense, Qlickview, SSRS vers Power BI Mise en place de nouveaux Contexte SSIS SSAS, SSRS, Power BI
+Taches:
+Analyse et cadrage des besoins fonctionnels décrits par le Métier :
+En étroite collaboration avec les équipes métiers, afin de transformer les attentes business en solutions techniques pérennes et adaptées
+Création d’un cadre de normes et de procédures techniques :
+Garantissant la cohérence des développements, la scalabilité des solutions et l’alignement avec les standards de l’architecture d’entreprise
+Rédaction de spécifications techniques :
+En s’assurant de leur clarté et de leur faisabilité pour les équipes de développement, tout en intégrant les contraintes de performance, de sécurité et de maintenabilité
+Pilotage et supervision des équipes de développement :
+Favorisant l’agilité de code, le respect des deadlines et le mentoring des développeurs
+Support technique de haut niveau :
+Participation aux développements, résolution de problématiques complexes, arbitrage des choix et optimisation du code
+Garantie de la qualité des livrables :
+Via la mise en place de bonnes pratiques (Code Review, CI/CD ...)
+Suivi du planning et des charges et des estimations :
+En collaboration avec les Chefs de Projet et les Product Owner pour assurer un pilotage budgétaire efficace
+Contrôle des livraisons et support lors de la phase de recette
+Participation au COSUI en tant que Référente Technique :
+Représentant les enjeux techniques
+Accompagnement et formation du Métier :
+A l’usage des outils de DataViz (Type PowerBI ...) en facilitant l’adoption et l’autonomisation dans l’analyse de données
+Environnement technique : SQL Server 2019 – Transact SQL Visual Studio 2019, SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), SQL Server Reporting Services (SSRS) Talend Power BI Confluence Jira
+11/2020 à 03/2023 POLARYS – Multi Contexte en mode forfait Consultante Experte BI
+08/2022 à 03/2023 POLARYS Consultante Experte BI
+contexte: Intervention sur les projetes CCBA (Coca Cola Beverages Africa) et AFKLM (Air France)
+Projet Beqom Rapide / BI : Intégration de la solution BI dans Beqom_Rapide (*Beqom : Application de calcul de rémunération variable)
+Taches :
+Analyser des besoins fonctionnels décrits par le métier
+Participer à la conception de la solution
+Participer aux ateliers métier
+Développer la solution :
+Créer les objets SQL (Tables, procédures, fonctions, triggers…) (Transact SQL)
+Créer les rapports SSRS.
+Créer les pipelines sur ADF.
+Créer les objets Beqom (Grilles, rapports...)
+Accompagner le client en phase de recette
+Environnement technique : Visual Studio 2019 SQL Server Management Studio 2019 SQL Server Reporting Services (SSRS) Azure Data Factory Beqom Rapide Jira
+11/2020 à 08/2022 SOLOCAL Consultante Experte BI
+Contexte : Implémentation d’une fonctionnalité de gestion des commissions variables selon des critères spécifiques (Mensuelle et Trimestrielle) pour le service commercial Refonte des flux SSIS et des cubes SSAS du calcul des commissions variables
+Taches:
+Participer dans l’analyse des besoins fonctionnels décrits par le client
+Participer dans la conception de la solution
+Participer aux ateliers
+Développer la solution :
+Créer les objets SQL (Tables, procédures, fonctions, triggers…) – (Transact SQL)
+Créer les rapports SSRS.
+Créer les tableaux de bord Power BI
+Créer les objets Beqom (Grilles, rapports...)
+Accompagner le client en phase de recette
+Gérer le support (en mode RUN)
+Participer dans l’analyse des besoins fonctionnels décrits par le client
+Participer dans la conception de la solution
+Participer aux ateliers
+Développer la solution :
+Ajustement de la base de données (Tables, procédures, fonctions, triggers…) (Transact SQL)
+Mise en place les nouveaux flux SSIS et des cubes SSAS
+Ajustement des flux SSIS existants
+Création des rapports SSRS
+Environnement technique : Visual Studio 2019 SQL Server Management Studio 2016 SQL Server Reporting Services (SSRS) Power BI Beqom V10 Jira SQL Server Integration Services (SSIS) SQL Server Analysis Services (SSAS)
+11/2019 à 10/2020 THALES Consultante Experte BI
+Contexte: Migration d’une application d’approvisionnement basée sur des flux SSIS et des rapports SSRS/Excel.
+Maintenance et évolution des Contexte Achat et Approvisionnement basés sur des flux SSIS, des cubes SSAS et des rapports SSRS/Excel dans le cadre de la Maintenance et évolution des Contexte Achat et Approvisionnement
+Taches:
+Analyser le besoin (Technico-fonctionnelle).
+Editer des spécifications fonctionnelles et de la documentation (Technico-fonctionnelle).
+Gérer les tickets.
+Développer les demandes.
+Environnement technique : Visual Studio 2012 SQL Server Management Studio 2012 SQL Server Integration Services (SSIS) SQL Server Analysis Services (SSAS) SQL Server Reporting Services (SSRS) Oracle Developer MDX Transact SQL Jira Confluence Easy Vista Easy It
+09/2015 à 10/2019 SOFTIC Groupe EPPM Développeur Business Intelligence
+09/2018 à 10/2019 Contexte: Conception et développement d’une application de gestion commerciale
+Taches:
+Etudier les besoins client BI.
+Créer les objets SQL (Tables, procédures, fonctions, triggers…) (Transact SQL)
+Gérer les flux de données SSIS.
+Réaliser les tableaux de bord SSRS.
+Module de vente : offre, commande, bon de préparation, ordre de préparation, bon de livraisons, facture.
+Gestion de clients : information, gestion du risque, historique
+Gestion des tarifs et fidélisation : (tarifs, remises, promotions, contrats)
+Gestion des articles : (fiche, familles et catalogue)
+Etat des ventes : tableau de bord et statistique
+Module achat : demande d'acquisition, demande achat, consultation fournisseur, offre, commande, bon de réception, facture
+Gestion de fournisseur : informations, contacts, historique
+Gestion des stocks : (dépôts, état des stocks, mouvements, inventaires)
+Etat des achats : tableau de bord et statistique
+Etat des stocks : général, par dépôt, par article
+Environnement technique : Visual Studio 2015 SQL Server Management Studio 2014 SQL Server Integration Services (SSIS) SQL Server Reporting Services (SSRS)
+08/2017 à 08/2018 Projet GCP : La gestion des compétences est un outil opérationnel de Gestion des Ressources Humaines qui vise à optimiser les performances et la compétitivité de l’entreprise.
+Taches:
+Etudier les besoins client BI.
+Créer les objets SQL (Tables, procédures, fonctions, triggers…) (Transact SQL)
+Gérer les flux de données SSIS.
+Réaliser des tableaux de bord SSRS.
+Environnement technique : Visual Studio 2015 SQL Server Management Studio 2014 SQL Server Integration Services (SSIS) SQL Server Reporting Services (SSRS)
+09/2015 à 07/2017 Projet PRM : La gestion des présences est un outil professionnel assurant la gestion et le suivi horaire des membres du personnel.
+Taches:
+Etudier les besoins client BI.
+Créer les objets SQL (Tables, procédures, fonctions, triggers…) (Transact SQL)
+Gérer les cubes SSAS.
+Réaliser les tableaux de bord SSRS.
+Environnement technique : Visual Studio 2015 SQL Server Management Studio 2014 SQL Server Analysis Services (SSAS) SQL Server Reporting Services (SSRS)
+11/2014 à 08/2015 Groupe Azure HP HP Nord Afrique Business Analyst
+Contexte : Projet CRM : Une solution spécifique de gestion de la relation client
+Taches:
+Analyser les besoins du client.
+Développer les tableaux de bord demandés dans le but de suivre l'évolution des ventes afin d’améliorer les résultats.
+Environnement technique : CRM Spécifique SQL Server Management Studio 2014 SQL Server Reporting Services (SSRS)
+06/2014 à 10/2014 MEDIANET Chef de projet junior
+Contexte : Projet Web : Réalisation et gestion de Contexte, création de sites web pour des entreprises nationales et internationales.
+Taches:
+Recueillir et analyser les besoins fonctionnels décrits par le client et la rédaction des spécifications fonctionnelles.
+Assurer une veille technologique et concurrentielle
+Créer des maquettes de zoning des sites web en utilisant le logiciel balsamiqmockups
+Assurer la coordination entre le client et l’équipe technique
+Assurer la revue (structures, maquettes, développement, etc.)
+Gérer les tâches et la planification en utilisant le logiciel MindjetMindManager et Projectoria.
+Assurer le Testing : testing lors des différentes phases de création du site
+Mettre en œuvre des stratégies de référencement et du webmarketing
+Assurer la formation du back office CMS (gestion du contenu du site web) aux clients
+Gérer le suivi des contrats de maintenance
+2013 SOFTIC Groupe EPPM Stage PFE
+Stage de fin d'étude à l'EPPM au sein du département informatique : Application web en .NET : un Système de Management de Sécurité d'Information.
+2012 SOFTIC Groupe EPPM Stage PFA
+Stage de fin d'année à l'EPPM au sein du département informatique : Application web en .NET : la gestion d'organigramme de l'entreprise

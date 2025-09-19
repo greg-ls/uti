@@ -1,0 +1,113 @@
+NOS PO Expérience : 15 ans
+Agilité
+API
+Kanban
+Gitlab
+KPI
+JIRA
+Scrum
+Product Owner avec plus de 5 années d’expérience dans la gestion de produits numériques et la définition de la vision produit. Passionné par l’innovation et la création de solutions qui répondent aux besoins des utilisateurs tout en alignant les objectifs business. Expertise en gestion agile de projets, en coordination avec des équipes de développement cross-fonctionnelles, et en priorisation des besoins. Solide compréhension des méthodologies Scrum et Kanban, avec une capacité démontrée à mener des projets de la conception à la mise en production.
+
+Compétences métiers
+Gestion du backlog
+Gestion de la relation avec les parties prenantes
+Gestion d’équipe
+Compétences analytiques
+Compétences agiles: Scrum, Kanban, Agilité à l’échelle
+Vision produit et stratégie
+
+Compétences techniques
+Analyse de logs
+APIs / Postman
+SQL, Symfony, PHP, Java, Javascript, Html Linux
+Jira, Trello, Airtable
+
+Etudes et formations
+DUT Génie Logiciel - INSAT
+Formation SAFe
+Certification SCRUM Master
+Ingénieur informatique ESPRIT
+
+Langues
+Français, Anglais, Arabe
+
+Expériences clés :
+2022 PDT- Groupe Printemps PO/Analyste périmètre post achat/ logistique pour les 3 BU du groupe
+2020 SHIPPEO PPO proxy sur un projet depuis les premières phases jusqu’au Golive
+2017 STORENGY Double casquette Scrum master/Dev
+2015 GRDF Agilité, Scrum, Kanban, Holacratie
+
+06/2022 – Aujourd’hui (24 mois)
+Place Des Tendances – Groupe Printemps
+Cadre de la mission : PO / Analyste
+Contexte : Product Owner et Analyste - Implication dans l’amélioration de l’expérience client après l’achat, en prenant en charge le périmètre post-achat et logistique et optimisation du processus du cycle de vie des commandes
+Réalisations :
+Projet déménagement entrepôt BU PCOM
+Migration des données analyse et suivi des impacts
+Recette en collaboration avec les équipes du nouvel entrepôt
+
+Projet Refonte portail clcick and collect
+Projet: Optimisation du process de la gestion des anomalies entre la logistique et le service client
+Analyse besoin avec le métier/utilisateurs
+Backlog
+Recette
+Go live et assistance
+
+Projet SHIP From Store: Ativer des nouveaux magasins comme entrepôt
+API disponibilité stock
+Mise en place d’écrans et d’un process logistique adéquat pour la préparation des commandes en magasin
+Spec des Flux pour communication des données avec les outils SAP
+Amélioration des écrans du backoffice
+RUN: suivi /support / analyse des anomalies et demandes assistance
+Coordination avec les équipes métier
+Synchronisation avec les équipes IT
+Environnement technique : Agilité à l’échelle, Airtable, Oracle, Kibana, Postman, FileZilla, Zendesk, Shipup, Glopal, Kanban, SAP, Gitlab
+
+08/2020 – 06/2022 (20 mois)
+SHIPPEO
+Cadre de la mission : Proxy Product Owner
+Contexte : Projet Cost Management : Développement d’une application qui permet au client de gérer et d’avoir de la visibilité sur les coûts de ses prestataires de livraison. PO Proxy d’une équipe Agile de 5 personnes méthodologie SCRUM/ PO Proxy d’une équipe Agile de 3 personnes méthodologie KANBAN
+Réalisations :
+Rédaction des US et ticket technique et des critères d’acceptance
+Accompagnement du PO dans la construction et la gestion du backlog
+Recette et validation des tickets/US
+Rédactions des tickets de bugs
+Participation à la priorisation du backlog
+Présentation des ateliers de macro-estimation du backlog
+Réalisations :
+Raffinement des US et tickets du backlog avec estimation
+Rédaction du cahier de recette
+Accompagnement du PO dans la préparation du sprint backlog
+Accompagnement du PO dans la construction et la gestion du backlog
+Rédaction de la documentation
+Ateliers d’identification des fonctionnalités du produit et leurs criticités avec l’équipe QA
+Communication avec l’équipe Support (suivi des retours client)
+Communication avec les Pos des projets possédant une dépendance avec Cost Management
+Préparation du sprint planning + animation du sprint planning (US et tickets Ready + priorisation)
+Participation aux cérémoies Scrum (sprint planning, daily, grooming, review, rétrospectives)
+Participation aux ateliers de cadrage
+Environnement technique : SCRUM - JIRA – CONFLUENCE – TEAMRETRO– GITHUB WIKI
+
+11/2017 – 02/2020 (27 mois)
+STORENGY – Groupe ENGIE
+Cadre de la mission : Scrum Master / Développeur backend
+Contexte : Développement d’une application qui permet la livraison des autorisations de travail pour les différents intervenants sur les chantiers des sites de Storengy. Travail sous méthodologie AGILE Scrum au sein d’une équipe de 9 personnes (position de Scrum master et développeur)
+Réalisations :
+Animation de la planification des sprints (sprint de 2 semaines)
+Raffinement des user stories du backlog.
+Animation des rétrospectives
+Rédaction du compte-rendu de la rétrospective
+Coaching de l’équipe dev dans le processus du découpage des tâches
+Conception et implémentation des API avec API Platform :
+Documentation des API avec swagger
+Suivi de l’avancement des tâches au cours du sprint
+Indicateurs de l’avancement sur le projet
+Environnement technique : SYMFONY 3.4 – PHP 7 – API PLATFORM – REST – SWAGGER – POSTGRESQL – HTML – TWIG – GIT – GIT FLOW – GITLAB – SCRUM – DOCKER – PHPUNIT – JIRA – CONFLUENCE – TDD
+
+05/2015 – 11/2017 (28 mois)
+GRDF – Groupe ENGIE
+Cadre de la mission : Développeur backend
+Contexte : Participation à plusieurs projets sous la méthodologie SCRUM . Organisation de l’équipe inspirée de l'holacratie
+Environnement technique : SYMFONY 2.8 – PHP 5.4 – MYSQL – MONGODB – TWIG – ANGULARJS – JQUERY – GIT – GIT FLOW – KANBAN – VAGRANT – DOCKER – PHPUNIT – BEHAT – PHPSTORM – JIRA – JENKINS – CONFLUENCE
+
+Maltem Consulting Group 8 place du marché, 92200 Neuilly sur Seine. Tél +33 (0) 1 77 78 13 00 +33 (0) 1 77 78 13 01 contact@maltem.com

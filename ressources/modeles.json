@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Levallois",
+        "status": "ON",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_UTI02.docx",
+        "description": "default template for the app"
+    },
+    {
+        "name": "OLD PARIS",
+        "status": "OFF",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_UTI01.docx",
+        "description": "default template used before September 2024"
+    }, 
+    {
+        "name": "Adrien AUBERT",
+        "status": "ON",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_adrien_aubert.docx",
+        "description": "Template for Adrien AUBERT, Schiltigheim"
+    },
+    {
+        "name": "Fabrice BARREAU",
+        "status": "ON",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_fabrice_barreau.docx",
+        "description": "Template for Fabrice BARREAU, Levallois"
+    },
+    {
+        "name": "Sylvie BRICAUD",
+        "status": "ON",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_sylvie_bricaud.docx",
+        "description": "Template for Sylvie BRICAUD, Levallois"
+    },
+    {
+        "name": "Claire DESCHARREAUX",
+        "status": "ON",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_claire_descharreaux.docx",
+        "description": "Template for Claire DESCHARREAUX, Levallois"
+    },
+    {
+        "name": "Serge MENORET",
+        "status": "ON",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_serge_menoret.docx",
+        "description": "Template for Serge MENORET, Lyon"
+    },
+    {
+        "name": "Lucas PAGLIAROLI",
+        "status": "ON",
+        "usage": 0,
+        "history": "",
+        "path": "/home/steeve/cv_format/ressources/modele_lucas_pagliaroli.docx",
+        "description": "Template for Lucas PAGLIAROLI, Lyon"
+    }
+]

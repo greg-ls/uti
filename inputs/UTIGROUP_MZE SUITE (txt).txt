@@ -1,0 +1,124 @@
+ORANGE BANK • Développeur Fullstack Java 8 - Spring • de 05/2016 à 04/2017 (1 an)
+Contexte : Création de la nouvelle banque en ligne Orange Bank.
+Equipe : 60 développeurs, 4 Scrum Master, 10 Product Owner.
+Réalisations :
+• Développer et tester les stories
+• Correction des bugs
+• Réaliser l'audit de sécurité
+• Participer à l'animation des réunions techniques
+Compétences pratiquées : Java 8, Spring, Soap/XML, REST/JSON (JAX RS),
+JPA/Hibernate, Git, Bitbucket, OpenAPI/Swagger, Maven 3.3, SQL, Liquibase, Apache
+Camel, Jenkins, Sonar, Javascript, AngularJS 1.2, Boostrap, RabbitMQ, ActiveMQ,
+MapStruct, Lombok, Junit, logback, Tomcat, cxf, Eclipse, IntelliJ, Mockto, Powermock,
+Agile scrum, Moneythor, Sab, Marketpay, Quiksign, Salesforce, Ceo, Checkngo,
+FranFinance, Geolife, Harvest, Ingenico,Inwebo, MobileConnect, Jira.
+
+LA POSTE • Développeur Back-End Java 7-8• de 02/2015 à 05/2016 (1 an et 3 mois)
+Contexte : Le module d'alimentation (ou connecteur) est un développement Java traitant
+tous les flux entrants. Les différents flux sont des web services accessibles via http ou https
+avec une authentification en basic-auth. 4 développeurs, 1 chef de projet.
+Réalisations :
+• Développement de deux nouveaux connecteurs CNP et GESPREST
+• Maintenance (correction des bugs)
+• Validation des choix techniques
+• Migration des connecteurs de JAVA 7 vers JAVA 8
+• Participer m la rédaction des spécifications techniques
+• Intégration continue via Jenkins
+
+Compétences pratiquées : Java 8, JEE 7, CDI, EJB 3.2, Rest, Json, JPA 2.1, Hibernate 4.3.x,
+MongoDB, Elastic Search Wildfly 8.2.1, Git, GitLab, Maven 3.3, SQL, SQL Server, MySQL,
+Jenkins, Sonar, JUnit 5.x, DBUnit, Mockto, Powermock, Agile scrum, Markdown, guice,
+guice-multibindings, mybatis, gson, httpclient, timesten.
+
+B FOR BANK • Développeur Fullstack • 2014
+Contexte : La cellule Etude et Développement a pour vocation de développer et de
+maintenir les applications internes en JEE utilisées dans les différents services (Contrôle de
+Gestion, Comptabilité Assurances, Consolidation, Middle Office, Reporting...) de la Gestion
+Administrative et Comptable des Placements Assurances. 20 Développeurs, 1 Scrum Master,
+5 Product Owner.
+
+Réalisations :
+• Assurer le développement des features dans le respect de la méthode agile & TDD et
+des contraintes architecturales, dans un souci constant d’optimisation
+• Réalisation des tests unitaires des fonctionnalités et participation aux phases de
+recette IT
+• Maintenance (correction des bugs)
+Compétences pratiquées : JAVA 8, GIT, Thymeleaf, Hazelcast, Spring MVC, Spring
+Security, Boostrap, jQuery, Ajax, JSTL, Taglibs, EL, T24, API, WebServices SOAP-REST,
+JSP, bower, XHTML, CSS, XML, MAVEN 3, JUnit, SOAPUI, Unix, UML, Tomcat7, JNDI,
+cache ehcache, Mysql, Eclipse LUNA, Git, IText, JXL, Jira, JUnit, EasyMock.
+
+ENI (2013) Développeur Fullstack
+Contexte : Migration une application PHP (FOP) vers une plateforme JEE; 2 développeurs, 1
+chef de projet;
+Réalisations :
+• Proposition architecture applicative sur la couche back-end Java pour la refonte du « FRONT
+OFFICE PARTENAIRES » (Projet FOP écrit en PHP) à partir du cahier des charges
+• Développement des IHM
+• Développeur des API
+• Déploiement en collaboration avec les équipes de la Production Applicative
+• Mise en place des bonnes pratiques de développement back-end Java
+Compétences pratiquées : Java EE 6, Java 6, Spring (loC, Batch, MVC, AOP),
+DisplayTag, Tiles, JQuery, Ajax, JSTL, Taglibs, EL, JPA 2.0, SQL, Hibernate 3.0,
+WebServices, Annotations, XHTML, CSS, XML, MAVEN 3, Gradle, JUnit, SOAPUI, Unix,
+Power AMC 11, UML, Tomcat7, JNDI, cache Guava, Mysql, EclipseJUNO, Mercurial-2.2.3,
+IText, JXL, Jira, JUnit, EasyMock
+
+RSI (2005) Développeur Fullstack Java/ Struts2 de Janvier 2005 à Décembre 2012
+Contexte : Participer à l’implantation d’un espace client compte Assure et RIS. Conception et
+développement d’un espace client compte Assure et RIS pour les particuliers et
+professionnelles; 4 développeurs, 1 Scrum master, 1 Product Owner.
+Détail des tâches :
+• Analyse des besoins exprimés par le Product Owner
+• Validation des choix techniques
+• Développement des composants
+• Gestion des incidents de production
+• Maintenance (correction des bugs)
+• Proposition architecture applicative sur la couche back-end Java
+• Mise en place des bonnes pratiques de développement back-end Java
+• Rédaction des spécifications techniques
+• Rédaction des documents techniques
+Compétences pratiquées : Java, J2EE, WebServices SOAP (JAX-WS), Struts2, Tiles,
+Jquery, Ajax, JSTL, EL, Log4J, SLF4J, Logback, JPA 2, Hibernate 3, Spring (loC, Batch,
+MVC, AOP), XHTML, CSS, XML, MAVEN 3, Velocity Template Engine, JUnit, easyMock.
+Méthodes : Agile Scrum
+
+F O R M A T I O N S & C E R T I F I C A T I O N S
+• Université de Montréal – Bac +5 en informatique
+• Formation Kafka – Formation Kafka – 06/2022
+• OWASP WEB Certificate 05/2025
+• Secure Coding (Java) Certificate 05/2025
+• Secure Coding (Java Spring API) Certificate 05/2025
+• Secure Coding (JavaScript Angular 2+) Certificate
+06/2025
+• AWS Certificate Cloud Practitiofier en cour
+Compétences pratiquées : Kafka, Formation
+
+C O M P É T E N C E S L I N G U I S T I Q U E S
+Anglais (Courant)
+
+C O M P É T E N C E S TECHNIQUES
+
+Agile, ANGULAR, Authentification,
+automatisation de test, AWS,
+Cassandra, CICD, clean architecture,
+CQRS, Docker, domain-driven design,
+Elastic Search, Fedora, Git, Hazelcast,
+JPA, Hibernate, HP-UX, Java,
+JavaScript, Jenkins, JSON,Kafka, Linux,
+Maven, MongoDB, Nexus, Node.js,
+Oracle, Outil, PostgreSQL, revue de
+code, Sonar, Spring, Spring Boot, SQL,
+Sécurité, TDD, Ubuntu, Unix, Versioning
+Intégration, Beidou, Bitbucket, Event
+Sourcing, GitLab, HashiCorp Vault,
+Kubernetes (k8s), Liquibase,
+SonarQube, Spring Cloud, Spring
+Cloud Gateway, Consul, Swagger,
+React.js, Microsoft SQL Server, MySQL,
+Microsoft Azure, API REST, SOAP
+Transverses
+Conception, Développement,
+Formation, industrie de l'énergie, PoC,
+sécurité, Test, veille technologique,
+Clean Code, Software craftsmanship

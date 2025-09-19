@@ -1,0 +1,108 @@
+BUSINESS ANALYST / QA
+Agilité, ALM, QC, Jira, Xray
+5 ans d’expériences
+
+COMPÉTENCES FONCTIONNELLES
+BA
+Recueil de besoin
+Étude des Spécifications fonctionnelles détaillés / Rédaction d’users stories
+Participation aux cérémonies AGILE : Daily Scrum, Sprint planning, la Démo et la Rétrospective
+QA
+Définition de la stratégie de test
+Rédaction du plan de test et préparation des jeux de données
+Qualification et validation de la recette sous ALM/QC
+Gestion des anomalies et des correctives avec JIRA
+Reporting et suivi d’avancement de la recette
+Préparation et rédaction du PV de recette
+Métier
+Epargne / IARD / Prévoyance / E-Commerce (Amélioration expérience utilisateurs)
+Méthodes Agile (Scrum, Kanban)
+
+COMPÉTENCES TECHNIQUES
+QA
+Postman
+Xray, HP ALM, Octane, JIRA, Browserstack
+Outils
+Kibana, Salesforce, Figma, Draft, App center, Browser stack
+BDD
+SQL
+Systèmes
+Windows, Mainframe
+
+CERTIFICATIONS
+2023 Certification ISTQB
+DIPLÔMES
+2016 Master Management et ressources humaines
+
+EXPERIENCE PROFESSIONNELLE
+LCL DEPUIS AVRIL 2024
+Business Analyst / QA
+Projet « LCL Mon Patrimoine » : Il s'agit d'une application web développée au sein de la tribu ACE (Assurance, Compte, Épargne), spécialement conçue pour les conseillers.
+Objectif principal : Fournir aux conseillers un outil performant leur permettant de recommander aux clients les solutions bancaires les plus adaptées et les meilleurs produits financiers.
+Impact attendu : Amélioration de la personnalisation de l'offre et optimisation des parcours clients grâce à une interface intuitive et innovante.
+Équipe : 1 Chef de projet, 4 Business Analyst, 3 conseillers bancaire, We Save (un partenaire éditeur externe)
+Tâches :
+Recueil du besoin, Conception
+Organisation d’ateliers avec l’équipe métier et les conseillers bancaires pour la définition des besoins
+Rédaction de l’expression de besoin pour la création d’un nouvel outil de restitution des données du catalogue patrimonial
+Validation du besoin avec le métier et les parties prenantes
+Tests
+Définition de la stratégie du plan de test
+Rédaction des cahiers de recette sous Octane
+Exécution des cas de tests métier avec les conseillers
+Suivi de l’avancement des recettes et gestion des anomalies
+Vérification du bon fonctionnement après mise en service
+Modification de profils clients sous Postman
+ENVIRONNEMENT TECHNIQUE :
+Outils : Octane, Catalogue patrimonial, Postman.
+Systèmes d’exploitation : Windows
+Méthodologies : Cycle en V
+
+AXA AOUT 2022- MARS 2024
+Business Analyst / QA
+Contexte : Mise en place de la nouvelle application mobile « Mon AXA » : Mon AXA est la nouvelle application mobile d'AXA France, disponible sur Android et iOS.
+Elle offre une interface intuitive et sécurisée permettant aux utilisateurs d’accéder à l’ensemble de leurs contrats d’assurance, incluant l’IARD, la Prévoyance, l’Épargne et la Santé.
+Cette application vise à améliorer l’expérience client en centralisant les informations et en facilitant la gestion des services en ligne.
+Equipe: 2 Project Manager / 2 Product Owner / 2 Business Analyst / 10 Developpeurs / 1 Test Lead / 6 QA
+Tâches :
+Analyse des besoins fonctionnels et préparation de la stratégie de test
+Collaboration avec les équipes métier pour recueillir et analyser les besoins, en s’assurant que les exigences sont bien définies
+Rédaction et mise à jour de la stratégie de test, alignée avec les objectifs et couvrant les différents types de tests nécessaires.
+Tests
+Rédaction des scénarios de test détaillés et création des plans de test en alignement avec les exigences fonctionnelles sous Xray
+Préparation des jeux de données (JDD) nécessaires pour la réalisation des tests, en s'assurant de la cohérence des données utilisées
+Réalisation des tests de bout en bout, des tests de non-régression (TNR) et des tests d’accessibilité sur des devices Android / IOS et Browserstack pour valider la conformité de l’application sous Figma
+Gestion des anomalies : détection, analyse et suivi des anomalies jusqu'à leur clôture via Jira
+Préparation et suivi de la recette métiers
+Préparation et rédaction du PV de recette détaillé, des rapports de recette (résultats des tests, anomalies, décisions)
+Vérification des logs sous Kibana
+Documentation et Reporting
+Reporting sur l’avancement de la recette, suivi des tests et des résultats via Excel et JIRA pour une visibilité continue et signalement de tout retard
+Rédaction de documents de formation et de guides utilisateurs pour les nouvelles transactions de l’application
+Agilité
+Participation aux cérémonies AGILE : Daily meeting, 3 Amigos, Pair test, Sprint planning, Sprint review, Démo de fin de sprint et réunion rétrospective.
+ENVIRONNEMENT TECHNIQUE :
+Outils : JIRA, Xray, kibana , mainframe, salesforce ,Figma , Draft , App center , Browserstack .
+Systèmes d’exploitation : Windows
+Méthodologies : Agile (scrum, Kanban)
+
+DISNEYLAND NOVEMBRE 2019 – JUILLET 2022
+Business Analyst / QA
+Contexte : Évolution de l’application Travelbox, utilisée pour la gestion et la réservation des séjours, transports, billets pour les parcs et hébergements hôteliers des clients de Disneyland Paris.
+Cette amélioration vise à optimiser l’expérience utilisateur, renforcer la fluidité des réservations et garantir une gestion plus efficace des offres et disponibilités.
+Equipe: 1 Product Owner / 1 Business Analyst / 1 Test Lead / 5 QA / 7 Developpeurs
+Tâches :
+Analyse approfondie des user stories pour comprendre les besoins et les fonctionnalités à tester
+Participation aux cérémonies AGILE : Daily meeting, Sprint planning, Démo de fin de sprint, Réunion rétrospective
+Rédaction de la stratégie de test
+Rédaction des cas de test sur HP ALM
+Préparation des environnements de test et des jeux de données (JDD)
+Détection, analyse et suivi des anomalies sous JIRA
+Vérification des web services sous Postman
+Validation de la conformité des fonctionnalités aux critères établis
+Rédaction des manuels détaillant l’utilisation des fonctionnalités pour les utilisateurs finaux
+Sessions de formation et accompagnement des utilisateurs, mise à jour des fichiers sur les nouvelles fonctionnalités
+ENVIRONNEMENT TECHNIQUE :
+Outils : ALM, JIRA, Postman
+Langage : SQL
+Système d’exploitation : Windows

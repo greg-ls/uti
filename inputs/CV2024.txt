@@ -1,0 +1,148 @@
+Brahim Mimmich
+FORMATIONS
+1994 : ADELIA (LEGRAND à Limoges)
+1992 : MERISE (I.H.E.E.S.)
+1989 : RPG III (CAP’INFO)
+1982 : RPG II
+1980 : Initiation à l’informatique (I.B.M.)
+
+diplomes
+1980 : BTS Informatique Gestion
+1978 : Baccalauréat
+
+Langue
+Anglais (Technique)
+
+compétences TECHNIQUES
+Matériels : IBM, AS/400, S36, BURROUGHS, PC et compatibles
+Languages : GAP II, GAP III, RPG IV,RPG ILE, COBOL, SQL
+L.4.G. : ADELIA, LANSA, WINDEV, DELPHI
+Systèmes : OS/400
+S.G.B.D. : ACCESS, DBASE, DB2 400
+Logiciels : QUERY, CC-MAIL, MPS 2000, BYPASS 2000, THINK 2000, X-ANALYSIS
+Réseaux : TCP/IP
+Méthodes : MERISE
+Progiciels : MAPICS, BPCS (gestion de production), COBYS (comptabilité générale et analytique), PRODSTAR (comptabilité générale, gestion de stock et gestion commerciale), ANAEL Paie, JIRA
+Bureautique : MS/OFFICE
+
+COMPETENCES fonctionnelles
+
+Analyse technique et fonctionnelle.
+
+Réalisation et maintenance évolutive et corrective de programmes.
+
+Rédaction de spécifications techniques et fonctionnelles
+
+Suivi de la gestion de projet.
+
+EXPERIENCES PROFESSIONNELLES
+Groupe UP (CHEQUE DEJEUNER) 02.2017 - 30 06 2024
+
+Ingénieur d’études et développement
+taches
+Maintenance et développement des applicatifs spécifiques à la gestion des titres de règlement.
+Contrôle et supervision des flux support niveau 2 et 3.
+
+
+INFOR GLOBAL SERVICES SOLUTIONS 05.2016 - Février 2017
+
+Ingénieur d’études et développement
+
+taches
+Participation à la mise en forme de la nouvelle version d’ANAEL paie avec la modification de l’ensemble des programmes de paramétrages et de calcul.
+
+Désigner tous les programmes sous le format Windows en utilisant l’outil (Si Workspace)
+
+Outil de relooking
+
+Création de nouvelles fonctionnalités
+Environnement technique : AS/400, RPGLE, CLP, QUERY, SQL
+
+
+MetLife 08.2015 à 12.2015
+
+Ingénieur d’études et développement
+taches
+Migration des domaines de développement et de recette sur une machine spécifique.
+
+Mise en place du processus de mise à niveau des machines production et développements.
+
+Rédaction des spécifications techniques.
+Environnement technique : AS/400, RPGLE, CLP, QUERY, SQL
+
+
+UNIPEX SOLUTIONS 05.2011 à 07.2015
+Ingénieur d’études et développement
+taches
+Migration de l’ensemble des applications du système 36 en base de données. (AS/400).
+
+Gestion du portefeuille de commandes clients.
+
+Gestion de la facturation et génération des statistiques.
+
+Gestion de stock (Inter site et emplacements).
+
+Comptabilisation des écritures.
+
+Interfaces inter applications.
+
+Rédaction des spécifications techniques.
+Environnement technique : AS/400, RPG III, RPGLE, CLP, QUERY, SQL
+
+
+UTC Fire & Sécurité (Chubb SICLI) 10.2010 à 05.2011
+
+Ingénieur développement
+taches
+Mise en place de la gestion des contrats de maintenance.
+
+Etude et réalisation divers analyses et recoupements des données commerciale pour le contrôle de gestion.
+Environnement technique : AS/400, RPG III, RPGLE, CLP, QUERY, SQL
+
+
+GIC (Editeur de logiciel) 10.2003 à 07.2010 
+
+Ingénieur d’études
+taches
+Développement et maintenance évolutive du logiciel DEFI & IDEFI.
+
+Assistance et formation aux utilisateurs.
+
+Interface inter application tels que Anael, Gecotrans, PDA …
+
+Importation des informations issues des fichiers de la base de données en format EXCEL.
+
+Exportation des données en format EXCEL vers la base de données.
+
+Rédaction des spécifications techniques.
+Environnement technique : AS/400, RPG III, RPGIV, CLP, QUERY, SQL
+
+ACTI (SSII) 05.2001 à 10.2003 
+
+Ingénieur d’études
+taches
+Développement application pour le passage à l’€uro Client : BRINK’S
+
+Développement et maintenance de l’existant Client : ADP
+Environnement technique : AS/400, RPG III, QUERY,SQL
+
+
+CAP’INFO 10.1997 à 03.2001 
+
+Ingénieur d’études
+taches
+Rénovation de deux projets pour le passage à l'an 2000 pour le compte de DIAL et du SYNTEC
+Environnement technique : AS/400, RPG III, RPG IV.
+
+LEGRAND 08.1992 à 09.1997 
+
+Ingénieur d’études
+taches
+Etude de l’existant du système d’information (environnement I.B.M. 36) :
+
+Migration des données MAPICS 36 vers MAPICS DB sur AS/400.
+
+Migration des données de la comptabilité ANAIS vers le logiciel COBYS sur as/400.
+
+Réalisation divers projets en RPG tels que la chaine facturation ….
+Environnement technique : IBM S36, AS/400, RPG II, RPG III, RPG IV, ADELIA

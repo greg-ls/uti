@@ -1,0 +1,63 @@
+AMMAR HASSOUN
+INGENIEUR D’ETUDES et DEVELOPPPEMENT IBM I (AS400)
+RPGIII, RPG iv, FREE FORMS, FULL FREE, SQL RPG, AGILE
+
+SYNTHESE DES COMPETENCES
+Systèmes : 	         IBMi OS, AS400
+Langages : 	         RPG III, RPG IV, RPG-ILE, FREE, FULL FREE, SQL RPG, SQL, CLP, RPG ZENITH
+SGBD : 	        DB2/400
+Méthodes : 	         Agile
+Outils: 	         JIRA, ARCAD, EasyVista, Arcade, GENERIX, SFG, Sage X3, Osiris, EDI norme Edifact
+Dbeaver, Carl, Zenith, Myparcel, Trimble, Gteou, Wiki, Snow, RDI, 5250, MS Office
+DOMAINE D’INTERVENTION
+Transport
+Logistique
+
+DIPLOMES
+2021:			Formation IBM i (4 mois)
+2018: 			UPMC Doctorat en chimie organométallique - Sorbonne
+2015: 			UPSUD Master 2 en chimie organique des matériaux au vivant
+2014: 			UL Master 1 en chimie moléculaire
+2012: 			UL Licence en chimie générale
+
+EXPERIENCES PROFESSIONNELLES
+De Novembre 2022 à Septembre 2024: FOURNIER GROUPE (Distribution de meubles)
+Ingénieur d’études et de développement AS400
+Contexte: Intégration d’une nouvelle Usine (U8B) dans le système informatique FOURNIER
+Taches:
+Analyse et développement de programmes AS400 (RPG3, 4, RPG ILE, CL)
+Maintenance évolutive et du support des programmes AS400: traitement des tickets de bug et d’anomalies
+Intégration de la nouvelle usine dans le SI données fixe et création et évolution de magasin
+Suivi de formation EDI norme Edifact
+Support du contrôle de dématérialisation (GENERIX)
+Support du contrôle de garantie (SFG)
+Environnement technique : AS400, RPG3, RPG4, RPGLE, CL, EDI, norme Edifact, GENERIX, SFG
+
+De Janvier 2022 à Octobre 2022: GEODIS ROAD TRANSPORT
+Ingénieur d’études et de développement AS400 / RPG
+Contexte: Tierce Maintenance Applicative et évolution
+Tâches:
+Analyse et développement de programmes AS400/ RPG (ZENITH)
+Mise en place de nouvelles fonctionnalités, évolutions et correction de bugs (support applicatif)
+Mise à disposition de web services
+Utilisation des environnements RDI et 5250
+Environnement technique : RDI, 5250, RPG Free, RPG Full free, SQLRPG, ARCAD, Zenith, Agile
+
+De Janvier 2019 à Septembre 2021: RESTAURANT NOURA MARCEAU
+Responsable Adjoint Hygiène Qualité
+Tâches:
+Suivi de qualité (traçabilité des fabrications, suivi des contrôles à réception des marchandises)
+Formation du personnel aux bonnes méthodes d’hygiène et sécurité alimentaire
+Archivage de tous les documents liés à l’hygiène et la sécurité alimentaire
+Création et suivi des cahiers des charges fournisseurs
+Maîtrise du logiciel Elyx pour les nouvelles commandes
+Compte rendu hebdomadaire des visites sur établissement
+
+D’Octobre 2019 à Décembre 2018: UNIVERSITE DE SORBONNE
+Doctorant
+Taches:
+Synthèse des ligands chiraux et leur caractérisation
+Synthèse organométallique des complexes à base des métaux nobles
+Maitrise des techniques de caractérisation (RMN, IR, UV-Vis, HPLC…)
+Traitement et exploitation des résultats et rédactions des rapports
+

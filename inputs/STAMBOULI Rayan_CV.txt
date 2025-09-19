@@ -1,0 +1,83 @@
+STAMBOULI RAYAN EXPERT DATA / CONSULTANT SAS 
+Profil Professionnel 
+Spécialisé en developpement SAS, doté d’une rigueur exemplaire, d’un sérieux avéré et d’un esprit d’analyse aiguisé. 
+Grâce à ma capacité à traiter et analyser de vastes ensembles de données, je suis en mesure de fournir des informations précieuses pour la prise de décision. 
+Passionné par les nouvelles technologies, je m’engage à contribuer activement à des projets novateurs dans le domaine du Big Data. 
+Experience 
+Cosmecode 04/2021 à 08/2021 
+Développeur FULL STACK en stage 
+Scrapping de données cosmetique pour la mise en place de la base de donnée du site 
+Contribution au projet d’IA sur le teint de peau 
+Participation au développement et à la conception du site 
+Covéa 10/2021 à 09/2023 
+Consultant SAS au centre de solutions à Levallois Perret 
+Etude d’une solution de qualité de donnée en SAS permettant d’avoir une vue d’ensemble sur la qualité de la données déployé pour le métier marketing 
+Phase d’analyse : Clarification du besoin et mise en place des règles de gestion de données ( Erroné, doublons, etc…) 
+Définition d’un plan de développement 
+Echange métier pour comprendre leur besoin et leur apétance à la solution 
+Dev / Test Unitaire 
+Mise en place d’un plan de test et d’une recette 
+Automatisation de la solution via Excel pour le rendre disponible au métier ainsi qu’au novice en SAS 
+Correction d’anomalie et évolution 
+Contribution au projet du pilotage commercial GMF 
+Développement d’indicateurs et de reportings en collaboration avec l’équipe marketing 
+Initialisation et automatisation de DATA GALAXY ( Hub comprenant toutes les données) 
+Mise en place d’une solution de lignage de la donénes avec un script bash 
+Traçabilité de la donnée et des règles de gestion 
+Automatisation de la mise à jour des flux de données 
+Covéa 09/2023 à aujourd’hui 
+Consultant SAS au centre de compétence à Chartres 
+Participation au Re internalisation du centre de compétences SAS à chartres composés de plusieurs pôles métiers (CRM Marketing, Base de données techniques detaillés, Solva2, RSI : Restitutions Sinistres, Agrégats, Pilotage commerciale ) 
+Etude d’impact sur le domaine BDDT suite à la mise en place d’un nouveau produit d’assurance : 
+Phase d’analyse : Clarification du besoin (Chiffrage & échange métier) 
+Analyse des règles de gestions 
+Définition d’un plan de développement avec le LEAD Tech 
+Mise à jour des conceptions techniques 
+Dev / Test Unitaire 
+Mise en place d’un plan de test 
+Recette fonctionnelle 
+Recette de bout en bout (Lancement Batchs Linux) 
+Gestion des livraisons via l’outils de versioning SVN et l’outil de déploiement IKAN ALM 
+Correction d’anomalies & évolutions 
+RUN : Maintenance et surveillance des applications crées 
+Développement / Mise en production 
+Etude d’impact sur le retrait des CHMOD 
+Phase d’analyse 
+Analyse des impacts et des changements à prévoir sur tout les périmètres 
+Définition d’un plan développement 
+Mise en place d’une recette fonctionnelle 
+EN MODE PROJET : Participation à différents projets d’évolutions & corrections : 
+Analyse du besoin 
+Chiffrage 
+Développement SAS BASE / SQL : Créations de formats SAS pour les transcodificateur 
+Création de macro 
+Création de procédure appelant les macros 
+Industrialisation des programmes 
+Recette technico-fonctionnelle 
+Lancement des batchs de bout en bout 
+Versionning SVN et gestion des livraisons avec IKAN ALM 
+En mode RUN : 
+Suivi quotidien de production 
+Gestion des incidents 
+Correction incidents & communication 
+Feedback participation daily quotidien, point domaine 
+Méthode AGILE 
+Dipômes 
+2018 Baccalauréat Scientifique Lycée Alfred Kastler 
+2021 Licence mathématique et informatique Université de Cergy Pontoise 
+2021 La Défense Formation SAS BASE 
+2023 Master Intelligence Artificielle et Big Data ESGI 
+Langues 
+Français 
+Anglais 
+Arabe 
+Compétence techniques : 
+SAS 
+Python 
+SQL 
+R 
+AGILE 
+Logiciels : 
+SAS BI (SAS Guide, Stored process ...) , POWER BI, MVS, R Studio, Tableur Excel, JIRA, SalesForces 
+Ordonnanceur : CONTROL M, SVN, IKAN ALM 
+SGBD : DB2, ORACLE

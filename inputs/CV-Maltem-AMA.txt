@@ -1,0 +1,217 @@
+AMA Consultant Chef de projet IT Expérience : 17 ans
+
+Facilitateur
+Formation
+Coaching pratique agile
+
+Business
+Business plan
+Benchmark
+Interprétation financière (ROI et recommandation)
+
+IT
+Identification et correction des erreurs et incidents
+Paramétrage des solutions de supervisions Power Bi et CRM
+Spécifications fonctionnelles
+
+Consultant d'une riche expérience en stratégie de développement; conseil et management des projets liés au pilotage et à performance, j'ai accompagné de nombreux grands comptes dans la mise en place de dispositifs digitaux au service des utilisateurs
+
+Expériences clés :
+2007 Fondateur SARL Gain’ Time
+2017 Groupama
+2018 ENEDIS
+2023 Canal+
+2024 ALMAVIVA
+
+Service en ligne des praticiens de santé B to B et B to C (conception et évaluation plateformes digitales : RDV en ligne, élaboration des tableaux de bords, CRM, KPI, Scoring)
+Etudes des performances des modules applicatifs du SI et analyse des briques existantes (Documentation projet: référentiel interne / guide utilisateur / support de comité / restitution
+
+Conduite du changement
+(Formation sur les pratiques Agiles)
+
+Transmission des moyens pour apporter des améliorations au système et aux processus lors des réunions rétrospectives Agile
+Product Owner Refonte du site canal+.fr - Optimisation du site marchand, gestion des tunnels de souscription, et personnalisation
+Animation PI planning ,cadrage du projet, coordination entre les équipes Mener une stratégie d’itération et afin de saisir les opportunités d’amélioration
+Product Owner Projet : DEDALUS - Développement d’un logiciel B2B déployé pour les cliniques en France , en collaboration avec des équipes de développement front-end et back-end
+
+Compétences fonctionnelles
+* Rédaction de users story spécifications détaillées fonctionnelles
+* Priorisation et mettre en production les parcours de manière Agile
+* Pilotage et optimiser les parcours utilisateurs via le suivi des KPIs
+* Suivi des anomalies, production , support utilisateur
+* Coordination et déploiement de la roadmap avec les équipes IT
+
+Compétences métiers
+* Elaboration business model (facteurs clés de succès du produit, UX, mise en œuvre)
+* Réalisation benchmark technologique, stratégique (recommandations)
+* Conduite du changement: animation, formation et Workshop
+
+Compétences opérationnelles
+* Gestion des équipes, et aide à la compréhension des besoins et sujets complexes
+* Supervision des différentes phases de livrables
+* Facilitation du rendement : cohésion, transparence, synergie / collaboration
+
+Compétences Techniques
+* Power BI, Indic+,Dynatrace, Service Now, Amplitude, Kibana, Jira
+* Google Analytics et Microsoft 360
+* Langages : JavaScrip, SQL, Python , VBA
+* Jira, Service Now
+* Design Thinking, UX,
+
+Etudes et formations
+2021 : ScrumMaster et méthodologie SAFE
+2017 : Certification gestion projet (Openclassrooms)
+2016 : IT à deux vitesses : Exploitation de la vague digitale by BCG (CentraleSupelec)
+2015 : Master en Management opérationnel (ESSEC Business School)
+
+Langues
+Anglais
+
+Novembre 2024 – Aujourd'hui | Secteur santé-transport / e-santé La Poste
+Cadre de la mission : Consultant Facilitateur, Chef De Projet Digital
+Chef de projet– Mes Médicaments Chez Moi (https://www.mesmedicamentschezmoi.com/) Projet de refonte et d’évolution d’une plateforme de livraison de médicaments à domicile. Intervention sur l’ensemble du cycle de vie du projet : migration technique, gestion produit et support fonctionnel.
+
+Migration de la plateforme :
+* Pilotage de la migration vers une architecture scalable (API REST, infrastructure cloud).
+* Coordination avec les équipes techniques pour garantir l’intégrité des données sensibles.
+* Mise en place de tests de non-régression et documentation du processus de migration.
+* Supervision de la bascule en production sans interruption de service.
+* Documentation technique et fonctionnelle à des fins d’audit et de transfert de connaissance.
+
+Gestion de projet & produit :
+* Recueil des besoins utilisateurs (patients, officines), animation d’ateliers de cadrage.
+* Rédaction de user stories détaillées, orientées valeur client.
+* Gestion du backlog produit et animation des rituels agiles (sprint, revue, rétrospective).
+* Suivi des développements et coordination avec les équipes techniques.
+* Tests fonctionnels et validation des livrables avec les parties prenantes.
+
+Support & gestion des tickets :
+* Mise en place d’un outil de ticketing et structuration du support utilisateur.
+* Priorisation des tickets selon impact métier, analyse des incidents récurrents.
+* Suivi des correctifs et proposition d’améliorations fonctionnelles.
+* Communication proactive avec les utilisateurs en cas d’incidents critiques.
+* Rédaction de guides et procédures pour les utilisateurs finaux.
+* Mise en place et animation des comités de pilotage (COPIL) avec reportingrégulier.
+* Suivi des KPIs projet (taux de satisfaction, volumétrie des commandes, temps de traitement).
+
+Environnement technique : Redmine, Worksapce synphonie, Laravel , Flutter
+
+2023 – 2023 (11 mois) ALMAVIA
+Cadre de la mission : Consultant Facilitateur, Chef De Projet Digital
+Contexte : Projet : DEDALUS - Développement d’un d’une plateforme digital B2B déployé pour les cliniques en France Réalisations : Dpéloimentavec succès les solutions Care4U et WebSuite dans plusieurs établissement , intégrant les processus de gestion de données, assurant l'interopérabilité des systèmes, et formant les utilisateurs pour une mise en production fluide
+
+1- Gestion de Projets de Déploiement de Solutions web dans le Secteur de la Santé
+* Pilotage et suivi des projets de déploiement de solutions Web pour plusieurs cliniques (Care4U, WebSuite).
+* Organisation des réunions de cadrage et de lancement de projets, avec participation de plusieurs acteurs (utilisateurs finaux, informaticiens, responsables d’établissements).
+* Gestion des risques et coordination des ateliers techniques (interopérabilité, reprise de données).
+* Supervision de la formation des utilisateurs finaux et assistance au démarrage des solutions déployées.
+
+2-Gestion et Coordination de Projets de Migration et Déploiement de Solutions SaaS
+* Gestion des projets de migration et déploiement de DPI et WebSuite pour 11 établissement en mode SaaS.
+* Collaboration avec les équipes techniques et les référents cliniques pour assurer une intégration fluide des systèmes.
+* Mise en place des calendriers de prestations, rétroplannings et organisation des comités de suivi.
+
+Environnement technique : Dedalus, Service Now, Jira
+
+2022 – 2023 (23 mois) CANAL+
+Cadre de la mission : Consultant Facilitateur, Chef De Projet Digital
+Contexte : Pilotage de la maintenance corrective et évolutive des plateformes digitales : canal+.fr sous la direction qualité et communication groupe, incluant la gestion des projets d’évolutions fonctionnelles, graphiques et techniques. Réalisations : Coordination des équipes, recueil des besoins, suivi de la conception UX/UI, rédaction des spécifications, animation des comités projets, gestion des plannings, suivi des KPIs,
+
+1- Spécification des besoins métiers et amélioration du Dashboard « Canal+.fr»
+* Réalisation des ateliers « one to one » et en collectif pour assurer la bonne compréhension et exécution du projet
+* Documentation des fonctionnalités et des flux utilisateurs
+* Utilisation d’outils collaboratifs pour centraliser et partager les spécifications
+
+2-Veiller à la réalisation et la mise en oeuvre des fonctionnalités clés
+* Gestion et priorisation du backlog
+* Suivi des délais et de l’avancement des tâches
+
+3-Mener une stratégie d’itération et de processus afin de saisir les opportunités d’amélioration
+* Définition des KPIs pour mesurer l’efficacité et la satisfaction utilisateur et revuerégulièredes seuils
+* Atelier process et communication des alertes en cas de dépassement de seuils
+
+Monitoring espace web
+* Cartographie les fonctionnalités et Identification des fonctionnalités représentatives pour les métiers
+* Définition les Apdex et KPIs clés sous New Relic, Amplitude, ContentSquare
+
+Suivi de la conception UX/UI :
+* Collaboration avec les designers pour créer des maquettes et prototypes. Et validation des propositions
+
+Monitoring qualité de disponibilité de la plateforme digital ( FAQ, Chat, téléphonie via web) et amélioration outil Power Bi :
+* Cadrage du projet et coordination entre les équipes
+* Documentation et suivi état d’avancement
+* Automatisation de calcul et suivi (évolution) sur Power BI (commandes, erreurs, croisement des commandes et pics d’erreurs
+
+Reporting : analyse et fiabilité des données ( commandes, parcours utilisateur via TV, WEB, centres d’appels, supervision satisfaction client ) :
+* Restitution des rootscauses (irritants clients: commandes non approuvées, problèmes techniques, fonctionnels…)
+* Croisement des données avec d'autres DB (Amplitude, Dynatrace, PB…
+
+Environnement technique : Dynatrace, Power Bi, Ampliutde
+
+2020 – 2021 (9 mois) AVA PARIS
+Cadre de la mission : Consultant chef de projet digital
+Contexte : Amélioration des processus d’interaction entre les utilisateurs et leur SI, Réalisations : Etablissement des rapports et reportingsur les possibilités d'amélioration du système
+* Pilotage et optimisation les parcours via le suivi des KPIs
+* Organisation des réunions de management de la qualité avec la hiérarchie et les chefs de services
+* Edition des meilleures méthodes pour diriger chaque service
+* Analyse des incidences/ou plainte client concernant chaque service et produit
+* Interprétation des résultats pour trouver des solutions au niveau de chaque service
+* Classement et mise à jour toute la documentation relative au management de la qualité
+
+Environnement technique : jIRA, KANBAN
+
+2019 – 2020 (9 mois) USER GUEST PARIS
+Cadre de la mission : Consultant Chef De Projet Digital
+Contexte : Management opérationnel de Projet IA : algorithme d’affichage des notifications personnalisées (en SAAS) Réalisations : conception de solutions iA
+* Evaluation du marché: étude d’opportunité frugale, construction du produit / service et établissementde la roadmap
+* Assistance au Product Owneravec la documentation des User Stories et des critères d'acceptation et gestion du backlog
+* Recette fonctionnelle / métier : recueil des feedbacks (users) et amélioration des fonctionnalités,
+
+Environnement technique : BUSINESS MODEL CANVA, KABAN
+
+2018 – 2019 (12 mois)
+Cadre de la mission : Consultant Stratégie Innovation
+Contexte : Amélioration des processus d’interaction entre les utilisateurs et leur SI, Réalisations : Accompagnement des DSI et les directions métiers sur la transformation des organisations
+* Cartographie et positionnement des plates formes digitales (+ 47 portails web /appsen France 18 à l’international)
+* Modélisation des portails Web/ E-Commerces de l’énergie en France et en Europe
+* Analyses et benchmark stratégique(fonctionnel, UX, modèleéconomique, prospective et évolution desfonctionnalités)
+* Restitution stratégie innovation (Déplacement à Las Vegas : New Technology au salon de l’innovation)
+
+Conduite du changement: mobilité électrique (Formation, Sensibilisation, Alignement)
+* Interviews des participants sur les thématiques attendues
+* Préparation des supports pédagogiques
+* Animation et restitution de la vision stratégique
+
+2017 – 2018 (12 mois)
+Cadre de la mission : Consultant Coordination Projet
+Contexte : coordination des projets innovants dans le cadre des « l’industrie du futur : Chatbot, Blockchain, Maintenanceprédictive» Réalisations : coordination des VIP Meeting et animation projet
+* Coordination, mobilisation partenaires (CGI, Groupe La POSTE, Sigfox et IOT Valley)
+* Organisation des VIP meeting (démonstration des enjeux business)
+* Contractualisation et gestion des appels d’offres: pilotage, cadrage & recrutement
+
+2016 – 2017 (12 mois)
+Cadre de la mission : Consultant Etude module applicatifs
+Contexte : Identifier et corriger les incidents remontés par le client sur l'ensembledu périmètreapplicatif Réalisations: Audit des modules applicatifs du SI
+* Analyse des briques existante
+* Qualification des anomalies remontées par le client
+* Restitution, recommandations
+
+Management projet - gestion d’une équipe de 8 personnes
+
+Documentation projet : référentiel interne / guide utilisateur / support de comité & rédaction d’un rapport d’audit
+Environnement fonctionnel : Corporate assurance
+Environnement technique: SQL Server, Access,Excel,
+
+2007 – 2016 (9 ans) FONDATEUR GAIN’TIME CONSULTING: STRATEGIE INNOVATION
+* Digitalisation des offres de bien-être au service de la performance : Constitution de portails web / E-Commerce
+* Incubation et accompagnement Startups : montage de dossier de financement et business model
+* Coordination des projets innovants entre Grands Comptes & Start-ups
+* Mise en place événements « Management & Innovation Well Being », « Innovation learningweek » etc
+* Présentation d’un projet de développementà l'international (New York, USA)
+* Partenariat avec 8 entreprises Américaines et officialisation des intérêtscommuns
+* Rapport sur le ROI du programme « Performance » en entreprise pour Ernst & Young, UBI France
+* Stratégie de partenariat et sous-traitance: recrutement, référencement, staffing
+
+Environnement technique : Power Bi , Business Model Canvas, WIX, Webflow
+
+Référence clés

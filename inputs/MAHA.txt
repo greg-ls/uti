@@ -1,0 +1,57 @@
+Abdelhamid MAHAMMA
+Software Engineer | C · C# · Python · SQL | System Architecture & Performance | AI
+Développeur confirmé C/C#/Python/SQL, expert en systèmes performants et data-intensive, avec 5 ans d’expérience en finance de marché. Architecte de solutions critiques pour le reporting P&L, la gestion des risques et l’intégration IA. Maîtrise des API REST, multithreading, développement asynchrone, optimisation SQL, logs structurés, CI/CD. Focalisé sur la robustesse, la scalabilité et la maintenabilité.
+ Travailleur handicapé
+ 07 44 80 40 99
+ mahamma78200@gmail.com
+
+Diplômes et Formations
+CPGE MPSI
+saint-Exupery 2015   2017
+Mantes-la-Jolie
+Ecole d'ingénieurs ECE 09/2017   07/2020
+Paris
+L3 Business school
+INSEEC London 01/2018   05/2018
+Londres
+
+Langues
+Français
+Anglais
+Arabe
+
+Informatique
+Software engineering Data Science / IA
+financial market Applied Mathematics /quantitative mathematics
+
+Expériences professionnelles
+IT Engineer   C# · SQL · Python · IA Natixis 10/2024
+paris
+Tech Stack : C#, SQL, Python, Sophis, REST API, logs structurés, LLM, batchs automatisés
+Reporting P&L multi-dimensionnel (actif, devise, stratégie) automatisé. Pipelines de données robustes intégrant des modules Python & IA  LLM . Optimisation de batchs critiques (async, multithreading, CI/CD . API REST documentées  Swagger), dashboards temps réel enrichis par IA. Impact : réduction du time-to-data & gain d’autonomie des traders.
+IT Engineer   Sophis / Risk Equity C   · C# · SQL · Python
+Crédit Agricole CIB 09/2021   10/2024
+Montrouge, France
+Tech Stack : C, C#, Python, SQL, Sophis Toolkit, Risk Systems, Python NLP, OpenAPI
+Outils de calculs risques (delta/gamma/vega) en environnement critique. Automatisation des flux avec Python   SQL sur données financières. Pipelines NLP pour enrichissement des données de marché. Refactoring orienté performance, documentation via OpenAPI. Impact : fiabilité accrue et temps de traitement réduit sur les indicateurs clés.
+Software/Data Engineer   C   · React · Python · IA Thales 09/2019   09/2021
+Vélizy-Villacoublay, France
+Tech Stack : C, Python, React, Sybase, détection temps réel, logs intelligents
+Refonte d’un outil de supervision C/React (architecture modulaire). Moteur temps réel  C/Python) pour détection d’événements critiques. Structuration de logs avec alerting intelligent (modèles IA, NLP . Impact : supervision renforcée dans un environnement ultra-sécurisé.
+
+Projets IA & Automatisation
+LLM Prompting : conception de prompts dynamiques pour génération de code adapté à différents contextes métier. Pipelines NLP : extraction et traitement automatisé de textes métiers pour enrichissement des bases de données internes. Intégration IA : ajout de briques IA dans outils d’analyse de performance (détection d’anomalies, suggestions SQL, etc).
+
+Architecture & Design Logiciel
+Architectures modulaires découplées pour systèmes critiques. Application des principes SOLID et des bonnes pratiques de testabilité. Documentation technique complète via Swagger/OpenAPI. Middleware .NET optimisé pour intégration avec systèmes legacy.
+
+Tech Stack
+C · C# · Python · SQL
+Multithreading · Asynchronisme · REST API · DevOps · CI/CD · Observabilité · Logs structurés
+Pandas · Pipelines · Batch automation · NLP
+Sophis Toolkit · Git · Swagger/OpenAPI · React · Sybase
+SOLID · Architecture modulaire · Testabilité · Découplage
+
+Finance
+Foreign exchange finance
+Interest market derivatives, equity

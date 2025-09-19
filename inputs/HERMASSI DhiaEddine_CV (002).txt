@@ -1,0 +1,131 @@
+HERMASSI .D Consultant .Net / Angular 12 ans d’expériences Sartrouville 0751158405 hermassi.dhiaeddine@gmail.com
+
+Expérience
+DEPUIS FEVRIER 2021 Ingénieur d’étude et développement Full Stack (.Net Angular) / Veolia
+PROJET : FACTOR Le groupe Veolia conçoit et déploie des solutions pour la gestion d’eau, des déchets et de l'énergie pour répondre au besoin de développement durable des villes et des industries. Factor est un outil d’exploitation et de pilotage, totalement configurable et personnalisable pour toute industrie, il permet :
+ Le suivi d’exploitation d'usines via des indicateurs.
+ Facilite le pilotage via ses rapports et Dashboard.
+ Collecter les données via des capteurs numériques, scanner ou saisie.
+ Consolider les données en appliquant des formules via un moteur de calcul.
+ Analyser les données des indicateurs.
+Mission
+ Développement des Api .Net 7.
+ Création des écrans ergonomiques et multilingues.
+ Développement des composants Angular et intégration des librairies.
+ Traitement du backlog en mode SCRUM (Sprints de 2 semaines sur JIRA).
+ Mise en place des tests unitaires. (specflow en Gherki).
+ Participer à l’augmentation de la documentation technique.
+ Dockorisation des Jobs.
+ Documentation automatique des API via Swagger.
+ Revu des pulls request GitLab.
+ Intégration continue via le pipeline CI/CD Jenkins.
+ Analyse d’impact technique dans la phase de cadrage.
+ Migration du Angular de la version 9 à 17.
+ Réecriture des Modules .Net en micro-services.
+Environnement technique : Microsoft .NET 7, Angular 17, Angular Material, NG-Bootstrap, ASP.Net Web api 2, AWS, Cognito, Bootstrap, CSS, Html, Entity Framework Core, Git, Agile méthode (SCRUM), DEVOPS. Sonar, Gherkin, Docker, Linq , SQL
+
+2 MAI 2020 – FEVRIER 2021 Ingénieur d’étude et développement Full Stack (.Net Angular) / C2S BOUYGUES
+PROJET : Com’In Bouygues est un groupe de services diversifié, structuré par une forte culture d’entreprise dont les métiers s’organisent autour de trois activités : la Construction avec Bouygues Construction (BTP et Energies & Services), Bouygues Immobilier et Colas (Routes) , les Télécoms avec Bouygues Telecom et les Médias avec TF1. Com’in est une plateforme d’analyse et de maîtrise en temps réel des nuisances sonneurs et environnementale (embouteillages, salissures de la chaussée…). Grâce à des capteurs intelligents installés sur les chantiers de construction.
+Mission
+ Développement des Api métier.
+ Développement de la partie front en Angular 9.
+ Développement des Functions Azure.
+ Développement des Service Bus Azure.
+ Développement des Jobs Azure.
+ Mise en place des tests unitaires.
+ Génération des logs techniques et fonctionnels.
+ Documentation automatique des API via Swagger.
+ Code review via les pulls request Azure Devops.
+ Intégration continue via le pipeline Azure
+Environnement Microsoft .NET CORE 3.0, Angular 9, Primeng, Typescript, ASP.Net Web api, Azure Devops , Azure Cosmos DB, Bootstrap 5, CSS, Html5, Json Web Token, Entity Framework core, Git, Agile méthode (SCRUM), Log4Net,Sonar
+
+NOVEMBRE 2019 – MARS 2020 Ingénieur d’étude et développement Full Stack (.Net Angular) / LA CARPIMKO
+PROJET : Lien ADEC La Carpimko (caisse autonome de retraite et prévoyance) est l'une des dix sections professionnelles de l'organisation autonome d'assurance vieillesse des professions libérales. Lien Adec a pour objectifs de dématérialiser et d’assurer en toute sécurité l’échange entre la CARPIMKO et les Huissiers de justice. Cette brique applicative servant à dématérialiser les documents officiels, de les signer numériquement après validation, puis de les envoyer électroniquement aux huissiers au travers d’un EDI.
+Mission
+ Conception du projet (From scratch).
+ Conception via PowerAMC des MLD, MCD, MPD et génération de la base de données.
+ Développement des Api métiers (JWT).
+ Intégrer la signature électronique via une clé Certigna.
+ Développement de la partie front en Angular 9.
+ Développement des scripts PowerShell pour la communication avec les systèmes existant.
+ Mise en place des tests unitaires.
+ Génération des logs techniques et fonctionnels.
+ Documentation automatique des API via Swagger.
+Environnement Microsoft .NET CORE 3.0, Angular 9, Typescript, ASP.Net Web api 2, Azure Devops , Azure SQL Database, Bootstrap 5, CSS, Html5, Json Web Token, Entity Framework core, Azur, Git, Agile méthode (SCRUM), Log4Net
+
+JUIN 2018 – OCTOBRE 2019 Ingénieur d’étude et développement Full Stack (.Net Angular) / REED EXPOSITION
+PROJET : GBS REED EXPOSITION société international leader dans le domaine d’organisation d’événements professionnels et grand public. GBS est une plateforme qui accompagne tous les intervenants et permet la centralisation des données marketing des salons (Exposant, stand, Visiteur …) dans un datawarehouse afin de renforcer et cibler les publicités en respectant GDPR.
+Mission
+ Conception et mise en place de l’architecture du projet.
+ Développement des Api métiers (JWT).
+ Implémentation des alertes et des notifications.
+ Intégration du module paiement en ligne via INGENICO.
+ Développement des composants Angular pour les différents modules et du tableau du bord.
+ Optimisation des batchs d’alimentation du datawarehouse en implémentant la notion de multithreading.
+ Mise en place des tests unitaires.
+ Réalisation des interfaces de monitoring exposant les actions effectuées et les bugs menés.
+ Qualification et correction de bugs de production
+ Encadrement de l’équipe junior sur les nouvelles technologies (API .Net Core, Angular)
+Environnement Microsoft .NET CORE 2.2, Angular6, Typescript, ASP.Net Web api 2, ORACLE, Automapper, Bootstrap 4, CSS, Html5, JWT , PL-SQL, SignaleR Entity, Framework 6, Repository pattern, GIT, IIS, Agile méthode (SCRUM), Swagger, Log4Net, Multithreading, JIRA.
+
+SEPTEMBRE 2017 – MAI 2018 Ingénieur d’étude et développement Full Stack (.Net Angular) / TAYSIR SOLUTION
+PROJET : EasyFlight Produit propre à l’éditeur de logiciel TaysirSolutions, destiné aux agences de voyage. La solution EasyFlight gère les contrats entre les différents intervenants d’une réservation (Prix, Stock chambre dans une période, des sièges avion …).
+Mission
+ Mise en place de socle technique from scratch.
+ Coordination avec le client pilote.
+ Développement des Api métier (Web Api,C#,MVC ).
+ Génération des rapports sous forme PDF et EXCEL.
+ Optimisation des requête base de données et Migration des données.
+ Création de jobs avec HangFire.
+ Réaliser les tests fonctionnels.
+ Déploiement de l'application
+Environnement ASP.NET MVC, ASP.Net Web api 2, Automapper, Bootstrap 4, CSS, Html5, SQL SERVER, T-SQL, EntityFramework6 (code first), Repository pattern, SignalR, TFS, Agile méthode (SCRUM)
+
+SEPTEMBRE 2015 – SEPTEMBRE 2017 Ingénieur d’étude et développement Full Stack (.Net) / WBconcept
+PROJET : Gestion des flux et intégration avec les ERP Solution de traçabilité des pièces de rechanges automobiles appliqués chez CITROËN et MAZDA. Traçabilité des pièces, leurs états et leurs emplacements en temps réel. La solution assure le reflet et sauvegarde en temps réel des changements d’état ou mouvement des pièces via les scans des étiquettes. L'application se base sur les web services pour assurer la communication entre les terminaux mobiles et les ERP (Navision /Sage).
+Mission
+ Analyse des besoins et rédaction des spécifications.
+ Développement des web service WCF.
+ Interfaçage avec Sage X3 et Navision.
+ Développement de la partie traçabilité des flux et scan des code barre (Smart Device, Compact FrameWork,C#).
+ Développement du back office de paramétrage des smart device (ASP.Net MVC)
+ Maintenance et résolution des incidents.
+ Déploiement sur les différents serveurs.
+Environnement ASP.NET MVC, Html5, RAZOR, CSS3, bootstrap, Navision, SVN, Sage x3, SQL SERVER 2012 – 2015, SqLite, T-SQL, EntityFramework, Web Service WCF, Smart device windows ce 6.
+
+AOUT 2013 – JUILLET 2015 Ingénieur d’étude et développement Full Stack (.Net) / HELION CAPITAL
+PROJET : ERP HELION Hélion Capital, société de gestion des fonds et actions en bourse. Développement dans le domaine de la finance sur l’ERP de tenue de positions et de gestion administrative et comptable des FCP, des actions en bourse et des comptes clients
+Mission
+ Mise en place d'une Data Warehouse alimenté par différentes sources, en utilisant la suite
+ Microsoft BI SSIS, SSAS, SSRS
+ Développement C# WPF des nouvelles fonctionnalités spécifiques dans le domaine d'Asset management sur un ERP à forte valeur ajouté dans le domaine finance.
+ Génération des rapports RDLC et envoie automatique des emails.
+ Participation à l'optimisation de la plate-forme technique en termes de performance et de qualité.
+ Mise en place d'un système de traitement et synchronisation automatique des données entre des sources hétérogènes (sqlserver, mysql, mariaDB).
+Environnement C#, WPF, MVVM, Admin DB SQL SERVER 2008 – 2012, T-SQL, BI produit Microsoft SSIS SSAS SSRS, Devexpress, EntityFramework,
+
+Compétence
+✓ Réalisation des cadrages techniques
+✓ Revue et validation de conception techniques
+✓ Encadrement des développeurs
+✓ Revue et validation de code (garant du respect des guideline)
+✓ Développement
+✓ Mise se place des pipe-lines CI/CD
+✓ Rédaction de la documentation technique
+✓ Qualification et correction de bugs de production.
+
+Langues
+Anglais technique (lu, écrit, Parlé).
+
+Activités
+Préservation de l’environnement
+Arts
+Voyages
+
+Formation
+Mars 2022 : AWS Partner Accreditation Technical.
+Mars 2020 : Formation DevOps en pratique.
+Juillet 2019 : Formation SCRUM MASTER.
+2013 Diplôme Ingénieur Informatique - ESPRIT
+2009 Diplôme technicien supérieur en informatique de gestion
+2007 Bac Technique.

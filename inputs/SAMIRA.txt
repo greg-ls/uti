@@ -1,0 +1,92 @@
+SAMIRA LUCIE AMER
+06.63.44.58.78 · amerlucie@gmail.com
+
+CHEFFE DE PROJET EXPERIMENTÈE - BANQUE
+
+**PROFIL PERSONNEL**
+
+Cheffe de projet expérimentée avec une solide expertise en gestion de projets SI dans le secteur de l’Asset Management et CIB, en environnement local et international. Forte capacité à piloter des projets transverses en mode produit, à animer des squads agiles, coordonner des équipes pluridisciplinaires et assurer le delivery dans des contextes de transformation du SI. À l’aise avec les environnements techniques, les exigences fonctionnelles et la collaboration avec des clients internes exigeants.
+
+**EXPÉRIENCES PROFESSIONNELLES**
+
+**Novembre 2023 - Janvier 2025 CHEFFE DE PROJET EXPERIMENTÈE - BANQUE**
+
+**Avril 2023 - Octobre 2023 Manager de proximité – VO2 Group**
+* Management de 5 consultants (recrutement, suivi, formation, évaluation)
+
+**Mars 2020 - Mars 2023 Consultante cheffe de projet – Aviva Investors France**
+Mission : Intervention sur l'ensemble des projets Middle, Back, Legal, Compliance et Client Solution...
+* Participation à la stratégie de développement de la performance équipe
+* Revue et automatisation du process Middle/Back - Flux de données, générations de reporting, contrôles automatiques, traitements divers
+* Méthode agile : Gestion de projet en mode produit, animation des rituels agiles (Daily, Sprint Planning, Review), travail en squad pluridisciplinaire
+* Participation au RFP de remplacement de Salesforce
+
+**Consultante cheffe de projet – Sienna Gestion**
+Mission : Mise en place d'un référentiel fonds
+* Implémentation de DocuSign (signature électronique)
+* Mise en place du reporting réglementaire MMFR
+* Mise en place d'une base de calcul de performance des fonds et mandats
+* Coordination de la fusion AIF & OFI AM en collaboration avec des consultants externes et le métier
+* Pilotage de l’implémentation du référentiel
+* Animation des comités projet et coordination des parties prenantes ( MOE, Métiers)
+* Recette et validation fonctionnelle avec le BO
+
+**Octobre 2018 - Juillet 2019 Consultante Business analyst ( Forfait) – Natixis CIB Paris**
+Mission : Intervention auprès du Back Office Commodities sur les problématiques de génération et d'automatisation des confirmations dans le progiciel Sophis
+* Paramétrage des instruments dans le progiciel Sophis
+* Amélioration des workflows d’execution des ordres
+* Vérification des données et de la remontée des opérations de marchés
+* Modélisation fonctionnelle des évolutions requises (référentiel MO ‘tiers, instruments’)
+* Rédaction des stratégies de tests fonctionnels
+
+**Mai 2017 - Mars 2018 Consultante cheffe de projet ( Méthode Agile) – Candriam AM**
+Mission : Intervention sur le projet réglementaire MIFID II & PRIIPS sur le volet « Automatisation de l'envoi des fichiers EPT & EMT »
+* Participation à l'animation des steering committees MIFID II & PRIIPS en interne et avec le sous-traitant KNEIP
+
+**Octobre 2014 - Mars 2017 Consultante cheffe de projet – Caisse des Dépôts et Consignation**
+Mission : Intervention sur les problématiques d'amélioration du process d'exécution d'ordres au sein de la table de négociation (Front Office) sur le progiciel Minerva
+* Réunion hebdomadaire avec le BO pour l'analyse des besoins, la priorisation des lots et planification des différentes livraisons..
+* Mise en place d'un lien fixe sur le périmètre actions afin de standardiser les données entre les OMS négociateurs et brokers
+* Animation des daily meeting avec les différents métiers (Risk, product, ALM)
+* Déploiement de la plateforme de réconciliation pour les actions et obligations : CTM
+* Analyse et Cartographie des modèles de données (référentiel marché et historique)
+* Déploiement des plateformes électroniques de négociation : TradeWeb, Bloomberg (TSO et VCON)
+* Modélisation fonctionnelle des évolutions requises
+* Conduite du changement ( Rédaction des users guide et formation des gérants)
+* Participation a l’ensemble des rituels agile
+* Rapprochement Front Office / Middle Office
+* Supervision des déploiements fonctionnels des applicatifs
+
+**Mai 2012 - Janvier 2014 Consultante Business Analyst ( Méthode Agile)– Lyxor Asset Management**
+Mission : Co-conduite de l'implémentation de l'outil Sophis Value au sein du stream referentiel
+* Co-Pilotage du programme, animation du comité́ projet, comité utilisateurs
+* Définition, gestion, suivi du planning et de la répartition des tâches en appliquant les principes de la méthode Agile.
+* Réalisation des plans de tests pré et post production
+* Rédaction de spécifications fonctionnelles à destination des MOE
+* Suivi des livrables auprès de la MOE
+
+**Février 2011 - Janvier 2012 Consultante Business Analyst – BNP Paribas Security Services, BPSS**
+Mission : Pilotage de l'outsourcing de la comptabilité du CDC chez BPSS.
+* Coordination des livraison avec les différentes équipes IT
+
+**Aout 2008 - Janvier 2011 Consultante Business Analyst – BNP PAM**
+Mission : Maintien évolutif de Sophis Value ainsi que la mise en place de THINKFOLIO dans le cadre de la fusion BNP/Fortis pour la gestion Fixed income & Monétaire
+* Rédaction des backlogs et des cahiers de tests
+* Adaptation des confirmations aux nouveaux templates du département juridique
+
+**COMPÉTENCES CLÉS**
+
+* Finance de marché : Asset Management, Banque de financement et d’investissement
+* Gestion de projet : Pilotage de projets Build & Run, coordination multi-intervenants (MOA/MOE, IT, métiers), planification et gestion des risques et des couts, animations des comités projet et pilotage
+* Transformation & conduite du changement : Déploiement outils digitaux, automatisation des flux, réorganisation, outsourcing de fonctions clés
+* Outils de gestion de portefeuilles et de passage d’ordre : Minerva, Sophis, Thinkfolio, Bloomberg
+* Outils de gestion de projet (JIRA, SHAREPOINT) et Pack Office
+* Réglementaire : MIFID, PRIIPS, MMFR
+* Anglais : Opérationnel (niveau C1 BULATS)
+
+**FORMATIONS**
+
+**2008 Institut Supérieur de Gestion (ISG)**
+Master Finance, Trading & Marchés de capitaux
+
+**OUTILS**

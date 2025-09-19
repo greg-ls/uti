@@ -1,0 +1,67 @@
+Développeur web front-end avec 6 ans d'expérience
+
+COMPÉTENCES TECHNIQUES
+
+Frontend
+JavaScript (ES6+) | TypeScript
+Angular1.5 | React (Hooks, Redux) | Next.js
+HTML5 | CSS3 | SASS | Bootstrap | Material UI
+
+Backend & Bases de données
+Node.js | Express.js
+MongoDB | GraphQL | REST API
+
+Testing & Qualité
+Jest | Jasmine
+
+DevOps & Cloud
+Git | GitHub/GitLab/Bitbucket | Docker | Swarm | Jenkins | Grafana | Confluence
+AWS | GCP
+
+Environnements
+macOS | Linux
+
+EXPÉRIENCES PROFESSIONNELLES
+
+De mai 2025 à août 2025 : SNCF, Saint-Denis, France
+
+Développeur Frontend React 
+
+*   Refonte d'une interface pour l'optimisation des centres de maintenance ferroviaire (React, D3.js)
+*   Développement d'une interface de gestion des anomalies et d'amélioration de l'efficacité des utilisateurs.
+*   Garantir la qualité logicielle de la solution en garantissant la définition de la stratégie de test et son exécution.
+
+
+De mai 2022 à mai 2025 : ACTIVEEON, Paris
+
+Responsable/coordinateur de développements 
+
+*   Conception d'une architecture Micro-Frontends modulaire où chaque domaine métier (Workflow Execution, Catalog, JobPlanner...) est isolé dans un dépôt Bitbucket dédié.
+*   Animation des daily meetings pour synchroniser l’équipe (5+ développeurs), identifier les blocages et prioriser les tâches.
+*   Coacher et débloquer les développeurs et former les débutants.
+*   Implémentation et gestion des droits d'utilisateurs pour assurer la sécurité et l'accès aux fonctionnalités.
+
+
+De février 2019 à mai 2022 : ACTIVEEON, VALBONNE-FRANCE
+
+Développeur Full Stack 
+
+*   Participer au développement et à la conception du produit.
+*   Conception et développement d'une interface utilisateur ergonomique et intuitive facilitant la soumission et le suivi des workflows.
+*   Développement de nouvelles fonctionnalités et tableaux de bord interactifs
+*   Intégration et utilisation de l'API REST et migration vers GraphQL pour améliorer la flexibilité des requêtes.
+*   Migration progressive des interfaces de AngularJS(1.5) vers React.
+*   Participation active à l'amélioration de l'UI/UX avec React, AngularJS, Material UI et CSS3.
+*   Mise en place de tests unitaires (Jasmine/Karma) et optimisation des performances
+*   Rédaction et mise en place de tests unitaires et d'intégration avec Jest et Jasmine.
+*   Optimisation des performances pour permettre une visualisation fluide de jusqu'à un million de jobs.
+*   Automatisation des tests CI (Jenkins/GitHub) sur chaque PR, vérification des logs en cas d'échec, et utilisation des builds validés pour tester en local.
+*   Utilisation des technologies suivantes : HTML5, CSS3, CSS Grid, Git, Bitbucket, JavaScript (ES6), Angular, React, TypeScript, Chartjs, REST API, GraphQl, WebSockets, MongoDB.
+*   Méthodologie Agile/Scrum en collaboration avec les équipes back-end (Java/PostgreSQL)
+
+
+DIPLÔMES ET FORMATIONS
+
+2017 : Master En Analyse Numérique. — Université Paris-Est Marne la Vallée, Champs sur Marne- France
+
+2013 : Licence en Mathématiques et Informatique. — Université de nouakchott, Nouakchott, Mauritania

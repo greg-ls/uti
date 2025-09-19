@@ -1,0 +1,164 @@
+
+Incident Manager, Responsable Déploiement
+
+
+compétences fonctionnelle :
+Gestion des problèmes
+Gestion de projet Agile Scrum
+Gestion de projets ITIL
+Processus ITSM
+Responsable Incidents
+Gestion des changements
+Gestion de parc informatique
+Management d'équipes IT
+Gestion de la relation client
+Formation
+
+Compétences techniques :
+Réseaux LAN/WAN (protocoles de communication, câblage, routeur, VLAN, TCP/IP)
+Services réseaux Microsoft (Active Directory, DNS, DHCP…)
+Systèmes d’exploitation (Windows Clients / Serveurs, Linux, Mainframe,)
+Bases de données (Oracle, SQL Server, MySQL, DB2)
+Protocoles Flux : EBICS, PeSIT, FTP, SFTP, MQ Series, STL, CFT
+Solutions ITSM : ServiceNow ITSM/CSM (Service Desk, Incident Management, Problem Management, Knowledge Management, Change Management, Service Catalog/Request, CMDB), JIRA
+
+FORMATIONS
+2023 : Formation Ansible
+2022 : Formation Websphere Application Server V9 Administration
+2016 : Certification Cisco ICND1
+2015 : Certification ITIL Foundation V3
+2012 : Certification Windows 7, configuring
+2002 : BTS Informatique de gestion option administrateur réseau
+1998 : Baccalauréat STT option Action Communication Commerciale
+
+LANGUES
+Anglais : niveau technique (lu, écrit, parlé)
+
+EXPERIENCE PROFESSIONNELLE
+Depuis 03/2021 : BNP PARIBAS BCEF IT
+Responsable déploiement Open
+Contexte : Responsable déploiements OPEN au sein de la team Flux Monétique
+Taches :
+Vérification et validation que l'ensemble des documents nécessaire aux livraisons est conforme au processus de déploiement de BNP Paribas (réalisation des DI & DE sur la base des documents et consignes transmises par PARTECIS, réalisation des minutiers, mise en forme des consignes d'alerte pour IPS)
+Pilotage et suivi des projets
+Rédaction des rapports d’analyses et comptes-rendus
+Élaboration des demandes aux divers services entrant dans le processus (Transmission des livrables, EDelphes auprès d'IPS-Mainframe et IPS-Open)
+Déclaration des flux. Gestion des certificats
+Rédaction des rapports d’analyse et compte rendu
+Suivi des interventions et des environnements (état, versions, processus
+Participation aux points de gestion des incidents et des changements
+Contrôle des packages et cohérence dans les livraisons
+Déploiement des packages
+Contrôle du redémarrage post-MEP
+Administration des serveurs
+Back-up Applicatif du domaine Litiges :
+Garant du bon fonctionnement des applications, leur maintenabilité et leur évolutivité lorsque le Responsable d'application nominal est absent
+Réalisation des recettes techniques suite à livraisons des évolutions par la TMA
+Analyse de la cause technique d'un incident sur l'ensemble des composants de la chaîne de traitement des litiges
+Maintien de la mise en production des composants modifiés
+Environnement technique : Agile Scrum, Jira, WebSphere Application Server, Oracle, Linux, AIX, Windows, ServiceNow ITSM/CSM (Incident Management, Problem Management, Change Management), C3P0, Ansible
+
+10/2020 à 02/2021 : NATIXIS
+Change Manager
+Taches
+Contrôle unitaire des changements impactant plusieurs applications et infrastructures
+Préparation, animation et suivi du Comité des changements DSI (CAB)
+Relation avec les équipes de gestion des changements des entités partenaires groupe BPCE
+Préparation, animation et suivi du Comité des changements DSI Partenaires (CACH)
+Support aux utilisateurs pour l’ensemble de la gestion des changements
+Production de rapports réguliers destinés à la direction et aux productions applicatives
+Environnement technique : ITIL, ServiceNow ITSM/CSM (Change Management)
+
+03/2019 à 07/2020 : CREDIT AGRICOLE PAIEMENT SERVICES
+Incident Manager Référent
+Taches
+Coordination et suivi de bout en bout des incidents selon la norme ITIL
+Gestion des communications auprès des clients de CAPS sur incidents critiques et importants
+Animation des points de situations et cellules de crise
+Analyse post-mortem des Incidents
+Reporting quotidiens et rédaction des rapports d’analyses et comptes-rendus
+Aide à la mise en place de la brique ITSM/CSM ServiceNow (Service Desk, Incident Management, Problem Management, Knowledge Management, Change Management, Service Catalog/Request, CMDB)
+Formation des utilisateurs à l’application ITSM ServiceNow
+Préparation du comité de fonctionnement
+Animation météo quotidienne
+Formation et mise en place de procédures
+Mise en place des solutions pour amélioration de la qualité de service
+Gestion des problèmes
+Environnement technique : WebSphere Application Server, Oracle, Linux, AIX, Windows, Mainframe IBM, ITIL, ServiceNow ITSM/CSM (Service Desk, Incident Management, Problem Management, Knowledge Management, Change Management, Service Catalog/Request, CMDB), SWIFT
+
+02/2018 à 03/2019 : BNP PARIBAS
+Incident Manager ITIL
+Taches
+Surveillance et contrôle des services et détection des ruptures de service
+Coordination et suivi de bout en bout des incidents selon la norme ITIL
+Déclaration d'incidents avec détermination impact métier
+Pilotage des incidents d’infrastructure et applicatifs P1 & P2 de production de bout en bout
+Gestion portefeuilles d'incidents P3 à P5
+Déclenchement des escalades, cellules de crise
+Rédaction de la documentation
+Reporting auprès des clients et en interne
+Communication sur les évènements
+Animation de la réunion hebdomadaire des changements
+Environnement technique : WebSphere Application Server, Oracle, Linux, AIX, Windows, Mainframe, IBM, ITIL, BMC Remedy
+Environnement international
+
+07/2017 – 12/2017 : ONG Praga-Haïti
+Chef de projet
+Contexte
+Construction et réparation de puits dans le Nord-ouest d’Haïti (budget 50000 USD)
+2 puits creusés (coût moyen 7000 USD)
+10 puits réparés (coût moyen 1000 USD)
+Taches
+Appui au Chef de Mission dans la programmation, l’organisation et la supervision des activités
+Recrutement et management des équipes locales (maçons et manœuvres)
+Collaboration avec les agences étatique et les ONG locales
+Analyse, gestion budgétaire et logistique du projet
+Traduction Anglais/Français/Haïtien
+
+07/2012 - 05/2017 : ORANGE BUSINESS SERVICES
+Responsable Centre Service hno
+Contexte
+Responsable du Centre de Service Division Opérateur & International Carrier Whoesale
+Activité mensuelle : 1500 tickets incidents /3000 mails /1500 appels
+Taches
+Gestion et suivi des incidents opérateurs français et internationaux
+Garant du respect des clauses du contrat, des délais d’exécution des prestations et de la qualité de service fournie (indicateurs, niveaux de services, …)
+Réalisation des tableaux de bord de suivi
+Préparation, animation des réunions opérationnelles et des comités de pilotage
+Pilotage et suivi des projets
+Mise en œuvre et administration des reportings d’activités
+Elaboration et mise à jour des procédures
+Animation de la relation client dans une logique d’amélioration continue du service
+Management d'une équipe de 12 techniciens réseaux
+Relais RH des collaborateurs sur site et recrutements des futurs collaborateurs
+Environnement technique : AIX, Windows, Cisco, ITIL
+Environnement international
+
+06/2010 - 06/2012 : HSBC PRIVATE BANK
+Analyste d’exploitation
+Taches
+Supervision des serveurs et du réseau
+Gestion de la CMDB
+Surveillance de l’exploitation quotidienne
+Mise en Run des solutions nouvelles
+Projets divers en relation avec la Moa et la Moe
+Pilotage des fournisseurs et prestataires
+Réalisation des tests de conformité
+Gestion des parcs informatiques, téléphoniques et imprimantes
+Environnement technique : AIX, Windows
+
+03/2008 - 05/2010 : IBM
+Pilote d'exploitation Multi client
+Contexte: Supervision des serveurs (Windows, Unix, Linux, As400)
+Taches : 
+Gestion et validation des sauvegardes des serveurs sur site
+Analyse des alertes sur les équipements systèmes et réseaux
+Création et gestion des profils sur AS400
+Environnement technique : AIX, Windows, AS400, Linux, Environnement international
+
+06/2006 - 03/2008 : EADS
+Technicien Support Proximité
+Support de proximité auprès des utilisateurs VIP
+
+01/2003 - 05/2006 : CEGETEL
+Technicien Support

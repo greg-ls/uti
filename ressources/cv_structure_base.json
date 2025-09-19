@@ -1,0 +1,60 @@
+{
+    "prénom": "string",
+    "nom": "string",
+    "dénomination du poste recherché": "string",
+    "technologie principale": "string",
+    "annees d'experience": "string",
+    "technologies": [
+      {
+        "technologie": "string",
+        "note": "string"
+      }
+    ],
+    "maitrises fonctionnelles principales": "string",
+    "resume_du_parcours_professionnel_en_5_lignes": "string",
+    "softskills": "string",
+    "diplomes": [
+      {
+        "date_obtention": "string",
+        "intitule": "string",
+        "etablissement": "string"
+      }
+    ],
+    "formations": [
+      {
+        "date_obtention": "string",
+        "intitule": "string",
+        "etablissement": "string"
+      }
+    ],
+    "langues": [
+      {
+        "langue": "string",
+        "niveau": "string"
+      }
+    ],
+    "langages informatiques": "string",
+    "technologies base de données": "string",
+    "systèmes d’exploitation": "string",
+    "outils_informatiques": "string",
+    "méthodologies": "string",
+    "autres compétences techniques": "string",
+    "experience": [
+      {
+        "entreprise": "string",
+        "date_debut": "string",
+        "date_fin": "string",
+        "poste_occupe": "string",
+        "environnement_technique": "string",
+        "langages": "string",
+        "framework": "string",
+        "outils": "string",
+        "equipe": "string",
+        "methodologie": "string",
+        "contexte de la mission": "string",
+        "role": "string",
+        "taches": "string"
+      }
+    ]
+  }
+  

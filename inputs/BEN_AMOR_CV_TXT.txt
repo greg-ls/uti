@@ -1,0 +1,179 @@
+Consultant/ Business Analyst Banque – Finance - CRM
+
+
+DOMAINES D’INTERVENTION
+
+Maîtrise d’ouvrage: 
+Recueil et Analyse des exigences fonctionnelles 
+Rédaction d’expressions de besoin et des spécifications détaillées 
+Rédaction de cas de Test pour les utilisateurs 
+UAT et tests de non régression 
+Documentation 
+Utilisation d’ALM (Quality Center) pour suivre la recette
+
+Conduite de projet : 
+Recueil et analyse des besoins, participation aux workshops 
+Rédaction de cahiers des charges et des spécifications fonctionnelles 
+Organisation et réalisation des recettes : techniques, fonctionnelles, intégration,
+Etude de faisabilité, analyse d’impacts
+UAT et non régression
+Organisation et accompagnement des releases 
+Conduite du changement : communication, modes opératoires, procédures
+
+COMPETENCES PROFESSIONNELLES
+Business Analyst
+Définition du besoin
+Support utilisateurs
+Excel (Formules/TCD)
+SQL 
+Salesforce
+
+LANGUES
+Anglais : opérationnel
+
+EXPERIENCES PROFESSIONNELLES (10 années)
+
+Depuis Octobre 2022 : ARDIAN 
+Contexte :
+Projet 2 : Maintenance évolutive et corrective des applications internes chez ARDIAN (PortfolioManagementTool/iCredit)
+Activités :
+Recueil des besoins auprès des utilisateurs/ métier
+Assurer le support des utilisateurs au quotidien
+Documenter ces applications (procédures, modes opératoires, manuels de formation)
+Suivi de l’avancement sur Azure Devops
+Gestion des anomalies : détection, analyse et suivi
+Création des demandes ServiceNow et suivi des livraisons avec le prestataire Thalès en UAT et Prod
+Recette des bugs/ évolutions finalisés par les Devs
+Gestion des priorités, Affectation des tickets dans l’équipe et suivi de l’avancement et du reste à faire
+Weekly avec le TechLead et le Manager
+Travail en sprints de 3 semaines*
+
+Outils: Azure Devops, Confluence
+
+D'Avril à Septembre 2022 (6 mois) : VINCI
+Projet 1 : Mise en place de Salesforce pour les chantiers de Vinci MedPrefa
+
+Ateliers recueil du besoin
+Rédaction des User stories qui répondent au besoin
+Sprint reviews avec les utilisateurs
+Travail en mode Agile, sprint de 3 semaines
+Implémentation de la solution sur Salesforce: Création d’objets, fields, flows, validation rules, list views, reports, page layout, lightening pages, dynamic forms
+Automatisation d’opérations grâce aux workflows/ boutons/custom notifications
+Accompagnement en phase d’UAT
+Exécution de la recette et suivi Business As Usual
+Amélioration de la qualité de données suite à la migration pour Ingenico TSS (Terminaux, Solutions et Services)
+Reconstitution des Dashboards/Reports perdus pour Ingenico
+Chargement des nouvelles listes du catalogue de produits commercialisés par Ingenico
+Assistance/ support après migration WorldLine (Ingenico TSS)
+
+
+Fev.2018 – Mars 2022 : ALGOFI (4 ans) 
+
+SENIOR BUSINESS ANALYST 
+
+Projet 3: Natixis~ 8 mois 
+Contexte :
+Projet de mise en place d’un outil d’océrisation Salesforce, développé par un partenaire externe afin de réduire la saisie manuelle des états financiers et des projections. Equipes financements structurés.
+
+Activités :
+Rédaction/modification des spécifications
+Comptes rendus suite réunions avec le business
+Schématiser les user workflows avec le partenaire ISV
+Recueil des besoins, étude de faisabilité et organisation des échanges avec la TMA/ Mode Agile
+Tests : Nouvelles fonctionnalités et Non régression
+
+Outils: Singular (construit sur du Salesforce), Microsoft Excel, Confluence, Jira, Salesforce, nCino, CRM
+
+
+Projet 2: Amundi Asset Management ~ 18 mois
+
+Activités :
+Mise à jour des informations des Users/ Groupes/ Permission sets sur Salesforce lightning
+Analyse comparative de données entre deux CRM
+Charger les fichiers dans Salesforce et éviter les doublons
+Modification et génération de Reports/ Dashboards dans Salesforce
+Modification des Approval process/ Workflows
+Suivi du développement d’un nouvel outil de reporting excel: opérations de souscription/ rachat, info clients, info FCP
+Assurer une remontée de qualité et la plus automatisée possible des encours et des flux des clients
+Maîtriser et justifier les ajustements ‘manuels’
+
+Outils: Tableau software. SQL, Microsoft Excel, Oracle Business Intelligence, Jira, Agile, Salesforce
+
+
+Projet 1: BNP PARIBAS ~ 18 mois
+
+Activités :
+Rédaction/ modification des spécifications et Tests : Nouvelles fonctionnalités et Non régression
+Modification d’Approval process/ Custom fields/ Page Layouts
+Coordination avec l’ensemble des intervenants projet : instances, correspondants, MOA, IT. / suivi des actions de remédiation avec les Devs
+Recueil des besoins, étude de faisabilité et organisation des échanges avec la TMA
+
+Outils: Tableau software. SQL, Microsoft Excel, Oracle Business Intelligence, Jira, Agile, Salesforce
+
+
+2015- 2018 : ECONOCOM (3 ans) 
+
+BUSINESS ANALYST 
+
+Projet 3: BNP Paribas (14 mois)
+Contexte : Outil d’allocation des coûts, de simulation budgétaire et de reporting à disposition des fonctions et métiers
+
+Activités :
+Recueil des besoins, étude de faisabilité et organisation des échanges avec le prestataire
+Rédaction des spécifications fonctionnelles, suivi des développements et stratégie de recette
+Accompagnement de la MOA fonction risque sur l’implémentation de nouveaux besoins fonctionnels
+Suivi et encadrement des équipes de développement en Roumanie
+
+Outils: SQL, application interne, Jira
+
+Projet 2: Crédit Agricole (Pacifica/Predica/ CACI) (6 mois)
+Activités :
+Amélioration du portail collaboratif et des paramètres de sécurité, en fonction des profils et des groupes
+Aider le client à organiser un grand atelier de brainstorming entre les agences régionales
+
+Outils: SQL, application interne, MS Office
+
+
+
+2013-2014 : TATA CONSULTANCY SERVICES (1 an) – New Delhi, Inde
+
+SUPPORT IT & MAINTENANCE APPLICATIVE 
+
+Client: General Electric Europe
+Organisation et allocation des tâches dans l’équipe afin d’optimiser le traitement des demandes en attentes
+Enseignement des bases du Français aux membres de l’équipe
+Conseil et accompagnement des utilisateurs pour l’utilisation d’un CRM de leasing
+Suivi de l’avancement du développement/ traitement des demandes des clients et reporting quotidien
+
+Outils: SQL, Microsoft Office, HP ALM, Jira
+
+
+Projet 1: Projet au forfait avec une équipe de l’éditeur Cassiopae dans les locaux de Natixis. Migration de la version V3 vers la version V4.5 de Cassiopae
+
+Natixis Lease (7 mois) : Intégration de Cassiope sur la partie Leasing -Recette fonctionnelle, Tests d’Acceptation et Tests unitaires
+Exécution des plans de tests et aide à prioriser les correctifs à livrer selon les besoins du client
+Stratégie de recette fonctionnelle de l’ERP Cassiopae, en mode Agile et en collaboration avec l’éditeur
+
+Outils: SQL, Cassiopae (crédit – financement), Filezilla, Jira, Agile
+
+GENERALI Assurances (stage – 6 mois): Consultant Fonctionnel Junior
+
+Contexte : Étude sur le contexte, les pratiques et les outils existants pour la comptabilité
+Activités :
+Participation à la rédaction des documents de l’étude préalable (besoins et exigences fonctionnelles, processus, définition de la cible)
+Analyse et interprétation des informations/ données collectées auprès des métiers
+Définition d’une stratégie d’exécution garantissant une piste d’audit fiable et des comptes justifiés
+Outils: Microsoft Office, applications internes
+
+
+FORMATION
+2014-2015 MASTÈRESPÉCIALISÉ
+INSTITUT MINES- TELECOM BUSINESS SCHOOL- Evry, France
+Mastère Spécialisé Conseil et Management Des Systèmes d’Information
+2009-2012 DIPLÔME D’INGENIEUR
+ESPRIT - Tunis, Tunisie
+Ingénierie Financière et Informatique
+2007-2009 PREMIER CYCLE
+INSTITUT PREPARATOIRE AUX ETUDES D’INGENIEURS DE TUNIS - Tunis, Tunisie
+Filière: Physique- Chimie
+

@@ -1,0 +1,316 @@
+CHEF DE PROJET FONCTIONNEL ET SERVICES +15 ANS D’EXPÉRIENCE
+AGILITE, SCRUM
+COMPREHENSION DES ENVIRONENMENTS COMPLEXES
+COMPREHENSION DES INTERCATIONS ENTRE LES DIFFERENTS METIERS
+PATIENT, ORGANISE, AUTONOME, FORCE DE PROPOSITION, SORT DE SAZONE DE CONFORT
+
+COMPÉTENCES
+Méthodes: Agile / SCRUM / Cycle en V / MOA
+Outils: OPC +, Business Object, Mantis, Prestashop, Divers CMS internes, Taiga, JIRA, Google Adwords Microsoft CRM, Forest, Postman, GitHub, ZenHub, LogEntries, Dreamweaver, Photoshop, Illustrator, Pack MS OFFICE,
+Langages: HTML / PHP / CSS
+
+diplomes
+2000 Maitrise en Sciences Humaines SOCIOLOGIE
+1996 DEUG en Sciences Humaines SOCIOLOGIE
+1994 DEUG en Sciences Humaines HISTOIRE
+1994  Bac G2 COMPTA / GESTION / DROITS DE SOCIETES
+
+LANGUES
+Anglais: PROFESSIONNEL
+Japonais: DEBUTANT
+
+EXPÉRIENCES PROFESSIONNELLES SIGNIFICATIVES
+Product Owner
+Période Janvier 2022 – En cours
+WORLDLINE TSS (EX : INGENICO)
+Contexte
+1. Aide à la transition Equipe de Provisioning pour la preprod sur l’outil EVEREST
+2. Projet ONBOARDING Tool via le service E-Portal pour du self provisioning
+Tâches
+1. En tant que PO pour la partie provisionning : 4Corners, CB2A, 3DSecure, DNS, RTGS, EMV, SSC, Microdon, Alipay, CHQ…
+2.
+Gestion du board en daily scrum sur JIRA
+Mise en place de process de communication pour maintenir les relations avec les Project Managers de nos clients internes
+État des lieux des métiers de l’équipe
+Solution de process d’amélioration sur les métiers
+3. En tant que PO pour le module Onboarding : 4Corners, CB2A, 3DSecure, DNS, RTGS, EMV, SSC, Microdon, Alipay, CHQ…
+Gestion du board en daily scrum sur JIRA
+Formation des développeurs R&D sur les best practices et mandatory requirements pour matcher aux exigences de développement exigé, à l’oral en suivant un PPT mis à jour régulièrement
+Monté en compétence de façon autodictacte pour définir les périmètres du métier de PO lié au delivery de profils génériques pour le module de self-provosioning
+Process de delivery
+Process d’assistance aux squads clients et fournisseurs
+Suivi de projet : AGILE / daily SCRUM
+Point d’entrée relationnel pour les StackHolders
+Gestion du Board
+Recettage
+Garant de la vision produit
+Environnement technique: JIRA / Confluence / Suite Office / GitLab / Python / AWS
+
+Product Owner
+Période Juillet 2021 – Décembre 2021
+WORLDLINE TSS (EX : INGENICO)
+contexte
+ RMT.2 / REFERENCE MANAGEMENT TOOL
+Tâches
+Suivi du développement et de la mise en production de l’outil RMT.2, qui est portail web interconnecté à SALES FORCES et SAP, et permet au Product Manager Ingenico de :
+Gérer la totalité de l’offre proposée par le Groupe WORLDLINE TSS, dans l’ensemble des pays concernés.
+Générer des demandes de productions de TPE pour son client.
+Suivi de projet : AGILE / daily SCRUM avec l’équipe de DEV situé en Pologne
+Quote to cash / Offer Management
+Descriptif
+Gestion et priorisation des backlogs
+Mise en place des Sprints
+Recettage des spécificités développées de façon quotidienne, avec remonté des incidents, et vérification des corrections.
+Création de l’User GUIDE de l’outil RMT.2
+Formation des futurs utilisateurs de RMT.2
+Environnement technique: JIRA / Confluence / Suite Office
+
+SIE (Service Implementation Expert) / Process Manager SIE
+Période Avril 2019-En cours
+ORANGE
+Contexte
+Description des processus métiers d’offre de services en Cyber Defense pour Orange Business Services (OBS) - Orange Cyber Defense (OCD) - Orange Cloud for Business (OCB) - Direction Entreprise France (DEF).
+taches
+Vulnerability Intelligence Watch - Identification des vulnérabilités du système d'information
+Cyber Protection Express – Solution d’hébergement en cloud public Orange
+Global Disconnection Service (GDS): Etablir le processus pour cesser la facturation du client, ainsi que le dérackage du matériel dans les data center
+Flexible Applications Access (FAA) – Solution d’accès distant au Système d'Information (identification et accès sur cloud Azure ou AWS)
+Manage Threat Detection Network – Détection des menaces de sécurité (EDR, IPS, IEM, etc.)
+CSO (Customer Service & Operations)
+Nouer des relations avec l'entité semi-indépendante Orange Cyber Défense (OCD).
+Établir un organigramme d’OCD : prise de contact - entretien direct - restitution des informations et validation par les interlocuteurs.
+Identification (Rôles - Business Units) et analyse des processus métiers (vente - contractualisation – commande - implémentation technique - facturation – support (installation, dépannage, change…), pour s’assurer de la coordination entres les entités concernées sur l’interopérabilité fonctionnelle des outils administratifs et SI.
+Restitution dans l'outil Orange Process Center Plus (OPC+) de diagrammes type process des informations collectées, tout en assurant de correspondre aux critères de qualité fixées par OBS.
+Affinage des process dans le but d'obtenir un consensus entre les divers Rôles et Business Unit identifiée ; en initiant des comités de "lecture".
+Formation dispensée en anglais et en français auprès des collaborateurs France, Egypte et Inde sur l'outil OPC+
+Mise à jour de la partie du process permettant l'upgrade des options clients sur des Data Centers internationaux (France / OakHill et Singapour) dédiés au B-VPN pour les clients qui souhaitent faire du télétravail au travers de l'offre Flexible Application Access
+Création de manuels de formation dans le réseau social de partage interne : « PLAZZA » à destination des nouveaux SIE pour leur permettre de comprendre et appréhender les enjeux des métiers de services en Cyber Defense.
+Environnement technique: OPC + / Gold / Oceane / Diapason / Satin / ERP Cloud OBS/OCB etc.
+
+Product Owner
+Période Décembre 2017-Novembre 2018
+PLEDG
+contexte
+Mener à bien les tests en mode lean start-up et prospecter de nouveaux leads pour intégrer la solution de paiement multi-carte
+taches
+Prospection de nouvelles opportunités commerciales
+Présentation et démo du système de paiement
+Définition des Backlogs
+Fonctionnement en mode Lean Start-Up. Pas de planning.
+Recettage sur chaque développement
+User X
+Amélioration du discours commercial : prospection et positionnement marketing
+Création et mise à disposition d’un kit de test à destination des leads potentiels
+Manuel utilisateur
+Environnement technique: Forest / Postman / GitHub / ZenHu / LogEntries / Python
+
+Product Owner
+Période Mai 2017-Octobre 2017
+RENAULT-NISSAN ALLIANCE
+
+context
+Nissan Connect Box: Mener à bien la mission internationale de Product Owner sur le projet Nissan Connect Box (NCB) : application offboard (mobile) pour Nissan Europe pris en charge par ACMS (Renault)
+
+Tâches
+Gestion de projet / AGILE - SCRUM
+Reprise des en cours sur l’application
+Re-cadrage des besoins : User X
+Définition des Backlogs
+Modification des sprints en accord avec la réalité des besoins
+Remonter vers les services juridiques des attentes en termes de collecte de données personnelles
+Amélioration du cahier des charges des fonctionnalités
+Méthodologie : AGILE, SCRUM avec l’équipe IT en Inde
+Reporting hebdomadaire avec les stake holders Nissan France et Japon
+Suivi de la mise en pré-prod
+User Guide pour l’installation mobile iOS et Android de la version pré-prod à destination des bêta-testeurs via l’application « Balto »
+Création du template board pour consigner le process de test End to End
+Recettage complet de l’application
+Remonté et suivi de débogage
+Autres Renault :
+o Assistance sur l’application onboard « AUTOCOMPANION » sur Air Link 1 & 2
+o Assistance sur l’application offboard (mobile) « MYRoutes »
+o Assistance sur la liste utile de recettage End To End en corrélation avec les sprints prévus
+o User Guide sur l’utilisation d’un environnement sur server AZUR (Microsoft) en émulation de l’application MYRenault (non fonctionnelle)
+
+Product Owner
+Période Septembre 2015-Avril 2017
+PARITEL
+contexte
+Conversion métier vers le numérique: Accompagnement de la société vers la dématérialisation digitale de leurs activités.
+Tâches
+
+Analyse des process en cours
+Cadrage des besoins
+Méthodologie : AGILE, SCRUM
+Schématisation des process
+Comité de pilotage hebdomadaire
+Proposition de process optimisés pour le digital
+Zoning
+Rédaction des spécificités fonctionnelles : front-office et back-office
+Cahier des charges des fonctionnalités : front-office et back-office
+Référent principal au niveau de la communication entre la DSI et le porteur du projet
+Rédaction du glossaire
+Environnement technique: Suite Office
+
+Product Owner
+Période Juin 2014-Décembre 2014
+ALIKE
+contexte
+Signature électronique et coffre-fort digital: Création d’une offre sur l’archivage par coffre-fort digital et la signature électronique à valeur probante.
+taches
+Analyse des process en cours
+Benchmark national
+Rédaction du glossaire
+Compréhension des périmètres juridiques
+Compréhension des technologies appliquées : signature et stockage numérique sécurisés
+Création du document commercial
+Ciblage des secteurs concernés
+o Intervention chez PSA Banque (Levallois) :
+o Conseils sur l’application mobile
+o Listing du SLA (Service Legal Agreement)
+o Suivi du comité de pilotage
+o Cadrage de la conduite du changement sur les fonctionnalités obsolètes
+Évaluation de l’impact impliquant les services utilisant les nouvelles fonctionnalités
+Expression des besoins
+Rédaction des spécificités fonctionnelles
+Suivi des développements
+Recettage avant mis en prod de l’application
+Environnement technique: +10 personnes, Suite Office
+
+Product Owner
+Période Janvier 2013-Décembre 2013
+PEROTIUM
+contexte
+CO-Créateur, Expérience digitale
+
+Création « from scratch » d’un site internet de valorisation de produit référencés sur des sites de E-commerce.
+Entre le comparateur, le blog, l’expérience utilisateur.
+
+Tâches
+Cadrage du business model
+Spécifications fonctionnelles : front-office et back-office
+Référent principal pour la DSI
+Animation hebdomadaire du comité de pilotage
+Compte-rendu des réunions
+Reporting hebdomadaire des avancés, et des modifications du planning
+Gestion et mise à jour du planning des échéances méthode AGILE
+Animation quotidienne en SCRUM
+Zoning
+Parcours utilisateur : ergonomie et design
+Maquette du site avec Illustrator
+Création du cahier des charges graphiques
+Ecriture du cahier des charges des fonctionnalités
+Recettage avec scénarisation pour pousser au bug
+Bug reporting en temps réel
+CGU du site
+Environnement technique: Suite Office / Suite ADOBE /
+
+Product Owner
+Période Septembre 2011-Septembre 2012
+SFR
+contexte
+BOUTIQUE.HOME.SFR.FR: Création « from scratch » et mise en ligne d’un site de e-commerce hors contexte de SFR Mobile
+
+Tâches
+Cadrage de l’ergonomie du site sur le front-office et le back-office : zoning, story-board
+Planning en méthodologie AGILE, et SCRUM
+Application « Home by SR »:
+Révision de l’User X
+Recettage : appareillage / push des données produits vers la box, et de la box vers l’application / pilotage distant des produits / remonté et suivi des bugs.
+Finance : mise en place des règles de paiement, de promotions
+Cadrage du prestataire de paiement en ligne :
+o Optimisation du tunnel de paiement
+o Rédaction du cahier des charges en fonction du business model online pour cibler les besoins de paiement en ligne
+o Scénarisation des différentes modalités de facturation au client final : paiement récurrent à la date anniversaire de l’achat par prélèvement bancaire / ajout d’option en cours d’abonnement avec paiement au prorata selon la date anniversaire / paiement en one-shot par CB
+Schématisation des flux financiers et informatifs entre la plateforme e-commerce, le prestataire de paiement, la banque, et si nécessaire l’intervention du SAV sur litiges financiers
+Aide à la mise en place des flux de données informatives et financières entre les différentes plates-formes : site e-commerce, logistique, service client, service d’assurance
+Gestion de la web agency sur : zoning, design du site, story boarding, recettage
+Edition : messages automatiques sortants, template de facture mensuelle, template de bon de livraison, création des fiches produit, présentations des services, des accroches marketing et commerciales, sélection des différentes photos figurant sur le site
+Gestion logisticien : mise en place du process de livraison au client final et de communication des informations entre les différents Systèmes d’Information
+Packaging produit : pré-maquettage des visuels via photoshop
+Gestion service client : montage et suivi du dossier d’attribution du numéro de téléphone du service, règles de gestion du CRM (Sugar CRM), mise en place des process de conseil avant-vente et de ticketing
+Recettage final
+Environnement technique: 20 personnes, Suite Office / Suite ADOBE
+
+Chef de projet web-marketing International
+Période Mai 2011-Aout 2011
+TECHNICOLOR
+contexte
+ Intégration de toutes les entités de services sur le site Corporate
+ Aide à l’intégration des « sites internet satellites » qui expliquent les services de traitement de l’image disponibles chez Technicolor.
+Tâches
+Création et implémentation du blog interne « Digital Home » de Technicolor
+Création d’un mini site pour DreamWorks India, et Technicolor England
+Benchmark sur lancement d’un produit digital : MEDIA NAVI
+Refonte et intégration du site Mediaffinity sur Technicolor.com
+Refonte et intégration des sites Technicolor et Thomson Australie, sur Technicolor.com
+Environnement technique: Suite Office
+
+Category Manager
+Période Avril 2009-Avril 2010
+SOKOZ
+contexte
+Projet Site de E-commerce, avec ventes flash sous formes d'enchères descendantes.
+
+Tâches
+Recrutement et gestion de l’équipe de Category Managers au Luxembourg (3 personnes), puis sur Paris (6 personnes)
+Gestion des besoins techniques : ergonomie et fonctionnalités du site, importation de fichier, ergonomie de la fiche produit, mise en place du front et back office acheteur et vendeur, conseil juridique, mise en place du S.A.V.
+Communication et marketing produit : news letter, réseaux sociaux
+Planification des ventes
+Analyse de la performance des actions mises en place
+Environnement technique: Suite Office / Suite ADOBE / Téléphone
+
+Chef de produit
+Période Avril 2004-Mars 2009
+PRICEMINISTER
+Projet Site de E-commerce
+Tâches
+
+Responsable du développement de catégories de produits
+Gestion d’un portefeuille client B2B français et international
+Suivi
+Point de contact référent
+Création d’évènements marketing et commerciaux
+Brief de création de news-letter
+Mise en place d’opérations promotionnelles
+Gestion des besoins techniques liés aux catégories musique et vidéo
+Cahier des charges
+Parcours utilisateur
+Fonctionnalités front office (benchmark)
+Importation de fichier CSV
+Ergonomie de la fiche produit
+Recettage
+Reporting de performance : C.P.C., C.R.M., R.O.I.
+Optimisation de la recherche : S.E.O. ; S.E.M.
+Statistique des ventes
+Recherche de partenariat, échange de visibilité
+Prospection et négociation des bases de données
+Mise en place de l’arborescence de navigation
+Editorial
+Responsable de l’équipe qualité (9 personnes)
+Environnement technique: CMS / Intranet / Suite Office / Téléphone
+
+EXPERIENCES INTERNET ET COMMUNICATION
+
+Co-fondateur
+Septembre 02 - Septembre 05 
+LA TAMBOUILLE, Paris, 
+contexte
+Evènementiel et Communication 
+
+Rédacteur, Responsable du service "Universal Music Mobile" de AOL et Universal (CDD)
+Juillet 02 - Août 02 
+OCTOPUS, Paris
+contexte Fournisseur de contenus multimédia 
+
+Chef de projet et Rédacteur
+Octobre 01 - Septembre 02 : 
+MUSIWAVE, Paris, 
+contexte
+Fournisseur de contenus multimédia : Responsable des relations avec les maisons de disque (CDD)
+
+Site internet d'informations sur la musique
+Septembre 00 - Septembre 01 
+SOUNDICATE, Paris
+contexte
+édacteur et Assistant Marketing (CDD)

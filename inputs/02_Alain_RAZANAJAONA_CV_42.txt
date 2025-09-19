@@ -1,0 +1,311 @@
+COMPÉTENCES FONCTIONNELLES
+Management
+Collaboration
+Force de proposition
+Persévérance
+Animation de réunions
+Adaptabilité
+Gestion des priorités
+Rigueur
+Livraison continue
+Agile et Scrum
+Sens relationnel
+Intégration of payement services
+
+LANGUES
+Français : Langue maternelle
+Anglais : Intermédiaire supérieur (B2)
+
+CENTRES D'INTÉRÊT
+Pratique de la guitare au sein du conservatoire de Sartrouville
+Passion pour la Boxe et l’Aïkido
+Introduit et Enseigne l'aïkido au sein de Ingenico
+
+Test Lead |Team Lead| Responsable de projet
+
+PROFIL PROFESSIONNEL
+Expert en monétique avec plus de 25 ans d'expérience dans les systèmes de paiement électroniques. Solide expertise en gestion de projets techniques, intégration de solutions de paiement, et encadrement d'équipes pluridisciplinaires. Leadership, rigueur et passion pour les innovations liées aux systèmes embarqués et à la sécurité des paiements.
+
+EXPERIENCES PROFESSIONNELLES
+Team Lead – Plateforme de paiements AXIS Worldline - Paris - CDI
+01/2017 - Actuel
+Projet : Carrefour
+Contexte : Projets sur la gestion des dons, la gestion des cartes Cadeaux et la mise en place de la préconisation.
+Equipe : 10 Personnes (Agile : SCRUM)
+Tâches :
+Rédaction de la stratégie de test de plusieurs projets (plans de tests, release, référentiel)
+Rédaction des PVs de recette (Confluence)
+Rédaction des rapports de test (Jira)
+Mise en place de bonnes pratiques pour les tests dans un environnement agile
+Management des tests automatisés
+Suivi des rapports de tests automatisés lancés par tâches
+Référent Jira XRay (formation, suivi...)
+Environnements Techniques : Jira, Jira XRay, Confluence, Git, Jenkins, AWS
+
+Team Lead – Plateforme de Payments AXIS Worldline - Paris - CDI
+Projet : Carrefour / Franc Prix / Auchan
+Contexte : Le service Charity permet de proposer un don au porteur lors d'une opération de débit en Euros avec une carte à puce EMV en contact. Après l'introduction de la carte dans le terminal, le don est proposé au porteur. Si le porteur accepte, le montant de paiement CB est augmenté du don.
+Tâches :
+Rédaction de la stratégie de test (plans de tests, release, référentiel)
+Ecriture des users stories et de leurs critères d'acceptance
+Conception de scénario pour les nouvelles fonctionnalités
+Exécution de scénario pour l'ajout de fonctionnalité
+Mise en place des environnements de travail (Serveur Linux, Terminal, Caisse)
+Mise en place des simulateurs de tests
+Rédaction des rapports de test (Jira)
+Mise en place de bonnes pratiques pour les tests dans un environnement agile
+Environnements Techniques : Jira, Jira XRay, Confluence, Git, Jenkins, AWS
+
+Team Lead – Plateforme de Payments AXIS Worldline - Paris - CDI
+Projet : Oney / ALMA
+Contexte : Service BNPL. Le client doit payer son panier en plusieurs fois via un terminal de paiement. BNPL signifie « Acheter maintenant, payer plus tard ».
+Tâches :
+Coordination des tâches
+Mise en place des paramètres nécessaires pour le bon fonctionnement de l'application
+Mise en place des environnements de travail (Serveur Linux, Terminal, Caisse)
+Rédaction de la stratégie de test (plans de tests, release, référentiel)
+Mise en place du Profil application permettant au client de visualiser les transactions via Site web
+Ecriture des users stories et de leurs critères d'acceptance.
+Exécution de scénario
+Mise en place des simulateurs de tests
+Rédaction des rapports de test (Jira)
+Mise en place de bonnes pratiques pour les tests dans un environnement agile
+Mise en place d’un MAT 'Minimum Acceptance Test'
+Environnements Techniques : Jira, Jira XRay, Confluence, Git, Jenkins, AWS
+
+Team Lead – Plateforme de payments AXIS Worldline - Paris - CDI
+Projet : Galerie Lafayette
+Contexte : Le service Alipay est un portefeuille électronique chinois intégré à une application pour smartphone. L'utilisateur est identifié grâce à un code-barres mis à jour régulièrement sur l'interface de son smartphone.
+Tâches :
+Rédaction de la stratégie de test (plans de tests, release, référentiel)
+Ecriture des users stories et de leurs critères d'acceptance
+Conception de scénario pour les nouvelles fonctionnalités
+Exécution de scénario pour l'ajout de fonctionnalité
+Mise en place des environnements de travail (Serveur Linux, Terminal, Caisse)
+Mise en place des simulateurs de tests
+Rédaction des rapports de test (Jira)
+Mise en place de bonnes pratiques pour les tests dans un environnement agile
+Environnements Techniques : Jira, Jira XRay, Confluence, Git, Jenkins, AWS
+
+Ingénieur Test et Qualification Logiciel - Worldline - Paris - CDI
+01/2015 - 12/2016
+Projet : Connecs
+Fonction : QA Lead
+Contexte : Gestion du mécanisme de sélection (Double Tape)
+Réalisation :
+Participation aux réunions de cadrage de besoin avec le métier
+Ecriture des users stories et de leurs critères d'acceptance
+Explication des user stories à la MOE
+Conception de scénario pour les nouvelles fonctionnalités de de la carte Connecs
+Exécution de scénario pour l'ajout de fonctionnalité
+Test Pré Production
+Test d'intégration avec l’intégrateur
+Test d'intégration avec le Client (Connecs)
+Mise en Production
+Gestion des anomalies
+Environnements Techniques : Windows, Linux, Android Mobile, Terminaux de payement, Test Link, AWS, Simulateur KNEST
+
+Ingénieur Test et Qualification Logiciel - Ingenico Group - Paris -CDI
+Projet : Connecs
+Fonction : QA Lead
+Contexte : Actuellement, les restaurants du marché français, comme Bufallo Grill, utilisent la fonction "Num Table". Cette fonctionnalité permet de faciliter le rapprochement Montant de Paiement et le Numéro de Table du Client. L'idée est d'améliorer, remplacer cette fonctionnalité par la toute nouvelle fonctionnalité Scan and Paye, qui permet de scanner (si le Move a une caméra) un code QR ou un code-barres
+Réalisation :
+Participation aux réunions de cadrage de besoin avec le métier
+Ecriture des users stories et de leurs critères d'acceptance
+Explication des user stories à la MOE
+Conception de scénario pour les nouvelles fonctionnalités de de la carte Connecs
+Exécution de scénario pour l'ajout de fonctionnalité
+Test Pré Production
+Test d'intégration avec l’intégrateur
+Test d'intégration avec le Client (Connecs)
+Mise en Production
+Gestion des anomalies
+Environnements Techniques : Windows, Linux, Android Mobile, Terminaux de payement, Test Link, AWS, Simulateur KNEST
+
+Ingénieur Test et Qualification Logiciel - Ingenico Group - Paris - CDI
+Projet : CUP SANS CONTACT (UQP)
+Fonction : QA Lead
+Contexte : Cup veut mettre en place l’application Sans contact sur le marché français
+Réalisation :
+Ecriture des users stories et de leurs critères d'acceptance
+Conception de scénario pour les fonctionnalités de de la carte CUP sans contact
+Exécution de scénario pour l'ajout de fonctionnalité
+Test Pré Production
+Test d'intégration avec l’intégrateur
+Test d'intégration avec le Client (CUP)
+Préparation de la certification
+Certification de l’application avec CUP
+Mise en Production
+Gestion des anomalies
+Environnements Techniques : Windows, Linux, Android Mobile, Terminaux de payement, Test Link, AWS, Simulateur KNEST
+
+Ingénieur De Projet Acceptance Client - Ingenico Group - Paris - CDI
+07/2013 - 01/2014
+Projets : BNPP
+Fonction : QA Lead
+Contextes : Mettre en places les configurations pour être dans l'environnement M-acceptance de la BNPP pour EMV Contact et Sans Contact
+Réalisation :
+Prendre en compte les Exigence de BNPP (Applications, HSM pour les données sensibles Protocole à utiliser, double masquer Authentification)
+S'assurer que les applications attendues par la BNPP sont déclarées sur le serveur AXIS
+S'assurer que les protocoles et bulletins sont bien ceux attendus par la BNPP
+S'assurer que la gestion du PADSS est bien paramétré dans le serveur
+Préparations des jeux de données
+Mise en place des plateformes de tests
+Réalisation du MAT 'Minimum Acceptance Test'
+Coordination avec le Client
+Suivis :
+Créations des anomalies constatées (via JIRA)
+Récupérations des traces nécessaires pour la correction
+Compte rendu des tests aux équipes
+Identification des dysfonctionnements techniques, mise en œuvre de solutions.
+Coordination avec le client pour assurer les suivis du projet
+Compétences : Système linux · Travail d'équipe · Communication · Stratégie de test · Gestion des tests
+
+Ingénieur De Projet Acceptance Client - Ingenico Group - Paris - CDI
+01/2010 - 12/2012
+Projets : Certification China Union Paye (CUP)
+Fonction : QA Lead
+Contextes : Pour utiliser la carte CUP en France, les certifications de l'applications terminal et serveur sont nécessaires.
+Réalisation :
+Préparations des jeux de données
+Mise en place des plateformes de tests
+Coordination avec le Client (en Chine)
+Réalisations des tests pré certification
+Réalisation des tests de Certification
+Suivis :
+Créations des anomalies constatées (via JIRA)
+Récupérations des traces nécessaires pour la correction
+Compte rendu des tests aux équipes
+Identification des dysfonctionnements techniques, mise en œuvre de solutions.
+Coordination avec le client pour assurer les suivis du projet
+Compétences : Système linux · Travail d'équipe · Communication · Stratégie de test · Gestion des tests
+
+Ingénieur De Projet Acceptance Client - Ingenico Group - Paris - CDI
+Projets : Intégration des Solutions Monétiques avec Les partenaires
+Fonction : Intégrateurs
+Contextes : Les Partenaires Intégrateurs ont besoins de serveur monétique et d'aide technique pour intégrer leur solution avec la monétique Ingenico.
+Réalisation :
+Mise à jour des documents d'intégration
+Préparations des serveurs pour les différents intégrateurs
+Suivi des tests réalisés par les intégrateurs
+Aide Technique Si nécessaire
+Analyses des traces
+Suivis :
+Créations des anomalies constatées (via JIRA)
+Récupérations des traces nécessaires pour la correction
+Compte rendu des tests d'intégration à l’équipe
+Identification des dysfonctionnements techniques, mise en œuvre de solutions.
+Coordination avec le client pour assurer les suivis du projet
+Compétences : Système linux · Travail d'équipe · Communication · Stratégie de test · Gestion des tests
+
+Ingénieur Test et Qualification Logiciel - Ingenico Group - Paris - CDI
+01/2009 - 02/2010
+Projet : Banque Accord
+Contexte : Banque Accord souhaite déployer la solution de paiement sans contact MasterCard « PayPass ». Le projet de paiement sans contact comprend à la fois l'émission d'une nouvelle carte « Banque Accord MasterCard PayPass » et l'évolution du système d'acceptation afin d'adopter ce nouveau mode de paiement.
+Tâches :
+Préparation des Données de test
+Ecriture des plans de test
+Mise en place des environnements de travail (Serveur Linux, Terminal, Caisse )
+Mise en place du Profil application permettant au client de visualiser les transactions via Site web
+Exécution de scénario
+Mise en place des simulateurs de tests
+Rédaction des rapports de test (Jira)
+Mise en place de bonnes pratiques pour les tests dans un environnement agile
+Mise en place d’un MAT 'Minimum Acceptance Test'
+Environnements Techniques : Jira, Jira XRay, Confluence, Git, Jenkins, AWS
+
+Ingénieur Test et Qualification Logiciel - Ingenico Group - Paris - CDI
+Projet : Banque Accord
+Contexte : Recette Clients et Suivi des Anomalies
+Tâches :
+Mise en place des environnements de Recette (Serveur Linux, Terminal, Caisse)
+Mise en place du Profil application permettant au client de visualiser les transactions via Site web
+Recette Client
+Rédaction des rapports de test (Jira)
+Création des Résultats de recette et communication avec l'équipe
+Suivi des Anomalies.
+Préparation de la nouvelle Recette
+Environnements Techniques : Jira, Test Link, Confluence, Excel
+
+Ingénieur Test et Qualification Logiciel - Ingenico Group - Paris - CDI
+01/2006 - 12/2009
+Projets : Redressement (Bulletin 14 ), EMV, Connecs, Fintrax
+Fonction : QA Lead / Support Technique
+Contextes : Le redressement permet de régulariser le plafond porteur, que cela soit pour les comptes TRD (CONECS ou autres émetteurs de TRD) ou dans le CB 5.5 désormais.
+Réalisation :
+Préparations des jeux de données Simulateur KNEST
+Mise en places des plateformes de tests (Serveur Axis et Knest)
+Réalisations des tests pré certification
+Réalisation des tests de Certification
+Suivis :
+Créations des anomalies constatées (via JIRA)
+Récupérations des traces nécessaires pour la correction
+Compte rendu des tests aux équipes
+Identification des dysfonctionnements techniques, mise en œuvre de solutions.
+Coordination avec le client pour assurer les suivis du projet
+Compétences : Système linux · Travail d'équipe · Communication · Stratégie de test · Gestion des tests
+
+Ingénieur Test et Qualification Logiciel - Ingenico Group - Paris - CDI
+Projets : Certification VISA/MASTERCARD
+Fonction : QA Lead
+Contextes : Préparer et réaliser, les certifications des applications terminales et serveurs. ( EMV)
+Réalisation :
+Préparations des jeux de données
+Mise en place des plateformes de tests
+Réalisations des tests pré certification
+Réalisation des tests de Certification avec Visa et Mastercard
+Suivis :
+Créations des anomalies constatées (via JIRA)
+Récupérations des traces nécessaires pour la correction
+Compte rendu des tests aux équipes
+Identification des dysfonctionnements techniques, mise en œuvre de solutions.
+Coordination avec le client pour assurer les suivis du projet
+Compétences : Système linux · Travail d'équipe · Communication · Stratégie de test · Gestion des tests
+
+Développeur - Société Money line (Monétique) - Nanterre - CDI
+01/2000 - 12/2005
+Projets : Développement Application EMV Automate Parking
+Fonction : Développeur (C/C++)
+Contextes : Développer une application terminale et serveur MPA pour assurer les payements des parkings (Les Automates de classe 1.0 et 2.1)
+Tâches :
+Développement application bancaire 5.2 suivant la norme BO' / EMV
+Développement Application Terminal (EMV)
+Développement Application Serveur (EMV)
+Développement Simulateur de test
+Test et intégration
+Développement des applications cartes privatives tels que : carte Total, Sofinco
+
+Développeur - Société Money line (Monétique) - Nanterre - CDI
+Projets : Développement Portemonnaie électronique
+Fonction : Développeur (C/C++)
+Contextes : Développé un portemonnaie électronique
+Tâches :
+Développement Portemonnaie électronique pour les plates-formes S 2000 / S3000
+Certification de l'application Moneo
+Développement moyen de payement automatique destiné aux parkings suivant la spécification MPA V3, les applications sont : Application Bancaire 5.1, Moneo
+Développement de logiciels PC (sous Visual studio 6) simulant l'échange entre l'automate de paiement et les terminaux
+
+CERTIFICATIONS
+PRINCE2 : Fondations
+Management 3.0
+Sauveteur secouriste du travail
+Certificat d'accomplissement LinkedIn Learning
+Les fondements de la méthode Scrum (2018)
+Rôle du Product Owner Agile : Fondations
+Scrum : Niveau avancé
+L'essentiel de GitLab
+Excel : Les formules et les fonctions avancées (Microsoft 365)
+
+DIPLOMES
+09/1998 - 01/1999 : DESS Génie des Systèmes Industriels,
+UFR Science Et Technologie D'Evry - Évry
+
+09/1997 - 07/1998 - Maîtrise et Ingénieur Maître : Génie des Systèmes Industriels,
+UFR Science Et Technologie D'Evry - Évry
+Mention Assez Bien
+
+09/1996 - 07/1997 : Licence Génie des Systèmes Industriels,
+UFR Science Et Technologie D'Evry - Évry
+
+09/1995 - 07/1996 : DEUP Génie des Systèmes Industriels,
+UFR Science Et Technologie D'Evry - Évry

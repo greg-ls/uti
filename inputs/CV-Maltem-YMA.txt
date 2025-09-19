@@ -1,0 +1,155 @@
+YMA MOA Senior Expérience : 16 ans
+Esprit d’analyse
+Facilité de communication
+Agilité
+Bonne écoute
+Bonne gestion du stress
+Bon rédactionnel
+Riche d’une expérience de plus de 20 ans dans le domaine de la banque de détail, j’ai été amené à occuper des postes de management et de gestion de projets. Les problématiques bancaires me sont familières ainsi que le savoir être dans cet environnement. J’ai su développer mon sens de l’engagement ainsi qu’un solide esprit d’équipe.
+
+Expériences clés :
+2009 AXA Banque Refonte de la production des relevés de compte bancaire
+2011 Banque de France Migration technique de l’application de tenue de compte collaborateur
+2017 Société Générale Mise en place de la DSP2 PISP au sein de la feature team virement/prélèvement
+2023 Société Générale Mise en place d’une solution de purge documentaire dans le cadre de la RGPD
+
+Compétences métiers
+Accompagnement des clients après la mise en place des projets
+Analyse et Compréhension des spécifications
+Analyse des besoins du marché commercial appliqués au digital
+Banque Retail et Corporate
+Gestion de projet
+Gestion de projet informatique
+Pilotage projet par les coûts
+Bases méthodologiques dans l’organisation et la mise en œuvre des tests.
+
+Compétences techniques
+MS Office (Word, Excel, Powerpoint)
+ALM, MS Project
+SharePoint
+Moyens de paiement
+
+Etudes et formations
+Formation Management AXA France
+
+Langues
+Anglais Niveau Oral : Moyen, Niveau Lu/Ecrit : Avancé
+Espagnol Niveau Oral : Moyen, Niveau Lu/Ecrit : Avancé
+
+Mai 2022 – Avril 2025 (36 mois)
+Société Générale – ITIM – Fédérateur de Gestion d’Actifs Documentaires (FGAD)
+Cadre de la mission : Chef de projet / BA Senior
+Contexte : Mise en place de la solution de purge des documents de la GED Société Générale dans le cadre de la réglementation RGPD
+Réalisations :
+Cadrage fonctionnel projet
+Gestion de projet via la méthode Agile Safe
+Organisation des ateliers afin d’identifier les besoins, les irritants clients, les collaborateurs et les sources d’optimisation ainsi que les leviers d’amélioration
+Rédaction Product Backlog (Epic et US)
+Exécution des campagnes de recette
+Assistance utilisateur niveau 2 et gestion du RUN
+Animation des rituels Agile Safe (Daily, Grooming, Retro de sprint, Démo globale métier, PI planning)
+Pilotage des release
+Paramétrage des LMA
+Environnement technique : API, Mongo DB
+
+Janvier 2020 – février 2022
+BNP Ma Banque entreprise
+Cadre de la mission : BA Senior
+Contexte : Intégration de la squad Payment Clientèle corporate aux fins d’analyse d’impact sur les projets et sur les évolutions liées au Run. Mise en place de l’instant payment et du tracker swift GPI dans l’application (WEB et Mobile) de BNP corporate
+Réalisations :
+Cadrage fonctionnel projet (Spécifications fonctionnelles)
+Gestion de projet via la méthode Agile Scrum
+Organisation des ateliers afin d’identifier les besoins, les irritants clients, les collaborateurs et les sources d’optimisation ainsi que les leviers d’amélioration
+Rédaction Product Backlog (Epic et US)
+Exécution des campagnes de recette
+Assistance utilisateur niveau 2
+Animation des rituels Agile (Daily, Grooming, Retro de sprint, Démo globale métier)
+Environnement technique : API, Mongo DB
+
+Septembre 2016 – décembre 2019
+Société Générale – ITIM – MOA ITIM/CSB/DPE
+Cadre de la mission : BA Senior
+Contexte : Conception sur les projets de refonte de la plateforme d’envoi de notification de la clientèle professionnelle et entreprise et mise en place de la DSP2 PISP
+Réalisations :
+Analyse fonctionnelle de la Payment Request PISP
+Mapping des données entre les différentes briques applicatives pour l’exécution d’un virement DSP2
+Animation d’atelier de recueil des besoins contributeurs
+Rédaction des Conceptions Fonctionnelles Détaillées (CFD) sur tout le périmètre virement de la Société générale tout marchés confondus.
+Participation à la stratégie de recette
+Exécution de la recette fonctionnelle
+Rédaction des Conceptions Fonctionnelles Détaillées (CFD)
+Validation des Conceptions Techniques Détaillées (CTD)
+Environnement technique :
+
+Octobre 2013-Mai 2016
+BNP MOA BDDF – Comptes et Relevés
+Cadre de la mission : Chef de projet MOA
+Contexte : Gestion du patrimoine relevés Panorama, Situation et Situation PRO afin d’intégrer les évolutions liées au Build ou au Run et mise en place du service de mobilité bancaire Facilidom Pro
+Réalisations :
+Passage en fréquence annuelle des relevés des clients de moins de 12 ans (Projet du programme Paperless)
+Pour l’application Situation (Programme Paperless) création d’une filière de relevés dédiés aux Clients Banque Privé France), intégration de Situation à la nouvelle offre commerciale BNPP T2.0
+Mise en place des évolutions correctives sur les 3 applications, pilotage avec le Back Office BNPP de la production annuelle des Relevés Panorama ISF
+Gestion des PFAI (réclamation réseau) de niveau 2
+Rédaction des stratégies de recette de recette
+Exécution des recettes (ALM)
+Animation d’atelier de recueil des besoins de l’utilisateur avec ISILIS (société commercialisant le service Facilidom Pro), le métier BNPP, les affaires Juridiques et les MOE
+Rédaction de l’expression de Besoin
+Rédaction de la stratégie de recette de recette
+Exécution de la recette (ALM)
+Environnement technique : SGI (Mainframe)
+
+Déc. 2011-Sept. 2013
+BANQUE DE FRANCE – Service Support Administration et Maîtrise d’Ouvrage (SESAM)
+Cadre de la mission : Concepteur MOA
+Contexte : Concepteur MOA sur le projet de migration technique de l’application de tenue de compte collaborateur (G2E)
+Réalisations :
+Animation d’atelier de recueil des besoins de l’utilisateur
+Rédaction des Expressions de Besoins Détaillés (EBD)
+Validation des SFD
+Rédaction des cahiers de recette
+Chargé de recette
+Rédaction de procédures métiers
+Environnement technique : Application de gestion de compte des clients collaborateurs BDF
+
+Octobre 2007 – Sept. 2011
+AXA BANQUE -DSI
+Cadre de la mission : Chef de projet MOA
+Contexte : Refonte de la production des relevés de compte bancaire (Fév. 2009 – Oct. 2010)
+Réalisations :
+Cadrage du projet (rédaction Expression de Besoin, Participation à l’élaboration du BCA, Gap analysis, étude d’impacts)
+Rédaction des spécifications fonctionnelles générales et détaillées
+Conception du planning projet
+Pilotage des comités d’architecture pour valider la conception la solution de dématérialisation des documents
+Pilotage des ateliers e-banking pour valider la conception des IHM du service e-relevé
+Pilotage du projet (GT, comité de pilotage AXA Banque/ AXA Tech / Centre de service informatique)
+Pilotage de la recette (tests unitaires et bout en bout)
+Suivi du budget (Projet de 900 JH et de 350 000 €)
+Pilotage de la conduite du changement avec le Help Desk AXA Banque
+Cogestion de l’Appel d’Offre avec la Direction des Achats d’AXA France pour le changement de partenaire Editique
+Conception du design des nouveaux relevés de compte avec la Société Publicorp
+Environnement technique : Application de gestion de compte des clients collaborateurs BDF
+
+2005 - 2007
+AXA BANQUE - Chargé de Production des relevés de compte
+Cadre de la mission : Gérer la production des relevés AXA Banque
+Réalisations :
+Gestion et suivi de la production des relevés (230 000 à 400 000 plis mensuels) (prestation KOBA - groupe DHL Global Mail)
+Chargé de la relation opérationnelle et commerciale avec KOBA (Tenue de comité opérationnelle mensuel, gestion de la facturation)
+
+2003 - 2005
+AXA Banque - Responsable du Service Monétique
+Cadre de la mission : Gestion du service Monétique/contestation opérations CB
+Réalisations :
+Encadrement d’une équipe de 4 à 6 personnes
+Reporting de l’activité monétique à la Direction en particulier l’activité fraude à la carte bancaire
+Automatisation, en collaboration avec la maîtrise d’ouvrage, de la Gestion de la contestation des opérations frauduleuses
+Participation à l’amélioration des process en application des Directives Européennes Bâle II
+Mise en place de nouveaux DAB (validation des schémas comptables)
+Chargé de la relation opérationnelle avec Oberthur et BNP
+Analyse des dossiers de contentieux judiciaires avec le service juridique
+Création avec les services commerciaux d’une cellule de formation sur les métiers bancaires à destination de conseillers de clientèle
+Environnement technique : RC, SAB.
+Maltem Consulting Group 8 place du marché, 92200 Neuilly sur Seine. Tél +33 (0) 1 77 78 13 00 +33 (0) 1 77 78 13 01 contact@maltem.com
+1/3
+2/3
+3/3

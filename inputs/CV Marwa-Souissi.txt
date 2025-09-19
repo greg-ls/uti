@@ -1,0 +1,162 @@
+Marwa Souissi
+Consultante bancaire
+7 années d’expérience
+Experte du secteur bancaire avec une connaissance approfondie des réglementations financières internationales et des flux interbancaires
+
+COMPÉTENCES
+Moyens de paiement
+SEPA SCT/SDD
+Paiements Instantanés (SCT Inst)
+Messages SWIFT
+Virements Commerciaux VCOM SEPA
+Plateforme d’échange CFONB 160/320
+Réglementaire/Conformité
+Déclaration CESOP
+Déclaration OSCAMPS
+Déclaration Relevé de paiements clientèle -RPC
+Dispositif de gestion LAB-FT, Gestion des listes PPE (Fircosoft)
+Conformité BALE II/ Risques Opérationnels
+IFRS/ Comptabilité
+RGPD
+VUC
+Banque en ligne
+Protocole Ebics
+Echanges fichiers multi-formats (SEPA, CFONB,Relevés)
+Epargne bancaire
+Epargne réglementée
+Risque du marché
+Expected Shortfall
+Stress Test
+Value At Risk
+Maitrise d’Ouvrage / Homologation
+Méthodologie AGILE
+Assistance aux métiers
+Expression de besoins utilisateurs, cahier des charges
+Rédaction des spécifications fonctionnelles
+Paramétrage, Suivi des développements
+Tests de Non-Regression
+Recette fonctionnelle
+Conduite du changement, Formation des utilisateurs
+
+FORMATION
+2021 : Doctorat en Finance Internationale
+2015 : Ecole d’été Université IWH - Halle Liepzig (Allemagne)
+2013 : Mastère de recherche en Finance internationale
+
+CERTIFICATIONS
+2025: ISTQB Foundation Level (En cours)
+
+LANGUES
+Français : Courant
+Arabe : Courant
+Anglais : Intermédiaire supérieur
+
+EXPÉRIENCES
+MOA Chef de Projet – Banque Edel Aout 2022-Avril 2025
+Contexte : Au sein de l’équipe MOA, participation à l’évolution du Système d’Information, notamment des domaines réglementaire et flux de paiements (SEPA, SWIFT, CB)
+Activités :
+Gestion des évolutions Release SEPA 2021 & 2023
+Pilotage de la mise en œuvre des évolutions
+Suivi et coordination de l’avancement des projets (COPRO/COPIL)
+Définition des exigences recettes (unitaires, fonctionnels, homologation, TNR)
+Assistance auprès des utilisateurs (les pôles métiers) lors de la phase d’homologation
+Gestion du Run :
+o Coordination des acteurs projet (Métiers, IT, production)
+o Pilotage de la conduite du changement avant la mise en production des évolutions
+o Support en front office pour la gestion des incidents de production
+Environnement technique : Core banking SAB/ Automate d’ordonnancement Control-M
+Mise en place d’une solution interne pour le traitement des Paiements instanés SCT INST
+Participation à la mise en œuvre des spécifications fonctionnelles et techniques
+Suivi la conformité des développements mis en place
+Définition des exigences recettes (unitaires, fonctionnels, homologation, TNR)
+Rédaction du cahier de paramétrage
+Recette unitaire
+Environnement technique: Core banking SAB,Postman,SQL
+Gestion de l’évolution VoP (Verification Of Payee), nouvelle directive sur les services de paiements (DSP3)
+Participation aux ateliers avec les différents interlocuteurs externes pour l’acquisition de la solution à implémenter
+Participation aux différents ateliers de séquençage du projet :
+- Choix d’un prestataire parmi les éditeurs de solutions VoP
+- Lancement de la mise en œuvre
+- Recette
+- Mise en production
+Environnement technique : Core banking SEPAmail,SQL
+Projet TG2/CBPR+ (migration de la norme ISO20022) pour les paiements transfrontaliers
+Pilotage de la phase cadrage de la migration
+Recueil et formalisation du besoin exprimé par le pôle métier (Trésorerie)
+Collaborer avec le pôle métier (Trésorerie) pour définir le périmètre du besoin et identifier les impacts de migration
+Organisation des ateliers de cadrage et de suivi avec les différentes parties prenantes internes et externes (éditeur du core banking SAB, Chef de file CMCIC, Équipes IT, Métiers).
+Pilotage et suivi les différentes phases des tests (Unitaire /Homologation technique) de la licence TG2/CBPR+ en collaboration avec le support technique SBS.
+Environnement technique : Core banking SAB/ Automate d’ordonnancement Control-M
+Déclaratifs réglementaires (CESOP,RPC,...)
+Collecte et analyse des besoins réglementaires
+Analyse des données nécessaires pour satisfaire les besoins opérationnels
+Animation des ateliers métiers
+Participation aux ateliers d’architecture pour la conception des maquettes de la solution et des flux fonctionnels associés
+Garant du respect des cahiers des charges durant la phase de réalisation en coordination avec l’équipe DATA dans un environnement agile
+Analyse et conception des règles de gestion, calcul ou transformation de la donnée,
+Rédaction des différents livrables : mapping des données, cahier des spécifications fonctionnelles, documentation
+Rédaction des cahiers de tests et validation avec les utilisateurs (pôles métiers)
+Gestion du Run :
+o Suivi des livrables
+o Support et Gestion des anomalies : analyse fonctionnelle et technique
+Environnement technique : SQL,QLIK-SENSE, GITHUB/ VERTICA
+Evolution du dispositif de controle de la conformité (LAB-FT,Filtrage,...)
+Amélioration de la gestion du filtrage des opérations financières et du contrôle du Référentiel Tiers
+Gestion des listes sanctions et de réglementation (FATCA, PPE, TERRO…)
+Participation à la conception des rapports réglementaires au titre des examens.
+Automatisation des processus KYB & KYC
+Environnement technique : Core banking SAB, SQL, Outil de filtrage FIRCOSOFT
+
+Responsable qualité SEPA , SWIFT et Réglementaire -Sopra Banking Software 2019-2022
+Contexte : Au sein de l’équipe Qualité, 15 personnes
+Activités :
+Pilotage Projet “Journée Bancaire”
+Définir l'ordonnancement des traitements de la fin de journée bancaire :
+o Consolidation des transactions
+o Mise à jour des comptes
+o Génération de rapports et des éditions
+o Traitement des paiements
+o Sauvegarde des données
+o Préparation des traitements pour J+1
+Rédaction des scénarios de tests
+Automatisation des tests des traitements de la fin de journée sur la base des scénarios métiers
+Projets moyens de paiement domestiques et internationaux
+En collaboration avec l’équipe MOA, étude et mise en œuvre (analyse, conception) de la FDR pour l’intégration des nouvelles normes de règlementation de la Release SEPA 2019
+Homologation des travaux des interfaces Moyens de paiement pour le compte de la Caisse des Dépôts, HSBC, BMCI (Groupe BNP), BEA, BDL, Fransabank Liban, Banque Française Mutualiste : gestion et suivi des anomalies des aménagements clients.
+Certification technique - Release SEPA 2019 pour le compte de La Banque Chabrières
+Homologation et de validation des Releases SEPA 2018/ 2019 (Caisse des Dépôts) /2020
+En binôme avec un développeur, projet d’automatisation des tests de l’application Moyens de Paiement sous SELENIUM
+Projets réglementaires
+Homologation des flux RGPD
+Intégration des nouvelles normes de réglementation de la loi PACTE (PEA, PEA-PEA & PEA- Jeune)
+Projet réglementaire VUC (Vue Unique Client) : définition des plans de tests, suivi des déclarations clients des fichiers VUC auprès du Fonds de Garantie des Dépôts et de Résolution (FGDR)
+Réglementations prudentielles – Reporting (Gestion des créances douteuses et contentieuses) - la Banque Extérieure d'Algérie
+Tests de validation des aménagements mis en place nécessaires à l’application de la loi FATCA
+Homologation de la solution Epargne Réglementée : comptes épargne : Livret A, Livret Solidaire, Livret Jeune, Livret Développement Durable, Compte sur Livret, Plan Epargne Logement, Compte Epargne logement, Plan Epargne Actions
+Environnement technique : Amplitude, SAB, JENKINS, SELENIUM
+
+Consultante MOA Risk Management –Banque Africaine de développement 2017-2018
+Contexte : Mise en œuvre d’une application de statistiques pour le calcul des risques bancaires
+Activités :
+Projet mise en place d’un simulateur de calcul des fonds propres pour le risque opérationnel
+Rédaction des spécifications fonctionnelles détaillées
+Définition des besoins au plus près des attendus du métier
+Spécification des solutions à mettre en place en collaboration avec le métier
+Suivi de la mise en œuvre du projet et contrôle de la qualité des livrables
+
+Enseignante vacataire – Institut supérieure de comptabilité et d’administration 2014- 2017
+Contexte : Enseignante chargée des formations en Statistiques, Econométrie, et Economie monétaire autour des normes internationales d'information financière (IFRS)
+Activités :
+Normes IFRS et leur impact sur l’information financière
+Les instruments financiers et le reporting IFRS
+
+Analyste Risque opérationnel/Conformité Bale II – Attijari Bank 2012
+Contexte : Projet mastère de recherche
+Activités :
+Analyse des données de risque actuel et les états financiers des lignes d’affaires
+Détermination du degré de gravité de risque
+Elaboration des calculs et des macro-prévisions pour les risques opérationnels des plans
+
+CENTRES D’INTÉRÊT
+Voyages
+Randonnées

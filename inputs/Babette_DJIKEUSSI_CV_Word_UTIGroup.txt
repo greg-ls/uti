@@ -1,0 +1,213 @@
+
+Avec 10 ans d’expériences dans la data dans différents secteurs comme la banque, les services financiers, la publicité et les télécommunications; je vous accompagne sur toutes vos problématiques liées à la data aussi bien côté SI que côté métier afin de définir avec vous les meilleures solutions.
+Banque
+
+**Compétences Fonctionnelles**
+Big data
+Data Analyse
+Business Intelligence
+
+**Compétences Techniques**
+**Logiciels**
+SQL , SAS, Excel, TERRADATA, Hadoop, Big Query, PowerBI, Jira/Confluence, Airflow, Athena,Dataiku, SAP BO
+
+**Secteurs d’intervention**
+Banque - Assurance, Services financiers spécialisés, Média– Publicité, Télécommunications
+
+**Langages**
+SQL
+VBA - Visual Basic for Application
+SAS
+Python
+R
+
+**Systèmes**
+Windows
+Linux
+SAB Cloud
+**Cloud**
+AWS
+GCP
+
+**Méthodologie agile**
+Scrum, Kanban, Safe
+
+**Formation**
+2015 Master en statistiques
+
+**Langues**
+Anglais C1 - Advanced
+Français C2 - Maîtrise
+
+**(12/2024 – 05/2025) 6 mois**
+La banque postale
+
+Contexte général: Au sein de la DSI, les accompagner dans la mise en place d’un SI run OFF qui prendra en charge les demandes des clients suite à la fermeture de Ma French Bank
+Sujet du projet: Intervenir sur des phases clés de cadrage, conception fonctionnelle, accompagnement projet et recette fonctionnelle, en relation étroite avec les métiers, les équipes projets et les différentes parties prenantes IT.
+Poste occupé: Business Analyst: Construction SI Run OFF pour la filiale MA FRENCH BANK
+Tâches:
+Générer et diffuser des analyses permettant le suivi des process de clôture des comptes clients
+Recueillir, challenger et analyser les besoins fonctionnels.
+Travailler en collaboration étroite avec les équipes métiers, les Business Analysts et les architectes.
+Analyser les impacts sur le SI et accompagner les contributeurs projets.
+Contribuer à l’intégration de la solution dans le SI en assurant la bonne compréhension des besoins par tous les intervenants.
+Participer à la définition de la stratégie de recette.
+Établir et organiser les plans de tests fonctionnels.
+Coordonner et dérouler les tests de bout en bout, suivre et remonter les anomalies.
+Accompagner la recette métier et garantir la non-régression lors des nouvelles versions.
+Assurer le reporting auprès de la direction de programme : avancement, risques, alertes, évolution du périmètre.
+Environnement technique: DATAIKU, SAP BO, SQL, Jira/Confluence
+
+**(05/2024 – 10/2024) 6 mois**
+Groupe BPCE
+Contexte général: Au sein de la squad monétique: assurer la qualité, l’intégrité et la sécurité des données dans le cadre du chantier de collecte, réécriture, alimentation et la transformation des données
+Sujet du projet: Travailler sur la refonte du produit e-CB ainsi que le transfert des données Bimpli vers Swile
+Poste occupé: Business Analyst monétique
+Tâches:
+Générer et diffuser des reportings et des états Power BI aux équipes métiers et aux établissements du Groupe BPCE
+Alimenter les équipes métiers ainsi que les autres squads data du train en données de paiement et données client permettant de mener tous types d'analyses
+Assister les équipes métiers dans leurs exploitations des données de paiement
+Participer à la collecte, la transformation et la gestion des données pour en assurer l'intégrité, la sécurité et la qualité
+Animer des groupes de travail avec les sponsors du SI Paiement et les membres de la squad Monétique afin de comprendre leurs besoins métiers et les challenger
+Rédaction des livrables : spécifications fonctionnelles et techniques / user story, cahiers de recette
+Développer et documenter les user stories/spécifications et les cahiers de recette avec l’assistance du Product Owner
+Formation et accompagnement des utilisateurs
+Fournir un appui analytique à la conduite d’exploration et à l’analyse complexe de données
+Procéder aussi à l'industrialisation du procédé pour les données les plus intéressantes.
+Maintenir et mettre à jour le dictionnaire de données
+Organiser, synthétiser et traduire les informations pour faciliter la prise de décision
+Participer avec l’aide du PO au refinement de  la backlog
+Participation aux cérémonies d’agilité et préparation des supports
+Environnement technique: GCP, SQL, Jira/Confluence, BigQuery, PowerBI,Scrum, Kanban, Safe
+
+**(04/2023 – 03/2024) 12 mois**
+SFR
+Contexte général: Accompagner les équipes dans le projet d’automatisation de la production des indicateurs mensuels de contrôle pour l'ARCEP.
+Sujet du projet: Production des KPI de contrôle ARCEP
+Poste occupé: Chef de Projet/ Business Analyst Développement des indicateurs
+Mise en place de workshops avec le métier : Organisation des sessions de travail avec les parties prenantes métier pour comprendre leurs besoins et exigences.
+Rédaction des expressions de besoin et des spécifications techniques pour les nouvelles données
+Sourcing des datas nécessaires à la réalisation du besoin
+Création des tickets, gestion de la backlog ainsi que suivi de l’évolution des tickets
+Développement des KPI avec SQL et Python
+Mise en place des ateliers de recette afin de valider les KPI développés
+Mise en place du batch d’automatisation via AIRFLOW
+Produire les états d’avancement du projet pour le comité de pilotage
+Rédaction de la documentation Dataquality des données
+Faire la remontée des erreurs du datalake vers le SI et suivre le processus de correction
+Gestion de la production et du run
+Environnement technique: Hadoop, GCP, Teradata, SQL, Python, Jira/Confluence, Airflow, Scrum, Kanban
+
+**(03/2022 – 03/2023) 13 mois**
+MyMoneyGroup
+Contexte général: Migration des données suite au rachat des clients particuliers du groupe HSBC France
+Sujet du projet: Accompagner les équipes marketing et commerciales dans la construction de leur datamesh
+Poste occupé: Business Analyst
+Tâches:
+Mise en place de workshops avec le métier : Organisation des sessions de travail avec les parties prenantes métier pour comprendre leurs besoins et exigences afin de mieux les challenger.
+Sourcing des data nécessaires à la réalisation des besoins métier
+Écriture de user stories détaillées : Développer des descriptions détaillées des fonctionnalités à implémenter pour guider le processus de développement
+Mise en place et suivi des cahiers de recette afin de valider les data développées
+Mise en place du dictionnaire de données sous DataGalaxy
+Propositions et mise en place d’une nouvelle segmentation commerciale et marketing en intégrant les nouvelles données clients issues du rachat
+Proposition et calcul des indicateurs permettant un suivi et une analyse rapide de l’activité commerciale en fonction de différents produits et secteurs
+Propositions des nouveaux indicateurs commerciaux et marketing ainsi que la mise à disposition des données permettent de générer ces rapports sous PowerBI
+Formation des équipes pour la prise en main du nouveau système de données
+Environnement technique: AWS, SQL, DataGalaxy, PowerBI, Jira/Confluence, Scrum, Kanban, Athena
+
+**(04/2021 – 02/2022) 11 mois**
+LCL Banque et assurance
+Contexte général: Dans le cadre de la réglementation et du souci de performance des scores, un contrôle de qualité est fait de façon régulière.
+Sujet du projet: Backtesting des scores risques
+Poste occupé: Data Analyst
+Tâches:
+Backtesting du score PD (probabilité de défaut)
+Création de la base de travail (historique, variables nécessaires, la population à étudier,...etc)
+Écriture des différents tests réglementaires et statistiques
+Rédaction des fichiers de conclusion
+Proposition des axes d’amélioration
+Backtesting de l'arbre de décision d'octroi de crédit des conseillers
+Création de la base de travail
+Calcul des différentes statistiques
+Rédaction des fichiers de conclusion
+Proposition des axes d’amélioration
+Environnement technique: SAS, SQL, SAS MACRO, VBA, Excel
+
+**(08/2020 – 03/2021) 8 mois**
+CEGC - Compagnie européenne de Garanties et Cautions
+Contexte général: Contrôle des données utilisées dans les calculs des scores et KPI réglementaires
+Sujet du projet: Data Quality des données
+Poste occupé: Data Analyst
+Tâches:
+Dataquality du modèle de données risque:
+Écriture d’un programme permettant la remontée des erreurs vers le SI et assurer le suivi de leurs corrections
+Lancement des reporting mensuels à destination des équipes risque.
+Gestion du run de production: Contrôle des batchs de production, gestion des incidents de production ainsi que le rattrapage des données
+Maintenance et évolution des reportings risque existants
+Environnement technique: SAS, SQL, SAS MACRO, VBA, Excel
+
+**(04/2019 – 12/2019) 9 mois**
+Havas Group
+Contexte général: Accompagner le chef de projet dans l’évaluation de l’ impact des investissements et la stratégie publicitaire des entreprises
+Sujet du projet: Modélisation des retours sur les investissements publicitaires des entreprises
+Poste occupé: Data Analyst
+Tâches:
+Création de la base de modélisation: Collecte des données, nettoyage et création de la base de données
+Modélisation statistique du besoin client:
+Déterminer les insights business impactant le chiffre d’affaires
+Calculer les ROI de chaque campagne publicitaire
+Définir la prochaine feuille de route des investissements publicitaires grâce aux résultats des analyses
+Adapter la segmentation client en fonction des effets recherchés
+Rédaction des résultats obtenus
+Environnement technique: SAS, SQL, SAS MACRO, VBA, Excel
+
+**(07/2018 – 04/2019) 10 mois**
+HSBC
+Contexte général: Migration du Core Banking System vers SAB pour les directions métiers petites et moyennes entreprises, Particuliers, Risques et Finance.
+Sujet du projet: Migration des bases de données ainsi que des programmes existants pour la direction des risques
+Poste occupé: Business Analyst
+Tâches:
+Contrôle , suivi et gestion de la production et dashboards pour les équipes risques
+Migration des données du Core Banking System vers SAB
+Mise en place de workshops avec les métiers
+Mapping des données: Recueil et analyse des utilisations et les besoins métiers
+Écriture de user stories détaillées
+Mise en place et exécution de tests
+Animations et participations aux cérémonies de pilotage agile (daily meeting, PI planning, Sprint Planning, Retro PI,...etc)
+Réécriture et réadaptation des programmes existants
+Mise en place du catalogue de données
+Gestion du backlog et calcul de KPI permettant le suivi de projet
+Data Quality des données risques utilisées dans les scores d'octroi, la PD ainsi que les modèles Bale II: Ecriture d’un programme SAS permettant d’automatiser le contrôle des données et d’extraire les erreurs pour les envoyer au SI pour correction
+Environnement technique: SAS, SQL, SAS MACRO, VBA, Excel, Jira/Confluence
+
+**(01/2018 – 07/2018) 6 mois**
+CArrefour Banque et Assurance
+Contexte général: Fournir à une équipe avec des compétences que fonctionnelles un outil simple d'utilisation et rapide pour leur permettre de faire leurs retours campagnes.
+Sujet du projet: Automatisation des process des retours des campagnes marketing
+Poste occupé: Data Analyst
+Tâches:
+Création d’une application SAS paramétrée, accessible via l’Add’inExcel, permettant de produire un tableau de bord des résultats de campagnes marketings
+Cadrage et écriture de l’expression du besoin
+Définition des indicateurs de suivi de retours de campagnes à produire
+Création de la base de travail avec l'intégration des fichiers générés par Adobe campaign
+Production des indicateurs (ROI, Taux de conversion, de fidélisation, de contactés, CA généré,...etc)
+Calcul des indicateurs en fonction des segments clients
+Ecriture des recommendations pour les prochaines campagnes
+Rédaction des supports de documentation
+Environnement technique: SAS, SQL, SAS MACRO, VBA, Excel
+
+**(01/2015 – 12/2017) 3 ans**
+La banque postale
+Contexte général: Accompagner les équipes marketing er comerciales dans leurs besoins de données : Extraction, Reporting, Calcul d'indicateurs, ...etc
+Sujet du projet: Assister les équipes marketing pour tout besoin en matière de données.
+Poste occupé: Data Analyst
+Tâches:
+Écriture du programme SAS permettant l'automatisation des reporting permettant le suivi d’activité commerciale
+Proposition et réalisation d'un modèle de durée de vie pour l’amélioration de la rentabilité du crédit renouvelable en permettant un ciblage plus précis des clients et un meilleur taux de conversion
+Mise en place d’un score d’appétence produit permettant le pilotage de campagnes marketing dans le cadre de lancement de nouveaux produits
+Réalisation d'études Ad'hoc pour la conquête clients
+Proposition et mise en place des indicateurs de suivi de performance de l’activité des conseillers commerciaux
+Suivi de campagnes marketing et calcul d'indicateurs de performance en fonction des segments clients ainsi que suivi de la pression commerciale
+Mise en place d’une segmentation clients permettant une stratégie commerciale plus adapté en fonction des segments
+Ciblages pour prospection de nouveaux clients ou pour fidélisation
+Environnement technique: SAS, SQL, Excel, VBA, Qliksense

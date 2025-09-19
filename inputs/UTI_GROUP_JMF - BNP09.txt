@@ -1,0 +1,219 @@
+REF: UTIGROUP_JMF
+CONSULTANT TEST & RECETTE
+
+CONNAISSANCES FONCTIONNELLES
+Banque (Banque de détail, Comptabilité) et Assurances (IARD, Assurance Vie)
+Monétique cartes 
+Traitement des Cartes MasterCard, Visa Carte de fidélité, Carte Tickets Restaurant 
+Monétique accepteur 
+Terminaux de Paiement Electronique (TPE) INGENICO 
+Automates bancaires 
+Carte Fidélité 
+Systèmes de paiements britannique, allemand, italien, espagnol, portugais
+Paiement en ligne 
+Systèmes de paiements PayPal, PayLib, Netteller
+Mouvements 
+Virements,Virements instantanés (Instant Payment) 
+Retraits 
+Dépots 
+Moyens de paiement 
+SEPA 
+Gestion des mandats de prélèvement 
+Compensation financière
+Transports (SNCF Distribution, SNCF Réseau)
+Administrations (Ministère de la Santé, Banque de France, Comptabilité)
+
+CONNAISSANCES TECHNIQUES
+Bureautique:     Pack Office
+Langages:     SQL, Shell, Java
+Systèmes:     UNIX, WINDOWS
+SGBDR:     ORACLE
+Outils :     HP Software Quality Center, ALM 11, Postman (API, Web Services), IBM Rational Clearquest, JIRA, Testlink, Test Manager, MS Office, XRay, MS project, Soap Ui , SQL Developer
+cycle en V, Agile (Srum, Kanban) , Gherkin),, CMMI
+Autonome
+Rigoureux
+Bon communicant
+Aptitude à fournir des livrables
+Compétences dans la rédaction de documentation
+Appétence pour la coordination de projet
+
+FORMATIONS
+2024:      Formation de test des API/Webservices avec Postman
+2022:      Certifié ISTQB Tester Foundation Level Syllabus 2018 Version
+2010 :    Certification en gestion de projet – AJC Paris
+
+Diplômes:
+1994:    I.A.E. de Nancy : DESS CAAE (Certificat d’Aptitude à l’Administration des Entreprises) Université de Nancy 2
+
+LANGUES
+Anglais:    courant
+
+EXPERIENCE PROFESSIONNELLE
+Depuis 09/2023 au 31 juillet 2025 : AGIRC-ARRCO
+Consultant Recette – recette fonctionnelle
+Contexte :Suivi applicatif de l’outil de gestion comptable de complémentaire retraite «Alice»
+Tâches:
+Analyse autonome du besoin exprimé par les MOA et le métier en respect des règles sociales en vigueur
+Prise en charge autonome de l’écriture de scénarios de tests
+Exécution des tests
+Support niveau 2 auprès des correspondants utilisateurs
+Analyse des incidents de production (confirmation des anomalies, proposition de contournement, investigation technique: log, problématiques techniques …)
+Vérification du calcul du montant des retraites et de la justesse des écritures comptables
+Reporting sur l’avancée des tests avec la chefferie de projets
+Environnement : Jira, Squash, méthode Agile
+Dans une équipe de 4 BA, 2 testeurs, 1 PO  ,3 développeurs, 1 correspondant métier
+
+De 08/2022 à 08/2023 : SNCF
+Consultant Recette – conception fonctionnelle et recette
+Contexte :Suivi applicatif des outils de distribution et de comptabilité de Transilien
+Tâches:
+Analyse du besoin exprimé par les MOA et le métier avec une capacité à appréhender toutes les interactions des outils de vente
+Participation à la définition des règles de gestion
+Responsable de l’écriture de scénarios de tests
+Exécution des tests
+Support fonctionnel auprès des responsables commerciaux dédiés à la vente
+Investigations fonctionnelle et technique sur les bugs de logiciels dédiés à la vente et à la comptabilité
+Vérification de la validité des flux comptables
+Saisie des anomalies
+Reporting sur l’avancée des tests avec la chefferie de projets
+Environnement : Jira, Squash, méthode Agile, TPE, Cartes bancaires
+Dans une équipe de 2 BA, 2 PO, 8 testeurs ,4 développeurs, 2 correspondants de production
+
+De 06/2021 à 07/2022 : Randstad
+Consultant Recette – conception fonctionnelle et recette
+Contexte :Création du portail de gestion des candidatures “Talent” de Randstad, relatifs aux types différents types de publics et de secteurs professionnels.
+Sujets couverts par cette mission : Tests et recette sur le logiciel de formulaire de candidature.
+Tâches:
+Analyse du besoin exprimé par les MOA et le métier,
+Participation à la définition des règles de gestion dans le cadre des différents modules
+Création des scénarios de tests
+Exécution des tests
+Saisie des anomalies
+Reporting sur l’avancée des tests avec la chefferie de projets.
+Environnement : Version 1, Postman (API, Web Services), méthode Agile
+Dans une équipe de 1 PO, 1 CDP, 1 tech lead, 3 développeurs et 2 testeurs.
+
+De 10/2019 à 06/2021 : Radio France
+Consultant AMOA – conception fonctionnelle
+Contexte :Gestion des supports média de Radiofrance.
+Sujets couverts par cette mission : conception fonctionnelle sur les logiciels de gestion des programmes (itema), de la discothèque DNC et des Podcast (Replay) et participation à la rédaction du cahier des charges et de l’appel d’offre pour un logiciel de gestion des stocks et de la maintenance:
+Tâches:
+Analyse du besoin exprimé par les MOA et le métier
+Détermination du chiffrage nécessaire à la réalisation de l’application
+Définition des règles de gestion fonctionnelles et instructions fonctionnelles,
+Rédaction d’un cahier des charges
+Conduite du changement
+Réponse aux questions des testeurs et des ‘key users’
+Rédaction de tutoriaux et supports de formation.
+Environnement : JIRA, méthode Agile
+Dans une équipe de1 PO, de 1 CDP, 2 développeurs, 1 testeur ,1 BA et 1 assistant de production
+
+De 05/2018à 09/2019 : PSA
+Business Analyst – conception fonctionnelle
+Contexte :Mise en conformité du SI Opel-Vauxhall dans celui de PSA Samara (environnement anglophone).
+Sujets couverts par cette mission: imbrication du SI Opel-Vauxhall dans le logiciel de facturation PSA Samara:
+Tâches:
+Rédaction d’un cahier des charges et d’un appel d’offre pour un logiciel de gestion des commandes au niveau des chaines de production
+Analyse du besoin exprimé par les MOA et le métier
+Conception de la solution générale
+Détermination du chiffrage nécessaire à la réalisation de l’application
+Pesage de la solution générale en relation avec les équipes techniques
+Rédaction du cahier des charge
+Définition des règles de gestion fonctionnelles et instructions fonctionnelles
+Rédaction des spécifications fonctionnelles détaillées.
+Environnement : JIRA
+Dans une équipe de 1 CDP, 1 PO, 6 testeurs et 1 BA
+
+De 05/2017 à 04/2018 : BANQUE DE FRANCE
+Consultant fonctionnel
+Contexte :mise en adéquation de l'application comptable SUREN 2 avec la loi Sapin sur le surendettement
+Tâches:
+Relecture des cahiers des expressions de besoins métier
+Analyse autonome du besoin exprimé par les MOA et le métier en respect avec la législation en vigueur
+Conception de la solution générale
+Détermination du chiffrage nécessaire à la réalisation de l’application
+Détermination de la précision des écritures comptables
+Rédaction des spécifications fonctionnelles générales
+Définition des règles de gestion fonctionnelles et instructions fonctionnelles
+Rédaction des spécifications fonctionnelles détaillées
+Analyse et résolution des bugs fonctionnels niveau 1.
+Environnement : JIRA, SQL Developer
+Dans une équipe de 6 BA en relation avec les correspondants régionaux
+
+De 05/2016 à 04/2017 : Agence du DPC (Ministère de la santé)
+AMOA/ Test
+Contexte :mise en application du logiciel avec la loi sur la formation des personnels médicaux, refonte fonctionnelle de l'application CAP 13.
+Tâches:
+Recueil et étude des expressions des besoins et exigences sur les aspects RH, formation et comptabilité,
+animation d’ateliers
+Prise en compte des interfaces et du cheminement du workflow
+Rédaction du cahier des charges et des spécifications fonctionnelles et techniques
+Elaboration des scénarios de tests
+Exécution des scénarios
+Vérification des pertinences Rh et de la justesse des écritures comptables
+Saisie des anomalies sur Redmine et suivi jusqu’à la résolution
+Prononciation du GO NO GO sur les environnements de Développement et de Production
+Coordination avec la MOE pour résolution des problèmes en production
+Formation des utilisateurs et support de niveau 2.
+Environnement : Redmine, JavaScript, Jira, Méthode Agile
+Dans une équipe de 1 PO, 2 devs, 1 BA, 1 gestionnaire métier
+
+De 10/2015 à 04/2016: VIDEODESK (éditeur de sites de commerce en ligne)
+Coordinateur et Testeur
+Contexte :coordonner et tester de sites de vente en ligne interagissant avec un système de chat dans un environnement international (Paris et New-York).
+Tâches:
+Atelier de recueil des besoins et exigences
+Rédaction du Cahier des charges et des spécifications fonctionnelles
+Etude et validation des spécifications techniques
+Suivi et Coordination avec la MOE du projet et mise en production
+Vérification de la conformité aux exigences et reporting
+Rédaction des comptes rendus d’avancement
+Ecriture des scénarios de tests
+Exécution des scénarios et suivi des résolutions d’anomalies.
+Environnement : outils Microsoft, Jira, JavaScript, méthode Agile
+Dans une équipe de 2 développeurs, 1 PO et 1 BA
+
+De 01/2015 à 09/2015 : STIME (Groupe Les Mousquetaires)
+Business Analyst
+Contexte : Mise en place du catalogue d’approvisionnement en ligne des Mousquetaires.
+Tâches:
+Analyse des expressions de besoins
+Rédaction des scénarios de tests
+Exécution des tests
+Saisie des anomalies
+Reporting
+Environnement : outils Microsoft
+2 AMOA testeurs, 2 développeurs
+
+De 11/2013 à 12/2014 : SOCIETE GENERALE (Banque de détail)
+Business Analyst
+Contexte : application transverse CONTACT de la banque de détail, assurance et comptabilité de la Société Générale).
+Tâches:
+Etude des règles de gestion en respect de la réglementation bancaire
+Analyse des expressions des besoins de données
+Prise en charge autonome de la création des données
+Injection de données
+Création de flux bancaires (transferts, ouverture de compte, souscription)
+Création de produits d’assurance vie
+Création de produits d’assurance IARD (responsabilité civile, assurance auto, assurance habitation, mutuelles pour le personnel de la Société Générale…)
+Staffing auprès des homologateurs des éléments comptables à tester
+Suivi du projet et assistance fonctionnelle auprès des homologateurs
+Support de niveau 2
+Administration du paramétrage dans l’outil de banque de détail CONTACT de la Société Générale (paramétrage de l’environnement bancaire, des droits des utilisateurs et du choix des produits bancaires)
+Rédaction des documents de formation et accompagnement des utilisateurs.
+Environnement : Java, TSO Outils Microsoft, Rational ClearQuest
+Dans une équipe de 1 correspondant produit et de 1 BA
+
+De 10/2012 à 10/2013 : BNP CIB
+Testeur Recetteur
+Contexte :Mise en place des versions d’échange de commerce international par le biais des échanges de flux financiers compensation financière, utilisation des différentes devises)
+Tâches:
+Compréhension des spécifications fonctionnelles et techniques
+Création des scénarios de tests dans l’outil ALM
+Exécution des scénarios de tests dans l’outil ALM
+Détection et gestion des anomalies
+Coordinateur de la cellule  interface avec les autres entités.
+Production de documents de reporting
+Environnement : Quality Center
+Dans une équipe de 1 Test Lead et 5 Testeurs
+

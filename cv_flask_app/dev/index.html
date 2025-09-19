@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Éditeur de CV par UTI</title>
+    <link rel="stylesheet" href="/dev/css/styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            Éditeur de CV par UTI
+        </div>
+        <div class="user-badge">ST</div>
+    </header>
+
+    <div class="container">
+        <div class="hero">
+            <h1>Optimisez vos CVs</h1>
+            <p>Adaptez automatiquement vos CVs aux offres de mission grâce à l'intelligence artificielle. Analysez la correspondance, obtenez des suggestions d'amélioration et générez des argumentaires de vente.</p>
+        </div>
+
+        <div class="main-actions">
+            <div class="action-card" onclick="uploadCV()">
+                <div class="action-icon upload-icon">📄</div>
+                <h3>Charger un CV</h3>
+                <p>Importez un document Word (.docx) pour commencer l'édition</p>
+            </div>
+
+            <div class="action-card" onclick="manageOffers()">
+                <div class="action-icon briefcase-icon">💼</div>
+                <h3>Offres de mission</h3>
+                <p>Gérez vos offres de mission pour l'optimisation des CVs</p>
+            </div>
+
+            <div class="action-card" onclick="viewHistory()">
+                <div class="action-icon history-icon">🕐</div>
+                <h3>Recherche</h3>
+                <p>Recherchez des CVs correspondant à une offre</p>
+            </div>
+        </div>
+
+        <div class="section-row">
+            <div class="section">
+                <div class="section-header">
+                    <h2>CVs récents</h2>
+                    <a href="#" class="voir-tout">Voir tout</a>
+                </div>
+                <div class="cv-item" onclick="editCV('jean-dupont')">
+                    <div class="item-info">
+                        <h4>CV Jean Dupont - Développeur Full Stack</h4>
+                        <div class="item-date">01/09/2025</div>
+                    </div>
+                    <button class="item-action">Éditer</button>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <h2>Offres récentes</h2>
+                    <a href="#" class="voir-tout">Voir tout</a>
+                </div>
+                <div class="offer-item" onclick="viewOffer('fullstack-senior')">
+                    <div class="item-info">
+                        <h4>Développeur Full Stack Senior</h4>
+                        <div class="item-company">TechCorp Innovation</div>
+                    </div>
+                    <button class="item-action">Voir</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="features-section">
+            <h2>Fonctionnalités principales</h2>
+            <p>Découvrez tout ce que vous pouvez faire avec l'éditeur CV par UTI</p>
+
+            <div class="features-grid">
+                <div class="feature-card feature-1">
+                    <div class="feature-icon">✨</div>
+                    <h3>Optimisation</h3>
+                    <p>Réécriture automatique des paragraphes pour correspondre aux offres de mission</p>
+                </div>
+
+                <div class="feature-card feature-2">
+                    <div class="feature-icon">📊</div>
+                    <h3>Analyse de correspondance</h3>
+                    <p>Calcul automatique du taux de couverture entre CV et offre d'emploi</p>
+                </div>
+
+                <div class="feature-card feature-3">
+                    <div class="feature-icon">🕐</div>
+                    <h3>Recherche dans notre CVthèque</h3>
+                    <p>Retrouvez les CVs correspondant à vos critères</p>
+                </div>
+
+                <div class="feature-card feature-4">
+                    <div class="feature-icon">💼</div>
+                    <h3>Argumentaire de vente</h3>
+                    <p>Génération automatique d'arguments pour défendre le profil auprès des clients</p>
+                </div>
+
+                <div class="feature-card feature-5">
+                    <div class="feature-icon">📄</div>
+                    <h3>Export Word</h3>
+                    <p>Génération du document final au format Word avec toutes les améliorations</p>
+                </div>
+
+                <div class="feature-card feature-6">
+                    <div class="feature-icon">🔍</div>
+                    <h3>Vue comparative</h3>
+                    <p>Affichage côte à côte du CV et de l'offre avec mise en valeur des correspondances</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <link rel="stylesheet" href="/dev/css/styles.css">
+    <script src="/dev/js/main.js"></script>
+    <script src="/dev/js/edition.js"></script>
+</body>
+</html>

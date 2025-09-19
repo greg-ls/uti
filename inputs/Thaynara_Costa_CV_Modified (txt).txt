@@ -1,0 +1,53 @@
+COMPETENCES
+Python
+SQL
+DataViz
+VBA
+Microsoft PowerBI
+Stata
+R
+ArcGIS
+
+
+EDUCATIONAL BACKGROUND
+
+01/2022 - 08/2024 Sorbonne Paris Nord University Master’s Degree: Money, Finance, Bank, Insurance - Mathematics for Decision in Risk, Insurance and Decision-Making
+01/2017 - 07/2021 Federal Rural University of Pernambuco | Recife, Brazil Bachelor’s Degree: Economics
+11/2022 - 01/2023 DataScientest | Paris, France Data Manager
+
+CERTIFICATES
+Data Manager
+TCF - Test de Connaissance du Français
+
+LANGUES
+Portuguese – Bilingue
+English – Bilingue
+French – Bilingue
+
+
+EXPERIENCES
+
+Cash Management - Account Manager (10/2024 - Now) BNP Paribas | Paris, France
+Implementation of acquisition strategies
+Customer portfolio management
+Advice to clients on their purchases and offers and solutions
+Identification of potential new cases on managed accounts
+Internal coordination with technical, legal and accounting experts
+
+Cash Management - Business Analyst (02/2024 - 08/2024) BNP Paribas | Paris, France | Internship
+Study of requirements in terms of functional reporting and activity statistics for the PMD division (team responding to calls for tenders)
+Propose and implement KPI based on the PowerBI application, using solutions that illustrate the client Cash Management set up
+AI project
+
+Trading Room - Subsidiaries Relationship (2018 - 09/2023) Thales | Paris | Internship
+As part of the Trading Room - Subsidiaries team, the implementation and monitoring of foreign exchange hedges through Diapason granted to Group subsidiaries in the course of their commercial activities
+Participation in cross-functional projects with the Financial Markets team (deployment of IT tools, Mergers and Acquisitions operations, etc.)
+Creating JIRA tickets in order to resolve incidents
+
+Economic Department (12/2017 - 12/2018) Central Bank of Brazil | Recife, Brazil | Internship
+Extract, seasonal adjustment, and analysis of Time Series
+The preparation of the Economic Index (and its report) calculated by the Department (IBCR)
+
+PROJECTS ACHIEVED/ONGOING
+Currently working on a scientific publishing
+Second place in the competition for best graduation monographs in the Economic Sciences sector - obtained in Brazil, 2021

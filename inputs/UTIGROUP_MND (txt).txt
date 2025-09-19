@@ -1,0 +1,132 @@
+Compétences fonctionnelles : Analyse de besoins, Gestion du changement, Coordination, Rédaction de spécifications et user stories, Gestion de backlog, Recette fonctionnelle, Monétique, paiement, Comptabilité/Finance, Pilotage,CRM, Accompagnement à la MEP, MCO, Gouvernance de données, Planification, Méthodologie Agile. Secteurs d’intervention : Banque, Assurances, Grande distribution/ Retail, Industrie.
+
+COMPÉTENCES TECHNIQUES
+Anglais : Professionnel
+
+FORMATIONS
+Master 2 : Option Management de projet (SKEMA business school Lille)
+Certifié Prince2 Foundation et Practitioner
+Certifié ISTQB
+ANSSI MOOC Cybersécurité
+
+SAVOIR-FAIRE
+Product Owner
+Animer les 4 produits digitaux supportant les activités de paiement et de facturation des fournisseurs d’ADEO Productions
+
+OUTILS / PRODUITS : Trello, SoapUI, Microsoft Office, Selenium, HP ALM Quality Center,XRay, Microsoft Outlook, Jira, Confluence, Monétique, Paiement SWIFT, CMS,TFT (gestion flux mainframe), Visual Studio, Oracle CC&B, Citrix, Gravitee, Datastudio, MobaExtern, DBeaver PgAdmin, Postgre, Postman, Salesforce, Kafka, Miro, Figma, Vault, Hylia, Tangram, Service now, Colibra.
+LANGAGES : HTML, XML, Batch Scripting, Gherkin,SQL
+Technologies : Unix, NodeJs, ReactJs, VueJS, Sprint boot, Java,Twig1/2, Drupal
+METHODES : Kanban, Cycle en V, BDD - Behavior-driven development, Cucumber, Agile, TDD - Test Driven Dev, Scrum, DevOps
+QUALITE : Certification-Prince2, Certification-ISTQB
+LANGUES
+
+EXPERIENCES PROFESSIONNELLES
+ADEO Depuis 01/2023
+
+Animer les 4 produits digitaux supportant les activités de paiement et de facturation des fournisseurs d’ADEO Productions
+
+- S'assurer que les solutions existantes répondent aux attentes des utilisateurs et les améliorer pour suivre les évolutions business et technologiques
+ - Concevoir un nouveau produit permettant d'industrialiser le process métier de traitement des "Pénalités" en cas de défaut de qualité de services de la part des fournisseurs marchands. 
+- Avoir une vue globale des données et des processus au sein de l’applicatif et lors d’échanges entre différentes applications. Et en collaboration avec l’équipe data, assurer une intégration fluide et efficace. 
+- Mise en place de solutions avec les équipes data via des flux issus de la BI permettant de récupérer les données des fournisseurs  sujets à des pénalités
+- Etre le garant du recueil du besoin du client et le formaliser sous forme d'User Stories à destination des membres de l'équipe de développement
+.- Accompagner le client dans la phase de cadrage en collaboration avec l’UX/UI designer pour définir avec lui les solutions fonctionnelles 
+- Contribuer en tant qu'expert fonctionnel à la réalisation du projet.
+ - Alimenter et prioriser le backlog produit, concevoir un story mapping et gérer l’avancement des sprints
+ - Piloter, suivre et participer à la recette continue pour s'assurer de la bonne adéquation entre le besoin du client et la solution implémentée
+ - Animer les différents rituels : Daily, refinement, rétrospective, backlog review, démo, macro chiffrage,sprint planning 
+- Gestion des identités et droits d’accès des utilisateurs (IAM) 
+- Formation des utilisateurs et rédaction de Guide utilisateur 
+
+Environnement technique : APIs, Flux kafka, Vue JS, Java, Sprint boot, Unix, Base de données en postgres sql, Vault, Confluence, Conduktor, Hylia, Tangram, Service now, IAM, Colibra, Facturation, Microsoft office, Miro, Figma, Jira.
+
+AUCHAN 12/2020 à 11/2022
+Product Owner
+Projet de rapatriement des fonds de résidants français travaillant en suisse ou bénéficiaire d'une pension de retraite.
+Projet de consolidation des comptes bénéficiaires de clients de la Caisse de Règlement Pécunier des Avocats.
+-Maitrise d'ouvrage fonctionnel
+-Gestion du processus de rapatriement des revenus frontaliers de la banque suisse vers la société générale: Contractualisation, traitement des opérations de prélèvements, autorisation de débit...
+-Gestion des contrats et des correspondances entre les comptes bancaires virtuels et réels des avocats : IHM avec Gestion de l'identité et de l'authentification, émissions et réception de virements, restitutions électroniques…
+-Interaction avec les équipes Métiers et ME
+-Rédaction des spécifications fonctionnelles et US
+-Pilotage d'une équipe de testeurs: Rédaction de la stratégie de test & du cahier de recette et accompagnement dans la réalisation de la recette
+-Rôle de PO et formation du Scrum Master dans la mise en place de l’agilité dans l’équipe
+Environnement technique : Architecture SOA (APIs, webservices, J2EE, Unix), React JS, Batch, Microsoft office, Citrix, Jira, Confluence, Moyens de paiement domestiques et internationaux, Gestion de l'identité et de l'authentification, Cash Management, XML.
+
+CREDIT AGRICOLE 01/2017 à 06/2019
+Consultant Assistance à Maîtrise d’Ouvrage et Recettes
+Pilotage de la recette métier liée aux applications à l’assurance Emprunteur et Optimisation du processus organisationnel par l’apport de nouvelles méthodologies et outils
+-Optimisation du processus organisationnel par l’apport de nouvelles méthodologies et outils
+-S’assurer du bon paramétrage du système et de l’adéquation de l’implémentation avec le besoin exprimé par le métier
+-Rôle de scrum master
+-Analyser et prioriser les nouvelles demandes des clients internes
+-Reporting sur l’avancement de la recette incluant la couverture fonctionnelle et la qualité sur le périmètre
+-Rédaction des PV, en le consolidant de l’apport possible des différents intervenants
+-Participer à la conduite du changement : Accompagnez les utilisateurs dans les changements induits par l'intégration d'une nouvelle solution
+-Assistance de la MOA
+-Actions de formation et communication auprès des utilisateurs et rédaction de mod opératoire
+Environnement technique : Microsoft Office, Web, Lotus Notes, Applications d’assurances crédit (AIA, CaciOnline, Adenet, BforBank, Assure&Me, E-ADE), Graphtalk AIA, Citrix, Diff pdf,E-input, Webtop GED
+
+AXA 01/2014 à 12/2016
+Proxy Product Owner
+Optimisation des versions d’applications à l’assurance E-Auto dans un contexte de méthodologie Agile
+-Assistance au développement de pages web permettant de faciliter le parcours des clients via différents canaux de vente
+-Analyser et prioriser les demandes des clients internes et recueillir les feedback métier, dans une démarche d’amélioration continue
+-Définir et écrire les User Stories en méthode Agile : Scrum/Kanban
+-Encadrement et animation de séances de pair testing avec les développeurs pour valider le développement des user story
+-Prioriser et valider les livraisons des besoins métier et en assurer le suivi opérationnel
+-Participation aux différents rituels (sprint planning, daily meeting, rétrospectives, démonstrations)
+-Accompagner le changement au sein des équipes de gestion (guides utilisateurs, formations...)
+-Contribution à la consolidation du reporting de l'activité
+-Activités de suivi sur des projets connexes de petites tailles
+-Participation à l’établissement du procès verbal et à l'accord pour la mise en production.
+Environnement technique : Microsoft Office, Applications d’assurances Auto (AGA, CSI, AEP), Web,Java, TFT (gestion flux mainframe), Trello, Selenium, Visual Studio,Jira, Unix, Salesforce, HP ALM Quality Center, Cucumber, SoapUI, Unix.
+
+French Connection (Londres : UK) 05/2012 à 10/2013
+Business Analyst
+Optimisation de la gestion des applications dédiées au réseau des magasins et e-commerce
+- Identifier les domaines d’amélioration
+- Valorisation des actions commerciales
+- Adapter les changements nécessaires aux systèmes et processus
+- Participation à l’identification des processus internes de vente
+Front Office : Application web accessible par les clients
+Middle Office : Application web accessible par le Service après-vente
+Back Office : Site intranet accessible via le réseau des magasins
+Environnement technique : Web, Microsoft Office, Applications internes, intranet.
+
+EDF 06/2010 à 10/2011
+Consultant Test et recette des systèmes d’informations
+Garantir la qualité du système de facturation sur Oracle CC&B
+-Elaborer la stratégie de test
+-Construire avec l’appui de l’équipe fonctionnelle les scénarios de validation
+-Préparer et animer les ateliers de présentation du client
+-Dérouler les scénarii de validation et en consigner les résultats dans les outils projets
+-Prendre en charge et analyser les retours de recette client
+-Apporter au projet ses connaissances en SI
+-Exercer des responsabilités de pilotage et coordonner avec le chef de projet sur les différentes activités de reporting.
+Environnement technique : Oracle CC&B, Microsoft Office, Web, UNIX.
+Projet d’implémentation d’outil from scrash
+
+CREDIT MUTUEL-COFIDIS 06/2005 à 08/2007
+Analyste financier de crédits particuliers
+Prise en charge des demandes formulées par un portefeuille de prospects et clients dans le respect des règles et procédures fixées par l’entreprise
+-Recueil des informations pour monter les dossiers de crédits
+-Analyse des dossiers
+-Détection des incohérences des dossiers
+-Rapport pour la décision à l’octroi des prêts
+-Concilier la maîtrise du risque de crédits et développement des relations clientèles
+-Audit et recensement des besoins auprès de la clientèle
+-Développement auprès de la clientèle des produits et services financiers du groupe
+-Veille à l’atteinte des objectifs fixés et contribution aux performances collectives de l’équipe
+Environnement technique : Intranet, Logiciel de solvabilité, Applications internes.
+Implémentation d’outil et optimisation des schémas comptables par la validation des applications interfacées au SIC
+-Définition du périmètre des besoins exprimés par le métier
+-Montée en compétence et prise de connaissance des activités exercées : Optimisation du site web en front et back, (Amélioration configuration des pages web à partir de données de tracking, rework menu etc.).
+-Administration des environnements de tests et exécution des tests techniques et TNR
+-Ouverture et suivi des anomalies sur l’outil ARS
+-Coordination dans l’installation de ALM/Administration de Quality Center(customisation, paramétrage…)/ Présentation en comité de direction/Installation de microsoft Excel Add-in et du macro QC vers l’outil d’anomalie ARS…
+-Elaboration d’une nomenclature sur HP ALM/ Reporting sur l’avancement du projet.
+-Mise en place d’une bibliothèque de tests servant de base commune de travail pour l’ensemble du site
+-Formation des utilisateurs et support.
+-Déploiement de l’outil dans l’ensemble des services.
+Environnement technique : SAP FI, Web, ARS, HP ALM Quality Center, Web, CMS, Microsoft Office.

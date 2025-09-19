@@ -1,0 +1,92 @@
+PRODUCT MANAGER & PRODUCT OWNER SENIOR | TRANSFORMATION DIGITALE | UX, DATA & DELIVERY | AGILE (SCRUM / SAFE)
+Résumé du profil
+Fort de 11 années d’expérience dans le numérique, dont 8 dans le produit, j’ai piloté des projets B2B et B2C complexes. Ma maîtrise des frameworks SAFe et Scrum et ma formation en informatique, m’ont permis de coordonner efficacement les équipes de développement, tout en travaillant en étroite collaboration avec les équipes UX pour concevoir des solutions centrées sur l’utilisateur.
+J’ai également développé une solide expertise dans la gestion de la roadmap produit et l’animation d’ateliers métiers. Mon expertise s'étend de la gestion stratégique des produits à leur mise en œuvre technique, en passant par la gestion de projets de transformation digitale au sein d’organisations de premier plan
+La diversité des contextes dans lesquels j’ai évolué, souvent techniques et exigeants, a renforcé ma capacité à m’adapter rapidement à de nouveaux environnements et enjeux. Je suis convaincu que cette agilité, combinée à un forte capacité d’apprentissage, me permet de relever efficacement de nouveaux défis.
+Compétences clés
+	Domaines fonctionnels : E-commerce, Marketing, Digital, Fidélité, RGPD, Médias, Publicité, Retail
+	Gestion de produit : Vision, backlog, roadmap, ateliers, formation utilisateurs 	Méthodes agiles : SAFe, Scrum, Kanban, Lean
+	UX & Design : Tests utilisateurs, interviews, guerilla testing, Figma
+	Pilotage projet : Suivi d’avancement, priorisation, reporting, gestion de la dette technique
+	Data & RGPD : Cartographie, anonymisation, automatisation, logs de conformité 	Communication: Démo,relation client, conduitedu changement, documentation
+Outils & technologies
+ Productivité & Agile : JIRA, Confluence, Trello, Slack, Notion  UX & prototypage : Figma
+ Dev & API : HTML, CSS, PHP, Java, Node.js, Postman, ElasticSearch  Bases de données : MySQL, Oracle, PostgreSQL
+ ERP / CRM : SAP Hybris, SAP MM, Siebel
+
+Formations & certifications
+	Master 1 & 2 Professionnel « Stratégie Internet et Pilotage de Projets en Entreprise » 
+	Licence informatique
+	STQB, PSPO
+Langues
+	Français, Anglais
+Portfolio de projets
+FRANCE TELEVISIONS	10/ 21 – 04 / 25 Rôle : Lead Product – Back Office France.tv |Méthodologie SAFe
+Contexte projet : Responsable de la vision produit, de la gestion du support utilisateurs et du pilotage opérationnel de la refonte du back-office France.tv, un CMS de gestion permettant aux équipes internes et externes de superviser et administrer les contenus sur les différents fronts, de gérer les interactions avec les utilisateurs, d'animer dynamiquement les pages, ainsi que de gérer les push notifications et les formats publicitaires.
+Responsabilités :
+	Définition et portage de la vision produit auprès des parties prenantes internes et 	externes
+	Élaboration de la roadmap produit (court et moyen terme) en phase avec les objectifs stratégiques
+	Priorisation des besoins utilisateurs et métiers via des ateliers, interviews, et tests UX
+	Cadrage et pilotage des évolutions du produit en mode agile (gestion de backlog, Rédaction des user stories, suivi des sprints, Mise en production)
+	Amélioration continue de l’expérience utilisateur et de la qualité de service (analyse du support, gestion des anomalies)
+	Animation des comités métiers, des démonstrations produit et des formations utilisateurs
+	Représentation et promotion du produit auprès des directions partenaires
+Environnement produit & technique : Postman, React.js, Redux, Styled Components, PHP, Node.js, ElasticSearch, JIRA, Confluence
+CANAL+	02 / 21 – 10 / 21 Rôle : Product Owner Senior |Méthodologie Scrum
+Contexte Projet : Pilotage produit dans le cadre du décommissionnement de l’outil Antenne et mise en place du nouveau système MEDIAHUB TRAFFIC, pour centraliser et fiabiliser la gestion des contenus et de la programmation.
+
+Responsabilités :
+	Recueil et formalisation des besoins métiers (deals, achats, contrats, comptabilité, programmation TV, médias, reporting de diffusion)
+	Optimisation de la base de données et accompagnement dans la gestion de la transition (double RUN)
+	Rédaction et priorisation des User Stories orientées valeur métier 	Gestion du backlog produit et suivi des anomalies via JIRA
+	Mise en place et suivi du support utilisateur
+	Réalisation de reportings réguliers pour les parties prenantes
+	Animation des démonstrations produit et ateliers de formation utilisateurs (FAQ, modes opératoires)
+Environnement produit & technique : phpMyAdmin, MySQL, SQL Server, SAP SI, Antenne V2, JIRA, Confluence
+CARREFOUR	10 / 18 – 09 / 20 Rôle : Epic Owner Conformité RGPD & Données Client |Méthodologie SAFe
+Contexte projet : Pilotage de la mise en conformité RGPD des applications Carrefour liées aux données clients, en lien avec les recommandations de la CNIL et les enjeux de transformation digitale.
+Responsabilités :
+	Cadrage et accompagnement à la mise en conformité des applications en lien avec le RGPD
+	Réalisation de cartographies applicatives et d’audits de l’écosystème SI pour garantir la protection des données personnelles
+	Optimisation du processus de gestion des demandes RGPD au sein du service client
+	Définition et mise en œuvre d’une stratégie pour le pôle de traitement des demandes RGPD
+	Animation d’ateliers et conception de supports pour la formation des équipes métier (modes opératoires, FAQ)
+	Conception et automatisation du processus de purge des données, en conformité avec les durées légales
+
+Environnement produit & technique : PostgreSQL (chiffrement, gestion des droits, logs de conformité), SIEBEL, JIRA, Confluence, Figma
+CARREFOUR	10 / 18 – 09 / 20 Rôle : Product Owner Data Client & CRM |Méthodologie SAFe
+
+Contexte projet : Pilotage du projet d’internalisation de la base de données clients fidélité et prospects de Carrefour, avec un objectif de centralisation de la donnée client et de l’amélioration de la gouvernance data
+Responsabilités :
+	Cadrage fonctionnel du référentiel clients : gestion des consentements, appétences, inscriptions aux campagnes marketing
+	Mise à disposition de la base de données fidélité aux entités internes (CRM, équipes data, marketing)
+	Rédaction et priorisation des User Stories, définition et gestion du backlog produit
+	Pilotage de l’équipe de développement et coordination des phases de recette de bout en bout
+Environnement produit & technique : PostgreSQL, Bisnode, Siebel, SSO (One client)
+CARREFOUR	05 / 17 – 09 / 18 Rôle : Product Owner – Refonte e-commerce & promotionnel | Méthodologie Scrum
+Contexte projet : Pilotage produit de la refonte du moteur e-commerce et promotionnel (WLEC) avec la solution SAP Hybris, dans un contexte de modernisation de la plateforme digitale.
+Responsabilités :
+	Recueil des besoins métiers et utilisateurs, rédaction et priorisation des User Stories 	Structuration et gestion du backlog produit en lien avec les parties prenantes
+	Conceptiondes cas de test, suivides anomalies sous JIRAet coordination de larecette métier
+	Suivi des déploiements fonctionnels et coordination des mises en production
+	Animation des démonstrations produit et accompagnement des équipes métiers 	Conduite du changement et formation des utilisateurs (supports, ateliers, FAQ)
+Environnement produit & technique : Postman, JIRA, SAP Hybris, Gitlab, ATOS WLEC
+SAINT GOBAIN	11 / 16 – 04 / 17 Rôle : Consultant AMOA
+Contexte projet : Mise en place de l’ERP SAP (Refonte de la logistique)
+Responsabilités :
+	Participation aux ateliers de conception
+	Scénarisation des différents process Métier (XMIND) 	Conception cas de tests
+	Pilotage de la recette métier
+	Rédaction des Modes opératoires
+	Accompagnement des nouveaux utilisateurs
+Environnement produit & technique : JIRA, SAP MM, SIP400, Manhattan
+
+CARREFOUR	11 / 14 – 10 / 16 Rôle :Consultant AMOA
+Contexte projet : Projet : Evolution du moteur e-commerce et promotionnel (Wordline e-commerce): PME(porte-monnaie électronique) – IBM DDM (référentiel produit)- Promotions (montée de version de l’outil WOD) – Flux Partenaires (1000mercis)
+Responsabilités :
+	Recu Revue et validation des Spécifications fonctionnelles 	Gestion des risques
+	Animation des ateliers métiers 	Gestion du planning
+	Conception et Organisation des cas de test dans le module Test Plan (HP ALM) 	Exécution des cas de test / suivi des anomalies (JIRA)
+	Reporting quotidien
+Environnement technique : JIRA, HP ALM, WOD, IBM DDM, SOAP, Postman
+

@@ -1,0 +1,120 @@
+Senior Business Analyst 
+Expertise 
+10 ans d’expérience 
+diplome 
+2015 Master M2 MIAGE en système d’information distribué Université de Lorraine – France 
+competences techniques L
+angages : Cobol, SQL, Java, Python 
+Outils : Jira, Confluence, ServiceNow, DataStage, Oracle, GITLAB, Visual Studio, SAS 
+Bases de données : DB2, MYSQL 
+Secteurs métier : Assurance (IARD, sinistres, contrats), Banque (risque, épargne salariale) 
+Clients : Société Générale, Eurinformation, Covéa, Generali 
+Langues : 
+Français Bilingue 
+Anglais Professionnel 
+
+Compétences fonctionnelles : 
+Recueil et formalisation des besoins 
+Rédaction de spécifications fonctionnelles 
+Modélisation des processus (BPMN, UML) 
+Rédaction de PV de recette & cas de tests 
+Coordination projet & parties prenantes 
+Méthodes Agile & cycle en V 
+Analyse d'impacts / Conduite du changement 
+
+Experiences professionnelles 
+
+GENERALI - Business Analyst Depuis novembre 2023 
+
+Périmètre métier : Assurance IARD – Sinistres automobiles 
+Projet : Intégration des standards SRA pour optimiser la gestion des sinistres et alimenter le moteur de tarification 
+
+contexte :
+Le projet SRA (Sécurité et Réparation Automobiles) s’inscrit dans le périmètre Assurance IARD (Incendie, Accidents et Risques Divers) et vise à intégrer les référentiels de la Sécurité et Réparation Automobiles afin de standardiser les flux de données entre assureurs, réparateurs et experts.
+L’objectif est de fiabiliser les informations liées aux sinistres automobiles (pièces remplacées, temps de main-d’œuvre, coûts techniques) et de renforcer la cohérence des traitements métiers dans les systèmes cœur.
+Les données techniques et financières extraites des fichiers SRA permettent notamment de : 
+Réaliser une évaluation plus détaillée des coûts de réparation en fonction du type de véhicule ou du sinistre.
+Vérifier la conformité des pièces détachées selon les référentiels 
+Assurer une traçabilité complète des interventions pour répondre aux exigences réglementaires et contractuelles 
+Alimenter un moteur de tarification IARD utilisé par les équipes actuariat pour affiner les modèles de calcul des primes, en intégrant les notions de profil de risque, fréquence sinistre, coût moyen, et garanties souscrites Ce projet contribue à l’optimisation de la chaîne de gestion des sinistres, à la maîtrise des charges techniques, et au pilotage tarifaire du portefeuille auto. 
+
+tâches: 
+Analyse du besoin métier auprès des équipes sinistres IARD et actuariat tarification 
+Rédaction des expressions de besoin (EDB) et des spécifications fonctionnelles détaillées (SFD) 
+Animation d’ateliers fonctionnels avec les parties prenantes (gestionnaires, actuaires, IT, experts métier) 
+Modélisation des flux de données SRA (BPMN/UML) Contribution à la définition des règles de gestion pour la valorisation des réparations automobiles Suivi de l’intégration des données SRA dans les environnements Mainframe, Oracle et DataStage 
+Collaboration avec les équipes MOE pour garantir la cohérence fonctionnelle des traitements 
+Échanges quotidiens avec les équipes de développement et de test situées à Casablanca (offshore) pour le suivi des évolutions et des correctifs 
+Coordination avec l’équipe de support basée en Inde pour le traitement des incidents et le suivi post- production 
+Élaboration des cas de tests et exécution de la recette fonctionnelle 
+Rédaction des PV de recette, documents de validation et dossiers d’exploitation 
+Mise en œuvre de la stratégie de mise en production et suivi post-déploiement 
+Suivi de la qualité des données injectées dans le moteur de tarification 
+Contribution à la documentation des règles métier liées à la tarification (fréquence sinistre, coûts moyens, profil véhicule) 
+Identification et suivi des anomalies, proposition de solutions correctives avec les équipes techniques 
+Communication régulière avec les équipes métier, data, MOE et partenaires externes 
+Maintien de la traçabilité fonctionnelle sur l’ensemble des évolutions du projet 
+Environnement technique ServiceNow, Jira, Confluence, Visual Studio, GitLab, DB2, Oracle, DataStage, JCL, COBOL, SQL, Mainframe (TSO, MVS), Agile (Scrum), UML, BPMN 
+
+COVEA - Business Analyst Novembre 2020 à Novembre 2023 
+
+Périmètre métier : Assurance IARD – Contrats Aut& Moto 
+Projet : MOTOLIS – Refonte de la gestion des contrats véhicules et valorisation des données métier 
+
+contexte :
+Le projet MOTOLIS consiste à faire évoluer le système de gestion des contrats d’assurance autet motafin de mieux répondre aux besoins des équipes métiers et de fiabiliser le suivi du portefeuille clients.
+L'objectif principal était de moderniser les chaînes de traitement, automatiser les étapes critiques (souscription, avenants, résiliation), et améliorer la qualité des données contractuelles.
+Dans ce cadre, un infocentre SAS a été mis en place pour centraliser les données clés liées aux contrats et permettre aux services métier (gestion, actuariat, pilotage) de produire des analyses fiables, tout en assurant une traçabilité complète des opérations.
+Ce projet s’inscrivait également dans une démarche de réduction des risques opérationnels, de mise en conformité avec les exigences réglementaires, et de digitalisation des processus de gestion IARD. 
+
+tâches: 
+Recueil et formalisation des besoins auprès des équipes souscription, gestion des contrats et MOA IARD 
+Animation d’ateliers de cadrage fonctionnel pour définir les règles de gestion applicables au cycle de vie des contrats Auto/Moto 
+Rédaction des spécifications fonctionnelles détaillées, en lien avec les processus de souscription, modification, résiliation et renouvellement 
+Réalisation des études d’impact fonctionnel sur les chaînes existantes en environnement Mainframe 
+Contribution à la conception fonctionnelle du nouvel infocentre SAS pour valoriser les données contrat à des fins de pilotage, suivi d’activité et reporting réglementaire 
+Élaboration et exécution de la recette fonctionnelle (stratégie de tests, cas de tests, validation des résultats) 
+Suivi des mises en production : préparation des livrables, coordination des validations, accompagnement post-déploiement 
+Mise à jour continue de la documentation projet et du backlog fonctionnel dans un cadre Agile 
+Collaboration étroite avec les équipes IT (développement, production, support) pour garantir l’alignement entre solution technique et exigences métier 
+Participation aux cérémonies Agile (daily, sprint planning, revue et rétrospective) 
+Environnement technique Jira, Confluence, ServiceNow, SAS Enterprise Guide, Cobol, SQL, DB2, TSO, SVN, XPED, LCM 
+
+EURO INFORMATION - Business Analyst Octobre 2018 à Octobre 2020 
+Périmètre métier : Épargne salariale – conformité réglementaire 
+Projet : Digitalisation et mise en conformité des processus d’épargne salariale et de retraite collective selon les nouvelles règles de la Loi PACTE pour le groupe Crédit Mutuel 
+
+contexte :
+Le projet visait à digitaliser le processus d’adhésion à l’épargne salariale dans le cadre de la Loi PACTE, afin de simplifier l’accès à l’épargne pour tous les salariés, y compris ceux des PME.
+L’objectif principal était de permettre aux salariés de souscrire en ligne à des produits d’épargne tels que le Plan d’Épargne Entreprise (PEE) et le Plan d’Épargne Retraite (PER), tout en garantissant la conformité réglementaire imposée par la Loi PACTE.
+Ce projet impliquait la création d’une solution digitale permettant de gérer les adhésions en ligne, d’assurer la portabilité des comptes et de réduire les frais de gestion des produits d’épargne.
+L’objectif était aussi de faciliter les démarches administratives, en offrant une plateforme intuitive pour les salariés, tout en intégrant les exigences réglementaires (réduction des frais, transparence, et portabilité des dispositifs). 
+
+tâches: 
+Recueil des besoins métiers : Identifier les exigences des équipes épargne salariale et retraite en lien avec la Loi PACTE. 
+Analyse des processus existants : Étudier les flux de données des systèmes Mainframe et déterminer les évolutions nécessaires pour la digitalisation. 
+Rédaction des spécifications fonctionnelles : Traduire les besoins métiers en spécifications fonctionnelles pour l’intégration des systèmes Mainframe avec la nouvelle plateforme digitale. 
+Modélisation des processus : Créer des diagrammes pour illustrer les flux de souscription, l'intégration avec le Mainframe et les interactions avec le front-end. 
+Conception de l'interface utilisateur : Collaborer avec les équipes UX/UI et front-end pour garantir une interface intuitive, conforme aux règles métier et aux systèmes existants. 
+Test et validation : Préparer les tests fonctionnels pour valider la conformité de la plateforme et l'intégration des données entre le Mainframe et le front-end. 
+Suivi des mises en production : Assurer un suivi post-déploiement pour vérifier la stabilité des processus et l’intégration des données entre les systèmes. 
+Gestion des risques : Identifier les risques potentiels et proposer des solutions pour garantir la conformité et la performance du projet. 
+Environnement technique Jira, Confluence, SharePoint, MVS, COBOL, DB2, SQL, TSO, RDZ, JCL, CICS 
+
+SOCIETE GENERALE - Analyste Mainframe Juin 2015 à Septembre 2018 
+Périmètre métier : Notation financière, gestion des risques d’investissement. 
+Projet : NTA Notation 
+contexte :
+Mise en place d’un traitement quotidien automatisé pour la collecte et l'intégration des données provenant des différentes agences de notation financière telles que Moody’s, Fitch et Standard & Poor’s.
+Le processus comprend l’extraction automatisée des données, leur vérification qualitative et leur chargement dans une base de données centralisée.
+Celle-ci est utilisée pour alimenter les systèmes internes d'analyse et fournir des indicateurs précis sur les risques de défaut de paiement, permettant ainsi une gestion proactive des risques auxquels les investisseurs sont exposés. 
+tâches: 
+Analyse et formalisation technique des besoins métiers. Développement et évolution de programmes COBOL sous environnement Mainframe. 
+Maintenance évolutive et corrective des applications existantes. 
+Coordination et suivi des opérations de développement et tests associés. 
+Réalisation des études techniques approfondies et rédaction des spécifications techniques détaillées. 
+Chiffrage technique et estimation de charges pour les évolutions fonctionnelles demandées. 
+Conception, exécution et validation des tests unitaires, d’intégration et tests de non-régression (TNR). 
+Contrôle qualité du code et validation des livrables techniques. 
+Extraction et manipulation de données issues de DB2 pour besoins spécifiques. 
+Environnement technique Jira, Cobol, MVS, DB2, JCL, TSO, LCM, CICS, SQL, Méthode Agile

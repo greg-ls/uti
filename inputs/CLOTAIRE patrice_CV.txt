@@ -1,0 +1,70 @@
+COMPÉTENCES
+Logiciels : LMStudio, Power Bi, Jmerise, 
+Sql Server, BigQuery, PowerAutomate, 
+SCCMv5 
+Langages : Dax, PowerqueryM, ReactJS
+Python, Powershell, Ems, Sql, Php
+OS : Glassfish, Server 20xx, Android
+Messagerie : Installation & maintenance 
+Exchange 2003, 2007
+
+FORMATIONS
+2022
+Analyser des données avec Microsoft Power BI (MSDA100)
+
+2009
+Microsoft : Formation Administrateur Réseaux MCSA
+Microsoft Certified System Administrator 2003
+
+diplomes
+2003 
+BTS Transports & Logistique
+Lycée L. D. Vinci
+
+
+
+EXPERIENCES PROFESSIONELLES
+Mai 2021 – Fev 2025
+DATA ANALYSTE 
+SYSTRA – OFI/DATA SIG  Paris 
+taches
+PowerBi : Mise en production\deploiement de dashboard, 
+ETL Multi sources: Sharepoint, api, json, sql… filtré 
+concaténé…
+ modélisation, synchronisation des dataflows. Gestion des accès(PBI Desktop & Services).
+Création de pipelines de déploiement (test, 
+recette, production) ReportBuilder(rapport Paginé) Support aux collaborateurs(DAX, Powerquery M) Conception et animation de formations Power BI 
+à destination des collaborateurs de différents 
+départements… tstrap framework LARAVEL
+Développement web(fullstack) Administration\Migration de listes sharepoint Automatisation d'un logiciel de suivie de documents.
+Environnement technique: Powershell, Dax, M, python, Sql., 
+postgre, PGAdmin4, php7&8, ReactJS, Looping(MCD), 
+Postman, LM Studio, PowerAutomate, Docker, WSL, Git 
+Xampp, NodeJs, Powerbi Desktop&Services. 
+
+Oct 2018 – Jan 2019
+DEVOPS & DÉVELOPPEUR WEB full stack production
+DTSI/DISU/DTI/EWORKS/PII  Paris 
+taches
+Digitalisation du support de proximité: Automatisation via 
+script powershell. En recette (test) Exp:Remediation de 
+port, réinitialisation de firefox, suppression de profils, 
+correction de fichiers *.properties. Maintenance, évolution d’un site WEB interne: mise en 
+place d’une page d’authentification avec gestion des roles, 
+incompatibilité IE/FF, migration PHP7, évolutions des tables 
+SQL SERVEUR, MariaDB. Postgre sql from scratch back front editeur ide 
+framework Mise en production d’Exchange monodomaine Microsoft windows
+serveurs logiciel spam campagne virus software administrateur système et reseaux
+Environnement technique: SCCMv5(1906), MariaDB, Xampp, Git, php7, Eclipse, Powershell, Exchange. 
+
+Sep 2017 – Juil 2018
+ANALYSTE DÉVELOPPEUR analyste administarteur 
+CARREFOUR – DSI/GAU/GDA – Evry
+14 Bdd et annuaires internationaux(180 000comptes) myisam  Accompagnement pour la Qualité Des Données : 
+mettre en place des plans d'actions pour assainir puis 
+maintenir la cohérence des données utilisateurs 
+(quantitatif, qualitatif) à travers toutes les bases 
+d'informations (annuaires, SGBDDR ).  Proposition et mise en place de la trame de suivi 
+automatique via une page web. github gitlab postgre shell automatisation  Communications (états d’avancement, incident, retour 
+utilisateurs). Google sheet etl dataiku dbt rgpd json analyse doublon
+Environnement technique: Glassfish, MySql, Sql Server Php6 (Codeigniter3), Java(*.jsp). 

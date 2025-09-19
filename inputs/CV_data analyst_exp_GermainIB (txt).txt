@@ -1,0 +1,116 @@
+Data Analyst / BI
+
+Plus de 15 ans d’expérience, spécialiste de la conception et du déploiement de solutions data. Fort d’une expertise éprouvée en Analyse des Données et en Gestion de Projet Innovant, je gère des initiatives data de bout en bout : identification des besoins métier, modélisation des données, et livraison de solutions sur mesure.
+
+Compétences techniques
+Bases de données (SGBD & outils de développement)
+SGBD : Teradata, SQL Server 14, Oracle (9i, 10g, 11g), Informix 
+Outils de développement SGBD : SSMS, PL/SQL Developer, Oracle Developer, Teradata SQL Assistant
+Langages SQL : T-SQL, PL/SQL
+Langages de programmation
+Python / R / PHP / SQL (T-SQL, PL/SQL)
+Data Science & Statistiques appliquées
+Régression linéaire et logistique 
+Modélisation supervisée (scoring, prédiction) 
+Segmentation, clustering 
+Analyse multivariée 
+Tests d’hypothèses, ANOVA, distributions
+Outils ETL / Intégration de données
+SSIS / Talend /Alteryx
+Business Intelligence, Reporting & Data Visualization
+Power BI /Tableau / MicroStrategy / Cognos /QlikView / BrioQuery / SSRS / Hyperion /Excel avancé (Tableaux croisés, Power Pivot, Macros, VLookup, HLookup)
+Bureautique et outils de présentation
+Excel (avancé) / PowerPoint / Word
+Gestion de projet & collaboration
+Méthodologie agile (Scrum, Kanban) 
+Outils collaboratifs : Jira, Confluence, Trello, Teams
+Cybersécurité & conformité
+Protection des données personnelles (RGPD) 
+Analyse de risques, anonymisation et Tokénisation des données
+
+Formation
+D’Octobre 2023 à Décembre 2024 : Titre RNCP Niveau 7, Expert en Stratégie et Développement Digital.
+De Septembre 2002 à Septembre 2005 : Diplôme d'Ingénieur Technicien En Sciences Informatiques
+
+Certifications :
+Executive MBA BIGDATA & IA. (Déc. 2024) 
+Certification Power BI (Microsoft PL-300) : En cours
+
+Langues
+Français : Courant 
+Anglais : Professionnel
+
+
+Expériences professionnelles
+
+Data Analyst | CRÉDIT AGRICOLE d’Île de FRANCE Août 2018 - Présent
+
+Mission : Travailler sur différents projets DATA pour le département de crédit, risque, RH et Marketing.
+Analyse et consolidation des besoins métier, rédaction de spécification fonctionnelles et techniques.
+Conception et mise en œuvre de solutions data : études de faisabilité, préparation des données, modélisation et industrialisation.
+Mise en place des Produits Data (Applications Data, Pistes d’audits pour le Pilotage et Data quality, profilage de la donnée, flux d’ingestion de la donnée manquante dans le Data Warehouse Teradata via la couche sémantique Microstrategy).
+Maintenance, évolution et mise en production des applications de pilotage péri-informatiques. 
+Développement des jobs séquences, des scripts SQL et création des indexes et des partitions. 
+Développement des procédures stockés / table / vue 
+Préparation des packages et les dossiers de livraison et Suivi de mise en production 
+Suivi journalier des traitements de production 
+Réalisation des tests unitaires. 
+Assurer un travail collaboratif avec les équipes IT afin de s'assurer de la qualité et de l’exhaustivité des données nécessaires à l'activité
+Remontées des anomalies au Data Managment via des tickets, analyse de ces anomalies dans des ateliers Code Review SQL Implémentation des mesures de conformité RGPD en collaboration avec le DPO.
+Mise en place d’indicateurs pour le suivi de la qualité des données. 
+Intégration des données manquantes de Microstrategy pour corriger et /ou compléter la donnée du Dataware.
+Développement des Tableau Dashboards Finances pour analyser les KPIs.
+
+Environnement technique :
+SQL Server, Transact-SQL, SQL, Teradata, ETL, MicroStrategy, SSIS, Business Objects, PHP, JavaScript, JQuery, HTML, CSS, Windows, Agile, Git, Jira,
+
+
+Senior Reporting Analyst |Group VODACOM Sept 2014 à Avril 2018
+
+Exploitation de la donnée par des outils BI pour soutenir les stratégies marketing et commerciales.
+Extraction et analyse des données multi-sources pour fournir des rapports et insights stratégiques.
+Développement et suivi des KPIs relatifs aux produits, aux trafics des abonnes et à la performance globale.
+Construction et maintien de modèles de rentabilité par produit/service.
+Analyse des offres prépayées pour garantir le ROI et l’alignement avec les objectifs commerciaux.
+Collaboration inter-équipe pour maximiser l’efficacité opérationnelle et commerciale. 
+Développement des procédures stockés / table / vue 
+Correction des anomalies
+
+Environnement technique :
+ORACLE, PL/SQL, SQL, Brio Query, SSRS, Power BI, Power Query, ETL(Alteryx, Talend), Windows/Linux, Agile.
+
+
+Data Analyste RH | Group VODACOM Mars 2012 à Aout 2014
+
+Gestion du système d’information RH (SIRH) : précision des rapports, maintenance et pilotage des outils RH.
+Gestion Opérationnelle des activités des ressources humaines : Gestion du recrutement et de la sélection, gestion les effectifs, gestion de la performance des collaborateurs, gestion de la rémunération et les avantages, gestion de la formation et du développement des collaborateurs, ainsi que le maintien des relations harmonieuses et productives avec l'ensemble des employés. Mise en place d’analyses statistiques pour les processus RH : recrutement, gestion des effectifs, performance, et rémunération.
+Développement des procédures stockés / table / vue 
+Optimisation des requêtes SQL 
+Réalisation des tests unitaires.
+
+Environnement technique :
+ORACLE, PL/SQL, SQL, Brio Query, BI, SSRS, ETL(Talend), Windows/Linux, Agile.
+
+
+Consultant BI | Group Vodacom Nov 2008 à Fév 2012
+Collecte des besoins métier 
+Conception de solutions adaptées, et production de Dashboard (Tableau, Cognos). 
+Développement de datawarehouses et de procédures ETL. 
+Formation et accompagnement des Data Analystes 
+Développement des procédures stockés / table / vue 
+Optimisation des requêtes SQL 
+Réalisation des tests unitaires.
+
+Environnement technique :
+ORACLE, PL/SQL, SQL, Big Query, BI, SSRS, ETL(Talend), Windows/Linux, Agile.
+
+
+Data Analyste junior | Group Vodacom Mars 2006 à Oct 2008
+Conception de processus de transformation de données pour le reporting. 
+Support technique avancé pour l’assurance des revenus et la détection de fraudes. 
+Rédaction de documentations techniques et coordination inter-équipes pour le suivi des systèmes de Reporting .
+
+Environnement technique :
+ORACLE, PL/SQL, SQL, Big Query, BI, SSRS, ETL(Talend), Power BI, Agile.
+
+

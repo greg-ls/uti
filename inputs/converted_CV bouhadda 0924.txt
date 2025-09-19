@@ -1,0 +1,173 @@
+diplômes
+2013 Master en Management des systèmes d'informations - FST SETTAT
+2011 Licence en ingénierie de conception et développement d'applications - FST SETTAT
+Certifications
+29/08/2023 Oracle Cloud Infrastructure 2023 MultiCloud Architect Certified Associate
+09/08/2023 Oracle Cloud Infrastructure 2023 Certified Architect Associate
+04/08/2023 Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+22/06/2023 IBM DevOps, Cloud and Agile Foundations
+30/03/2022 CLEVA Paramétrage Web
+25/03/2022 Overview CLEVA / Overview Paramétrage
+Compétences fonctionnelles
+Etude de faisabilité, consultation et choix des technologies
+Assurer Un suivi et un pilotage auprès des équipes de développement
+Suivi et pilotage des équipes de dévs
+Conception, analyse, développement et mise en œuvre des applications
+Contribution aux sujets de migration vers des infrastructures
+Contribution dans la cartographie des systèmes d'informations
+Forte expérience dans l'architecture J2EE plateforme de développement d'application web
+Réalisation et conduite du développement du portail web
+Rédaction des documents techniques
+Intégration des systèmes entreprise ressource planning
+Développement des nouvelles évolutions
+Maintenance applicative et évolutive
+Capacité relationnelle : établir et maintenir des relations avec des personnes qui viennent de divers horizons
+Maîtrise de la gestion de la qualité, Etude et Analyse d'impact
+Développer des approches innovantes de résolution de problèmes et spécule sur des solutions inventives et créatives
+Coordination sur les différents projets en cours avec l'Architecte, le PO, Chef de projet...
+Participation au Build et au Run
+COMPETENCES TECHNIQUES
+Langage/ BDD : Java, Oracle, PostgreSQL, MySQL, C++, SQLserver, C#, Groowy, Python, Php, Shell, Flyway, Liquibase, PowerShell
+Développement Web : Angular, TypeScript, JavaScript, HTMLS, CSS, Boostrap, JQuery, XML, JSON, YAMEL
+Framework : Spring (Core, boot, Cloud, batch, Security, Data, MVC, AOP, Rest, Shell, AI), WebServices Rest, Struts, JPA, Hibernate, JSF, Maven.EJB, Junit, Lombok, Spring Shell, Micronaut
+Architecture : Microservices, Monolithique, Hexagonale
+Cloud : OCI, AWS
+Matériel et OS : Windows, Linux
+Outils : Eclipse, VS Code, Postman SoapUl, Swagger, Jira, Mantis, Trello
+Serveur : Serveur d'application JBOSS, TOMCAT, WebSphere
+Méthodologies : Scrum, Kanban,XP
+DevOps/Intégration continue : Jenkins, Gitlab, Git, Vagrant, Ansible, Docker, Kubernetes, Sonar, OpenShift, Tekton
+Intelligence Artificielle : LangChain, Spring Al, RAG, BDD Vectorielles, LLM, Prompt Engineering
+Experience
+Groupama G2S 03/2024 - Aujourd'hui (France)
+TECH LEAD / SENIOR DEVELOPPEUR
+Contexte :
+Cleva vi4 et v17, grâce à son architecture ouverte et flexible, la solution Cleva permet une gestion optimale de l'ensemble du cycle de vie des polices d'assurance de la souscription à l'indemnisation. Migrations "Openshift 3 vers v4"
+Migration Cleva v14 vers v17
+Taches :
+Assurer la migration de cleva v14 vers v17
+Concevoir la nouvelle ligne de fabrication v 17 : pipelines, envirs, process Photo, …
+Migration Openshift : Conception et réalisation d'une application cli permettant d'interagir avec différentes versions du client oc openshift
+Conception, développement et validation des solutions techniques
+Rédaction et Mise à jour de la spécification Fonctionnelle et Techniques
+Assurer l'intégration et la livraison : Intégration des livrables Progiciel, Livraison et installation sur les envirs clients, rédaction des documents, préparations des livrables
+Participation aux comités (Clients, Editeur, Migrations, Architectures, BD)
+Audit, validation et refactoring du code
+Corriger et documenter les différentes anomalies remontées par les différents clients
+Analyse technique de l'existant
+Etude d'impact et chiffrage
+Mise à jour des envirs clients
+Environnement Technique :
+Openshift, Jenkins, Tekton, Docker, JDK1.8/11/21, Java/JEE, Hibernate, Spring boot, Spring shell, Spring, Spring batch, Micronaut, WS (Rest, Soap), Maven, Git, Gitlab, Jboss, tomcat, Oracle 19c, Liquibase, Sonarlint, Play Framework 2.2.6, Cleva(14.55, 17.2, 17.3), SalDeveloper, JIRA, Winscp, Groovy, Shell, PowerShell, Vagrant, Linux
+Méthodologie (Scrum)
+Anywr 05/2023 - 02/2024 (France)
+TECH LEAD / SENIOR DEVELOPPEUR
+Contexte:
+Réalisation d'une plateforme de gestion de recrutement basée sur une architecture micro services, permettant une gestion complète et flexible du processus de recrutement
+Taches :
+Développements et validation des solutions techniques
+Mise en place des environnements & conception de l'architecture
+Analyser des besoins et rédaction de la documentation technique
+Assurer le déploiement et la livraison
+Mise à jour des environnement AWS
+Audit, validation et refactoring du code
+Etude d'impact et chiffrage
+Encadrement des ressources
+Environnement Technique :
+Java 17, Angular, TypeScript, Kafka, Docker, kubernetes, Hibernate, Spring (boot, cloud, MVC, AOP, Security, Rest), JWT, OAuth 2.0, Maven, Git, postgres, AWS, Jenkins, Ansible, Méthodologie (Scrum), Anglais
+Cleva 03/2022 - 04/2023 (France)
+TECH LEAD / SENIOR DEVELOPPEUR
+Contexte :
+Hautement paramétrable et modulaire, Cleva est une solution logicielle moderne et performante, conçue pour répondre aux besoins des compagnies d'assurance, des mutuelles et des courtiers.
+Grâce à une architecture ouverte et flexible, la solution permet une gestion optimale de l'ensemble du cycle de vie des polices d'assurance de la souscription à l'indemnisation.
+Taches :
+Conception, développement et validation des solutions techniques
+Coordonner et communiquer les différents bugs rectifiés au Product owner ainsi que l'architecte du projet
+Cadrage, pilotage, garantie de la bonne réalisation des activités
+Maintien de la cohésion d'équipe sur les projets à forte responsabilités leadership
+Faire le pont entre l'équipe de dév et l'équipe DevOps
+Participation aux comités techniques (DevOps, Perf, Architectures)
+Audit, validation et refactoring du code
+Analyse technique de l'existant
+Mise à jour de la spécification Fonctionnelle et Techniques
+Assurer la livraison : Rédaction des documents, préparations des livrables
+Corriger et documenter les différentes anomalies remontées par les utilisateurs d'activation Manager
+Paramétrage Cleva (Web, RCP, WorkFlow)
+Mise à jour des environnements Cleva
+Etude d'impact et chiffrage
+Encadrement des ressources
+Environnement Technique :
+Java : JDK1.8, Java/JEE, Hibernate 5.0.7, Spring 4.2.3, Spring batch 3.0.8, WS (Rest, Soap), Maven 3.5.3, Git, Jhoss EAP7.2, WildFly 8.2.0, Oracle 18c, Postgres11, Liquibase, Sonarlint, Dozer 5.5.1, Mapstruct 1.2.0, Junit4, ehcache 2.10.1, Play Framework 2.2.6, Cleva (14.51, 16.1, 16.2,16.3), SalDeveloper, PG Admin, JIRA, Trello, Winscp
+Méthodologie (Scrum)
+MINISTERE DE LA JUSTICE 05/2018 - 03/2022 (France)
+TECH LEAD / RESPONSABLE LIVRAISON
+Contexte :
+CASSIOPEE, mis en œuvre dans les tribunaux judiciaires, permet l'enregistrement d'informations relatives aux plaintes et dénonciations reçues par les magistrats, dans le cadre de procédures judiciaires, afin d'améliorer le délai de traitement des procédures.
+taches :
+Concevoir et développer les interfaces Frontend, les règles métier Backend
+Rédaction, modification et mise à jour des différents documents applicatifs (DAT, MI, Cahier d'ordonnancement...)
+Pilotages et accompagnement des ressources
+Assurer la livraison : Rédaction des documents (BL, RAL...), préparations des livrables
+Corriger et documenter les différentes anomalies remontées par l'équipe de support
+Conception d'une solution, chiffrage et validation avec les experts
+Participation aux comités (de base de données, d'Architecture, Perf, ...)
+Développement et validation des solutions techniques
+Analyse et traitement des anomalies de la chaîne applicative du patrimoine KCOP
+Installation et paramétrage des applications KCOP sur les machines AWS
+Intervenir sur les différents problèmes remontés par les testeurs et développeurs au niveau des machines AWS (Bases de données, serveurs, ...)
+Implémentation des batchs SH pour automatiser les installations des applications
+Remonté des dysfonctionnements en proposant des améliorations
+Coordonner et communiquer les différents bugs rectifiés
+Etude d'impact et chiffrage
+Audit et validation du code
+Rédaction et validation des STD
+Assurer la VPA avec le client
+Assister le client les jours de mise en production
+Implémentation des jobs Jenkins
+Pilotage des TNRs
+Création des prototypes technique
+Environnement Technique :
+Java 1.8, AWS, Jenkins, Hibernate 3.3.2, Spring (boot, batch, Data, AOP, MVC, Rest), Struts, Maven, Git, Jboss 6+/tomcat 8, Oracle12c, postgres 9/11, JavaScript, XML, Flyway, Quartz1.5.2, Log4j, ApacheCXF, Rest, Ejb, Groovy, shell, pl/sql, SalDeveloper, PG Admin, Jira, Mantis, Trello, Winscp, FileZila
+Méthodologie (Scrumagile)
+IBM 12/2015 - 02/2018 (Maroc)
+INGENIEUR ETUDE ET DEVELOPPEMENT JAVAIEE
+Contexte:
+Le portail Ma Banque Entreprise propose une gamme de services sur Internet pour pilotez vos comptes, saisir et suivre facilement vos paiements et gérer l'ensemble de vos opérations
+taches:
+Analyse et développement de nouvelles fonctionnalités
+Maintenance corrective et évolutive
+Etude d'impact et chiffrage
+Rédaction et validation des STD
+Rédaction des spécifications techniques
+Travailler sur l'amélioration des processus de production du code
+Elaboration des plans de tests (HP ALM Quality Center)
+Intégration continue et assurance qualité (Sonar, Jenkins, Audits Statiques : Normes et conventions)
+Recette interne de l'application des fonctionnalités livréschaque fin de sprint
+Accompagnement des MOE et MOA lors de la phase de recette
+Réaliser et gérer les différentes tâches de développement en collaboration avec les différentes équipes (maitre d'ouvrage, base de données, production et support technique)
+Optimiser les différentes fonctionnalités développées
+Environnement Technique :
+Java 1.6, WS SOAP, Spring IOC, Spring JDBC, Spring MVC, Struts, Sif4j, JUnit, Jenkins, Maven,SVN, Quality Center,Sonar, oracle, IBM WebSphere Applications Server
+Méthodologie (cycle en V)
+BNP PARIBAS 08/2011- 12/2015 (Maroc)
+INGENIEUR ETUDE ET DEVELOPPEMENT
+Taches :
+Maintenance et Développement de nouvelles fonctionnalités
+Développement de nouvelles fonctionnalités sur l'application
+Développement des webservices SOAP
+Analyser et concevoir les composants applicatifs correspondant aux dossiers de spécifications fonctionnelles.
+Résolution des incidents Qualif et Prod
+Création des web services
+Réaliser des tests de non-régressions et d'intégration et rédiger les documents associés
+Préparer le JDD sous forme d'un flux éditique : XML, CSV, fichier BATCH
+Mapping des données (0p Gaol)
+Rédiger le cahier de charge
+Optimiser les différentes fonctionnalités développées
+Tests unitaires et fonctionnels
+Environnement Technique :
+Java 1.6, Spring, Struts/Junit, Webservices (Rest, Soap), Webspehere, SVN, Maven, PapyrusDesigner, Op Goal, XML, DFA, JIRA
+Méthodologie (cycle en V)
+Langues
+Français : Bilingue
+Anglais : Professionnelle
+Arabe : Maternelle

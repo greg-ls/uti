@@ -1,0 +1,84 @@
+Ingénieur SENIOR d'études et de développement MAINFRAME / COBOL
+
+
+PROFIL
+Professionnel doté de nombreuses années d'expérience dans le Mainframe et le secteur bancaire, combinées à une solide formation dans le domaine informatique et une forte aptitude à acquérir de nouvelles connaissances. Capable à la fois de travailler en équipe et de fonctionner de manière autonome, je fais preuve d'un solide sens de l'organisation et de compétences avérées en Mainframe et Cobol.
+
+COMPÉTENCES techniques
+
+Langage de programmation : COBOL/MVS, JCL, Java/J2EE, C, C#
+Bases de données : DB2, DL1, MySQL, SQL Server
+Environnements : Mainframe MVS (TSO/RDZ), IMS, CICS, Windows, Unix, Lunix.
+Ingénierie du web : HTML5/CSS3, XML, JavaScript. APEX (Salesforce)
+Conception et modélisation : Merise, UML (Avec les outils PowerAMC et RSM).
+
+EXPÉRIENCE
+04/2022 - 05/2025 Analyste Run Mainframe
+BNB Paribas - Paris
+Contexte :
+Au sein de la société BNP Paribas, mon poste d'ingénieur informatique consiste en des travaux d'assistances aux utilisateurs, d'analyses d'incidents, de maintenances correctives et préventives et éventuellement de maintenances évolutives au sein du patrimoine IT crédit immobilier (Mise en place et gestion de crédit immobilier : METEOR et connexes). 
+TACHES :
+Coordination entre les équipes IT et métiers
+Assistance utilisateurs
+Analyse technique et fonctionnelle, Traitement, Résolution d'anomalies de production / de maintenances en lien avec la TMA et autres intervenants du SI BNP PARIBAS.
+
+Relation opérationnelle avec la TMA, suivi des taches, validation de l'analyse, des tests et de la réalisation
+
+Qualification et Analyse des demandes
+Morning check / Suivi de production
+Traitement des demandes de maintenance corrective (analyse, développement et tests) en relation au besoin avec les équipes de Conception.
+
+Environnement technique : MVS COBOL JCL DB2 CICS SCLM JIRA ServiceSnow
+
+01/2019 - 03/2022 Ingénieur d'étude Cobol/Mainframe CRÉDIT MUTUEL - Strasbourg
+
+Contexte : Intervention au sein de centre de service Amaris - Secteur K
+Equipe K530 (Agios et fusions de compte)
+EID, Equipe K520 (Gestion des lignes de crédit en compte)
+
+Tâches :
+Analyse du besoin fonctionnel du client (étude du besoin, faisabilité, chiffrage)
+Rédaction de spécifications fonctionnelles, dossiers de conception et de spécifications techniques
+
+Développement des solutions proposées (COBOL sous MVS)
+Conception et création des bases de données (DB2)
+Tests des composants/évolutions réalisés et livraison en qualification (recette longue, recette courte (pré-production))
+Déploiement (mise en production)
+Réalisation de la documentation et suivi de projet (fiche de maintenance, bilan...)
+Environnement technique : RDZ , TSO , COBOL , MVS , JCL , DL1 , DB2 , FILE-AID - ABEND-AID , IMS , ATLAS , QC
+
+09/2017 - 11/2018 Ingénieur d'étude Cobol/Mainframe IBM Applications & Technologies - Casablanca
+
+Contexte: 
+TMA SAR (Système Analyse Résultat ) : SAR est une application de comptabilité de gestion sert à établir mensuellement un résultat de gestion par métier, élaborer un résultat comptable ajusté avec la filière comptable de la banque, déterminer le résultat de gestion après prise en compte des intérêts de refinancement, et fournir quotidiennement les positions comptables à l'ALM.
+
+Refonte de recouvrement : Projet de refonte de l'application de recouvrement qui permet d'optimiser le suivi des comptes clients, notamment en ce qui concerne les dettes.
+
+Tâches :
+Analyse du besoin fonctionnel du client.
+Participer à la conception des solutions proposées.
+Développement des solutions proposées (COBOL sous MVS).
+Conception et création des bases de données (DB2).
+Tests des composants/évolutions réalisés et livraison des dossiers de tests.
+Réaliser des revues de code et rédiger la documentation associée
+Livrer les composants sur ENDEVOR.
+Migration et recompilation C4B à CB6.
+
+03/2017 - 09/2017 Ingénieur d'étude Cobol/Mainframe IBM Application & Technologie - CASABLANCA - Contrat d'apprentissage
+
+Contexte : Carte bancaire personnalisé « A chacun son image »
+Tâches : Conception et réalisation d'une application mainframe permettant aux clients BNP Paribas la possibilité de choisir un visuel sur sa Carte Bancaire.
+
+Environnement technique : COBOL/JCL, UML (RSM), DB2, Mainframe MVS (TSO/RDZ).
+
+diplomes
+2015 - 2017 Master : Ingénierie Informatique Faculté des Sciences Tétouan - Maroc
+
+2011 - 2014 Licence : Génie Informatique Faculté des Sciences et Techniques - Maroc
+
+2010 - 2011 Baccalauréat : physique-chimie Lycée AL Khawarizmi - Casablanca, Maroc
+
+LANGUES
+Français Bilingue
+Anglais Opérationnel
+Arabe Langue maternelle

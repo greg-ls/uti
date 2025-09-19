@@ -1,0 +1,187 @@
+Atomic design
+
+2016 DNSEP : diplôme national supérieur d’études plastiques.
+
+Atomic DesigDesign-System experUI Designer multiplateformDirection artistiquConnaissances méthodologiques : cycle en V, Agile (Scrum)
+
+**EXPÉRIENCES PROFESSIONNELLES**
+
+2017 Product designer / Design System manager lead
+SOCIETE GENERALE BDDF
+8 place du marché, 92200 Neuilly sur Seine. Tél +33 (0) 1 77 78 13 00 +33 (0) 1 77 78 13 01
+
+2019 - 2023 Designer UI senior
+Maltem Consulting Group
+contact@maltem.com
+
+2024 (8 mois) UI Designer - Design System manager
+Amundi
+
+2023 (1 mois) UI Designer - Design System manager
+Bolloré
+
+2019 - 2023 (4 ans 1/2) Product designer - Design System manager lead
+BNP Paribas CIB
+
+2016 (1 mois) UI designer senior
+ENGIE
+
+2017 (8 mois) UI designer senior
+SOCIETE GENERALE
+
+2018 (6 mois) UI designer senior
+VULOG
+
+2008-2016 ( 8 ans) UX/UI designer senior
+Orange
+
+2007 (1 an) Graphiste DA, assistant chef de studio
+RUE DE LA PAIX
+
+2008 (2 mois) UI designer
+TBWA_E-GRAPHICS
+
+**COMPÉTENCES**
+
+Design system
+Graphic asset delivery
+iOS / Android / Web / IHM / Print
+
+**COMPÉTENCES TECHNIQUES**
+
+Outils : Suite Adobe (photoshop, Illustrator, Indesign), Atomic design, Sketch, Figma, JIRA, Confluence, C4Langage : HTML/CSS
+
+**LANGUES**
+
+Anglais : CELP Level B1.Notions : Espagnol, Néerlandais
+
+**PROFIL PERSONNEL**
+
+Expérience : 20 ans
+
+**DÉTAIL DES EXPÉRIENCES**
+
+**Maltem Consulting Group**
+Création design des applications web, mobile  et tablette (IOS - Android), et IHM.
+Réalisation de la partie Bourse du site
+Amélioration continue du produit et du design system Connexis Cash
+
+**Amundi**
+Cadre de la mission :
+Au sein de l’équipe UX/UI de Amundi Technology.
+Contexte :
+Amundi Technology développe un écosystème d’applications web (environs 50 webapps) basé sur leur technologie Alto avec un framework (Angular) commun MAESTRO.
+Réalisations
+Audit sur l’ensemble des éléments de créations graphiques (Icons, couleurs, fonts, composants)Remise en cohérence avec le framework des éléments de librairie design (Icons, couleurs, fonts et composants)Création de la librairie spécifique de charts (graphiques multi-style) pour optimiser le temps de maquettagePrototypages de nouvelles fonctionnalités (avant-vente ou intégration)Revues graphiques des applications de préprod afin d’être en cohérence avec la charte graphique.
+Environnement technique :
+FIGMA, HTML/CSS - Angular 18
+
+**Bolloré**
+Cadre de la mission :
+Au sein de l’équipe IT de ELLE Magazine.
+Contexte :
+Pixelle est une application permettant de mutualiser l’ensemble des contenus des publications mondiales de ELLE magazine (Articles et Photos).
+Réalisations
+Réalisation d’un Audit Complet sur l’ensemble des éléments de créations graphiques Figma (Icons, couleurs, fonts, composants)Préconisations techniques et méthodologie de création du maquettage (atomic design) et automatisationStandardisation et homogénéité des éléments graphiques.
+Environnement technique :
+FIGMA, HTML/CSS
+
+**BNP Paribas CIB**
+Cadre de la mission :
+Au sein de l’équipe Connexis Cash Lab Paris.
+Contexte :
+Connexis Cash est une application BNP Paribas de cash management présente dans plus de 50 pays dans le monde. En cours de migration vers une nouvelle interface (UI)
+Réalisations
+Réorganisation de l’ensemble des documents graphiques du projetMigration de la librairie graphique vers une nouvelle solution technique (logicielFin de migration de l’application vers une nouvelle UI (obsolescence de la solution technique). Amélioration continue de l’interface du produit.Création et amélioration du design system Connexis Cash: Library Design / DePhase de test (AB test - Guerilla test ...) auprès des utilisateurs finaux, recueil des informations utilisateurs, synthèse afin de dégager des axes d’améliorations.Suivi de migrations et d’implementation des composants graphiquesAudit quantitatif de suivi de migrations.Travail continue sur les éléments régulatoires BancaireAjout de nouvelles fonctionnalités au sein de l’application (Sprint de 2 semaines).Customisation de produits partenaires aux couleurs du groupe BNP PARIBAS.Création de la nouvelle application mobile Connexis Pass. Application d’authentification sécurisée aux services de Connexis. Création des wireframe / prototypes / mockups / Reviews.Création du nouveau portail web de connexion pour les services de ConnexisCo-création d’une Vision cible (target) nouvelle version prenant en compte l’ensemble des retours du NPS.
+Environnement technique :
+FIGMA, HTML/CSS
+
+**Bolloré**
+Cadre de la mission :
+Au sein d’une l’équipe IT de Bolloré Transport & Logistics.
+Contexte :
+Optim V2 est une application métier d’optimisation du fret maritime du groupe Boloré.
+Réalisations
+Préconisations graphiques et axe d’améliorations de l’applicationStandardisation et atomisation des éléments graphiquesCréation parcours de configuration client, pour le traitement interne automatique des demandes clients. Maquettage et prototypage de la nouvelle fonctionnalité.
+Environnement technique :
+FIGMA, HTML/CSS - Angular 14
+Fonctionnement en Agile - Sprint - Run- Projet (UX-UI-FRONT)
+
+**ENGIE**
+Cadre de la mission :
+Au sein du studio digital de la direction marketing du site particulier de Engie DMPA - DP&SI.
+Réalisations
+Refonte, évolutions, enrichissements de contenus du site : particuliers.engie.fr,  Fonctionnement en Agile (PO-UX-UI-FRONT-BACK) CMS Adobe responsive et contribuableOptimisation des échanges UI/FRONT par la création de documents de ressources transverses.
+Environnement technique :
+Suite Adobe - React - CMS - Contribuable - Web et Mobile
+
+**SOCIETE GENERALE**
+Cadre de la mission :
+Refonte à la nouvelle charte de la partie Bourse du site : particuliers.societegenerale.fr en projet, support opérationnel sur les évolutions continues des différents sites de la marque.
+Réalisations
+Environnement technique :
+Suite Adobe - Android
+
+**VULOG**
+Cadre de la mission :
+Conception, création et réalisation de l’application marque blanche pour IOSCréation maquettes / prototypes
+Réalisations
+Environnement technique :
+SKETCH
+
+**SOCIETE GENERALE**
+Cadre de la mission :
+Au sein de la digital Factory de BDDF. Intégré à l’équipe Design UX/UI (10 Designers), Application de la nouvelle charte graphique sur les différentes parties des applications web grand public.
+Réalisations
+Environnement technique :
+IOS, Android- Suite Adobe.
+
+**ORANGE**
+Cadre de la mission :
+Société commercialisant un système de carsharing.
+Réalisations :
+ORANGE CLOUD Europe (Solution CLOUD FUNAMBOL) Customisation graphique de la solution aux couleurs d’Orange en accord avec la solution FranceCustomisation de l’ensemble du Pack de developpement du produit FUNAMBOL. (6 pays deployés en 1 an)
+Environnement technique :
+Produit multiplateforme (WEB, IOS, Android, WindowsPhone, TV).
+
+**Orange**
+Cadre de la mission :
+Au sein du département IMT (innovation, marketing et technologie).
+Réalisations :
+LIVEBOX 4 Création graphique de l’intégralité de L’IHM (interface de réglage de la Livebox 4) en collaboration avec les développeurs Software de Soft@homeCréations d’icônesLivraison des parcours et ajouts de fonctionnalités en mode SPRINTCréations de visuels 3D pour les guides d’installation de périphériques en step by step au sein de l’IHMCréation de visuels pour la communication interne, fiches techniquesRecettage graphique et suivi PostProd.
+Environnement technique :
+WEB - IHM - BOX - Suite Adobe - C4D
+
+**Orange**
+Cadre de la mission :
+Réalisations :
+CLOUD D’ORANGE France (V1.0 à V3.0) Créations FROM SCRATCH des interfaces de l’application CLOUD de Orange France.
+ORANGE ET MOI (V1.0 à V1.3) Création des applications IOS et Android de l’application de suivi conso du groupe. Livraisons des ressources graphiques et recettage.
+118 712 :Création des applicationLivraisons des ressources graphiques et recettage.
+LIGUE 1, ROLLAND GARROS, OCS, TV D’ORANGE Création des parcours Livraisons des ressources graphiques et recettage.
+Autres applications Mobile :
+Environnement technique :
+Produit multiplateforme (WEB, IOS, Android,).
+Environnement technique :
+IOS, Android - Suite Adobe.
+Environnement technique :
+IOS, Android - Suite Adobe.
+Environnement technique :
+IOS, Android, Symbian, Blackberry, QCIF - Suite Adobe
+
+**RUE DE LA PAIX**
+Cadre de la mission :
+Au sein du studio graphique RDPcom dédié au groupe GUINOT.
+Réalisations
+Mise en page des outils de communication, préparations des fichiers pour l’impression pour BBDO Paris
+Créations et mise en place des outils de communication pour le groupe GUINOT / MARY COHR / MASTERS COLORS.
+Environnement technique :
+Suite Adobe
+
+**TBWA_E-GRAPHICS**
+Cadre de la mission :
+Au sein du studio-exe de BBDO.
+Réalisations
+Clients : MERCEDES, SMART, BARCLAYS, EDF, BOUYGUES, AUCHAN…
+Environnement technique :
+Suite Adobe - X-Press

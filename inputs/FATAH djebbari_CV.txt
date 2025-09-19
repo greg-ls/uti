@@ -1,0 +1,265 @@
+BUSINESS ANALYST TECHNICO FONCTIONNEL SAS AMOA
+Diplomes :
+2006 Master 2 Informatique Décisionnelle et Statistique (IDS) Université de Lyon2
+EXPERTISE TECHNIQUE :
+Langages SAS – SQL
+Outils SAS BASE 9.1 / 9.2 /9.3 / 9.4 Salesforce XRM SAS Enterprise Guide SAS VIYA Business Object BO I4 POWER BI QlikView BDD ORACLE – DB2
+
+DOMAINES D’EXPERTISE :
+Assurance vie Santé Prévoyance Retraite Adhésions col et individuelle Banque
+
+COMPETENCES TECHNIQUES :
+Chiffrage en J/home
+Rédaction des expressions de besoins
+Rédaction des notes de cadrages
+Rédaction des spécifications fonctionnelles
+Collecte et analyse des exigences métier
+Cartographie des données et évaluation de l'état actuel
+Organisation et animation d'ateliers de travail avec les parties prenantes métier
+Rédaction de la documentation technique
+Pilotage et exécution de la recette (rédaction cas de test et scénario de tests, PV de recette......)
+Analyse et requêtage des données sous Salesforce (xrm)
+Suivi des actions à mener avec les différentes servies et interlocuteurs
+Développement et traitement des données avec SAS / SQL
+Reporting sous SAS / SAS VIYA / BO / Power BI (tableaux de bord et rapports)
+Suivi des anomalies
+Maintien de la documentation technique
+Support utilisateur
+Accompagnement et formation des utilisateurs
+
+EXPERIENCES PROFESSIONNELLES :
+06/2024 03/2025 AG2R LA MONDIALE$
+Contexte :
+Recette des données migrées sous Salesforce (XRM)
+Développement et automatisation des traitements de reporting sous sas Guide et VIYA
+Poste : Expert SAS Technico Fonctionnelle AMOA
+Service : Direction relation client
+Tâches :
+Analyser les besoins métiers et identifier les exigences
+Effectuer des déplacements pour découvrir le travail des conseillers clientèles et effectuer des doubles écoute téléphonique clientèles.
+Organiser la recette
+Planifier des réunions de recette avec la DSI
+Analyser les données à recetter sous Salesforce (XRM)
+Comprendre le fonctionnement des IHM Salesforce
+Naviguer et maitriser les différents onglets Salesforce (XRM)
+Développer des requête XRM afin d’extraire les données à recetter
+Qualifier les règles de gestion utiliser dans la migration des données
+Recette sous XRM et SAS
+Remonter les anomalies
+Suivi de la recette
+Développer et automatiser des traitements sous SEG
+Développer des rapports sous sas en Excel, PPT
+Environnement technique : Power point Excel - SAS E/G SAS VIYA
+
+04/2023 01/2024 COVEA LA MAAF
+Mise en place du pilotage automatisé sous SAS
+Poste : Expert SAS/SQL Technico Fonctionnel AMOA
+Service : Direction Marketing et communication
+Tâches :
+Analyse des besoins
+Évaluation de l'existant (données et processus de traitement)
+Analyse et cartographie des données ainsi que des rapports Excel existants
+Rédaction des notes de cadrages
+Organisation et animation d'ateliers de travail avec les parties prenantes métier
+Rédaction de comptes-rendus détaillés
+Challenger les règles de gestion existant ainsi les nouvelles évolutions
+Développement sous SAS
+Automatisation de l'importation des données Excel avec des paramètres configurables
+Conception et développement d'un processus de mise en forme automatique des données
+Alimenter les tables sas à utiliser pour le pilotage
+Recette
+Réalisation de tests unitaires et d'intégration
+Exécution des scénarios de test
+Reporting sous sas
+Transcription des formules de calcul Excel en code SAS
+Création de tableaux de bord SAS avec sortie ODS Excel (incluant une mise en forme complexe, conditionnelle et l'intégration d'images)
+Automatisation du processus de génération de rapports
+Optimisation des traitement sas
+Documentation des programmes sas
+Formation
+Accompagnement des utilisateurs
+Suivi des anomalies
+Support technique sas
+Environnement technique : Excel - SAS E/G 7.15 /9.4 SAS VIYA
+
+01/2021 03/2023 CACEIS CREDIT AGRICOLE
+Mise en place d’une application réglementaire
+Poste : Expert SAS Technico Fonctionnelle AMOA
+Service : IT Finance et IT Risks
+Tâches :
+Analyse des besoins
+Rédaction des notes de cadrages
+Organisation et animation d'ateliers de travail avec les parties prenantes métier
+Révision critique des règles de gestion avec les parties prenantes
+Rédaction des spécifications fonctionnelles
+Développement sous SAS
+Prendre en charge les développements sous sas
+Alimenter les tables sas
+Recette
+Rédaction de la stratégie de recette et des plans de tests
+Exécution de la recette (unitaires, intégration, cas de test ..)
+Suivi d’anomalie
+Support utilisateur
+Accompagnement et formation des utilisateurs
+Rédaction de la documentation utilisateurs
+Répondre aux différentes demandes d’extraction des données pour les métiers
+Prise en charge des évolutions sur d’autres projet sas en parallèle
+Optimiser des projets sas
+Environnement technique : Excel - SAS E/G 7.15 /9.4
+
+12/2019 11/2020 BNP PARIBAS ARVAL
+Mise en place du reporting sous sas
+Poste : Consultant SAS AMOA
+Service : Direction Marketing
+Tâches :
+Analyse de l'expression de besoin
+Chiffrage du projet
+Rédaction des notes de cadrages
+Planification et animation d'ateliers de travail avec les métiers
+Organiser des réunions d’avancement du projet
+Rédaction de comptes-rendus
+Challenger les nouvelles règles de gestion pour les traitements et le reporting
+Développement sous SAS
+Concevoir et développer des processus d'importation automatisés avec des options de paramétrage sous SAS
+Créer des procédures de mise en forme des données
+Mise à disposition des données selon le besoin métiers
+Recette
+Rédaction et exécution des cas de test
+Reporting sous sas
+Élaboration de rapports sous forme de tableaux de bord avec une segmentation par axe d'analyse (environ quinze tableaux de bord)
+Personnalisation des tableaux de bord conformément à la charte graphique et au logo de BNP
+Intégration d'images dans les tableaux de bord
+Configuration de rapports sous forme de diagrammes circulaires (environ cent diagrammes circulaires)
+Automatisation de l'envoi de rapports depuis SAS vers Outlook
+Suivi et correction des anomalies sous sas
+Accompagnement des utilisateurs
+Environnement technique : Excel - SAS E/G 7.15 /9.4
+
+03/2018 11/2019 ACOSS URSSAF
+Développement et déploiement d'une application pour la gestion des prévisions au sein de la DISEP
+Poste : Consultant AMOA SAS
+Service : Direction des statistiques, des études et de la prévision (DISEP)
+Tâches :
+Recueil et analyse du besoin métier
+Élaboration des expressions de besoins
+Chiffrage du projet
+Cartographie des données et du SI
+Planification et animation d'ateliers de travail avec les métiers
+Rédaction de comptes-rendus
+Rédaction des spécifications fonctionnelles
+Analyse du contenu des données ACOSS (DISEP)
+Proposer des solutions techniques pour remplacer les traitements et les bases Access et Excel par des solutions sas
+Coordination et animation des réunions de suivi du projet
+Challenger les nouvelles évolutions métiers
+Développement
+Concevoir et automatiser le processus d'importation de données à partir de fichiers Excel et Access, issus de répertoires en évolution constante au fil du temps
+Créer des processus de mise en forme des données
+Développer des traitements de mise à disposition des données
+Développer des traitements SAS de mise à jour des données
+Mettre en place des procédures de gestion de l'historique des données
+Charger les données dans la base SAS
+Recette
+Tests unitaires et d’intégration
+Création et gestion du référentiel des flux sous sas
+Consolidation des données sous sas
+Reporting sous sas et power BI
+Production des TDB complexe à l’identique du reporting Excel existant.
+Suivi et correction des anomalies
+Rédaction de la documentation technique pour les utilisateurs
+Rédaction des supports utilisateurs
+Formation et accompagnement des utilisateurs
+Environnement technique : Access Excel SQL SAS E/G 7.15 Power BI
+
+03/2017 01/2018 COFIDIS
+Développement et déploiement d'une application pour garantir la qualité des données et détecter les fraudes.
+Poste : Consultant AMOA SAS
+Service : Direction Risque des partenaires
+Tâches :
+Analyse de l'expression de besoin
+Analyse du contenu des données Cofidis
+Rédaction des plans de test
+Développement et recette
+Développer des traitements d’alimentation des données.
+Créer des mécanismes d'alerte pour la qualité des données (détection de données tronquées, de caractères parasites, de données manquantes).
+Élaborer des traitements SAS pour surveiller les données par partenaire (fraude, contrat, clients...).
+Mettre en place des points de contrôle (score et volumétrie).
+Développer des points de contrôle (score et volumétrie)
+Effectuer des tests unitaires et d'intégration.
+Reporting sous sas Guide
+Développer du reporting sous sas
+Automatiser la génération des rapports et les envoyer par e-mail depuis SAS
+Automatisation des traitements
+Suivi des anomalies
+Environnement technique : SAS BASE – SAS E/G
+
+02/2016 12/2016 AVIVA
+Identification des contrats en déshérence détenus par Aviva
+Poste : Consultant AMOA SAS / BO
+Service : MOA infocentre
+Tâches :
+Analyse de l'expression des besoins et du processus actuel d'interrogation RNIPP
+Analyse du contenu des données Aviva
+Préconiser des nouvelles évolutions sur les données impactées par le projet RNIPP
+Préconiser et fixer des nouvelles règles de gestion pour améliorer et fiabiliser l’interrogation RNIPP
+Organiser et animer les points d’avancement
+Recette et Qualification
+Rédaction des plans de tests
+Coordination des phases de recette
+Rédaction des PV de recette
+Pilotage de la recette
+Suivi et exécution de la recette sous SAS et BO
+Suivi d’anomalies
+Développement sous SAS
+Réaliser des développements de restitution
+Sortir des rapports
+Prise en charge des différentes demandes d’extraction et de chargement
+Développement, automatisation et optimisation du traitement global et ONSHOT d’interrogation RNIPP sous SAS
+Accompagnement des utilisateurs
+Documentation des traitements SAS
+Environnement technique : SAS BASE – SQL – BO I4
+
+07/2014 01/2016 GROUPAMA GAN VIE
+Identification des contrats en déshérence détenus par GROUPAMA GAN VIE
+Poste : Consultant SAS AMOA
+Service : Direction Financière - MOA et Qualité de données
+Tâches :
+Analyse de l’expression de besoin.
+Analyse du processus existant de l’interrogation RNIPP et du traitement des retours afin d’une amélioration et fiabilisation du processus.
+Rédaction des notes de cadrages
+Rédaction des spécifications fonctionnelles
+Analyse du contenu des données clients pour interrogation Agira 2014.
+Rédaction des règles de la mise en conformité des données et de dédoublonnement
+Développement sous SAS
+Développement de processus de correction et de nettoyage des données non homogènes (assurant la qualité des données)
+Développer des traitements de mise en conformité pour interrogation AGIRA.
+Développer des traitements pour dupliquer les noms et prénoms composés
+Recette et qualification
+Rédaction des plans et des cas de test
+Rédaction des PV de recette
+Exécution de la recette
+Suivi d’anomalies
+Automatisation des traitements
+Effectuer les interrogations des données via le site AGIRA.
+Collecte des résultats
+Traitements de chargements d’identifications et extraction des données interrogées.
+Reporting sous sas Guide
+Conception et suivi des Reportings statistiques hebdomadaires sous forme de TDB
+Suivi des anomalies auprès des gestionnaires.
+Faire le suivi et répondre aux besoins internes du service MAO-GSA
+Environnement technique : SAS E/G - SQL - VBA
+
+11/2011 03/2014 AUDIENS
+Qualification des données migrées (Retraite, Prévoyance, Santé, Adhésions Collective-individuelle, Entreprise Particulier)
+Poste : Consultant SAS AMOA BO Responsable de la recette
+Service : Pilotage et Statistique
+Tâches :
+Formation sur l’Outil interne de gestion des données (COMET)
+Développement et recette sous SAS
+Développer des traitements sas de recette pour qualifier la base de données.
+Recette et qualification
+Rédaction des scénarios de test
+Rédaction des cas de test
+Rédaction des PV de recette
+Exécution de la recette sous SAS
+Suivi d’anomalies
+Référent de la recette et de la validation

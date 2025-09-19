@@ -1,0 +1,150 @@
+ANALYSTE CONCEPTEUR EN MAINFRAME(MVS)
+(Analyste concepteur en Mainframe comptant plus de 20 années d'expérience.)
+
+Compétences Fonctionnelles
+
+Epargne Salariale, Bourse, gestion entrepôt, éditique
+
+Compétences Techniques
+
+Systèmes: IBM MVS, AS400, VAX/VMS
+Langages/Outils: JAVA/J2EE, COBOL, SQL, CICS, JCL, DCL, XML, ENDEVOR, CHANGEMAN, TSO, FILE AID, PLATINIUM, APTOOL, TEST DIRECTOR
+Progiciels: Eclipse, RDZ, AIDA
+SGBDR: DB2, ORACLE, MYSQL
+Méthodes: UML, Merise
+
+Diplômes
+
+2016/2017 : Formation en études et développements du SI.
+langages du Web : HTML5, CSS3, Javascript, PHP, JAVA, XML, SQL, SQBD : Mysql(Wamp, Xamp), Eclipse
+1993 : Licence en Informatique, Université Paris VII
+1992 : DUT Informatique, IUT de Villetaneuse
+
+Secteurs
+
+Banque /Assurance/Caisse de retraite/finance/Grandes distributions
+
+Expériences Professionnelles
+
+06/2023-12/2023 Analyste Concepteur - STIME (Intermarché)
+
+Contexte: STIME-Test Factory/Recette: Projet Améthyste: Facturation Marchandises
+Tâches: Préparation Chaînes les JCLS dans environnement de Recette, Analyser et modifier les JCLS, Exécuter les traitements Batch
+Environnement technique: MVS/TSO, DB2, COBOL, JCL
+
+06/2022-05/2023 Analyste Concepteur - BNP PARIBAS BCEF
+
+Contexte: Bourse: Gestion des titres
+Tâches: Migration des chaines JCL (Bourse) de ESP
+vers BNP socle Mainframe, Historique: fiscalités, comptabilités, coupons, opération sur Titres, Mettre aux norms BNP des programmes sources ESP, Analyser les JCLS, Développement des modules en cobol, Développement E-gen
+Environnement technique: MVS/TSO, DB2, COBOL, E-GEN(Générateur JCL)
+
+12/2019-05/2022 Analyste Concepteur - Euro information (CIC)
+
+Contexte: Epargne Salariale: Projet Loi PACTE: Répartition le prime d'intéressement, de participation et l'épargne jours.
+Maintenance évolutive et corrective des modules - Réalisation et Dossier Tests unitaires des modules.
+Projet CL premiun:
+Tâches: Développement des modules, Réalisations des tests techniques unitaires, Réalisation des tests d'intégration et de non regression suite aux évolutions, Élaborer les différents scénarios de tests et créations des tests plans via l'outil QC-Quality Center
+Environnement technique: MVS/TSO, Eclipse, RDZ, DB2, COBOL
+
+07/2018-11/2019 Analyste Concepteur éditique - Crédit Agricole Assurance
+
+Contexte: Projet: Editique - Conception des maquettes courrier (BDOC et Printdraw).
+Réception et vérification des maquettes MOA (écriture et transcription), Mise en forme des maquettes pour les développeurs, Test unitaire et recette des courriers, Recette de maintenance et d'évolution.
+MVS-OnDemand (GED) Maîtrise outils BDOC et Printdraw (éditique). MVS: Suivi de productions chaines batch
+Environnement technique: MVS, Fileaid, SPUFI
+
+07/2017-5/2018 Analyste /Réalisateur - Centre de service LCL
+
+Contexte: Projet: Prêt immobilier, Commissions sur dossier en suspens, transfert PEL-CEL, Dématérialisation des relevés de compte.
+Tâches: Maintenance évolutive et corrective des modules, Réalisation et Dossier Tests Unitaires des modules
+Environnement technique: MVS/TSO, CHANGEMAN, CICS, DB2, COBOL
+
+01/2016-10/2016 Analyste developpeur MSA (Mutuelle Sociale Agricole)
+
+Contexte: Projet: Mise en place la migration des données Carrières MSA vers le nouveau référentiel Carrière Inter-régimes (CNAV) pour alimenter le RGCU (Répertoire de Gestion des Carrières Unique).
+GIP InfoRetraite: Prolongation et Estimation de la retraite.
+Tâches: Conception des dossiers techniques et fonctionnelles, Développement des programmes spécifiques, Maintenances correctives et évolutives.
+Environnement technique: Micro Focus Citrix, Net Express, Cobol / Db2 sous UNIX
+
+09/2014-09/2015: Analyste Concepteur ALLIANZ
+
+Contexte: Projet ABS
+Tâches: Elaboration de dossiers techniques et fonctionnels détaillés, Mise en place du traitement chargement de sinistre et de contrat ABS dans la base de donnée Replica, création des modules pour la consultation de la base Replica, Rédaction de dossiers d'exploitation, mise en production et suivi, Maintenance évolutive et corrective des applicatifs
+Environnement technique: MVS/TSO, ENDEVOR, DL1, DB2, COBOL
+
+10/2013-07/2014: Analyste Concepteur VIVARTE
+
+Contexte: Gestion des Entrepôts
+Tâches: Dans le cadre du projet de Gestion des Entrepôts, Développements de
+requêtes spécifiques, Maintenances évolutives de programmes Batch, Suivi de production au quotidien des applicatifs Batch.
+Environnement technique: MVS, AIDA, CICS, DB2, COBOL.
+
+01/2012-07/2013 Analyste Concepteur CAISSE DE RETRAITE ALCARA
+
+Contexte: Projet Usine de retraite : Au sein du pôle Service de fabrication: Analyse des besoins et propositions des solutions
+Tâches: Maintenance évolutive et corrective des modules, Réalisation et tests unitaires des modules, Livraison en assemblage
+Environnement technique: MVS/TSO, ENDEVOR, DB2, COBOL
+
+12/2010-12/2011 Analyste Concepteur CAISSE DE RETRAITE AG2R
+
+Contexte: Projet Grecco: Usine Retraite de mise en place d'un logiciel de gestion de la retraite Complémentaire commun à tous les groupes de protection sociale.
+Au sein du pôle de fabrication dans le domaine financier en particulier sur les fonctionnalités liées aux Encaissements.
+Tâches: Maintenance évolutive et corrective des modules, Réalisation et tests unitaires des modules
+Environnement technique: MVS/TSO, Changeman, DB2, COBOL
+
+12/2007-09/2010: Analyste- Concepteur: (AEMS) Atos Euronext Market Solutions
+
+Contexte: La Bourse, Titre en Conservations, Règlements différés, Imprimé fiscal unique, Référentiel Tiers/Compte, Référentiel Valeur.
+Tâches: Développements/évolutions de logiciels Back Office pour banques et sociétés de Bourse sur site central (batch), Projet Décimalisation sur Relevé de Titres, Maintenance évolutive et corrective des applicatifs
+Environnement technique: IBM MVS/VMS CICS, COBOL
+
+04/2007-11/2007 Homologateur en MVS - Société Générale
+
+Contexte: Qualification fonctionnelle et technique dans le domaine Bâle II
+Tâches: Validation des applications: Provision, Priams, Module de détermination des méthodes balois.
+Environnement technique: MVS/TSO, test director, COBOL
+
+04/2006-03/2007 Analyste /réalisateur - B2V-Caisse de retraite
+
+Contexte: Maintenance des programmes applicatifs en Cobol
+Tâches: Test et mise en production, Sauvegarde de la base de production sur un environnement parallèle, Purge de la partie des retraites, Génération des données pour intégrer dans la base GICR
+Environnement technique: MVS, Cobol, RDMS(DB2) et IDMS.
+09/2001-09/2005 Analyste /réalisateur - DARTY
+
+Contexte: Dans le cadre du projet de l'internationalisation des applications de gestion: Externalisation des messages d'anomalies dans les tables.
+Tâches: Adaptation des programmes aux normes françaises et anglaises, Analyse et réalisation de gestion des livraisons fournisseurs, Tests unitaires et mis en production, Diverses maintenances.
+Environnement technique: MVS/TSO, ENDEVOR, AIDA, DB2, COBOL
+
+08/2000-08/2001 Analyste /réalisateur - GRAS SAVOYE
+
+Contexte: Dans le cadre de l'application de gestion des sinistres :
+Tâches: Analyse des spécifications techniques et fonctionnelles, Réalisation des applications spécifiques, Maintenance évolutive et corrective, Adaptations Euro, Assistance technique aux utilisateurs.
+Environnement technique: VAX/VMS, APTOOL, COBOL.
+
+03/00-07/00 Analyste /réalisateur - SDDC-IBM
+
+Contexte: Projet de COFINOGA pour l'international: des adaptations Euro.
+Tâches: Tests unitaires et mis en production.
+Environnement technique: MVS, CICS, DB2, COBOL, ENDEVOR.
+11/98-02/00 Analyste /réalisateur - MESSIER BUGATTI
+
+Contexte: Maintenance évolutive et corrective d'applications de GPAO et des adaptations à l'An 2000.
+Tâches: Réalisation d'interfaces entre Vax/Cms et Oracle application.
+Environnement technique: VAX/VMS, COBOL, SUPRA, ORACLE APPLICATION.
+
+01/98-10/98 Analyste /réalisateur - BANQUE N.S.M.
+Contexte: Projet Adaptation à l'EURO du progiciel de gestion des options négociables.
+Tâches: Réalisation des applications pour le progiciel comptable.
+Environnement technique: TSO/ISPF, JCL, CICS, DB2, COBOL, AIDA.
+
+06/97-12/97 Analyste /réalisateur - MONOPRIX
+
+Contexte: Dans le cadre du projet d'intégration du progiciel "ARTHUR planning":
+Tâches: Analyse et Réalisation des interfaces, Tests unitaires et mis en production
+Environnement technique: TSO/ISPF, JCL, CICS, DB2, COBOL
+
+1994/1997 Technicien d'exploitation - ANEP-IRNIS
+
+Tâches: Technicien d'exploitation dans un centre de traitement composé d'un parc multi-plateformes (SPARC 600, DPS 6000, AS400) avec Serveur Station SUN SOLARIS, Suivi des traitements et le planning des batchs sous CA-UNICENTER-UNIX, Gestion de la sécurité et support aux utilisateurs.
+Environnement technique: UNIX, SPARC 600, DPS 6000, AS400

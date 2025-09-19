@@ -1,0 +1,67 @@
+Consultant Support Anglais bilingue 6 ans d’expérience Bon relationnel, Rigoureux, Autonome
+
+COMPÉTENCES
+Compétences fonctionnelles :
+Veille technologique, Recueil et Analyse du besoin client 
+Rédaction des supports de formation, Formation des utilisateurs, Support métier 
+Gestion et Suivi des anomalies, support utilisateur
+Compétences techniques : 
+Bureautique : Suite office : MS WORD, MS Excel, MS PowerPoint 
+Langages informatiques : C, C++, C#, Python, Assembleur, R, Java, Matlab, SQL 
+Langages Web : HTML, CSS, Javascript et PHP 
+Algorithmique : Arbres (binaire, rouge et noir ...), graphes, blockchain 
+Réseau : Serveur web, DNS, protocole TCP et UDP, routage dynamique 
+Cryptographie : PGP, RSA, Vigenère, RC4 
+Traitement d’images : recherche de points d’intérêts, filtre de Gabor 
+Intelligence artificielle : Algorithme génétique, Réseau de neurones artificielles, Self organizing map
+Langues : Anglais bilingue
+
+FORMATION
+2014/2016 : Licence en Informatique - Université de Cergy Pontoise
+Programmation ; Réseaux, Mathématiques, Gestion de projets informatique, Hardware, Software
+2012/2014 : DUT Mesures physiques - IUT de Rouen.
+Spécialisation en techniques instrumentales
+
+EXPERIENCES PROFESSIONNELLES
+Support client cash management - BNP Paribas 02/2023 à aujourd'hui
+Contexte : Interlocuteur des entreprises internationales à trésorerie centralisée
+Forte emphase sur le relationnelle client, principalement par mail et visioconférence
+Mission entièrement en Anglais (équipe internationale)
+Mise en place de solutions d’optimisation et self-care
+Accompagnement sur la migration ISO20022
+Support des applications spécifiques BNP (outils de cash management, de compliance etc…)
+Coordination des équipes internes BNP pour faciliter le relationnel client et minimiser le nombres d’interlocuteurs
+
+Gestion des droits des applications SWIFT - BNP Paribas 02/2022 à 02/2023
+Contexte : Dans le cadre des activités de gestion de droits des application SWIFT (GSRM)
+Coordination des projets transverses aux activités de gestion des droits
+Création des droits des logiciels WebAccess
+Support client des applications SWIFT
+
+Formateur informatique – Institut Polyinformatique (IPI) 10/2020 – à 02/2022
+Contexte : Dans le cadre d’enseignement d’étudiants de post-bac à bac+5, former sur les domaines de l’informatique
+Planification des activités de formation
+Préparation des cours
+Animation d’ateliers
+Veille technologique domaine informatique
+Rédaction des supports de cours
+Modules enseignés :
+Programmation
+Javascript, HTML, CSS, PHP, théorie de la POO, Gestion de projets, installation, configuration, et administration des services TCP/IP sous Linux, UML, C# et .NET, Python, Algorithmique, Blockchain, IoT, programmation
+Réseau
+Serveur DHCP, Routage (statique et dynamique), stockage de données RAID, systèmes Wifi, services réseaux TCP/IP standards, VoIP
+Projets (groupes de 8 à 20 personnes)
+Java: 13 jours sous forme de piscine (bootcamp): Algorithmique /Syntaxe java / Structure de données et collections / Gestion de base de données avec SQL.
+.NET: 2 jours intensif, introduction aux OS et aux logiciels en anglais
+Architecture des ordinateurs, diagnostique et réparation : 4 jours pleins en distanciel sur le diagnostic des ordinateurs et l’architecture des microprocesseurs
+Autres modules
+Anglais (technique et courant), Théorie des polices de sécurité informatique en entreprise, Gestion du temps, maintenance hardware
+
+Support de Production – LFB (laboratoire pharmaceutique) 03/2020 → 10/2020
+Contexte : Au sein d’une équipe de chaîne de fabrication (12personnes), contribuer à la fabrication du produit en suivant les consignes qualité en vigueur. - Contrôle de la qualité en cours de production et mise en œuvre de mesures correctives. - Reporting Qualité - Contribution à l’installation de machinerie - Maintenance des machines en accord avec les régulations légales et la bonne pratique. - Formation des nouveaux arrivants
+
+Consultant Technicien de maintenance – Baron (Maintenance pharmaceutique) 02/2019 → 03/2020
+Contexte : Au sein de l’équipe maintenance, maintien en condition opérationnel (MCO) de l’équipement d’analyse pharmaceutique - Analyse des données - Maintenance électronique, mécanique et informatique. - Reporting des problèmes rencontrés dans le cadre de l’amélioration continue - Rédaction de plans de maintenance préventifs - Formation des clients - Travail dans le cadre des normes de Fabrication européennes (Guide des GMP de l’OMS)
+
+Support Client - V-Ingénierie 09/2017 → 03/2018
+Contexte : Dans l’équipe support client, prendre en charge les demandes clients, les assister et les dépanner - Formation des clients - Dépannage à distance - Suivi technique des produits et communication de leur évolution auprès des clients - Analyse et résolution des problèmes techniques - Élaboration de dossiers de reporting dans le cadre de l’amélioration continue

@@ -1,0 +1,113 @@
+Jean Michel
+20 ans d’expérience
+
+EXPERIENCES PROFESSIONNELLES
+
+Poste – Consultant en Test et Recette
+Références pertinentes :
+SG : Consultant – Testeur Recetteur AMOA
+Betclic : Consultant – Testeur Recetteur
+
+Consultant Testeur Recetteur – Voyages-sncf.com [Depuis 2008]
+Mise en place de l’application WDI : application web dédiée à la vente de billets de train par les agences de voyage
+Moyens de paiement : Cartes MasterCard et VISA, utilisation de TPE.
+Rôle mission :
+Recensement des fonctionnalités relatives aux moyens de paiement à tester
+Création des scénarios de tests dans Quality Center
+Exécution des scénarios de tests sur le portail
+Exécution de tests de type bout en bout (utilisation d’outils physiques TPE, outils de vente)
+Détection et suivi de la résolution des anomalies
+Support de Niveau 2
+Production de documents synthétiques relatifs à l’avancement des tests
+
+Consultant Testeur Recetteur – Betclic [Depuis 2011]
+Mise en place des différentes versions de Betclic sur la partie moyens de paiement dans un contexte international.
+Moyens de paiement : Cartes MasterCard et VISA, paiements digitalisés (PayPal, Paylib, Netteller), virements, retraits.
+Rôle mission :
+Recensement des fonctionnalités relatives aux moyens de paiement à tester dans le sprint
+Participation aux rituels Agile (sprint planning, reviews, rétros)
+Création des Users Stories aussi bien sur le Front que sur le Back Office avec l’outil TFS
+Détection et suivi de la résolution des anomalies
+Support de Niveau 2
+Travailler avec de nombreux interlocuteurs de profils différents à l’international.
+Production de documents synthétiques relatifs à l’avancement des tests
+
+Consultant Confirmé Testeur Recetteur – BNP CIB [Depuis 2014]
+Mise en place des versions d’échange de commerce international par le biais des échanges de flux financiers compensation financière, utilisation des différentes devises)
+Rôle mission :
+Compréhension des spécifications fonctionnelles et techniques
+Création des scénarios de tests dans l’outil ALM
+Exécution des scénarios de tests dans l’outil ALM
+Détection et gestion des anomalies
+Coordinateur de la cellule interface avec les autres entités.
+Production de documents de reporting
+
+Consultant Confirmé Testeur Recetteur – AMOA - Société Générale [Depuis 2017]
+Mise en place de l’ application « Contact » dédié au réseau des banques de détail de la Société Générale
+Rôle mission :
+Recensement des besoins exprimés par l’équipe métier des Divisions « banque de détail » et « assurances »
+Création des scénarios de tests dans ALM
+Exécution des scénarios de tests
+Gestion des anomalies
+Prononciation du GO/No Go à l’issue des phases de recette
+Injection de données
+Création de flux bancaires (transferts, ouverture de compte, souscriptions)
+Suivi de projet et assistance fonctionnelle (et réglementaire) auprès des autres recetteurs
+Support niveau 2
+Administration du paramétrage de l’outil « Contact » (paramétrage de l’environnement bancaire, des droits utilisateurs, et du choix des produits bancaires)
+Rédaction des documents de formation et d’accompagnement des utilisateurs.
+
+Consultant Confirmé – SNCF -Transilien [2020]
+Maintenance évolutive l’outil de vente de billets de train MosaÏque en guichets.
+Rôle mission :
+Suivi applicatif des outils de vente Transilien
+Tests des outils applicatifs et physiques
+Vérification des bonnes remontées des flux financiers
+Analyse du besoin exprimé par le métier dans l’outil JIRA
+Ecriture des scénarios de tests dans l’outil Squash
+Détection des anomalies dans l’outil JIRA
+Reporting sur l’avancée des tests avec la chefferie de projet
+Tests de bout en bout avec l’utilisation de cartes bancaires (MasterCard, Visa, American Express), TPE Ingenico
+
+Consultant Confirmé – AGIRC-ARCCO [2022]
+Maintenance évolutive de l’outil de gestion de complémentaire retraite « Alice »
+Rôle mission :
+Analyse du besoin exprimé par le métier dans l’outil JIRA
+Ecriture des scénarios de tests dans l’outil Squash
+Détection des anomalies dans l’outil JIRA
+Reporting sur l’avancée des tests avec la chefferie de projet
+
+SAVOIR FAIRE MAÎTRISE D’OUVRAGE
+Analyse fonctionnelle
+Coordination et gestion de projet
+Rédaction d’expressions de besoins
+Rédaction de spécifications fonctionnelles générales
+Rédaction de spécifications fonctionnelles détaillées
+Gestion de projets multi fournisseurs
+Formation Test et Recette
+Recensement des besoins exprimés par le métier
+Rédaction de cahiers de recette, Exécution de recette
+Saisie des anomalies
+Reporting
+Coordination, encadrement d’équipes
+
+MONETIQUE CARTES
+Traitement des Cartes MasterCard, Visa
+Carte de fidélité, Carte Tickets Restaurant
+
+MONETIQUE ACCEPTEUR PAIEMENT EN LIGNE MOUVEMENTS
+Terminaux de Paiement Electronique (TPE) INGENICO
+Automates bancaires
+Carte Fidélité
+Systèmes de paiements britannique, allemand, italien, espagnol, portugais
+Systèmes de paiements PayPal, PayLib, Netteller
+Virements,Virements instantanés (Instant Payment)
+Retraits
+Dépots
+
+MOYENS DE PAIEMENT SEPA
+Gestion des mandats de prélèvement
+Compensation financière
+
+COMPETENCES TECHNIQUES METHODOLOGIES LANGUES
+Systèmes Unix, Linux Langages Outils Agile Cycle en Anglais : JAVA, SQL ALM, JIRA, TFS, Redmine Srum, Kanban , Gherkin V Courant : lu, parlé , écrit - Missions réalisées en lanque anglaise

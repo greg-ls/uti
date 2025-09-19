@@ -1,0 +1,175 @@
+UTIGROUP_ONE
+Consultant Responsable d’Application
+Concepteur - Développeur Sénior PHP SYMFONY
+
+Profil
+Rédaction de documents techniques (Spécifications)
+Estimation de charge pour les nouvelles demandes
+Développement, Tests unitaires, suivi de mise en production
+Pratiques SOLID pour la maintenabilité
+Sensibilité aux aspects UI/UX
+Rédaction des documents de livraison et ‘release notes’
+Documentation Utilisateurs
+
+Compétences Métier:
+Transport
+Maintenance et Gestion des contrôles
+Gestion RH et Prime
+Gestion des ventes et système billettique
+Gestion de matériel de vente et validation des tickets
+Opérateur Téléphonique
+Système facturation, Gestion des offres, Plan de test des terminaux mobile, Gestion des alertes
+Agence de location
+Système reservation & facturation (avis, contrat, taxe…)
+Banque 
+Gestion des Crédit, technique de financement et culture générale de financement
+
+Compétences Techniques:
+Langages	PHP/Symfony, SQL, XML, Javascript, JQuery, Perl
+Web technologies	J2EE, Web Services REST/SOAP, JBoss, HTML 5, cURL
+Frameworks et outils 	Symfony2-5, Bootstrap, JQuery, Netbeans, Eclipse, Postman, Doctrine, JIRA
+Serveurs	Apache Web, Apache Tomcat
+Méthodologies	Agile Scrum
+Intégration continue	SVN, Git, Jenkins
+SGBD	Oracle, MySql, PostgreSQL
+
+FORMATION
+2021 - Formation avancée Symfony 5 : nouveauté, securité, tests, La Passerelle
+2015 - Ingénieur Informatique INSAT, Mention très bien, Tunis
+2010 – Baccalauréat section "Mathématiques", Mention très bien, Lycée Menzah 6, Tunis
+
+Challenges
+2015 - PARLIAMENTHON
+2eme prix : développement d’une application WEB et Mobile pendant 24 heures : PALEnoMENT
+Symfony 2 / Android
+2014 - IMPUNITHON
+3eme prix : développement d’une application WEB et Mobile pendant 24 heures : Vote218
+Symfony 2 / Android
+
+EXPERIENCE PROFESSIONELLE
+Depuis 10/2022 	Malakoff-Humanis
+Ingénieur d'études concepteur-développeur PHP
+Domaine : Epargne Salariale – Equipe MOE EPSENS
+Tâches:
+Dématérialisation d’une partie du processus de mise en gestion des contrats clients est géré au travers de l'application Middle Office Workflow, et est aujourd'hui
+Relation avec les chefs de projet MOA et MOE.
+Environnement: PHP, Joomla
+
+Depuis 08/2020 	Orange DERS
+Développeur WEB Sénior
+Contexte : Projet Orange: Plateformes Agir et BLO Contrôle: développement des outils d'automatisation et de prévention pour corriger des problèmes QS et faciliter le travail des techniciens:
+Tâches:
+Développement des évolutions applicatives demandées par l’équipe métier en PHP/Symfony
+Développement des évolutions au niveau des tâches planifiées, sur demande métier ou suite à un bug de gestion de fichier (en Perl)
+Développement d’une nouvelle plateforme de prévention des problèmes fibres BLOC (Boucle Local Optique Contrôle)
+Création et gestion de l‘architecture de la nouvelle base de la plateforme BLOC
+Développement de l’API d’automatisation d’import des données de la plateforme BLOC en Curl
+Correction des bugs et des incidents remontés par les utilisateurs sur JIRA
+Rédaction des documents techniques et du manuel d’utilisation des applications.
+Environnement technique : PHP, Symfony, MobaXterm, Postman, MySQL, JQUERY, GITLAB, Perl, OFT, JIRA
+
+2019 – 2020 	Rhonexpress | Oceane, Paris
+Responsable Applicatif (Développement web + Analyse système)
+Contexte : Projet Rhonexpress: Mise en place et développement des modules des applications Web Transport Rhex front-office et back-office ainsi que les Web Services utilisé par le site, l’application mobile et les terminaux de vente des tickets (borne et DAT) et de validation des tickets à bord (Famoco):
+https://www.rhonexpress.fr/fr_FR/
+Tâches:
+Développement des modules d’annulation et remboursement des tickets
+Développement du système de fidélisation des clients et vente avec les points de fidélité
+Migration du système de développement de Symfony 2.4 vers Symfony 3.4
+Application principes SOLID pour gagner en performance et maintenabilité
+Evolution de l’application mobile Android utilisée pour la vente et la validation des tickets
+Support applicatif et métier des équipements Famoco depuis leur réception jusqu’à la mise en place chez le client
+Traitement des tickets applicatifs et des incidents systèmes
+Gestion des données et de la base de données MySql et PostgreSql
+Refonte du modèle conceptuel de données avec la migration de Symfony, purge et nettoyage de la Base
+Développement des modifications et améliorations effectuées sur le backoffice et la gestion des clients, équipements et vente
+Rédaction des livrables pour les évolutions et le développement des nouvelles fonctionnalités
+Mise en place en Pré-production et tests de 1er niveau
+Support sur place à la ‘fête des Lumières’ afin de garantir le bon fonctionnement des plateformes et équipements
+Documentation des nouvelles fonctionnalités et mise à jour de l’existant.
+
+2019 – 2020 	Rhonexpress | Oceane, Paris
+Responsable Applicatif (Développement web + Analyse système)
+Contexte : Projet Oceane: Mise en place et développement des modules des applications Web Transport Oceane, front-office et back-office, ainsi que les Web Services utilisés par la plateforme Web, l’application mobile et les terminaux de vente des tickets et de validation des tickets à bord (Famoco):
+https://www.compagnie-oceane.fr/
+Tâches:
+Développement des demandes d’amélioration des fonctionnalités de la plateforme ainsi que la gestion du visuel du site Web
+Evolution de l’application mobile Android utilisée pour la vente et la validation des tickets sur les équipements
+Application principes SOLID pour gagner en maintenabilité
+Support applicatif et métier des équipements Famoco depuis leur réception jusqu’à la mise en place chez le client
+Traitement des tickets applicatifs et des incidents système
+Gestion des données et des bases de données MySql et PostgreSql
+Développement des scripts de purge et nettoyage de la base
+Mise en Pré-production et tests de 1er niveau
+Développement des modifications et améliorations effectuées sur le backoffice et la gestion des clients, équipements et vente
+Rédaction des livraisons pour les évolutions et le développement des nouvelles fonctionnalités
+Documentation des nouvelles fonctionnalités et mise à jour de l’existant.
+Environnement technique : PHP, Symfony, Netbeans, DBeaver, MobaXterm, Postman, MySQL, PostgreSQL, JQUERY, GITLAB, Android
+
+2019	RATP, Paris
+Développeur Sénior PHP SYMFONY
+Contexte : Projet NEPTUNE: Mise en place et développement des modules des applications WEB Transport SocialBox, Horair, Orphee permettant l’administration, la saisie et la validation des fiches de contrôles des lignes de métro ainsi que la gestion des horaires des employés et des primes de rendement:
+Tâches:
+Qualification des modules PHP des applications de l’unité des Horaires (offre des métros) pour la migration sur Win10
+Prise en main fonctionnelle et technique de l’application SocialBox (gestion des formulaires et règles de calcul des pilotages des différentes catégories du staff, modules d’administration, de saisie et de recherche des fiches de contrôle)
+Conception et développement d’unmodule d'export des fiches de contrôle (fichiers CSV des pilotages B2 – B3 - MEF)
+Digitalisation du Bulletin de conduite en développant le module Export fichiers Orphee
+Mise en place d’un système de versionning entre les différents environnements de travail Preprod, Prod et Dev
+Evolution du module ‘construction des conducteurs’
+Migration de la base de données Oracle en base de données PostgreSql
+Livraison des fonctionnalités développées sur les environnements ‘Développement, Recette et Préproduction’
+Documentation des nouvelles fonctionnalités et celles mises à jour.
+Environnement technique : PHP, Symfony, Toad, Netbeans, MySQL, JQUERY, BOOTSTRAP, GITLAB
+
+2017 – 2019	LOCASUN, Franconville
+Développeur Sénior PHP SYMFONY
+Contexte : 
+https://www.locasun.fr/
+https://www.locasun-vp.fr/ et LocasunVpMobile (application Android/IOS, gestion des WebServices)
+https://www.ze-camping.fr/
+Développement et maintenance des 3 sites Web Locasun.fr, Locasun-Vp.fr et Ze-camping.fr:
+Tâches:
+Développement de WebServices SOAP sous Netbeans
+Développement de passerelles avec nos partenaires en XML / Json (intégration de flux ou création de flux sortants)
+Optimisation du site: amélioration du référencement naturel du site (SEO)
+Mise en place des outils de suivi des visiteurs (Analytics, Splio, Omnisense)
+Gestion des tâches et commandes planifiés Crontab
+Gestion de la base de données MySQL (phpMyAdmin)
+Gestion de la base de données PostgreSQL
+Développent des scripts temporaire ou permanent (crontab) de mise à jour des données de la base: exemple: mise à jour des pays du monde, ville dans le monde, la carte GPS…
+Gestion des projets/demandes sous le système de BugTracker Mantis
+Migration des sites de Symfony 2.7 vers Symfony 3.4
+Développement de la partie Front du site (Jquery, CSS…) et création de Sprite CSS avec Photoshop
+Intégration et installation des projets et amélioration sous Préprod et en Prod (SVN)
+Gestion des projets et participation à la vérification d’aptitude aux bonnes pratiques: rédaction des livrables, validation de la recette et validation de la correspondance aux attentes techniques et fonctionnelles et vérification des services régulier (VSR) en Prod.
+Environnement technique : PHP, Symfony2, Symfony3, Apache, NETBEANS, BOOTSTRAP, Toad, LINUX, MySQL, POSTGRESQL, CRONTAB, jquery, xml, json, WebServices REST, SVN, VABF, VSR
+
+2015 - 2017 	Orange Tunisie, Tunis (Opérateur Téléphonique)
+Equipe Exploitation
+Contexte : 
+Développeur Web PHPet Ingénieur production : Support Niveau 2 & 3 (Support Système, Support BDD, Support applicatif) :
+Tâches : 
+Gestion de la base de données Oracle
+Développement des scripts Shell de suivi système et de gestion de la base (nettoyage et mis à jour des données)
+Développement des Modules de Gestion des Tests et validation des terminaux mobiles
+Gestion des taches planifiées Cron
+Préparation de l’environnement de test, les jeux de données et l’analyse des résultats
+Participer à la déclaration et suivi des anomalies remontées suite aux tests de non régression d’intégration et test fonctionnel
+Maintenance Applicatif des sites d’Orange Tunisie
+Support journalier des activités billing et provisionning
+Gestion des validations en Préprod et en Prod avec l’équipe Qualif (VABF & VSR).
+Environnement technique : Linux, Oracle, Apache, Eclipse, Script Shell, PHP, MySql, VABF, VSR
+
+2015 - 2017 	Orange Tunisie, Tunis (Opérateur Téléphonique)
+Equipe Exploitation
+Contexte: 
+Equipe Validation
+Développement application Web/Mobile : Application de Gestion des plans de test pour automatiser la validation des équipements mobile 3G:
+Tâches : 
+Analyse et Développement en Php/Sql avec Eclipse
+Analyse et Développement Android sous Eclipse
+Framework Symfony
+Gestion de la base de données (phpMyAdmin)
+Tests, intégration
+Passage des tests unitaires et fonctionnels.
+Environnement technique : PHP, Symfony2, SQL, Android, css, Bootstrap

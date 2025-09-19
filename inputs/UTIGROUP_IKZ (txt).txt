@@ -1,0 +1,85 @@
+Data Analyst
+
+CONNAISSANCES TECHNIQUES
+SQL : Requêtes complexes, modélisation, extraction de données
+Python : Analyse de données, détection d'écarts
+Bases de données : Oracle, PostgreSQL, MySQL, MongoDB
+BI & Reporting : Power BI, Tableau, Excel
+ETL & Cloud : Amadea, Dataflow, BigQuery (GCP)
+Artificial Intelligence : Machine Learning (algorithmes supervisés et non supervisés, détection d'anomalies)
+Méthodes de conception : UML
+Fichiers & formats : JSON, XML
+Big Data : Hadoop, Apache Spark
+Bureautique & outils : Pack Office, Google Workspace, Teams
+Méthodes : Agile Scrum
+
+DIPLOMES
+2020 à 2022: Master Business Analytics & Big Data - FST Settat
+2018 à 2019 : Licence Management des Organisations & Entrepreneuriat – CNAM
+2012 : IFF Formation Ferroviaire
+2010 : CPGE Math SUP/ Math SPE
+
+CERTIFICATIONS
+Big Data Engineer - IBM
+
+LANGUES
+Arabe :     Maternelle
+Français :     Bilingue
+Anglais :     Avancé (C1)
+
+EXPERIENCES PROFESSIONNELLES
+
+BPCE Payment Services, Paris (août 2022 - déc. 2024)
+
+Data Analyst
+
+Contexte : Relation avec les équipes marketing, les directions commerciales et les Business Unit
+
+Projets Menés :
+Migration des requêtes Amadea utilisées dans les reportings (Power BI, Excel, …) vers GCP
+Fiabilisation des requêtes SQL afin d'assurer la cohérence des données migrées et leur bon fonctionnement sur GCP
+Détection des anomalies avec l'IA
+Mise en place d'un flux automatisé garantissant une intégration rapide et fiable des sources externes dans les tables GCP
+
+Missions :
+Extraire les données et déterminer les variables nécessaires à l’analyse et au pilotage de l’activité paiement.
+Structurer la connaissance de ces données dans le but de développer des outils de pilotage pour le suivi de l’activité.
+Contribuer à la démarche permanente d'amélioration des processus et à la création de valeur ajoutée décisionnelle via les rapports et les analyses.
+Lancer les traitements récurrents et effectuer les contrôles ad'hoc de cohérence(suivi des variations, alertes, valeurs aberrantes...)
+Participer à la réalisation des ciblages, à la détection d’opportunités et aux analyses en lien avec les équipes marketing, les directions commerciales et les Business Unit.
+Participer aux projets transverses data de l'équipe.
+Environnement technique : SQL, Python, Power BI, Excel, Google BigQuery, GCP, Amadea, Dataflow, Machine Learning
+
+
+Office National des Chemins de Fer (ONCF), Rabat MAROC (2016 - juillet 2022)
+
+Data Analyst
+
+Service Gestion & Comptabilité
+
+Projets menés :
+Digitalisation de la collecte et la mise en place d'un système centralisé pour structurer et analyser les dépenses en carburant du parc automobile
+Mise en place d'alertes pour détecter automatiquement les écarts et les dépassements de budget
+Mise en place d'une application de suivi du parc automobile
+
+Activités:
+Produire les tableaux de bord à communiquer à la Direction Finances et aux différentes structures centrales et régionales du Pôle.
+Élaborer les états comptables et budgétaires du Pôle.
+Accompagner les Directions régionales dans le déploiement et l’exploitation des applications réalisées par la DSI.
+Tenir à jour la nomenclature des comptes du Pôle, des Directions, des Départements, des Services et des établissements.
+
+Environnement technique : SQL, Power BI, Tableau, Oracle, Excel, Outils internes de gestion budgétaire, Pack Office
+
+
+Office National des Chemins de Fer (ONCF), Rabat MAROC (2012 - 2016)
+
+Consultante SIRH
+
+Service Ressources Humaines
+
+Missions :
+Concevoir, produire et analyser les tableaux de bord et indicateurs RH du Pôle Fret et Logistique : Statistiques mensuelles / Etats et reporting réguliers.
+Assurer à l’administration fonctionnelle du SIRH (Oracle HRMS) et l’assistance des utilisateurs : Assister les utilisateurs des Pôles dans l’utilisation des modules du SIRH. - Assurer l’interface avec la Direction SI pour apporter des solutions aux dysfonctionnements techniques, et veiller au déploiement efficient des nouveaux modules du SIRH.
+
+Environnement technique : SIRH, Oracle HRMS, Excel, Pack Office
+

@@ -1,0 +1,37 @@
+[
+    {
+      "step": 0,
+      "system_prompt": "You are an expert in processing plain text documents. Your task is to extract datas from source to build a CV. First task: Clean the provided content suppressing all special characters (link bullets ...)",
+      "prompt": "Here is the plain text of the CV:\n{cv_content}\n\nReturn only the modified content."
+    },
+    {
+      "step": 1,
+      "system_prompt": "You are an expert in extracting data from CVs.\nYour task is to complete the provided JSON structure with the exact data extracted from the CV below.\n\nStrict rules to follow:\n1. Copy the information exactly as it appears in the CV, without modification or summarization.\n2. Use only the data present in the CV.\n3. Maintain the exact structure of the provided JSON, respecting all fields (even if they remain empty).\n4. Return only the completed JSON, without any additional text or comments.\n5. For each field or section not present in the CV, indicate an empty string `\"\"`.\n6. Do not add additional information that does not explicitly appear in the CV.\n\nSpecific instructions for multiple sections:\n- **Languages**:\n  - Create an array of objects, each object must contain exactly the fields `\"language\"` and `\"level\"`.\n\n- **Technologies**:\n  - Create an array of objects, each object must contain exactly the fields `\"technology\"` and `\"note\"`.\n\n- **Diplomas** and **Formations**:\n  - For each, create an array of objects containing the fields `\"date_obtention\"`, `\"intitule\"`, and `\"etablissement\"`.\n\n- **Experience**:\n  - Create an array of objects for each work experience found, filling in exactly the following fields:\n    - `\"entreprise\"`\n    - `\"date_debut\"`\n    - `\"date_fin\"`\n    - `\"poste_occupe\"`\n    - `\"environnement_technique\"`\n    - `\"langages\"`\n    - `\"framework\"`\n    - `\"outils\"`\n    - `\"equipe\"`\n    - `\"methodologie\"`\n    - `\"contexte de la mission\"`\n    - `\"role\"`\n    - `\"taches\"`",
+      "prompt": "Here is the plain text content of the CV:\n{cv_content}\n\nand here is the structure to follow:\n{json_structure}\n\nComplete this structure with the data from the CV and return only the completed structure, without comments or explanations."
+    },
+    {
+      "step": 2,
+      "system_prompt": "You are an expert in data validation.\nVerify that the provided JSON exactly respects the target structure and correct any inconsistencies.\nFor the \"role\" and \"tache\" fields of the \"experience\" structure, they should not both be empty.\nIt's possible but very rare. If this happens, double-check that you can't find anything that could be considered a task in the described experience.\nReturn only the corrected JSON, without encapsulating it between \"```json\" and \"```\".",
+      "prompt": "Here is the extracted JSON:\n{cv_content}\n\nhere is the original content where to take the information to complete any missing information:\n{cv_content}\n\nand here is the target structure:\n{json_structure}\n\nVerify and correct, if necessary, the JSON so that it corresponds exactly to the target structure.\nReturn only the content of the JSON, without encapsulating it between \"```json\" and \"```\"."
+    },
+    {
+      "step": 3,
+      "system_prompt": "You are an expert in summarizing professional paths and your purpose is to complete the provided structure.\nIf the \"resume_du_parcours_professionnel_en_5_lignes\" field is empty, generate a textual summary in 5 distinct sentences\n(each sentence separated by a line break) of the professional path from the data already present in the JSON.\nIf the field is already filled, do not modify it.\nOnce this action is performed, return the complete JSON without adding any comments or explanations.\nReturn only a valid JSON, without encapsulating it between \"```json\" and \"```\".",
+      "prompt": "Here is the extracted JSON:\n{cv_content}\n\nIf the \"resume_du_parcours_professionnel_en_5_lignes\" field is empty, complete it by generating a textual summary in 5 distinct sentences of the professional path.\nOtherwise, return the JSON as is, without any modification.\nMake sure the result is a valid JSON and nothing else."
+    },
+    {
+      "step": 4,
+      "system_prompt": "You are an expert in extracting functional skills.\nIf the \"maitrises_fonctionnelles_principales\" field is empty, complete it by generating a list on 5 lines of the functional knowledge present in the JSON.\nEach line must correspond to a skill or functional area extracted from the data and must be separated from the preceding line by a \"#\".\nOnce this action is performed, return the complete JSON without adding any comments or explanations.\nReturn only the JSON Return only the completed JSON, without \"```json\" at the beginning and \"```\" at the end.\n",
+      "prompt": "Here is the JSON to correct:\n{cv_content}\n\nReturn only the modified JSON."
+    },
+    {
+      "step": 5,
+      "system_prompt": "You are an expert in structuring and formatting data from CVs.\nFor each professional experience present in the JSON:\n1 - format the \"contexte de la mission\" and \"taches\" fields by separating each item with the character `#`.\n2 - replace all \\n in these fields with a space.\nDo not modify the content, only add the separator between the distinct items and just delete the '\\n' if there are any.\nOnce this action is performed, return the complete JSON without adding any comments or explanations.\n3 - Also replace the \\n in the \"environnement_technique\" field and the \"resume_du_parcours_professionnel_en_5_lignes\" field with a space, but without adding a separator.",
+      "prompt": "Here is the extracted JSON:\n{cv_content}\n\nUpdate it by following the instructions for adding the separator \"#\" and deleting the \"\\n\".\nReturn only the modified JSON.\nReturn only the completed JSON, without encapsulating it between \"```json\" and \"```\"."
+    },
+    {
+      "step": 6,
+      "system_prompt": "You are an expert in structuring and formatting data from CVs.\nIf the \"competences techniques\" field is not empty:\n1 - format it by separating each item with the character `#`.\n2 - replace all \\n in this field with a space.\nDo not modify the content, only add the separator between the distinct items and just delete the '\\n' if there are any.\nOnce this action is performed, return the complete JSON without adding any comments or explanations.\n",
+      "prompt": "Here is the extracted JSON:\n{cv_content}\n\nUpdate it by following the instructions for adding the separator \"#\" and deleting the \"\\n\".\nReturn only the modified JSON.\nReturn only the completed JSON, without encapsulating it between \"```json\" and \"```\"."
+    }
+  ]

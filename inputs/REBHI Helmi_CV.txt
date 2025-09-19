@@ -1,0 +1,118 @@
+INGÉNIEUR ETUDES ET DÉVELOPPEMENT FULL STACK JAVA /ANGULAR/PL-SQL
+
+COMPÉTENCES TECHNIQUES
+Langages: JAVA(6,8,11,17,21), PL/SQL, JavaScript, Groovy, TypeScript, HTML, CSS
+Frameworks: JEE, SPRING (BOOT, WEB, DATA,SECURITY, BATCH, CLOUD), ANGULAR,HIBERNATE, JUnit, Oracle ADF, JSF(adf faces, Primefaces)
+Bibliothèque: React.js, RXJS, NGRX
+Systèmes d’exploitation: Linux, windows
+Conception: BDD, TDD, DESIGN PATTERNS, SOLID
+Base de données: Oracle, MySQL, PostgreSQL
+IDE: INTELLIJ, ECLIPSE, JDEVELOPER, NETBEANS, VS CODE
+Gestion de versions: GIT, SVN
+Outil de reporting: Jasper report
+Software Craftsmanship: Clean Code, TDD, Refactoring continu, Code Reviews, SOLID
+Intégration: Jenkins, GitLab CI/CD, Docker, Kubernetes
+Serveurs d’applications: Apache Tomcat, Jboss, Weblogic
+Outils: JIRA, REDMINE
+Méthodologie: AGILE SCRUM
+
+DIPLÔMES:
+2016: Études d’Ingénierie en informatique à ESIET-UAS: Diplôme national d’ingénieur en informatique.
+2010: Baccalauréat Informatiques.
+
+LANGUES: Anglais intermédiaire
+
+REFERENCES PROJETS
+EDF
+Mai 2022 A AUJOURD’HUI Ingénieur études et développement JAVA Fullstack
+Contexte: Refonte d’une application web permettant le traitement des impôts directs locaux, qui intègre toutes les réglementations fiscales applicables au groupe.
+Équipe: 4 DEV, 1 Scrum Master
+Méthodologie: Agile Scrum
+Tâches: Reprise et amélioration des batchs.
+Écriture de tests unitaires avec JUnit, intégrant une approche TDD (Test-Driven Development).
+Développement des services API Rest.
+Optimisation des performances de l'application et amélioration de son évolutivité (backend et frontend).
+Mise en place de bonnes pratiques et processus de dev.
+Résolution des incidents et des problèmes rencontrés par les utilisateurs.
+Revue de code, support au Tech Lead et garant de la qualité de code.
+Migration Angular 13 à 17.
+Optimisation des requêtes SQL et des procédures stockées PL/SQL pour améliorer la rapidité d'affichage.
+Analyse et proposition de solutions d’optimisation pour améliorer la performance et la maintenabilité du code.
+Code review afin d’assurer la qualité et le respect des bonnes pratiques.
+Assistance aux développeurs pour la résolution de problèmes techniques et le partage de bonnes pratiques.
+Surveillance des serveurs de production.
+Développement et maintenance de scripts Shell (KSH/BASH) pour l’automatisation des traitements.
+ENVIRONNEMENT TECHNIQUE: Java 11, Java 17, Angular 13, Angular 17, bootstrap, PL-SQL, Spring Boot, Spring batch, Spring Data, Hibernate JPA,API REST, Oracle 19c,Oracle Cloud, Git, GitLab, SONAR, Maven, SQL developer, Jasper report, Jboss, Tomcat, Jenkins, Docker, Kubernetes, Junit, Linux, Shell.
+
+CIMF
+Août 2019 A Mai 2022 Ingénieur études et développement JAVA Fullstack
+Contexte: Conception et développement d'une application de gestion de flux des données qui assurent l’échange des données (flux) entre deux systèmes (système source et système destination) en export.
+Méthodologie: Agile Scrum
+Tâches: Analyse du besoin client et élaboration du cahier de charge.
+Rédaction des spécifications techniques et fonctionnelles.
+Modélisation UML (cas d'utilisation, diagrammes de classes, séquences) pour la conception de l’architecture.
+Définition de l’architecture logicielle.
+Proposition de solutions pour l’optimisation des performances.
+Coaching des développeurs juniors issus d'autres écosystèmes que Spring / Angular.
+Développement d'un module pour la gestion de flux sortant et flux entrant format CSV, XML, TEXTE, JSON.
+Réalisation, test et rédaction de la documentation technique et fonctionnelle relatifs à l’application développée.
+ENVIRONNEMENT TECHNIQUE: Technologies: Java 8, Spring Boot,Apache Cocoon, JPA, Hibernate, PostgreSQL,API REST, Maven, Intellij, Apache Tomcat, Git, Git Hub, TypeScript, Angular 11, NodeJS, bootstrap.
+
+CIMF
+Ingénieur études et développement JAVA Fullstack
+Contexte: Rassem: Développement d'une application informatique pour la gestion et dématérialisation de la légalisation de signatures pour le compte du centre Informatique du ministère des finances (CIMF).
+Équipe: 4 DEV, 1 Scrum Master
+Méthodologie: Agile Scrum
+Tâches: Acquisition du besoin métier.
+Préparer le squelette du projet.
+Développement de micro services.
+Conception de nouvelles fonctionnalités du produit et prise de décision pour les architectures techniques.
+Rédaction des spécifications techniques et fonctionnelles.
+Modélisation UML (cas d'utilisation, diagrammes de classes, séquences) pour la conception de l’architecture.
+Définition de l’architecture logicielle (choix des frameworks, conception des microservices).
+Développement et maintenance d’API REST
+Développement de la couche de persistance des données (hibernate).
+Développement des modules (demande de signatures, signature déposé, certification de la signature).
+Développement des fonctionnalités et correction des bugs pour le backend et le frontend, assurant la qualité et la performance du produit final.
+Mise en place et intégration de JasperReports dans l’application pour la génération des documents légalisés.
+Développement et personnalisation des modèles de rapports (certificats, récépissés, attestations, etc.).
+Automatisation de la génération et exportation des rapports en PDF, Excel et HTML selon les besoins administratifs.
+Développement d’un module d'établissement de la première opération de légalisation de signature.
+Modification dans les processus selon les besoins du client.
+ENVIRONNEMENT TECHNIQUE: Technologies: Spring Boot, JPA, Hibernate, MySQL, REST, Maven, Intellij, Apache Tomcat, Git, Java 8, TypeScript, CSS, Angular 8, Jenkins, Gitlab, Docker, Jira, kafka
+
+Arabsoft
+Janvier 2018 A Août 2019 Développeur Web JAVA / Angular
+Contexte: Projet XLIA : Gestion des stocks conception et développement d’une application de gestion des stocks pour les hôtels.
+Tâches: Développement du module prélèvements : sorties, retours, transferts, casses et avaries.
+Développement du module Date Limite de Consommation.
+Développement de l’Inventaire.
+Création des états des éditions avec jasper.
+ENVIRONNEMENT TECHNIQUE: Technologies: Spring Boot, JPA, Hibernate, Oracle, REST, Maven, Intellij, Apache Tomcat, Git, Java 8, Jasper report, JavaScript, CSS, bootstrap, Angular Js.
+
+Arabsoft
+Développeur Web JAVA JEE
+Contexte: Project XLIA : Gestion hôtelière : Analyse, Conception et développement des modules« Channel manager » et création d’un web service de l’application gestion hôtelière.
+Tâches: Creation d’un web service (soap) qui permettant la communication et l'échange des données entre l’application Xlia et le serveur Channel manager qui regroupe les données des sites des réservations.
+Analyse et spécification fonctionnelle de différentes tâches.
+Synchronisation des données du client avec la base de données.
+Développement des évolutions.
+Création d'un module Channel manager dans l’application Xlia.
+La gestion électronique des documents (GED)
+ENVIRONNEMENT TECHNIQUE: Technologies: Java 8, Oracle ADF, SOAP, Oracle 10g, PL/SQL, Jasper report, JSF, JavaScript, CSS, bootstrap, Weblogic, SVN.
+
+BGI
+Juin 2016 A Janvier 2018 Développeur Web JAVA JEE
+Contexte: Project GMF : Gestion multi-fluide : Développement des modules de l’application de gestion multi-fluides est un logiciel de gestion clientèle et de facturation dans le domaine des fluides
+Tâches: Analyse et spécification fonctionnelle des différents processus métier.
+Modélisation des processus métier (Workflow) en BPMN.
+Développement des différents processus métier.
+Développement et maintenance de scripts Shell (KSH/BASH) pour l’automatisation des traitements.
+Création des états d’éditions des modules en Jasper.
+Migration des données Oracle 10g PL/SQL Developer.
+Participation à la conception des processus métier de SONEDE-ONAS (gestion des conventions techniques, gestion des intervention, facturation…)
+Fixer les problèmes du client et fournir les correctifs dans des délais restreints.
+Démonstrations aux clients.
+Formation et assistance des utilisateurs finaux.
+La gestion électronique des documents (GED)
+ENVIRONNEMENT TECHNIQUE: Technologies: Workflow, Oracle ADF,Shell,Linux, Oracle 10g, PL/SQL, Weblogic, Java 6, Jasper report, GED Nuxeo, Documentum, JSF, JavaScript, CSS, SVN, bootstrap.

@@ -1,0 +1,113 @@
+
+Consultante AMOA Monétique
+
+PROFILE
+Rédaction des procédures ; 
+Animation des ateliers métiers ; 
+Rédaction des cahiers de recette ; 
+Exécution des tests ; 
+Mise en production, exploitation et gestion des incidents ; 
+Gestion de projet ; 
+Réalisation de la Roadmap du projet.
+
+COMPETENCES TECHNIQUES
+
+Monétique 
+Système CORE1 & 2 ; 
+Fichiers SEPA XML : Pain.00x, Camt.05x, Camt.02x, Pacs00x, Ticketing (JIRA, REMEDY), ESMIG, SAS, Sabr ;
+Flux Incoming et Outgoing (e-RSB ) ; 
+Homologation des systèmes monétiques et bancaires ;
+Simulateur (KaNest) ; 
+Normes, Spécifications et Protocoles liés à la monétique : EMV, PCI-DSS, ISO 8583 / 20022 , VISA BASE1, CB2A, CBAE.
+Méthode Agile, Cycle en V, Gant
+Project, Microsoft Project Manager
+Rédaction des cahiers de charges
+Modélisation
+UML, MCD, MLD, Création de base de
+données : SQL, MYSQL.
+Langage XML
+Bureautique
+Office: Excel, Word, PowerPoint
+
+LANGUES
+Anglais Arabe
+
+HOBBIES
+Natation, Vélo, Plongée Sous-marine
+
+EXPERIENCE PROFESIONNELLES
+Depuis mai 2021: Pilote Bancaire – MONEYCORE chez STET Pilotage Bancaire et analyste fonctionnelle des moyens de paiement
+Suivi des déversements des différents arrêtés de compensations, suivi des positions comptables, des soldes de compensation pour les 2 communautés de France et Belge ;
+Estimation des impacts bancaires sur les comptes des Participants Directs ; 
+Suivi des paiements instantanés et des intérêts ASTA TIPS pour les 2 communautés de France et Belge ;
+Contrôle des fichiers .XML des commissions DAB/CIP et leur déversement semestriel sur ESMIG ;
+Rédaction de procédures internes ; 
+Pilotage des recettes de non-régression : rédaction des livrables de la stratégie au bilan de recette ;
+Rédaction de procédures internes ; 
+Pilotage des recettes de non-régression : rédaction des livrables de la stratégie au bilan de recette ;
+Suivi des recettes et exercices opérationnelles avec les participants (VSR, MSF, ECONS, SIPS) ;
+Suivi des mises en production de nouvelle version des applications métiers ; 
+Test de connectivité aux différents services ; 
+Tests de défaillance d’un participant ; 
+Gestion et traitement des incidents métiers et des anomalies applicatives : diagnostic et suivi des résolutions ;
+Escalade interne en cas d’incident sur le système CORE, ST2BF, Sabr, ASTA TIPS : participation à la résolution et représentions des cycles de compensations ;
+Préparation des reporting mensuels.
+
+Nov. 2020 à avril 2021 : Consultant Emission cartes – MONEYCORE chez Edenred Coordinatrice et chef de projet d’émission de cartes Carburant TFP et CleanWay
+Coordination et organisation des réunions entre les différentes équipes projets en interne; 
+Coordination et veille de la cohérence des travaux avec les différents partenaires externes (Galitt, UTA, CB INFO et CPS) ;
+Monitoring et gestion des flux d’émission ; 
+Mise en place de la méthode de suivi au quotidien de la production cartes ; 
+Assurer la gestion efficace des incidents liés à l’émission des cartes ; 
+Ouverture et clôture des tickets relatifs à des incidents ; 
+Mesure de performance (KPI, Dashboard) ; 
+Pilotage de projets (gestion du planning, reporting, etc.) ; 
+Contribution à la mise en place d’un nouveau projet de gestion des flux d’émission de cartes TFP ;
+Contribution à la mise en place d’un nouveau projet d’automatisation des flux d’émission de cartes CW.
+
+AUTRES EXPERIENCE PROFESIONNELLES
+Mai 2020 à octobre 2020 : Consultant Test et recette – MONEYCORE chez STET Mission : Réalisation des tests d’Habilitation et de Conformité CBAE 5.01
+Mise en place des tests de conformité de la nouvelle version CBAE 5.01 vis-à-vis de l’ensemble des composants raccordés à l’e-rsb (SAE/SAA, GDG) ;
+Prise en charge des tests d’habilitation des clients demandant un raccordement au réseau e-rsb avec la nouvelle version CBAE5.01 ; 
+Exécution des tests de bout-en-bout en suivant les scénarii définis (Serveur et demandeur) ; 
+Rédaction des fiches anomalies et des rapports d’habilitation.
+
+Octobre 2019 à juillet 2020 : Consultant Monétique – MONEYCORE Mission : Gestion de projet de recherches / Pôle R&D
+Pilotage des projets de recherche au pôle R&D ; 
+Réalisation de la Roadmap ; 
+Rédaction d’un cahier de charge d’un système de paiement de pair-à-pair ; 
+Établissement de l’architecture de la solution de création d’un token ; 
+Établissement de la maquette de la solution ; 
+Organisation des ateliers métiers et des réunions ; 
+3D-Secure (V1 & V2), DSP2 ; 
+Suivi de l’état d’avancement des projets de recherche.
+
+Mars 2019 à Septembre 2019 : Consultant AMOA Monétique – Centre de Conseil et de Service - Crédit Mutuel Mission : Open Payment
+Planification et définition de la Roadmap ; 
+Rédaction des cahiers des charges ; 
+L’appropriation de l’écosystème d’Open Payment selon les protocoles CBAE, CB2A, VISA et Mastercard ; 
+Mise en place d’un modèle conceptuel de données pour permettre la création d’une base de données (MCD & Modélisation UML) ; 
+Rédaction et exécution des cas de test ; 
+Rédaction des cahiers de recettes ; 
+Reporting projet.
+
+Septembre 2018 à Mars 2019 – MOA Monétique – La Calédonienne des Services Bancaires Mission : Paiement Mobile – Wallet
+Réalisation de la Roadmap ; 
+Animation des ateliers métiers ; 
+Étude comparative des solutions de paiement mobiles ; 
+Réalisation de l’analyse SWOT des solutions de paiement mobile ; 
+Mise en conformité de la solution paiement mobile selon la DSP2, RTS et 3DS ; 
+Mise en place d'un business model intégrant les acteurs de la solution ; 
+Conception des diagrammes d’activité́ et de séquence de la solution Wallet (UML) ; 
+Participation au paramétrage de la solution (POWERCARD, SAE, SAA) ; 
+Rédaction et exécution des cas de tests.
+
+Janvier 2011 à Août 2018 – Enseignante Cours enseignés :
+Comptabilité ; 
+Statistiques et Analyse de données ; 
+Microéconomie ; 
+EPIINFO, SPSS, SAS.
+
+FORMATION
+Mastère 2 | ENSICAEN | 2018 Mastère Spécialisé en Monétique et Transactions Sécurisées.
+Master II | Université Paris IX | 2004-2005 Master II en E-Management à l’Université Paris Dauphine. Mémoire de fin d’étude sur la communauté d’apprentissage.

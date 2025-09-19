@@ -1,0 +1,284 @@
+                    CV envoyé par Hellowork. Contient des données personnelles : ne pas utiliser, diffuser, copier sans le consentement de son auteur.
+
+
+
+
+
+
+                 
+                 Test Lead | Ingénieur Test Fonctionnel - QA , Scrum & Cloud
+                 DevOps Certified 
+                 
+
+
+                 Résumé
+
+                 Grâce à ma double expertise en ingénierie d'Étude &
+                 Développement et en management financier et comptabilité
+
+                 (Master), je possède une solide compétence en analyse technique
+
+                 appliquée au domaine de la finance. Mon parcours m'a permis
+                 d'acquérir une maîtrise approfondie des outils et technologies utilisés
+
+                 dans le développement de logiciels, ainsi que des méthodologies de
+
+                 tests et de validation (recette) en environnement full agile. Habitué
+
+                 à travailler dans des contextes exigeants, je sais allier rigueur
+
+                 analytique et approche méthodique pour optimiser la performance et
+
+
+                 la fiabilité des solutions informatiques dédiées à la finance
+
+
+                                    
+Principales compétences
+                                    
+Gestion de projet                   
+HP Quality Center
+                                    
+JIRA
+                                    
+                                    
+Certifications
+                                    
+IBM Cloud for Financial Services v1
+                                    
+Specialty
+                                    
+Appium
+                                    
+DevOps Foundation® Certification
+Cucumber
+                                    
+Scrum Foundation Professional
+Certificate (SFPC)
+
+
+
+                                                     Expérience
+                                                     Atos
+                                                     6 ans 7 mois
+
+                                                     Test Lead - Garant de la Qualité Logicielle et de l'Homologation
+                                                     Fonctionnelle
+                                                     juillet 2022 - Present (2 ans 11 mois)
+                                                     DSI--Action logement PARIS 13
+
+                                                     Contexte :
+                                                     Le client développe des applications web. Certaines sont utilisées par des
+                                                     collaborateurs internes et d’autres par des clients externes. Ces applications
+                                                     couvrent l’octroi et la distribution des prêts et aides proposés dans le cadre de
+                                                     sa règlementation.
+                                                     Le client développe également des applications de back office notamment
+                                                     CRISTAL qui est l’outil d’instruction et de gestion des prêts. Ces applications
+                                                     permettent entre autres :
+
+                                                     *L’instruction et la gestion de prêts & aides personnes physiques et morales.
+                                                     *La gestion des encaissements et décaissements
+                                                     *La gestion du module Collecte
+                                                     *La mise à disposition d’extranet pour nos clients pour saisir des demandes de
+                                                     prêts & aides.
+                                                     *Des API appelés « briques communes » permettant d’offrir des services
+
+
+
+
+
+                                 support aux différentes
+                                 applications (GED, Signature électronique, Messages Extranet...)
+
+
+                                 Tâches :
+                                 -Collaboration avec les équipes de développement et validation des exigences
+                                 -Conception et mise en œuvre des stratégies de test
+                                 -Coordination avec les parties prenantes pour assurer le respect des délais et
+                                 des standards de qualité
+                                 -Encadrement et formation des testeurs juniors
+                                 -Collaboration avec les équipes de développement et validation des exigences
+                                 -Élaboration du plan de tests pour les nouvelles fonctionnalités et la non-
+                                 régression,
+                                 -Rédaction des scénarios de test,
+                                 -Définir les exigences de tests et niveaux de criticité,
+                                 -Prendre part à la qualification fonctionnelle et/ou technique des applications,
+                                 -Préparer les jeux de données,
+                                 -Exécuter les campagnes de test,
+                                 -Rédiger les rapports de test et les PVs de recette ,
+                                 -Prendre part aux projets avec l’équipe,
+                                 -Validation des correctifs des anomalies
+                                 -Remonter les anomalies auprès des équipes de développement et faire le
+                                 suivi de leur correction.
+                                 Environnement technique : JIRA , AZUR DEVOPS, BD MYSQL,POSTMAN, MIRO,
+                                 VITOM , API REST,EXCEL.
+
+                                 Cursus Atos ingénieur DevOps
+                                 avril 2022 - juillet 2022 (4 mois)
+                                 Île-de-France, France
+
+                                 Intégration continue avec Git, Jenkins, Maven
+
+
+                                 Conteneurisation avec Docker et orchestration avec Kubernetes
+
+
+                                 Automatisation des déploiements avec Ansible et Puppet
+
+
+                                 Technologies : DevOps, Linux, Git, Jenkins, Docker, Ansible, Kubernetes
+
+                                 Ingénieur Test- Technico fonctionnel Recette, Agile
+                                 octobre 2019 - mars 2022 (2 ans 6 mois)
+                                 Orange France
+
+                                 Résumé du projet :
+
+
+
+
+
+
+                                 Le projet concernait la validation et l'amélioration de l'application mobile
+                                 Orange TV. L'objectif était de garantir une expérience utilisateur fluide et
+                                 performante en validant les services backend et en automatisant les tests de
+                                 régression.
+
+
+                                 Analyse des spécifications techniques et fonctionnelles.
+
+
+                                 Validation backend de l'application mobile Orange TV
+
+
+                                 Tests manuels et automatisation des API Webservices
+
+
+                                 Exécution des tests automatisés de non-régression
+
+
+                                 Gestion des tickets et suivi des anomalies (JIRA, Confluence)
+
+
+                                 Collaboration avec les équipes de développement pour la résolution des bugs.
+
+
+                                 Technologies : C, HP-ALM, UFT, Postman, JIRA, Kibana, Cassandra
+
+                                 Formalisation des process de livraison d’une application Bancaire
+                                 novembre 2018 - octobre 2019 (1 an)
+                                 Caisse des Dépôts et Consignations Arceuil CDC
+
+                                 En mission :Caisse des Dépôts et Consignations CDC Arceuil
+                                 Thème : Développement et Maintenance de l'application SYLAB
+                                 Misions :
+                                 -Participation à la réalisation des mises en production (MEP)
+                                 -Déposer des livrables sur les différentes plateformes de déploiement.
+                                 -Suivi de prod
+                                 -Support technique Suivre et corriger les anomalies.
+                                 -Rédaction de documents techniques (mise en prod)
+                                 -Environnement: Archiva, Darwin, GODZILLA, GPLUP, Fusion, ITSM
+
+
+                                 M2i Formation
+                                 Développeur Java
+                                 juin 2018 - septembre 2018 (4 mois)
+                                 Région de Paris, France
+
+                                 M2I Formation, La Défense.
+                                 De Juin à Septembre
+                                 Fonction: Développeur Java
+
+
+                                 Projet : Développement d’une application Bancaire
+
+
+
+
+
+                                 Mission(s) et réalisations
+                                 -Identification du besoin
+                                 -Modélisation avec l’UML
+                                 -Développement de la partie Back end avec Spring, Hibernate, JPA
+                                 -Développement de la partie Front : HTML, CSS, JavaScript
+
+
+                                 IVALIS Group
+                                 Superviseur
+                                 décembre 2017 - juin 2018 (7 mois)
+                                 Région de Créteil, France
+
+                                 -Découpage et adressage du magasin.
+                                 -Formation et contrôles des compteurs.
+                                 -Management d’une équipe de compteurs.
+                                 -Application des procédures spécifiques enseignes.
+                                 -Relation client. o Gestion de la productivité et de la qualité des comptages.
+
+
+                                 Lyna mode
+                                 Gérant principal
+                                 novembre 2014 - décembre 2017 (3 ans 2 mois)
+                                 Région de Reims, France
+
+
+                                 SARL KAMAR.
+                                 Assistant manager
+                                 avril 2011 - octobre 2012 (1 an 7 mois)
+                                 Région de Paris, France
+
+                                 -Garant de la satisfaction client et du respect des normes de sécurité et de
+                                 qualité.
+                                 -Réaliser le recrutement des équipiers.
+                                 -Organiser leurs formations et évaluer leurs performances.
+                                 -Établir les plannings
+                                 -Participer au développement des ventes et du chiffre d’affaire.
+
+
+                                 Entreprise privée, Bâtiment et Travaux, Tlemcen, Algérie
+                                 Comptable
+                                 novembre 2009 - septembre 2010 (11 mois)
+                                 Algérie
+
+                                 -La relance des impayés.
+                                 -Le traitement des factures clients etfournisseurs.
+                                 -Analyse et aide à la décision.
+
+
+
+
+
+                                 -Traitement des paies.
+
+
+                                 L’inspection régionale du travail.
+                                 Comptable
+                                 août 2007 - septembre 2009 (2 ans 2 mois)
+                                 Algérie
+
+                                 Traitement des paies
+                                 -Comptabilité des charges.
+                                 -Gestion du budget.
+                                 -Gestion de stock.
+
+
+
+
+                                Diplômes 
+                                 M2I FORMATION
+                                 Concepteur java JEE, Informatique · (2018 - 2018)
+
+
+                                 Centre Universitaire Européen de Management(CUEM) paris
+                                 Master 2 Management financier , Management financier · (2012 - 2013)
+
+
+                                 Agence national pour la formation professionnelle (A.N.P.F) paris
+                                 Licence, comptabilité et Gestion des organisations · (2010 - 2011)
+
+
+                                 Université de Tlemcen Algérie Spécialité : Comptabilité.
+                                 Licence Passerelle Sciences de Gestion , Sciences de la
+                                 gestion · (2006 - 2007)
+
+
+

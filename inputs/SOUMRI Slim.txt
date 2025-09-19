@@ -1,0 +1,108 @@
+13 ans d'expérience
+Anglais Professionnel
+
+COMPETENCES TECHNIQUES
+Langages/Frameworks : JAVA 17, SQL, Angular, JavaScript, SOAP/REST, JPA, Hibernate4, SpringBoot 3, SpringKafka 3, Spring Batch, Swagger
+Bases de Données : Oracle, Postgres, TALEND, MySQL, Derby, Mongodb, ElasticSearch, LDAP
+Outils : IntelliJ, IReport, GitHub, SVN, SOAPUI, Jira, Nexus, Sonar, Test (JUnit5, Arquillian, Testng, TDD, BDD, Mockito, JMeter)
+Serveurs : Tomcat, JBOSS
+Environnements : Windows, Linux
+Méthodologies : Agilité (Scrum), DevOps
+DevOps : Docker, Kibana, Ansible, Kubernetes, Cloudbees, Maven 3, Jenkins
+Autres compétences : UML, Design Patterns
+
+FORMATION
+2023 Formation KAFKA
+2018 Formation ANGULAR 7
+2012 Formation TALEND
+
+DIPLOME
+2010 Diplôme ingénieur en informatique
+Faculté des Sciences
+
+Parcours Professionnel
+CAISSE DES DÉPÔTS (ICDC), DEPUIS JANVIER 2024
+Rôle : Développeur Senior Java
+Projet : SL5 a pour objectif de gérer et centraliser l'ensemble des dossiers de demandes de formation en France, qu'elles soient issus de la plateforme MCF(Mon Compte de Formation) ou des partenaires externes(Pôle Emploi, régions, etc.) ayant eux aussi, leur propre plateforme.
+Equipe organisée en agilité scrum, composée d'un Tech Lead et 4 développeurs.
+Tâches : Conception d'un Service Kafka de mise en relation entre les organismes de formation.
+Implémetation des Batchs de calcul des zones prioritaire (Quartier Prioritaire Ville)
+Revue de code, tests unitaires et documentations techniques
+Environnement technique : Java 17, Spring Boot 3, Spring Kafka 3, Spring Batch, PL/SQL, Kafka, Git, Maven, Intellij, Kubernetes, Fusion, CloudBees, Elastic Search, Splunk, Darwin
+Environnement fonctionnel : Formation
+
+BNP PARIBAS CARDIFF, DE NOVEMBRE 2021 À DECEMBRE 2023
+Rôle : Développeur Senior Java
+Gestion d’ un courtier en assurance qui offre des applications de gestion de contrats pour les assureurs et les distributeurs, et donne la possibilité aux assurés la déclaration et suivi des sinistres.
+Tâches : Veiller sur la qualité de code et l’application des Goldens Rules
+Assurer le processus de déploiement sur 3 environnements différents y compris la prod
+Piloter une équipe de DEV de 4 personnes
+Rédaction des documentations techniques sous confluences
+Environnement technique : Java 17, Gradle 6.8, Git, Bitbucket, Spring Boot2, Talend, Angular 10, Jira, Sonar, JUnit 5, MySQL, Agilité (Scrum), ElasticSearch, Tomcat
+Environnement fonctionnel : Assurance
+
+JCDECAUX, DE MARS 2020 À OCTOBRE 2021
+Rôle : Développeur Senior Java
+Au sein de l’équipe de développement Vélos en Libre-service, la mission consiste à travailler sur différents projets d’évolutions et de maintenance de la plateforme VLS.
+J'avais un rôle de référent technique et coordinateur auprès des équipes de développement et je suis le garant de la qualité du code livré.
+Tâches : Participer aux activités de développement des solutions
+Valider la faisabilité du besoin exprimé sur la solution technique
+Participer si besoin à l’analyse causale des incidents en production et à leur résolution
+Animer la communauté des développeurs au travers d’ateliers/webinars
+Assurer une activité de veille technologique en ligne avec les orientations définie par l’Architecte
+Environnement technique : Java11, Maven, GitHub, Jenkins, Docker, SpringBoot2, Spring Batch, Jira, Nexus, Sonar, JUnit5, PostgreSQL, Oracle12c, Liquibase, Agilité (Scrum), elasticSearch, Ansible
+Environnement fonctionnel : Industrie
+
+RTE (RÉSEAU DE TRANSPORT D’ÉLECTRICITÉ), D'OCTOBRE 2018 À FÉVRIER 2020
+Rôle : Développeur Senior Java
+L’application MOOSE a pour objectif de récupérer chaque jour les informations de consommation et de production d’électricité de différentes filières : éolien, photovoltaïque, etc.
+Les données recueillies sont intégrées dans l’application afin de générer les chroniques de prévision à publier.
+Tâches : Conception et mis en place d’une nouvelle base de données Oracle
+Accompagnement de l’équipe dans l’implémentation des APIs
+Mise en place des règles de livraison du code source via GitHub
+Initialiser les tests unitaires et d’intégrations
+Médiateur entre l’équipe Frontend et l’équipe Backend
+Environnement technique : Java11, Maven, GitHub, Jenkins, Docker, SpringBoot2, Spring Batch, Jira, Nexus, Sonar, JUnit5, Oracle 12c, Liquibase, Agilité (Scrum)
+Environnement fonctionnel : Energie
+
+SOCIÉTÉ GÉNÉRALE, DE JUILLET 2016 À SEPTEMBRE 2018
+Rôle : Développeur Sénior Java
+Projet 1 : Mise en place d’APIs (micro-services) qui permettent d’injecter des documents clients dans une base non structuré (Documentum) et faire d’autres actions sur les documents tel que la sélection, la composition de plusieurs documents en un seul, la recherche multicritère et la suppression.
+Projet 2 : La LSA permet de suivre de façon continue la progression de l’acquisition des documents pour une instance particulière de processus métier.
+Elle porte l’identification des acteurs associés aux rôles afin de faciliter la récupération de documents existants ou l’indexation des documents
+Tâches : Encadrement technique de développeurs
+Mise en place des premières briques de développement
+Automatisation des messages d’erreurs et gestion des logs
+CI/CD : automatisation des phases post-développement
+Environnement technique : Java 8, Maven, GitHub, Jenkins, Alien 4 Cloud, Spring Boot, Spring Batch, jersey, Apache CXF, Swagger, IBM API Connect, Jira, Nexus, Junit4, TDD/BDD, Cucumber, Mongo DB, Agilité (Scrum), Kebana, DevOps
+Environnement fonctionnel : Bancaire
+
+MORPHO, DE MARS 2015 À JUIN 2016
+Rôle : Développeur Java
+Industrialisation d’une solution AHSP qui permet de signer et vérifier l’intégrité des données fournies aux utilisateurs pour logiciels embarqués.
+La plate-forme AHSP est composée d’un portail web qui sera en mesure de télécharger un client léger.
+Tâches : Mise en place d’une authentification certifiée à la plate-forme AHSP
+Implémentation des web service de signature d’un DATASET ou d’un LOAD
+Implémentation des web service de vérification d’intégrité des données à signer
+Implémentation des scripts d’administration des données de Certificat et de Signature
+Environnement technique : Java 8, REST, JERSEY, Maven, JUnit, Mockito, SVN, Tomcat, JIRA, Hudson, Agilité
+Environnement fonctionnel : Industrie
+
+VIVARTE, DE JANVIER 2014 À FÉVRIER 2015
+Rôle : Développeur Java
+Développement d’une application de gestion de clients qui permet de donner à Vivarte et ses enseignes (groupe pilote constitué des enseignes La Halle, André et Besson) une vision générale sur le client et d’exploiter des données qui sont aujourd’hui difficiles d’accès et peu exploitées
+Tâches : Implémentation des web services génériques
+Réalisation d’un module de connexion LDAP
+Test unitaires, test de charges
+Environnement technique : Java 8, JPA, JAX-RS, REST, JSON, PL/SQL, Maven, JUnit, Testng, Arquillian, JMeter, Git, JBoss-8.2, apache-2.4, Postgresql-9.4
+Environnement fonctionnel : Grande distribution
+
+SOCIÉTÉ GÉNÉRALE, DE MARS 2011 À DÉCEMBRE 2013
+Rôle : Développeur Java
+Conception et réalisation d’une application d’authentification renforcée avec code activation et piste d’audit bancaire
+Tâches : Ajout d'un service de gestion des accès aux offres et applications
+Intégration des fonctions de gestion des moyens de sécurité
+Implémentation d'un convertisseur de format avec Talend
+Mise en place d'une solution générique pour tracer les opérations bancaires
+Environnement technique : Spring, Hibernate, JPA, Maven, JUnit, Intégration continue, Talend, Clearcase, Sql
+Environnement fonctionnel : Bancaire

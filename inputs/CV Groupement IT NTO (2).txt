@@ -1,0 +1,226 @@
+NTO : CONSULTANT DATA SENIOR - + 10 ANS D’EXPERIENCE
+SYNTHESE DES COMPETENCES
+Compétences Métier : Consultant Décisionnel : conception de tableaux de bord, indicateurs, graphiques, outils d’aide à la décision
+Compétences éprouvées en analyse de besoins, proposition de solutions, migrations d’environnement, refonte de SI
+Assurer un très haut niveau de qualité des données
+Modernisation et adaptation du système d’information de manière à augmenter l’efficacité des analyses des données et la performance des rapports des activités
+Bonne communication
+Connaissance approfondie des outils décisionnels logiciels : Datastage, Business Object, Cognos, Microsoft
+Expertise SQL
+Méthodologies : Cycle en V, Agile
+Fonctionnel : Analyse de besoins, proposition de solutions
+Définir les spécificités techniques
+Modéliser et enrichir les datawarehouses et les datalakes
+Extraire, transformer et charger les données
+Garant de la qualité des données et de la haute disponibilité des applications
+Optimisation des performances pour les flux des données
+Mise en place du reporting de performance
+Maintenance évolutive
+Rédaction des spécifications
+Réalisation de la recette
+Phase de tests unitaires
+Prise en charge, au niveau de la base de production, des reprises de données nécessaires à la mise en production
+Formation et assistance des utilisateurs
+Anglais professionnel.
+Technique :
+Cloud : AWS, OVH, AZURE
+ETL : DataStage V 7.5-11.7 composantes Server et PX, Talend
+Reporting : QlikView, Qlik Sense, Business Objects, Kibana, Cognos, Chartjs, Power BI
+Systèmes : UNIX/ LINUX, WINDOWS, Hadoop, Systèmes embarqués temps réel
+Langages : C#, VB.net, Java, PL/ SQL, VB6, VBA, Shell scripts, Python, R, PHP, JSON, JQUERY, Bootstrap, CodeIgniter, Node.js, DAX, langage M
+Codage : Eclipse, Visual Studio 2008, TOAD, PowerAMC, Quality Center, N8N, ElasticSearch, Logstash
+Methodologie : UML, OMT, SADT, AGILE, SCRUM, ITIL
+SGBD : ORACLE, MySQL, Microsoft Access, HIVE, DB2 bleu, SQL Server, Snowflake
+Versionning : SVN, GIT
+Intégration Continue : JSON, HUDSON
+Anglais : Professionnel
+DIPLOMES
+2009 Master 2 Professionnel Informatique Industrielle et Commande des Systèmes Embarqués Université de Reims
+2008 Maitrise en Sciences et Technologies de l’Information et de la Communication, Electronique, Electrotechnique, Automatique, Université de Reims
+Formations :
+2020 Formation Power BI, Power Query, DAX
+2019 Langage Python
+2019 Régressions (linéaires, non-linéaires) statistiques, langage R
+2019 Plateformes Big Data : Hadoop, Hive (Administration)
+2013 Formation IBM InfoSphere DataStage Essentials v9.x
+EXPERIENCE PROFESSIONNELLE
+Depuis 04/2024 : AGIRC-ARRCO, Paris
+Data Engineer
+Objectifs de la mission :
+Moderniser le système décisionnel en remplaçant la plateforme Teradata devenue coûteuse et rigide.
+Mettre en place un Data Lakehouse basé sur Apache Iceberg pour améliorer la scalabilité, la flexibilité, et la gestion des coûts.
+Reconcevoir les chaînes de traitement ETL existantes pour intégrer des sources massives de données hétérogènes.
+Automatiser la génération des scripts SQL et des logiques de jointure à partir d’un catalogue de métadonnées.
+Architecture et pipeline mis en place :
+1. Architecture cible Data Lake sur HDFS (Cloudera) Format de stockage Iceberg (via Spark SQL) PostgreSQL pour les usages analytiques (datamarts finaux) Pilotage ETL via DataStage 11.7 Cloud et scripts Spark/PySpark.
+2. Zonage des données ODS : ingestion brute depuis des fichiers Parquet DTW : transformation et enrichissement avec logiques métiers DTM : modélisation technique optimisée pour les analyses et le reporting PostgreSQL : réplication des DTM pour les outils de BI.
+Tâches :
+Migration Teradata → Iceberg
+Analyse de l’existant : 500+ tables Teradata, logiques de MERGE, partitionnements, contraintes.
+Conversion automatique des DDL Teradata en DDL Iceberg (Spark SQL)
+Détection automatique des clauses PARTITION BY, PRIMARY INDEX, FK/NK
+Mise en place d’un script Shell central (dapt_DDL_ODS_DTW_DTM.sh) pour transformer dynamiquement les schémas.
+Chargement et transformations Iceberg
+Développement d’un module générique U+I (UPDATE + INSERT) sur Spark 3 pour chaque zone (ODS/DTW/DTM)
+Implémentation d’une stratégie MERGE avec auto-incrémentation via ROW_NUMBER() + MAX(ID_TECH_ADHS)
+Gestion fine des conflits de validation via une stratégie DELETE + INSERT.
+Génération dynamique de jointures FK/NK
+Utilisation d’une table de paramétrage (COL_NK_ASSOCIEE) pour automatiser les jointures LEFT JOIN dans les étapes DTW/DTM
+Génération conditionnelle des colonnes de jointure avec contrôle des types et du ORDRE_COLONNE
+Automatisation & industrialisation
+Génération automatique des scripts d’export PostgreSQL depuis Iceberg
+Organisation des fichiers de logs par exécution avec traçabilité complète
+Optimisation du volume disque grâce à un suivi des tailles HDFS (table par table).
+Tests & validation :
+Création de jeux de tests unitaires automatisés pour chaque pipeline (ODS > DTM > PostgreSQL)
+Validation croisée des agrégats entre Teradata et Iceberg
+Monitoring de la volumétrie par table.
+Résultats obtenus :
+Réduction des coûts de licences Teradata >80%
+Migration réussie de plus de 200 tables critiques vers Iceberg
+Pipelines automatisés sur Spark 3 avec un monitoring fin des performances
+Accès aux données DTM depuis PostgreSQL pour BI (temps de réponse < 2s)
+Documentation complète des scripts et de la configuration pour reprise facile par les équipes internes.
+Environnement technique : Teradata, Iceberg, Spark, DataStage 11.7, Cloudera, PostgreSQL, fichiers Parquet
+Volume de données : 25 To en DTM, +100 Go/jour en flux entrants
+12/2019 – 12/2023 : BNPParibas CIB, Pantin
+Data Strategist, Project Manager
+Au sein de CIB Data Office dans un contexte international anglophone
+Mise sous contrôle de données KYC et Financial Security.
+Projet initié en réponse à des recommandations de régulateurs internationaux visant à améliorer la qualité des données envoyées au screening pour la lutte contre le blanchiment d'argent et le financement du terrorisme :
+Etude de la KYC Policy, analyse du besoin, cadrage du projet, cartographies de l'existant (contrôles, systèmes, processus)
+Spécifications et mise en place d’indicateurs de qualité et dashboards avec proposition d’une stratégie pour faciliter la remédiation
+Environnement technique : KQIs développés sur Alteryx, dashboards sur Tableau puis migration des KQIs sur Python, dashboards sur Power BI, data sourcing dans un Datahub
+Mise en place d’une gouvernance sur des données critiques : lineages, définition des rôles et responsabilités, mise en place/préparation/animation de comités mensuels (OPCO) et trimestriels (QARC), rédaction de la procédure IMR
+Coordination, communication, organisation, présentation de réunions récurrentes ou ad hoc avec les différents acteurs clés du projet : Group Compliance Data Office, CIB Compliance, CIB ITO CEP Global Coordination Support, Business analysts, Referential officers et équipes IT de tous les systèmes clés, contacts Due Diligence sur AMER, APAC, EMEA, Conformités locales
+Analyse, investigation et suivi de tout sujet métier (e.g. clarification de la KYC Policy) ou technique, présentation et propositions de solutions, recherche d’optimisation des processus de rémédiation
+Onboarding, accompagnement continu des Régions (AMER, APAC, EMEA), soutien constant aux équipes métiers.
+Depuis 01/2023 : CLARINS
+Consultant Data Analytics sénior
+Contexte : Refonte du Système d’Information du groupe Clarins avec 991 jobs DataStage à réadapter one to one.
+Périmètre fonctionnel :
+Assurer un très haut niveau de qualité des données
+Moderniser et adapter le système d’information de manière à augmenter l’efficacité des analyses des données et la performance des rapports d’activités.
+Tâches :
+Migration de l’outil DataStage V11.3 vers V11.7
+Mise en place d’une plateforme Cloud Azure
+Mise en œuvre de la convergence des data platforms sur Azure Snowflake : move to Data Lake, Migration de SQL server vers Snowflake
+Migration de jobs DataStage Server vers PX
+Adaptation des outils de restitution Cognos, Power BI et Qlik Sense sur la nouvelle base de données Snowflake.
+Alimentation et extraction des données
+Scripting
+Rédaction des spécifications
+Réalisation de la recette
+Alimentation des données automatiques.
+Environnement technique :Snowflake, DataStage 11.7, SQL Server, Cognos, Power BI, Qlik sense, OpCon, Cloud Azure
+09/2022 – 12/2022 : LAFARGE HOLCIM
+Consultant sénior Data
+Contexte : Refonte du SI de la Direction commerciale et le marketing.
+Périmètre fonctionnel :
+Assurer un très haut niveau de qualité des données
+Moderniser et d’adapter le système d’information de manière à augmenter l’efficacité des analyses des données et la performance des rapports des activités commerciales.
+Tâches :
+Migration de l’outil BI Business Objects vers un le nouvel outil Qlikview
+Mise en place d’une plateforme Cloud AWS pour Qlikview
+Reporting et modélisation de données QlikView
+Alimentation et extraction des données avec Talend
+Scripting Shell, Bash
+Réalisation de la recette
+Rédaction des spécifications
+Alimentation automatique des données
+Formation et assistance des utilisateurs sur QlikView.
+Environnement technique :Oracle, QlikView, Business Objects, Talend, Java, SQL, ServiceNow, Cloud AWS, Shell, Bash
+11/2019 – 08/2022 : MINISTERE DE L’INTERIEUR
+Consultant Data
+Contexte : Délégation à la Sécurité Routière (Département du Contrôle Automatisé).
+Périmètre fonctionnel :
+Assurer un très haut niveau de disponibilité des équipements de « contrôle sanction » automatisés
+Moderniser et adapter le parc d’équipements de manière à augmenter l’efficacité des contrôles sur les comportements.
+Tâches :
+Développement d’une application de reporting et de statistiques pour les infractions MIFPROD2
+Mise en place des tableaux de bord pour les indicateurs et les ratios sur le coût de production, performances des services, rentabilité et délais (Power BI)
+Mise en place du reporting de performance sur les voitures radar (Power BI)
+Alimentation automatique des données avec Talend
+Evolution des scripts d'alimentation des bases de données XML en pyspark --> Hive
+Cadrage et suivi de production, maintenance niveau 3, spécification.
+Environnement technique :Shell, Linux, PHP, Python, Talend, Power BI , Power Query, DAX Java, Bootstrap, CodeIgniter, JavaScript, JSON, JQuery, N8N, Kibana, ElasticSearch, MySQL, XML, Hive ,Hadoop, Spark, Node.js, SQL Server, HTML, css, Shell, bash
+11/2016 – 10/2019 : BPI FRANCE
+Consultant BI Datastage
+Contexte : Dans un contexte post-migration (de la 8.7 à la 11.5 de DataStage) au sein de l’équipe dédiée à la BI, en charge de la maintenance évolutive et de l’optimisation de l’ensemble des flux mettant à jour les KPI de BPI.
+Indicateurs destinés en grande partie aux forces de vente de la banque ainsi qu’au contrôle de gestion, aux responsables de réseaux BPI et aux membres du comité exécutif.
+Tâches :
+Conception, développement et optimisation de DataStage 11.5
+Création ou modification de flux alimentant les Datamarts vente (statistiques collaborateurs, agences et réseaux)
+Développement d’outil de recette de comparaison dans l'environnement Hadoop, récupération des tables, injection des tables Hive faire la comparaison avec des script Py Spark et Spark SQL enfin mettre résultat dans une table Hive
+Phase de tests unitaires
+Prise en charge, au niveau de la base de production, des reprises de données nécessaires à la mise en production
+Mise en place du reporting Cognos et calcul de performance.
+Environnement technique :DataStage 11.5, Cognos, Control-M, PL/SQL, Plateforme Big Data Hadoop, Hive, Git, HPQC, Power AMC, Oracle 12 Exadata, DB2 Blue
+04/2012 – 11/2016 : DIRIF
+Consultant Data et BI
+Contexte : Pour la Direction Interdépartementale des Routes d’Ile-de-France : Projet Grand Paris Projet voie dédié aux taxis pour les aéroports Charles-de-Gaulle et Orly Projet Écotaxe : portiques routiers pour les véhicules poids lourds.
+Périmètre applicatif : Application BTDS (Base de données Temps différé Sirius) Projet KIR (Qualification, Intégration et Reconstitution des données)
+Tâches :
+Développement et évolution de l’application BTDS
+Automatisation d’enchainement de calculs pour faciliter les études récurrentes
+Optimisation des performances pour les flux des données
+Recoupement, contrôle et agrégats de données de sources hétérogènes (data bases / fichiers plats)
+Modélisation de SI en étoile pour données détaillées et agrégées
+Analyse puis réalisation des jobs DataStage PX (V8.7)
+Proposition d'automatisation de la chaîne d'alimentation sous DataStage
+Développement du reporting Business Objects pour l’analyse du trafic routier en Ile-de-France
+Mise en place des tableaux de bord Business Objects pour les indicateurs de trafic routier
+Garant de la qualité des données et de la haute disponibilité des applications Business Objects au sein de la direction
+Formation et encadrement des nouveaux développeurs, mise en place d’ateliers afin d’évaluer la faisabilité technique (MOE, MOA, Editeurs)
+Accompagnement et assistance à la MOA (spécifications, recette, …)
+Rédaction des spécifications techniques
+Recette fonctionnelle
+Recette technique
+Chiffrage et négociation avec le client.
+Environnement technique :Visual Basic 6.0, DatasStage Server et PX v8, Business Objects, Toad for Oracle Xpert, Eclipse, Excel, Microstrategy v8, C/C++, VB6, VBA, SQL, PL/SQL, JAVA, Shell scripts, Batch Do, Windows, Linux, SVN / GIT, Oracle 9i, 10g, 11g, Power AMC, Quality Center
+01/2011 – 02/2012 : MASTERNAUT
+Ingénieur Logiciel
+Contexte : Société appartenant au groupe CYBIT et spécialisée dans la géolocalisation par GPS : développe un boitier électronique permettant de collecter la trame d’informations fournie par le GPS ainsi que d’autres informations telles que l’informatique embarquée, les capteurs électroniques, les contacts secs, les détecteurs d’ouverture et de température.
+Les technologies du GPS associées au GPRS permettent le suivi de l’activité itinérante sur une cartographie en temps réel (Navteq).
+Tâches :
+Définition du besoin
+Analyse et rédaction des spécifications fonctionnelles
+Développement d’une application de gestion de charge des batteries
+Analyse et rédaction des spécifications fonctionnelles
+Développement de l’application et des interfaces utilisateur (C/C++)
+Formalisation des documents nécessaires à l'intégration et à la mise en production de l’application
+Préparation des scénarios de tests et tests
+Développement d’une application d’aide à l’écoconduite
+Développement de l’application spécifique (C, C++), Proposition de solutions (avantages, inconvénients, difficultés, charges, scénarii, impacts).
+Environnement technique :C/ C++, C#, QT, WinIdea, SourceInsight, QTcreator, Subversion (SVN, CVS), Mantis Bug Tracker, Outil d’intégration continue (Hudson)
+04/2009 – 09/2009 : DOCLEDGE
+Consultant Logiciels Embarqués
+Contexte : Le module audio-guide est piloté par GPS pour permettre d'émettre une séquence audio touristico- culturelle en fonction d'un positionnement GPS sur l'équipement radio d’un véhicule (version collective) ou d'un GSM (version individuelle).
+L’audio guide est compact, léger, solide et ergonomique.
+Doté d’une mémoire à capacité adaptable, il lit les contenus audios dans toutes les langues souhaitées et restitue ces contenus avec une haute qualité sonore.
+Flexible et évolutif, il est très simple d’utilisation.
+Il permet une visite guidée individualisée gérée par le visiteur qui choisit sa visite, à son rythme et selon ses centres d’intérêt.
+Tâches :
+Analyse du Cahier des Charges et Spécifications
+Spécification matérielle (Performance, Coût, Dimensionnement)
+Analyse fonctionnelle
+Développement, tests et intégration
+Développement de la plateforme USB HOST (PIC32)
+Développement du driver audio
+Développement du driver GPS (norme NMEA)
+Développement du Firmware
+Conception de la carte d’émetteur FM
+Conception du prototype final.
+Environnement technique :C, C++, C #, Logiciel de développement (MPLAB 8.30), Compilateur C30, Plateformes de développement (PIC32, Windows CE), logiciel de routage (EAGLE), logiciel de test émetteur FM (Labview), logiciel de test GPS TK1315
+02/2009 – 04/2009 : CETIC (Belgique)
+Consultant Logiciels Embarqués
+Contexte : Centre d’Excellence en Technologies de l’Information et de Communication : projet TRAPIST (Transport Intelligent Service Technologique).
+Tâches :
+Compilation d’un noyau temps réel RTlinux 2.6 avec prise en charge carte PCI bus CAN
+Portage et intégration du noyau compilé (20 Mo de mémoire) dans un PC industrie (Diamond System’s Poseidom), Chaînes de développement make/compilateur/debuggeur GCC – langage C
+Construction, maintenance et évolution des chaines de compilation croisée
+Tests et validation
+Déploiement.
+Environnement technique :Linux embarqué – Outils GNU (BInutils, GCC, Glibc, uClibc…) – Cross tool (NG) – processeur x86 Intégration de la carte PCI CAN dans le PC industrie (Diamond System’s Poseidom), Réseau CAN 2.0A/500kbps.
+Environnement technique :Plateforme de développement LINUX embarqué, langage de développement C, C++
+

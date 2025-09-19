@@ -1,0 +1,237 @@
+
+Azure Data & AI Architect Tech Lead Data & IA
+12 ans
+6 ans en finance + 6 ans d’expertise en architecture IA/ML/BI et en ingénierie des données sur Azure, Fabric, Power BI et la Databricks. De l’industrialisation des pipelines à datavisualisation, je conçois, développe et exploite des architectures modernes pour déployer des solutions analytiques et IA, robustes et performantes. J’encadre des data engineers pour garantir qualité, scalabilité et efficacité des projets
+
+Formations
+Ingénieur Machine Learning - MINES ParisTech
+Diplôme Supérieur de Comptabilité et de Gestion - Etat
+
+Certifications
+Fabric Analytics Engineer Associate (DP-600) - Microsoft
+Microsoft Azure Data Fundamentals (DP-900) - Microsoft
+Power BI Data Analyst Associate (PL-300) - Microsoft
+
+Langues
+Français
+Anglais
+
+Compétences Techniques :
+
+Langages de programmation : Python (Pandas, POO), DAX, M
+Manipulation des données : SQL, T-SQL, PySpark, SparkSQL, Trino
+Base de données : Azure SQL DB, Cosmos DB, DuckDB
+LH (Synapse DE, Fabric) & DWH (Synapse Analytics, Snowflake)
+Real-Time Analytics : ADX, KQL, Eventhouse, EventStream
+ETL, Orchestration : ADF, Databricks, Synapse Analytics, DBT, Airflow
+Cloud Platforms : Microsoft Azure, Fabric, Databricks, Streamlit
+Architecture Data (conception, développement et déploiement) : état des lieux, recueil des exigences, conception HLD/LLD, modernisation Legacy, mise en œuvre archi Data Mesh, tests et suivis end-to-end
+Architecture BI : modèle en étoile, cubes OLAP
+API & intégration : API REST, FastAPI
+CI/CD : Azure Pipelines, GitHub Actions
+Infrastructure as Code (IaC) : Terraform
+Versioning et Command-line : Git, GitHub, Azure CLI
+Conteneurisation & Déploiement : Docker, Azure Container Instances, Kubernetes, Azure Kubernetes Service, MLflow
+Gouvernance / Sécurité : IAM, content management (métadonnées, doc, data catalogue (dictionnaire/lineage/taxonomie/MDM)), conformité
+ML : Azure ML, Frameworks (Scikit-learn, TensorFlow, PyTorch, Keras)
+Agents IA : Azure OpenAI (API GPT), Azure AI Foundry (orchestration & agentification), RAG (Azure AI Search), Architecture GenAI (agentification & systèmes multi-agents / SMA), Copilot Studio
+
+Compétences Fonctionnelles :
+
+Méthodologie : DataOps, Agile (Scrum), Agile SAFe (PI Planning, ART)
+Product Discovery : cadrage, alignement, spé technico-fonctionnelles
+Product Delivery : backlog (Jira), multi interlocuteur, delivery transverse
+Product Strategy : définition architectures cibles (TOGAF), veille techno
+
+Secteur : env startup, énergie, assurance, banque, retail, santé
+
+
+Expériences professionnelles
+
+
+SUEZ Eau France – Azure Data & AI Architect (3 ans, 2 mois)
+- Modernisation d’un système legacy vers une Modern Data Platform cloud-native et modulaire sur Azure, basée sur une architecture Modern Data Warehouse, afin d’industrialiser les cas d’usage Data & IA (Big Data, ETL/ELT, Reverse ETL, MCO, BI, Machine Learning, agents IA), selon une démarche DataOps.
+- Développer et déployer un pipeline ETL distribué sur Databricks pour générer une enquête de satisfaction client (Big Data).
+- Conception et déploiement d’une architecture analytique sur Azure, visant à automatiser la génération d’un reporting de 165 KPI, pour analyser en temps réel les données de l’application Tout Sur Mon Eau.
+- Conception et déploiement d’une architecture ML/BI sous Azure & Microsoft Fabric, générant des segments de consommateurs (clustering) exploités par la BI pour optimiser la gestion de l’eau.
+- Mise en place d’un Copilot GenAI pour automatiser les revues de code à chaque push dans un pipeline CI/CD, combinant un LLM, un système RAG et une orchestration CI/CD.
+
+JLC Consulting – Data Engineer (2 ans, 3 mois)
+- Développer et déployer une architecture analytique avec Snowflake, DBT et Power BI, pour piloter les KPIs métiers d’un acteur du retail.
+- Développer et déployer un dashboard financier automatisé sur le Cloud, via un pipeline CI/CD, selon une approche DevOps.
+
+AFIREC – Data Engineer (1 an)
+- Développer et déployer une solution analytique sous Power BI pour accompagner un client dans le pilotage de son activité.
+
+SUEZ Eau France Azure Data & AI Architect Janvier 2022 - Février 2025 : 3 ans, 2 mois
+Projet 1 (en tant qu’Azure Data & AI Architect)
+Modernisation d’un système legacy vers une Modern Data Platform cloud-native et modulaire sur Azure, basée sur une architecture Modern Data Warehouse, afin d’industrialiser les cas d’usage Data & IA (Big Data, ETL/ELT, Reverse ETL, MCO, BI, Machine Learning, agents IA), selon une démarche DataOps.
+
+Contexte : Dans le cadre du programme « Relation Client de Demain », SUEZ Eau France a engagé la migration de ses applications Legacy et de son CRM. Pour accompagner cette transformation, l’objectif a été de rationaliser la donnée en déployant une architecture Azure robuste via la mise en place d’une Run-time Infrastructure & Automation pour les services utilisés. Cette architecture, à la fois scalable, modulaire et flexible, constitue aujourd’hui le socle unifié des projets Data & IA de l’organisation.
+
+Taches :
+
+Ouverture des connexions et sécurisation des échanges,
+Recueil des besoins métiers,
+Définition du modèle de données cible (Data Lake, layer, modélisation en étoile),
+Rédaction du Document d'Architecture Technique (DAT) et de la documentation,
+Choix technologies et services (Modern Data Warehouse),
+Automatisation des déploiements d’infrastructure via Terraform et CI/CD (Azure DevOps), avec gestion des versions (Azure Repos),
+Monitoring des performances et optimisation continue,
+MCO & pratiques DataOps pour garantir l'évolution de l’architecture déployée
+
+Environnement technique : Databricks, Azure AI Foundry, Azure ML, Azure DevOps, Azure Repos (Git), SQL, Power BI, Python, PySpark, Terraform, Bash, Azure CLI, Docker, Kubernetes, Azure Functions, Fabric, Gouvernance / Sécurité, Management, Agile
+
+Projet 2 (en tant que Big Data Engineer)
+Développer et déployer un pipeline ETL distribué sur Databricks pour générer une enquête de satisfaction client (Big Data).
+
+Contexte : Dans le cadre du programme "Relation Client de Demain", le service client doit récupérer quotidiennement un dataset actualisé des clients post-contact et post- écrit afin de leur envoyer une enquête de satisfaction. L’objectif est de développer un ETL qui intègre des règles métiers spécifiques et exploite un traitement distribué sur un cluster Databricks pour manipuler des millions de lignes clients SUEZ. Ce traitement optimise les performances et garantit une génération rapide et fiable des enquêtes, en exploitant la puissance du Big Data sur Databricks.
+
+Taches :
+
+Recueil des besoins métiers,
+Extraction des données Salesforce via ADF,
+Orchestration des pipelines de données via ADF (couche Bronze, Silver, Gold),
+Transformation avancée des données sur Databricks (PySpark),
+Optimisation des performances (monitoring, suivi latences/erreurs),
+Garantir la qualité et l'intégrité des données,
+Génération de l’enquête de satisfaction client
+
+Environnement technique : Microsoft Azure, Databricks, ADF, ADLS Gen2, Azure SQL Database, Azure Monitor, SQL, PySpark, CRM Salesforce, Bash, Azure CLI, Gouvernance, Sécurité
+
+Projet 3 (en tant qu'Analytics Engineer)
+Conception et déploiement d’une architecture analytique sur Azure visant à automatiser la génération d’un reporting de 165 KPI, pour analyser en temps réel les données de l’application Tout Sur Mon Eau.
+
+Contexte : Dans le cadre du programme "Relation Client de Demain", le métier a besoin d’indicateurs clés en temps réel sur les usages digitaux des clients (trafic, formulaires, chatbot, incidents...) via l’application « Tout Sur Mon Eau ». L’objectif est d’automatiser la génération d’un reporting de 165 KPI, pour appuyer la prise de décision métier, tout en réduisant les coûts et les erreurs.
+
+Taches :
+
+Recueil des besoins métiers,
+Définition du modèle : Data Lake, architecture Médaillon, modélisation en étoile,
+Pipelines de données :
+Bronze (ingestion via ADF vers ADLS Gen2),
+Silver (transformations sur Databricks via PySpark & stockage au format Delta dans le Data Lake sur ADLS Gen2),
+Gold (agrégations sur Databricks via PySpark & chargement dans la base SQL de Synapse Analytics pour le reporting)
+Optimisation des performances (monitoring, suivi latences/erreurs),
+Garantir la qualité et l'intégrité des données,
+Intégration dans Power BI (modélisation, DAX) et diffusion aux métiers
+
+Environnement technique : Azure, ADF, ADLS Gen2, Databricks, PySpark, Synapse Analytics, Azure Monitor, Power BI, DAX, CRM, Bash, Azure CLI, Gouvernance / Sécurité, Management
+
+Projet 4 (en tant que Machine Learning Engineer)
+Conception et déploiement d’une architecture ML/BI sous Azure & Microsoft Fabric, générant des segments de consommateurs (clustering) exploités par la BI pour optimiser la gestion de l’eau.
+
+Contexte : Dans le cadre du programme "Relation Client de Demain", le métier doit obtenir des groupes homogènes de consommateurs, à l’aide d’un modèle de clustering (K-means), pour mieux comprendre leurs comportements et besoins. L’objectif est de générer, enrichir et exploiter ces données segmentées pour accompagner le métier à mener des plans d’action ciblés pour optimiser la distribution des ressources, améliorer l'efficacité opérationnelle et personnaliser les services.
+
+Taches :
+
+Recueil des besoins métiers,
+Connecter Azure Event Hub à la solution ON’connect™ coach,
+Créer un EventStream pour capturer ces événements bruts, les transformer (filtrer, enrichir, agréger) et les acheminer vers une table Delta du Lakehouse,
+Explorer, nettoyer, et préparer les données dans un notebook via PySpark,
+Entraîner le modèle de clustering K-means avec MLflow, évaluation (performances) et surveillance continue des données et du modèle,
+Interroger et analyser la donnée dans le Lakehouse (requêtes SparkSQL),
+Modélisation des données en étoile dans Power BI à partir de Fabric,
+Garantir l'intégrité des données et optimiser les performances des requêtes,
+Création du rapport et suivi des KPI
+
+Environnement technique : Machine Learning, Azure, Event Hub, Fabric, Real-Time Analytics, Power BI, Synapse Data Engineering, SparkSQL, PySpark, PySpark MLlib, MLflow, Gouvernance / Sécurité, Reverse ETL
+
+Projet 5 (en tant qu’AI Engineer)
+Mise en place d’un Copilot GenAI pour automatiser les revues de code à chaque push dans un pipeline CI/CD, combinant un LLM, un système RAG et une orchestration CI/CD.
+
+Contexte : L’équipe technique souhaite automatiser les revues de code via un agent conversationnel intelligent (Copilot GenAI), déclenché automatiquement à chaque push vers la branche de développement. Le projet s’appuie sur un LLM (API GPT d’Azure OpenAI), enrichi par un système RAG basé sur Azure AI Search exploitant la documentation interne. L’ensemble est orchestré dans un pipeline CI/CD à l’aide de Azure AI Foundry, assurant l’intégration, l'automatisation et la gouvernance du processus.
+
+Taches :
+
+Modélisation et prototypage de l’agent IA dans Copilot Studio : prompts dynamiques, logique conversationnelle et enchaînement des actions,
+Conception de l’orchestration globale via Azure AI Foundry, incluant :
+Définition du besoin métier et technique,
+Le déclencheur CI/CD à chaque push (GitHub Action)
+L’extraction automatisée du diff de code via l’API GitHub
+L’appel du LLM Azure OpenAI enrichi par un système RAG
+Le formatage intelligent de la réponse
+L’injection automatique du feedback dans la PR
+Mise en place du système RAG pour contextualiser le LLM dans Azure AI Search (Indexation des documents internes : conventions de code, historiques de revue passée, règles de sécurité),
+Développement d’une Azure Function (Python) servant de brique d’intégration entre le pipeline CI/CD et l’agent GenAI, et incluant :
+La réception du diff de code extrait depuis l’API GitHub à chaque push sur la branche de dév
+L’appel de l’agent via l’API Azure OpenAI
+L’analyse et le pré-traitement du diff (nettoyage, structuration)
+Le formatage de la réponse en JSON structuré
+La construction et la transmission du prompt enrichi et contextualisé (RAG)
+l’injection des feedbacks dans la PR
+Production automatisé de feedback (commentaires ciblés), incluant des :
+Alertes critiques (performance, sécurité)
+Rappels de bonnes pratiques (conventions, naming, lisibilité)
+Suggestions de refactoring (amélioration du code)
+Intégration CI/CD complète, incluant :
+GitHub Actions (déclencheur automatique)
+Azure DevOps (gestion du cycle de vie)
+Azure Blob Storage (stockage des historiques d’analyse)
+Azure OpenAI & Azure AI Search (moteur LLM & RAG)
+Mise en conformité RGPD : anonymisation des données sensibles, purge des logs et auditabilité des actions de l’agent IA
+
+Environnement technique :
+Azure AI Foundry, GitHub Actions, Azure DevOps, Azure Function, Azure OpenAI, Azure AI Search, Copilot Studio, Python, Git, CI/CD, JSON, Azure Blob Storage, RGPD, Architecture GenAI, Gouvernance / Sécurité
+
+JLC Consulting Data Engineer Septembre 2019 – Novembre 2021 : 2 ans, 3 mois
+Clients : Aston Martin, Aldi, Pizza Hut, Athlerunning, Yelloz Industry, VOTP, AZ equipement
+
+Projet 1 : Développer et déployer un dashboard financier automatisé sur le Cloud, via un pipeline CI/CD, selon une approche DevOps.
+
+Projet 2 : Développer et déployer une architecture analytique avec Snowflake, DBT et Power BI, pour piloter les KPIs métiers d’un acteur du retail.
+
+Contexte : Une chaîne de restauration rapide rencontre des difficultés financières et nécessite un accompagnement pour mieux piloter son activité. L’objectif est de lui fournir, chaque mois, une vue d'ensemble de sa santé financière en exposant ses indicateurs clés de performance. Ce dashboard permet à l’entreprise de mettre en place des plans d’action afin d’optimiser son chiffre d'affaires, ses offres, de réduire ses coûts et d'améliorer sa rentabilité globale.
+
+Taches :
+
+Recueil des besoins métiers,
+Initialisation du projet (repository, environnement virtuel, Streamlit Cloud),
+Création de la base de données avec DuckDB,
+Développement de l’application Streamlit et des features,
+Extraction automatisée des KPIs via DuckDB,
+Visualisation des indicateurs via des graphiques dans le dashboard Streamlit,
+Tests unitaires avec Pytest et contrôle de la qualité du code (Black),
+Collaboration via GitHub (branche develop, gestion des conflits, pull requests),
+Pipeline CI/CD avec GitHub Actions (tests, déploiement sur Streamlit Cloud),
+Livraison et documentation technique
+
+Environnement technique : Python, Streamlit, Streamlit Cloud, environnement virtuel, Git, Black, Pytest, DuckDB, GitHub, GitHub Actions (CI/CD), ETL, analyse financière, Gouvernance / Sécurité
+
+Contexte : Une entreprise du retail souhaite piloter son activité en temps réel grâce à une approche Data-driven. Le projet vise à mettre en place une architecture analytique complète, de l’ingestion automatisée des données de l’ERP SAP B1 à la visualisation des insights via Power BI, en s’appuyant sur les outils Fivetran, DBT Cloud et Snowflake.
+
+Taches :
+
+Recueil des besoins métiers & initialisation du projet (repository, venv),
+Ingestion automatisée des données SAP B1 avec Fivetran (connecteur SQL Server / Snowflake),
+Modélisation et transformation dans Snowflake via DBT Cloud (nettoyage, dimensions, faits, tests de qualité, scheduling),
+Versionning du code SQL dans GitHub (branches, gestion des conflits, PR),
+Automatisation du pipeline CI/CD avec GitHub Actions (tests, déploiement),
+Connexion directe Power BI / Snowflake pour modélisation en étoile et DAX,
+Création du reporting et du dashboard (KPI, rapports interactifs, actualisation quotidienne),
+Monitoring des pipelines (Fivetran, DBT, Power BI) et évolution du modèle selon les besoins métiers.
+
+Environnement technique : Fivetran, DBT Cloud, Snowflake, SQL, Power BI, Git, GitHub, GitHub Actions (CI/CD), ETL, SAP B1, DWH, Architecture Data & BI, testing, Gouvernance, Sécurité
+
+AFIREC Data Engineer Septembre 2018 – Août 2019 : 1 an
+Secteurs : conseil en systèmes et logiciels, prestations informatiques, énergie, commerce de détail
+
+Projet :
+Développer et déployer une solution analytique sous Power BI pour accompagner un client dans le pilotage de son activité.
+
+Contexte :
+Dans le cadre de sa transformation digitale, un client a besoin de renforcer sa capacité à piloter ses activités opérationnelles, financières et commerciales via des outils de reporting avancés. L’objectif est de fournir aux équipes métiers (finance, exploitation, direction commerciale) des tableaux de bord fiables, interprétables et actionnables via Power BI.
+
+Taches :
+
+Recueil des besoins métiers,
+Collecte et intégration des données issues de SAP B1 (SQL Server),
+Mise en place d’un pipeline ETL pour le traitement des données : nettoyage, normalisation, transformation, enrichissement,
+Modélisation des données selon les bonnes pratiques Power BI (schéma en étoile, tables de faits/dimensions),
+Développement de rapports interactifs et dynamiques sous Power BI, adaptés aux différents profils utilisateurs,
+Mise en place de KPIs métiers : suivi de la performance énergétique, des coûts d’exploitation, de la rentabilité par site
+Amélioration de l’interprétabilité des données et formulation de préconisations à destination des décisionnaires,
+Identification d’insights stratégiques grâce à l’analyse exploratoire et aux visualisations avancées.
+
+Environnement technique :
+Power BI, Power Query, DAX, M, ETL, analyse financière, KPI, gestion de projet, SAP B1, SQL Server, Gouvernance / Sécurité

@@ -1,0 +1,163 @@
+
+Ingénieur d’études et développement Senior JAVA/JEE, Angular, NODE.JS
+Full stack
+
+FORMATION
+2002 Diplôme d’Ingénieur en informatique.
+2021 Formation Devops : GitLab CI/CD (ORSYS Formation)
+
+COMPETENCES TECHNIQUES
+Langages
+Langages JVM : Java 11/Groovy SQL JavaScript/TypeScript HTML, CSS3
+Frameworks
+Spring Boot 2, Angular, Struts, JSF, JPA/Hibernate, Junit 5
+SGBD
+Oracle, MySQL , PostgreSQL , SQL Server
+Outils
+Intellij IDEA, Eclipse, Node.js, VSCode, SoapUI, Postman, Swagger.io, GIT, SVN, JIRA, Docker, Npm, Confluence, GitLab CI, Jenkins, Sonar, Ansible, Selenium, SqlDeveloper.
+
+COMPETENCES FONCTIONNELLES
+Assurance, Mutuelle
+Banque
+Télécom
+
+LANGUES
+Anglais
+Français
+Arabe
+
+
+MISSIONS ET PROJETS
+Orange Digital Factory février 2020 – 10 juillet 2023.
+Ingénieur Étude et Développement Senior FULLSTACK Java/Node.js
+Projet : Projet Legacy : Développeur Sénior puis Tech Lead d’une équipe de 4 développeurs sur des briques micro-services SOAP. Ft Notifs : Micro-services Rest
+Activités & tâches :
+
+Analyse et rédaction des spécifications techniques.
+Développements projet Legacy:
+Back-End Rest: Node.js, Express, mocha, npm, ESLint, Prettier
+
+Projet Legacy :
+Développement de Webservices SOAP.
+Développement des nouvelles fonctionnalités sur les briques Legacy
+Migration des briques Legacy vers de Java 11 et Spring 5.
+Automatisation de la livraison et mise en place de la pratique DevOps (Jenkins, Gitlab
+CI/CD, Nexus)
+Maintenance corrective et évolutive
+
+Projet Ft-Notifs :
+Développement en Node.js des nouvelles fonctionnalités
+Création des tests Unitaires avec le Framework Mocha
+Maintenance corrective et évolutive
+Gestion des livraisons (CI/CD)
+Participation à la mise en production et déploiement de micro-services
+Environnement technique : Unix, Windows, Java 8 et 11, Node.Js, Mocha, Bootstrap, Spring Boot 2, Shell, PL/SQL, Scrum, XHTML, JavaScript, CSS, Eclipse, SVN, GIT, GitLab CI/CD, UML, IntelliJ IDEA, JUnit4.
+Société Générale ITEC/GTB/BAN Juillet 2016 – Décembre 2019.
+Ingénieur étude et développement Senior Java J2EE
+Projet WebClear : Refonte d’une application web dédiée aux clients Société Générale et ses partenaires
+Projet ClearVision : Refonte d’une application dédiée au Back Office de la société générale de client lourd vers Angular 4+.
+
+Analyse et rédaction des spécifications techniques.
+
+
+Développement des nouvelles adaptations dans le webservice Saop.
+Mise à niveau en nouvelles technologies
+Développement de webservices (SOAP).
+Développement la partie Back-End en Java 8 et Spring.
+Réalisation du Front-End en AngularJS, puis migration vers Angular 6, Bootstrap3.
+
+Mise en place de la gestion du serveur Open Ldap avec Spring LDAP.
+
+Rédaction des tests unitaires (Junit 4).
+Administration et configuration de serveur WebLogic v10.
+Déploiement de l’application sur les différents environnements et participation à la mise en
+Gestion des livraisons et des versions (Maven, SVN)
+production.
+Environnement technique : Unix, Windows, Java 8, Oracle (PL/SQL), AngularJS & Angular, Bootstrap, Spring MVC, Shell, XHTML, JavaScript, CSS, Eclipse, SVN, GIT, GitHub, UML, IntelliJ IDEA, JUnit4.
+BARCLAYS Février 2015 – Mai 2016
+1 An et 4 mois – Ingénieur étude et développement confirmé Java J2ee
+Projet Fusion : Migration de poste BQE vers des postes Fusions, Mise à jour de l’historique des applications Barclays, dé-commissionnement Branch Platform, Injection Massives des documents dans la GED.
+
+Parallélisation et optimisation des traitements en utilisant le multi-threading.
+Analyse et rédaction des spécifications techniques.
+Développement et implémentation des nouvelles fonctionnalités :
+Développement de webservices (SOAP).
+Développement de la couche présentation en JSF 2.
+Développement de la couche métier en Spring 3.
+Mise en place d’une couche DAO avec mybatis et Ibatis.
+Gestion des livraisons et des versions (Maven, SVN)
+Rédaction et la mise en place des tests unitaires (Junit).
+
+Configuration de serveur WebSphere v7.0.
+Environnement technique : Windows, SQL Server 2008, Shell, PL/SQL, HTML, JavaScript, CSS, Eclipse, SVN, Maven, JSF 2, Spring 3, Mybatis, JUnit4.
+
+LCH-CLEARNET Février 2013 – Décembre 2014
+2 ans– Ingénieur étude et développement confirmé Java J2ee
+Projet : CDS CLEAR-SNVAR : Gestion des produits CDSs ECCW : Portail dédié au Membres de LCH.
+
+Pratique de la méthode agile Scrum (daily, sprint planning, rétrospectives, grooming, etc.).
+Analyse des spécifications techniques.
+Développements des nouvelles fonctionnalités
+Mise à niveau en nouvelles technologies (Java, J2EE)
+Développement de la couche présentation en JSF 2.1
+Développement de la couche métier en Spring 4
+Mise en place et maintien du mapping Hibernate
+Mise en place des webservices (SOAP)
+Gestion des livraisons et des versions (Maven, SVN)
+
+Rédaction et la mise en place des tests unitaires (Junit)
+Maintenance corrective et évolutive
+Participation à la mise en production et déploiement de l’application.
+Environnement technique : Windows, Unix, Oracle, Design Patterns, Shell, PL/SQL, XHTML, JavaScript, CSS, Eclipse, SVN, Maven, UML, GWT 1.5, JSF 2.1, Spring 4, Hibernate 4, JUnit.
+MSA MUTUALITE SOCIALE AGRICOLE Mai 2011 – Décembre 2012
+1 an et 5 mois – Ingénieur étude et développement Java JEE
+Projet : ORHA / ORFA : Gestion Commission Salariale, Rapprochement des Factures Suivi des missions (client : MSA)
+
+Migration technique des logiciels ORHA et ORFA.
+Rédaction de documents d'architecture généralisés et détaillés.
+Rédaction des documents techniques de mise en œuvre, maintenance et de mise en production.
+Développements des nouvelles fonctionnalités
+Mise à niveau en nouvelles technologies (Java, JEE)
+Développement de la couche présentation en Struts
+Développement de la couche métier en EJB2
+Mise en place et maintien du mapping Hibernate
+Mise en place de la couche de connexion
+Gestion des livraisons et des versions (Maven, SVN)
+
+Rédaction et mise en place des tests unitaires (Junit)
+Maintenance corrective et évolutive
+Participation à la mise en production et déploiement de l’application.
+
+Environnement technique : Windows XP, Unix, Oracle 10G, Design Patterns, Shell, XHTML, JavaScript, CSS, Eclipse, CVS, Maven, UML, Struts 1, EJB, Hibernate, JUnit.
+ACMNVIE Septembre 2010 – avril 2011
+7 mois – Ingénieur étude et développement Java J2ee
+Projet : Application de gestion des contrats prévoyance.
+
+Analyse de l’existant
+Développement de la couche présentation avec JSF
+Développement de la couche métier en Java
+
+Développement de la couche DAO avec Hibernate
+Réalisation des tests unitaires avec JUnit
+Développements et optimisation des requêtes SQL
+Gestion des anomalies sous Quality Center
+Intégration avec les différentes couches utilisant Spring
+Environnement technique : Windows XP, UNIX, Oracle, Design Patterns, Shell, Pl/SQL, XHTML, JavaScript, CSS, Eclipse, SVN, Maven, Quality Center, UML, JSF, EJB 3 Hibernate, JUnit.
+Entreprise Nationale des Sels - Algérie Avril 2006 – juin 2009
+3 ans et 2 mois – Ingénieur informatique
+Projet : Réalisation d’une Application Client Lourd pour la gestion du Complexe Sel d’El-Outaya en Delphi. Site web : http://enasel.com/fr/
+
+Réalisation d’une Application Client lourd pour la gestion de Complexe Sel d’El-Outaya en
+Delphi.
+
+Réalisation d'une application de codification des modems ADSL
+Développement du module de gestion DSLAM pour pilotage du débit ADSL des abonnées
+Monitoring du serveur des abonnés ADSL
+Environnement technique : Delphi, SQL Server, Tomcat, Windows XP / 2003 Server, Netbeans, HTML, CSS
+ARAB BANKING CORPORATION - Algérie Novembre 2004 – mars 2006
+1 ans et 4 mois – Ingénieur informatique
+Projet : Réalisation du logiciel Interface ABC / Banque d’Algérie
+
+Delphi
+WinDecip
+

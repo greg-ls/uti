@@ -1,0 +1,76 @@
+JASON GREFFIER
+Data scientist (5ans exp)
+
+
+PROFIL
+Data Scientist / ML Engineer avec 5 ans d’expérience, j’interviens sur l’ensemble du cycle IA : cadrage métier, préparation des données, POCs robustes et déploiement.J’ai mené des projets en Machine Learning, Deep Learning et IA Générative sur des cas concrets : détection d’anomalies industrielles, analyse de documents non structurés (PDF, Word), chatbots métier, ou encore prédiction de comportements clients.
+Je combine une forte culture R&D – avec un brevet déposé en Amérique du Nord – et une expérience concrète en industrialisation de projets IA. Mon objectif : transformer des cas d’usage complexes en solutions opérationnelles, robustes et compréhensibles par les utilisateurs métier.
+
+compétences fonctionnelles
+IA & Machine Learning : Développement de modèles de scoring, classification sémantique, détection de défauts visuels pour l'industrie du bois ; intégration de réseaux de neurones (Keras, TensorFlow) dans des POCs métier concrets.
+IA Générative & NLP : Déploiement de POCs combinant LLMs, prompt engineering et génération de code SQL / Python pour analyser automatiquement des fichiers métiers.
+MLOps & qualité : Conteneurisation (Docker), CI/CD (GitLab, Jenkins), suivi des performances via Phoenix; approche orientée industrialisation dès la phase de conception.
+Analyse de Données et Visualisation : Création de dashboards interactifs pour le
+suivi des performances et l'affichage des résultats
+Innovation & leadership : Dépôt d’un brevet, développement d’outils internes à destination des ingénieurs procédés, rôle transverse sur des projets data / produit.
+
+Compétences techniques
+Programmation: Python, SQL 
+Machine Learning & AI: Scikit-learn, TensorFlow, Yolov8, régression, Multilabel, Multiclass, Pandas, Numpy, Clustering, vision, NLTK, Spacy 
+Data Engineering: Linux, PostgreSQL, MySQL, BigQuery, S3, Redshift, ELK, GIT, Bash, Redis, Poetry, UV, API, dbt
+MLOps & DevOps: Docker, GitLab CI/CD, Jenkins 
+Dataviz: PowerBI, Looker, Streamlit, Dash 
+SEO & Analytics: Google Analytics, GA4, Semrush
+
+EXPÉRIENCES PROFESSIONNELLES
+ Data Scientist : Valeuriad (03/2025 - aujourd’hui, 3 mois)
+Projet : POC - Utilisation de l’IA pour analyser à partir d’une question utilisateur n’importe quels ﬁchiers / Base de données
+contexte: Autonomie complète, du besoin métier auprès de l’équipe commerciale jusqu’à la mise en production.
+Ingestion et structuration automatique de ﬁchiers (Excel, PDF, CSV) dans une base PostgreSQL hébergée en conteneur Docker. Interaction avec un LLM (Gemini via VertexAI et Langchain) pour générer dynamiquement du code Python et SQL, permettant des analyses personnalisées à partir de requêtes utilisateurs. Interface utilisateur développée en Streamlit pour un accès simple et rapide aux résultats, avec exécution sécurisée des requêtes.
+
+Data Scientist : Chambre de Commerce et d'Industrie des Pays de la Loire (01/2025 - 03/2025, 3 mois)
+Projet : Développement d'une IA sous forme de POC pour identiﬁer des proﬁls d’entreprises clients
+contexte : Autonomie complète et suivi hebdomadaire avec client avec support présentation. Restitution ﬁnale auprès équipes métier + COPIL.
+Modèle de scoring via un réseau de neurones multibranche (TensorFlow/Keras)
+Dashboard interactif avec Streamlit pour afﬁchage des résultats 
+Optimisation du démarchage en maximisant la précision / accuracy
+
+ Data scientist : Valeuriad (09/2024 - 03/2025, 7 mois)
+Projet : Optimisation de BCDC, chatbot interne pour la recherche de CV
+contexte : 1 PO, 2 Data Eng, travail en mode Agile avec versionning produit
+Extraction & nettoyage de CV en JSON depuis PostgreSQL (NLTK/SPACY)
+Embedding des CV pour système RAG
+Evaluation et Suivi des performances via Phoenix (Opentelemetry) & “LLM as a judge (Gemini)”
+
+ Data scientist: Décathlon Canada (12/2021 - 11/2023, 2 ans)
+Projet : Permettre aux équipes magasin, e-com et marketing d’utiliser la data comme levier décisionnel.
+contexte : Equipe IA, composées de 4 Data scientist, 2 développeurs, 1 leader, 2-3 stagiaires et 1 doctorant. Travail en mode Agile.
+Tracking Client : Analyse des parcours via Postgresql & Google Analytics 
+Outil SEO : Développement d’un outil d’analyse de mots clefs basé sur Google Trends
+Scoring Client : Segmentation RFM & intégration CRM (Salesforce)
+Système recommandation e-commerce
+ETL : Automatisation des pipelines (Python/ GCP/ Jenkins/ Bigquery/ Drive)
+
+Data scientist : Comact (06/2018 - 06/2021, 3 ans) Leader Nord-Américain en transformation du bois
+Projet : Développement de produit R&D et d’outil interne pour les équipes projets
+contexte : Mode Agile au sein d’une équipe de 25 personnes. Ingénieurs, Développeurs logiciel, Data scientist (computer vision).
+Dashboarding: Monitoring des performances des cartes GPU (Redis/ Docker/ Dash)
+Outil interne: WP-tools: Boîte à outil pour les ingénieurs procédés. (MySQL / MariaDb / Python )
+Erreur de Rotation: Extraction par vision (CNN) et laser + Model IA pour détection des angles en temps réel. Développement Algorithme matching 2D. Prototype en production fonctionnel. Intégration d’un dashboard pour suivi des performances. (Tensorﬂow / Régréssion linéaire / FastAPI)
+
+Diplômes
+Ingénieur Machine Learning - OpenClassroom (2021)
+DUT Sciences & Génie des Matériaux - Université de Pau (2009 - 2011)
+Ingénieur du Bois - Université Laval (2011 - 2015)
+
+Langues
+Français - Langue Maternelle 
+Anglais - Avancé (4 ans de travail avec clients US / Ouest Canadien)
+
+Certifications et Récompenses
+Hackathon 2023 - Vainqueur (Prédire les achats pendant les soldes) 
+Conférences & Présentations (outil IA pour segmentation) 
+Certiﬁcations: Google Analytics 
+Numérique Responsable
+Brevet: Dépose d’un Brevet US&Canada pour travaux sur erreur de rotation
+

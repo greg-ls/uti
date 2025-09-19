@@ -1,0 +1,58 @@
+ROU MOA Senior Expérience: 8 ans
+Polyvalente, déterminée et travaille en équipe.
+
+Skills
+Active infinite
+Swagger
+Jira
+
+Expériences clés:
+2017 PSA Test recette
+2018 Generali Business analyst. Assurance santé
+2019 ISSMI Formatrice
+2020 UNEO Test recette
+
+2020 - 2025 (51 mois) UNEO
+Cadre de la mission: Consultante test recette
+Contexte :
+Programme de Refonte de l'Ecosystème Digital : grand site public UNEO / SOLIDARM et CNG Projet refonte de l'espace adhérent en 2021 Projet de mise en place de la BAPI / API Projet refonte de l’espace adhérent en 2023 , mise en place de la plateforme communautaire SSO Projet Reach 5, mise en place du MFA Montées de versions Active infinite – Run Ai ( easy collectif et contrat individuel) Tests en mode RUN – tickets de production Projet mise en place de la PSC
+
+Réalisations:
+Analyse des users stories
+Mise en place du plan de recette
+Mise en place des JDD à partir de Active infinite
+Rédaction et déroulement des scénarios de tests
+Détection, création et suivi des anomalies dans Jira
+Réalisation des tests de non-régression
+Analyse des logs
+Gestion des incidents de productions
+Tests dans BAPI via des API
+Support utilisateur
+
+2019 - 2020 (11 mois) ISSMI
+Cadre de la mission : Formatrice informatique
+Contexte : Formation des élèves à la démarche projet informatique et à la présentation clients
+Réalisations:
+Présentation et préparation des cours de la démarche projet informatique
+Préparation des cours métiers : assurance vie / santé / IARD
+Mise en place d’examens et de leurs corrections
+Suivi de l’étudiant jusqu’à sa fin de formation
+Formation de l’étudiant à la présentation client
+
+2018 - 2019 (12 mois) Generali
+Cadre de la mission: Business analyst
+Contexte : Projet : Mise en place d’un comparateur de choix
+Réalisations :
+Analyse et formalisation des besoins exprimés par les interlocuteurs métiers
+Participation / animation des réunions avec le métier
+Rédactions des comptes rendus des réunions
+Analyse des users stories
+Préparation du plan de recette
+Saisie des exigences et du plan de test
+Déclaration et suivi des anomalies sous QC ALM
+
+2017 - 2018 (12 mois) PSA
+Cadre de la mission : Consultante test recette
+Contexte : Projet : Mise en place d’un outil d’embarquement digital
+Réalisations : Analyse et formalisation des besoins exprimés par les interlocuteurs métiers Rédactions des comptes rendus des réunions Préparation du plan de recette Saisie des exigences et du plan de test
+Déclaration et suivi des anomalies sous QC ALM

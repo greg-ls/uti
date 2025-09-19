@@ -1,0 +1,227 @@
+
+Ingénieur d’études et de développement
+
+DIPLOMES
+2007 Formation Gestion Projets Formation Management de projets
+2005 CNAM Formation Réseaux informatiques et intelligence artificielle
+1997 DUT Informatique de gestion option Génie informatique à l’université René Descartes Paris V (IUT de Paris)
+1994 BAC D
+
+LANGUES
+Anglais Bon niveau, parlé et écrit
+Allemand niveau scolaire
+
+COMPETENCES TECHNIQUES
+Langages COBOL, XGEN, SQL, C, C++, VISUAL BASIC 6
+Transactionnel CICS
+AGL PACBASE Batch et TP / RPP
+S.G.B.D DB2, DMSII, SQL server 2000
+Systèmes MVS/TSO / WINDOWS / UNISYS / GCOS
+Matériels IBM, PC
+Logiciels Quality Center, Word, Excel, Outlook, Powerpoint, Access, Excel, Dreamweaver, Photoshop, Visio, Quality Center, SQUASH, TWS, TOPAZ
+Méthodologie Merise, MCD, MPD, CARS
+
+EXPERIENCES PROFESSIONNELLES
+Franfinance (01/2024 à aujourd’hui)
+Ingénieur Etudes
+Projet RMS : Création automatique AGP : Le projet Onbording RMS a pour but de permettre l’enregistrement automatique dans AGP, de prospects fournis l’équipe RMS
+
+Tâches :
+Rédaction de spécifications techniques détaillées à partir de dossier de spécifications fonctionnelles,
+Demandes par des fiches fiches Jiras de création de tables DB2
+Modification des programmes PACBASE et COBOL
+Développement de programmes sur RPP : Service Situation du SIREN/SIRET et service consultation / création / MAJ des tables automatisation suivi et lien et changement d’adresse
+Tests unitaires des programmes sous l’interface Host Manager,
+Livraison des programmes en environnement d’intégration puis Recette
+Support aux tests recett
+Livraison des programmes en Production,
+
+Environnement technique : Mainframe, RPP, COBOL, PACBASE, JCL, TSO, File Aid, Beta, FileZilla, Word, Excel, JIRA, Confluence, Xpediter
+
+DGFIP (12/2018 à 12/2023)
+Ingénieur Etudes Migration GCOS vers IBM ZOS
+Projet Modernisation : Migration programmes IR GCOS BULL vers programmes IBM ZOS
+
+Tâches :
+Analyse et recensement des programmes IR (impot sur les revenus) à migrer de BULL vers IBM
+Transformation programmes Pacbase GCOS BULL vers Pacbase IBM ZOS via le logiciel PAC2PAC et outils de maj pacbase.
+Modification des programmes PACBASE et COBOL
+Transormation JCL GCOS BULL vers JCL IBM ZOS
+Tests unitaires et d’intégration avec l’équipe JEC des programmes cobol ZOS IR générés
+Livraison des programmes ZOS pour la recette CQMF
+Support recette CQMF et Production
+Comparaison des fichiers de production généré par application IR ZOS via FileAide et WinMerge
+
+Environnement technique : Mainframe, GCOS, COBOL, PACBASE, JCL, TSO, File Aid, Beta, FileZilla, Word, Excel, TOPAZ
+
+GIE AGIRC ARRCO(01/2017 à 12/2018)
+Ingénieur intégrateur
+Projet Complémentaire Retraite : RGP(Regroupement des poly-pensionnés, PAS, DSN/RNGD, MCPD
+
+Tâches :
+Prise de connaissance des projet RGP,PAS, DSN/RNGD, MCPD
+Réunion de travail avec la MOA
+Conception et déroulement des scénarios de tests d’intégration Projet RGP,PAS, DSN, MCPD
+Déclaration des anomalies de développement
+
+Environnement technique : Mainframe, COBOL, CICS, SQL, DB2, SPUFI, Endevor, SQUASH TM, SQUIRREL, TWS
+
+BNPP(02/2015 à 10/2016)
+Ingénieur d’études et développement
+Projet Modernisation gestions cartes
+
+Tâches :
+rédaction de spécifications fonctionnelles et techniques
+Participation aux réunions techniques avec l’équipe Interface Architecture technique, équipe Optimisation DB2
+Analyse, développement, tests unitaires de programmes batch et TP, recette avec les utilisateurs avec Quality Center et livraison en recette
+
+Environnement technique : Mainframe, COBOL, CICS, SQL, DB2, SPUFI, MQ Series, Endevor, Xpediter, Quality Center
+
+ESP (06/2014 à 01/2015)
+Ingénieur d’études et développement
+Projet SCOTT International
+FIFO
++ réceptionne les opérations de souscriptions , d’achats et de ventes de titres OPCVM, trackers à partir des référentiels bancaires.
++ concevoir une base FIFO pour stocker les opérations citées.
++ 3 tables principales de stockage : tables mouvement entrée, tables mouvement sortie, tables consommation, 3 tables principales historiques
++ calcul de plus-values entrées-sorties de titres OPCMV Trackers FCP dans le cadre de taxation belge par une lecture de la base FIFO.
++ Fonctions transactionnelles d’accès aux données FIFO pour affichage.
+
+Tâches :
+rédaction de spécifications techniques Calcul de plus value sur les ventes de titres par rapport à la taxation belge
+
+Développement, tests unitaires de programmes batch et TP, recette avec les utilisateurs et livraison en recette commune.
+Participation aux réunions techniques avec l’équipe Interface Architecture technique, équipe Optimisation DB2
+
+Environnement technique : Mainframe, COBOL, PACBASE, ICONE, CICS, SQL, DB2, SPUFI, MQ Series, Endevor, Xpediter
+
+FactorSoft (01/2013 à 06/2014)
+Ingénieur d’études et développement
+Projet Réassurance Factor Soft
+
+Tâches :
+Gestion des incidents de production et des anomalies Partie Réasassurance
+Demandes de garanties Groupama, Coface, Atradius, Sfac, réception des réponses.
+Projet Changement de Police contrat cadre
+Analyse, développement et tests unitaires, recette avec utilisateur et livraison en production
+
+Projet Nouvelle Convention SFAC
+Analyse, développement, tests et livraisons en production
+
+Projet 6A7
+Développement programmes de Réassurance, tests unitaires
+Recette des programmes Réassurance impactés par 6A7
+
+Projet Suppression des garanties des vendeurs
+Analyse et développement de programmes TP pour permettre à l’utilisateur de supprimer les
+garanties vendeurs.
+Environnement technique : Mainframe, Unisys, COBOL, XGEN, DMSII
+
+Partecis (01/2011 à 01/2013)
+Ingénieur d’études et développement
+PROJET OPAL : Opérations de flux « aller CB » : Débits / Crédits sur Cartes Bancaires
+
+Tâches :
+Chargé de gestion de suivi d’incidents sur les applications ENEFP (Echanges de Flux opérations CB, routage de flux), OPUS (Pré-Compensation : contrôle structure entête de fichier, de remise, fin de remise), ACOMP(Aller Compensation : contrôle de donnée, calcul commission interbancière, contrôle date de valeur) , GARANCE ( Gestion de retraits DAB).
+Participation au projet de migration JCL Q* vers Q0*.
+Chargé de reports de programmes ENEFP pour un nouvel Environnement (GCL).
+Chargé des tests unitaires, recette et qualification.
+Environnement technique : IBM/MVS, TSO, PACBASE, COBOL, DB2, JCL, File Aid MVS, File Aid, DB2, Utrans, Spufi, BETA, OPC
+
+Crédit Agricole Dijon (02/2009 à 12/2010)
+Ingénieur d’Etudes et développement
+Projet GREEN
+
+Tâches :
+Analyse et Développement de programmes dans le cadre de maintenance de l’application GREEN (Logiciel de crédit).
+Participation aux réunions projet avec la MOA et l’équipe Front Office
+Tests unitaires, d’intégration des programmes;
+Rédaction de dossier de mise en production.
+
+Environnement technique : IBM/MVS, TSO, PACBASE, COBOL, CICS, DB2, JCL, File Aid MVS, File DB2, NQE, Spufi, Endevor, Xpeditor, Intertest
+
+LA BANQUE POSTALE (07/07 à 01/09)
+Ingénieur d’études développement
+Contexte : Risque bancaires
+Tâches : Assistance technique ayant pour actions principales la prise en compte des évolutions Risque, la gestion des incidents de paiement, l'assistance utilisateur et la maintenance correctives et adaptatives sur les applications ICLI, FICP (Fichier incident des clients particuliers), GIDE ( Gestion informatique des découverts), et CLARIS(Gestion des clients à risques) ;
+Recette fonctionnelle sur les applications réglementaires du monde bancaire et gestion risque interne.
+Environnement technique : IBM/MVS, TSO, PACBASE, COBOL, DB2, MQ Series, Platinum, JCL, File Aid, Spufi, Endevor, Armide, Spitab, Xpeditor, Intertest, Windows XP.
+
+LA BANQUE POSTALE (07/04 à 04/07)
+Ingénieur Etudes et développement
+Contexte : 
+Au sein d’une équipe TMA en charge des applications :
+Applications VIVALDI (Gestion des opérations de virement),
+CALLISTO (Gestion de Paiement par TIP),
+ELECTRE (Gestion des Lettres Chèques) de la Poste DISF.
+Tâches : 
+Analyse et développement sur les maintenances évolutives et correctives
+Rédaction des Spécifications détaillées
+Tests unitaires, d’intégration et de recette des programmes
+Suivi de production
+Encadrement de stagiaires sur des évolutions VIVALDI
+Encadrement et transfert de connaissance technique et fonctionnelle pour TMA VIVALDI Bordeaux.
+Environnement technique : IBM/MVS, TSO, PACBASE, Cobol, CICS, DB2, Platinum, JCL, File Aid, QMF, Spufi, COCA (Endevor), Armide, Windows.
+
+CREDIT AGRICOLE NANCY (02/03 à 06/04)
+Analyste-programmeur
+Contexte 
+Migration PATRIC V7 vers PATRIC V8 (Fiabilisation des données client, archivage électronique et traitement des clients refusables au sein du Service Crédit).
+Tâches 
+Analyse, rédaction de spécifications techniques ;
+réalisation ;
+Tests de programmes batch.
+Environnement technique : IBM/MVS, TSO, JCL, File Aid, PACBASE, Endevor, Cobol, DB2, Spufi, Windows
+
+SCII.net (03/02 à 02/03)
+Analyste Programmeur
+Contexte 
+Projet GAO/MATRIX (gestion des ressource humaines et des appels d’offres de la société) et QCI (Questions compétences informatiques)
+Tâches
+Analyse fonctionnelle, mise en place d’une base de données GAO MATRIX sous SQL Server ;
+Conception et développement de l’interface web sous VB.net ;
+Chargé de la rédaction des jeux d’essai, des tests unitaires, d’intégration.
+Contexte Chef de projet pour le Projet QCI
+Tâches
+analyse fonctionnelle, mise en place d’une base de données QCI sous SQL Server et développement de l’application QCI en VB6 ;
+chargé de la rédaction des jeux d’essai, des tests unitaires, d’intégration.
+Environnement technique : Windows XP, Windows 2000,Windows NT, SQL server, SQL, VISUAL BASIC 6 et .net
+
+AXA ASSURANCES (07/01 à 02/02)
+Analyste-programmeur
+Contexte 
+Gestion de Personne, Délégation, et Point de vente de Référentiel Agent (Logiciel de gestion de produits d’assurance).
+Tâches 
+Rédaction de spécifications techniques avec l’équipe technique de AXA et développement des programmes en Cobol avec une architecture à 4 niveaux (Local, Global, Base, Accès) ;
+maintenance corrective (FFT) et maintenance évolutive (MDA) des applications Personne et Point de vente : corrections des modules avec anomalies, débranchement d’une application à une autre (débranchement de application Personne vers PTF) ;
+tests unitaires, tests d’intégration sur les applications Personne, Délégation et Point de vente et recette.
+Environnement technique : IBM/MVS, Windows, Cobol, DB2, SQL, Endevor, Javascript, Interface web
+
+GAN ASSURANCES (01/99 à 06/01)
+Analyste-programmeur
+Tâches
+Analyse et développement, sur l’application Référentiel Client SAPHIR, en COBOL/CICS/DB2 à partir de modules Cobol/IMS/DL1(Migration) ;
+Réunion avec l’équipe technique Editique, Architecture technique et MOA
+Développement des requêtes SQL pour supprimer des contrats de clients résiliées sous Spufi/DB2 (Projet gestion contrats IA) ;
+Recensement de modules du projet PAC (Plan Action Commercial) impactés par l’Euro et modification de ces modules pour l’Euro ;
+analyse et modification des modules Cobol qui éditent des lettres chèques courtiers pour adopter le nouveau format chéquier Euro (Application Lettres Chèques Courtiers) ;
+réalisation des filtres et des clones pour permettre une double édition des états statistiques de l’application GESCDA en Francs et en Euros selon les dates de bascule à l’Euro.
+Environnement technique : IBM/MVS, COBOL, JCL,TSO, IMS/DLI, CICS, DB2, ISPF, DB2, DL1, Endevor
+
+CNETI (06/97 à 10/98)
+Analyste-programmeur
+Contexte 
+Projets Plan d’Épargne Logement, Compte d’Épargne Logement et Compte à Terme dans le cadre de la migration de modules de calculs de PACBASE vers C.
+Tâches 
+études et réalisation de programmes de calcul PEL/CEL/CT en langage C à partir de modules de calcul développés sous PACBASE ;
+réalisation de tests unitaires et d’intégration.
+Environnement technique : MVS, TSO, PACBASE, C
+
+ADVANTEST FRANCE (06/96 à 09/96)
+Contexte 
+Stage de développeur
+Tâches 
+Développement en version C et en version C de drivers pour piloter l’analyseur de spectre Advantest à partir de PC ;
+conception d’une interface utilisateur utilisant les drivers développés pour les clients.
+
+Environnement technique : C, StudioLab

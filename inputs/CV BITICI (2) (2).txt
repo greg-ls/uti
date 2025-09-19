@@ -1,0 +1,118 @@
+50 rue Gabriel Lamé 75012 Paris michael.bitici@gmail.com 0699043452
+MICHAEL BITICI
+PMO – Expert en pilotage de projets complexes et transformations IT
+Fort de plus de 10 ans d’expérience en gestion de portefeuilles stratégiques, j’interviens dans des environnements exigeants (industrie, finance, santé) pour structurer, piloter et sécuriser les projets de transformation digitale et de déploiement ERP à l’échelle internationale. Mon approche combine rigueur méthodologique (Agile/SAFe, cycle en V), maîtrise budgétaire, coordination transverse et production d’indicateurs fiables pour la gouvernance. Engagé, structuré et orienté résultats, je suis un partenaire de confiance pour les directions de programme.
+CERTIFICATIONS:
+PRINCE2
+SAFe Practitioner
+Scrum Master
+Product owner
+FONCTIONNEL :
+PMO
+Chef de projets
+Responsable de portefeuille de projets,
+TECHNIQUE :
+Outils : Jira, Triskell, Planisware, SAP, Dynamics, Azure.
+Méthodologies : Agile/SAFe, Kanban, Cycle en V, Cascade.
+DIPLOMES:
+MSc Project and Program management – 2015 – SKEMA
+Bachelor Project & Program management – 2013 – SKEMA
+LANGUES : Français, anglais
+
+PMO PROGRAMME SERVIER
+Janvier 2025 - maintenant
+Projet et contexte : Pilotage du déploiement de la solution SAP dans les filiales internationales du groupe Servier (modules OTC, P2P, R2R). - 80.000 jH
+Prestations réalisées dans le cadre du projet :
+Conception et déploiement des indicateurs de pilotage, tableaux de bord et outils de
+reporting consolidés (alignés avec les exigences du PMO Corporate).
+Fourniture d’une vision synthétique et fiable de l’état d’avancement du programme à la
+direction et aux instances de gouvernance (suivi des jalons, alertes, arbitrages).
+Coordination opérationnelle des travaux avec les équipes projet centrales, locales et les
+intégrateurs externes.
+Participation à la définition de la stratégie du programme, appui à la planification des
+déploiements et à l’organisation des travaux de déploiement en filiales.
+Livrables clés :
+Dashboard consolidé du programme
+Fichier de suivi des risques et des plans de mitigation
+Compte-rendus structurés des réunions de pilotage hebdomadaires
+Suivi capacitaire des ressources et analyse des écarts
+Environnement : SAP S/4HANA – Modules OTC, P2P, R2R | Power BI | Excel Avancé | PMO Corporate | Environnement international
+
+PMO PORTFOLIO PROBTP
+Janvier 2024 – Décembre 2024
+Projet et contexte : Optimisation des systèmes informatiques et pilotage d’un portefeuille de 300 projets IT représentant 90 000 jH.
+Prestations réalisées dans le cadre du projet :
+Cadrage des projets (pilotage des phases d’expression des besoins et chiffrage)
+Rédaction des mandats projet et mise en place de la comitologie
+Suivi budgétaire (prévisionnel vs consommations)
+Élaboration et mise à jour des roadmaps et registres de risques
+Livrables clés :
+Mandats projet
+Roadmaps portefeuille
+Tableaux de bord budgétaires consolidés
+Registre de risques
+Conclusion et résultats : Lancement des phases de cadrage pour 2025. Consolidation des projets. Mise en place d’une comitologie formalisée pour le suivi du portefeuille.
+Outils et méthodologie : Office, Triskell, Cascade, Kanban
+
+PMO PROGRAMME SOCIETE GENERALE
+Janvier 2023 – Décembre 2023
+Projet et contexte : Pilotage de projets d’infrastructures informatiques. 2 programmes regroupant 10 projets pour un total de 10 000 jH.
+Prestations réalisées dans le cadre du projet :
+Cadrage des projets (pilotage des phases d’expression des besoins et chiffrage)
+Phase de lancement de projet et mise en place de la comitologie
+Suivi budgétaire (prévisionnel vs consommations)
+Suivi des roadmaps projets et gestion des risques
+Livrables clés :
+Roadmaps consolidées
+Tableaux de bord budgétaires
+Comptes rendus de comités projet
+Registre de risques
+Conclusion et résultats : Objectifs de la roadmap atteints à 95 %. Atterrissage à 96 % du budget. Économies globales générées : 500 k€.
+Outils et méthodologie : Office, Planisware, Agilité, Kanban
+
+PMO SAP ESSILOR LUXOTTICA
+Janvier 2022 – Décembre 2022
+Projet et contexte : Déploiement de SAP dans un environnement international, en alignement avec la roadmap de transformation digitale.
+Prestations réalisées dans le cadre du projet :
+Développement des méthodologies projet pour accompagner le déploiement ERP
+Gestion des risques fonctionnels et techniques liés aux spécifications et tests
+Coordination des ressources techniques et animation des comités de validation
+Mise en place de tableaux de bord de suivi qualité et budgétaire
+Livrables clés :
+Méthodologie projet adaptée au contexte ERP
+Registre des risques
+Tableaux de bord de suivi qualité et budget
+Comptes rendus des comités de validation
+Conclusion et résultats : Mise en place d’outils de gestion de projet. Clôture des phases de rédaction des spécifications fonctionnelles, UT, SIT et UAT.
+Outils et méthodologie : Office, Azure, Cycle en V
+
+PMO PROGRAMME ARQUUS DEFENSE
+Janvier 2016 – Décembre 2021
+Projet et contexte : Appui au pilotage de plusieurs programmes d’armement et de soutien, dans le cadre de la modernisation de véhicules militaires (GVT, VBAE, PLFS, VLTP-NP).
+Prestations réalisées dans le cadre du projet :
+Structuration et déploiement des processus projet (planification, gestion des risques,
+revues)
+Animation des routines projet (revues de jalons, coordination inter-métiers, reporting)
+Élaboration et maintien des plannings consolidés (sous MS Project et Planisware)
+Suivi des risques projet et reporting consolidé auprès du top management
+Livrables clés :
+Macro-plans multi-projets
+Registres de risques mis à jour et partagés
+KPI consolidés sur l’avancement, la charge et les risques
+Support aux audits internes et clients (DGA)
+Conclusion et résultats : Renforcement de la gouvernance projet, amélioration de la visibilité sur les engagements calendaires, maîtrise des jalons contractuels clés.
+Outils et méthodologie : MS Project, Planisware, Excel, PowerPoint, Cycle en V, Méthode IPT (Integrated Project Team)
+
+PMO PROGRAMME AIRBUS HELICOPTER
+Janvier 2015 – Décembre 2015
+Projet et contexte : Déploiement des processus de planification pour les projets de fabrication et certification des hélicoptères militaires.
+Prestations réalisées dans le cadre du projet :
+Suivi des plannings et des risques techniques liés aux projets de fabrication et certification
+Animation des réunions de suivi et coordination des équipes pour garantir la qualité des livrables
+Application des méthodologies de résolution adaptées aux contraintes réglementaires
+Livrables clés :
+Plannings de projet actualisés et suivis
+Rapports de risques techniques
+Comptes-rendus des réunions de suivi et coordination
+Conclusion et résultats : Amélioration de la maîtrise des plannings et anticipation des risques techniques, assurant la conformité réglementaire et la qualité des livrables dans le cadre des projets de certification.
+Outils et méthodologie : MS Project, Excel, Méthodologie de gestion des risques, Méthodes de résolution de problèmes, réunions collaboratives

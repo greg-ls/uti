@@ -1,0 +1,127 @@
+DBE MOA Confirmée Expérience : 14 ans
+Assurance
+Banque de détail
+Digitalisation
+Gestion de projet
+Cycle en V et agilité
+AMOA
+Business Analyst et chef de projet MOA confirmée avec une expertise banque et assurances santé ayant une appétence pour les challenges dans de nouveaux domaines fonctionnels. Esprit d’équipe et très bon relationnel.
+
+Expériences clés :
+
+SANTECLAIR Versionning du portail TP Paramétrage des garanties Applications web dédiées à la prévention santé Mise en place de reporting d’activité plateforme TP Gestion d’incident et RUN
+2010 - 2015
+
+GROUPAMA Digitalisation du référencement des professionnels de santé partenaires : Optique Dentaire et ostéo Gestion référentiel optique Refonte portail en Angular
+2015 - 2018
+
+BNP PARIBAS MIIF II volet frais ex-anté Migration iso des transactions de négociation titres en Spirit. Privatisation de la FDJ Etude Plan Epargne retraite Etude projet C² éditique Gestion d’incident et RUN
+2018 - 2022
+
+LCL Versionning des outils d’Entrée en relation Interfaçage API DGFIP Eligibilité au LEP Mise en conformité des Entrées en relation Gestion d’incidents et RUN
+2022
+
+Compétences métiers
+Assurance santé et tiers payant
+Négociation Titres
+Digitalisation
+Analyse et résolution d’incidents de niveau fonctionnels
+Accompagnement au changement
+Entrées en relation bancaire Epargne financière
+
+Compétences techniques
+MySQL
+ALM QC
+JIRA
+Confluence
+Ms Office – Outlook 365 - Teams
+Postman BMC Remedy
+
+Etudes et formations
+Master II en Systèmes d’informations – Université Paris VII
+Maitrise en informatique – Université Versailles St Quentin en Yvelines
+Ingénieur en informatique – Université de Skikda Algérie Baccalauréat scientifique
+
+Langues
+Français et Arabe et professionnels
+
+2022 - 2024 (36 mois) LCL – SNI
+Cadre de la mission : Business Analyst
+Contexte : Tribu Assurance Compte et Epargne Squad Entrée En Relation
+Portail de ventes : Versionning des parcours d’entrées en relation pour les offres LCL à la carte, LCL
+étudiant et LCL Essentiel.
+Run de prod Squad Comptes
+Projet API LEP : Automatisation du contrôle de l’éligibilité au LEP par appel API exposée par la DGFIP.
+Projet Mise en conformité des entrées en relation : Fiabilisation des parcours d’ouverture de compte Pro, et Outil de Contrôle personne / compte
+Run de prod
+
+Réalisations :
+Participation et animation des rituels Scrum ( daily meeting, sprint retro, sprint review... )
+Animation d’ateliers métier
+Participation aux études techniques et contraintes d’architecture SI.
+Rédaction et validation des User Stories
+Rédaction de la stratégie de recette et réalisation des tests fonctionnels
+Coordination entre les équipes métiers , la maitrise d’œuvre et les autres SNI
+Analyse fonctionnelle des incidents et réponse aux assistances utilisateurs
+Chiffrage et ordre de grandeur.
+Suivi de mise en production
+
+2018 - 2021 (40 mois) BNP Paribas – BDDF IT
+Cadre de la mission : Business Analyst
+Contexte : Offres et services bancaire secteur Titres Squad Négociation titres
+Migration technique de l’outil de passage d’ordre OPCVM, carnet d’ordres et Introduction en bourse et
+privatisation en technologue Spirit.
+Privatisation de la Française des jeux.
+Run de prod
+Projet C² : Décommissionnement du partenaire ESP et connexion aux services CAT pour la négociation
+titres : chantier éditique et déclaration réglementaires.
+Squad Socles Titres
+Projet MIIF II : volet frais ex- anté au passage d’ordre
+Etude mise en place d’un nouveau produit d’épargne : Plan Epargne Retraire Individuel
+
+Réalisations:
+Préparation et animation d’ateliers métier et de comité projet
+Participation aux études techniques et contraintes d’architecture SI.
+Rédaction et validation des spécifications fonctionnelles détaillées.
+Rédaction de la stratégie de recette et réalisation des tests fonctionnels.
+Coordination entre les équipes métiers , la maitrise d’œuvre et les autres parties prenantes.
+Analyse fonctionnelle des incidents et réponse aux assistances utilisateurs.
+Suivi de mise en production.
+
+2015 - 2018 (39 mois)
+GROUPAMA – DAP Cadre de la mission : Chef de projet MOA
+Contexte : MOA prestations santé Évolutions du système d’information Sévéane et des impacts sur les SI connexes. (Sévéane : Plateforme santé dédiée à l'amélioration des services associés à la complémentaire santé des 6 millions de bénéficiaires Groupama, ProBTP et quelques courtiers en assurance santé) .
+Projet : numérisation du processus de référencement pour recrutement des professionnels de santé afin de constituer un réseau de partenaires santé agréés Sévéane : Opticiens, Chirurgiens dentistes , ostéopathes et chiropracteurs.
+Projet : Refonte du portail dédié aux professionnels de santé partenaires Sévéane en Angular.
+Projet : Mise en place d’un référentiel optique de produits avec tarification agréée Sévéane.
+Projet : Mise en place d’offre sur mesure en matière de tiers payant optique afin de maitriser le reste à charge.
+
+Réalisations :
+Cadrage du projet
+Conception générale et détaillée du processus cible
+Priorisation des besoins métiers, planification des lots, chiffrage de la solution
+Coordination des différents intervenants : métier, caisses régionales, MOA, MOE, architectes..
+Participation aux instances de pilotage (COPIL, COPROJ) : gestion des risques, suivi budgétaire,
+arbitrage
+Elaboration de la stratégie de test.
+Conduite et exécution de la recette.
+Accompagnement au changement
+
+2010 - 2015 (60 mois) SANTECLAIR - DSI
+Cadre de la mission : Assistance MOA
+Contexte : Service Maitrise d’ouvrage Évolutions diverses du système d'information et la mise en place de nouveaux outils.
+Versioning et personnalisation d'application web dédiées à la prévention santé : Suivi nutritionnel,
+Automédication, arrêt du tabac.
+Mise en place de reporting automatisés pour le suivi de l’activité plateforme, réseaux de soins et des clients (assureurs, courtiers).
+Recette du passage de la nomenclature NGAP à la CCAM dentaire.
+Pilotage de la recette bipartie avec les assureurs et courtiers connectés au SI Santéclair pour la gestion des prises en charges dentaires.
+Versioning du portail de gestion des demandes de tiers payants optiques et dentaire.
+Paramétrage de contrats de garanties optiques et dentaires dans le SI.
+
+Réalisations :
+Audit de l’existant
+Aide à la spécification du besoin et rédaction du cahier des charges des évolutions attendues
+Préparation et exécution de Réalisation de la recette fonctionnelle.
+Accompagnement au changement.
+Assistance utilisateur et analyse et résolution d’incident.
+recensement du besoin métier , étude d’impact personnalisation par client ( assureur) spécification , pilotage de la recette et suivi du déploiement.

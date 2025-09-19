@@ -1,0 +1,80 @@
+Développeur et Intégrateur
+
+DOMAINES D’INTERVENTION
+Tourisme / événements sportifs (Application Teams – Tour de France)
+Épargne et finances (application WebDépargne – PROBTP)
+Télécommunications (plateforme de gestion de machines virtuelles – Sofrecom / Orange Business Services)
+Gestion des temps et activités (pointage, absences, timesheet, agenda)
+Gestion administrative et RH (workflow, notes de frais)
+Fiscalité et taxes (application de collecte de taxes – Opencap Studio)
+Jeux vidéo (développement de Web APIs pour application gaming)
+Voyage et tourisme (ERP – Siroko Travel)
+
+CONNAISSANCES FONCTIONNELLES
+Finance, Sport, GRH, IT
+
+CONNAISSANCES TECHNIQUES
+Technologie & Logiciel : RESETfull, SOAP, Kafka, Jhipster, Microservices, Swagger, Postman.
+Langages & Frameworks : Java, Spring Boot, Javascript, Typescript, Angular, JavaScript, Struts2, SQL, PL SQL, Jquery,
+DevOps : Docker, Docker swarm, Jenkins, Git, Kuber
+Bases de données / Script : Mysql, PostgreSQL, MongoDB, Oracle / Bash shell
+Méthodologie agile : Scrum
+Système : Linux, Windows
+Gestion de Projet : Jira, Confluence
+
+DIPLOMES
+Mastère Professionnel – Modélisation, Base de données et intégration système données et Intégration des Systèmes
+Ecole Supérieur de l’Economie Numérique Manouba Tunis | 2015 – 2017
+Licence Appliquée – Spécialité Technologies des Systèmes d'Information
+ESEN Manouba Tunis | 2012 – 2015
+Baccalauréat scientifique - Section Mathématique 2012
+
+CERTIFICATIONS
+Certificat d’introduction à l’Agilité & Scrum (Advyteam)
+Attestation Angular Avancé
+
+EXPERIENCES PROFESSIONNELLES
+Consultante technique Java Spring boot Angular chez
+Alithya, Paris | 03/2022 – Aujourd’hui
+ASO : Application Teams de Tour de France
+Développement des fonctionnalités backend.
+Intégration de l’application Spring Boot avec Amazon S3.
+Gestion des branches avec Gitflow.
+Intégration avec une API REST.
+PROBTP : Application WebDépargne
+Migration du frontend vers Angular.
+Migration du backend vers Spring Boot.
+Déploiement de l’application sur des serveurs dédiés.
+Environnement : Linux, MacOS, Windows 10/8/7, Angular, React.js, API REST, SQL, PostgreSQL, Jenkins, Sonar, Git, Swagger, Kafka, CI/CD, Jenkins, Azur DevOps
+
+Consultante technique JAVA Spring boot Angular chez
+Sofrecom (Orange Business Services) | 08/2020 – 02/2022
+Migration Frontend d’une plateforme de gestion des machines virtuelles (CWT)
+Migration du frontend vers Angular.
+Participation à l’analyse des besoins, chiffrage et estimation des charges de travail.
+Développement de nouvelles fonctionnalités backend et frontend.
+Réalisation des tests unitaires et d’intégration.
+Gestion des branches selon le modèle Gitflow.
+Déploiement manuel et automatique de la solution sur des machines.
+Contribution aux phases d’études pour les choix techniques.
+Environnement : PostgreSQL, MySQL, MongoDB, Oracle, Bash Shell, Linux, Windows, Jira, Confluence, Scrum.
+
+Full Stack Software Engineer chez Advyteam | 05/2019 – 07/2020
+Développement de fonctionnalités métier backend (Spring Boot) et frontend (Angular).
+Implémentation de modules : Gestion des temps, Absences, Timesheet, Agenda, Workflow, Notes de frais.
+Gestion des branches avec Gitflow.
+Implémentation de composants modifiés (Jenkins, Sonar, GitHub, Docker Swarm).
+Création de squelettes de microservices Spring Boot.
+Accompagnement des équipes dans le choix des frameworks et technologies.
+Environnement : JavaScript, Spring Boot, Spring Data, Spring Batch, Angular, MongoDB, MySQL, Kafka, Maven, Jhipster, Docker, Docker Swarm, Jenkins, Sonar, Git, Swagger, Jira, Scrum.
+
+Ingénieur Étude et Développement Informatique chez Opencap Studio | 12/2018 – 04/2019
+Maintenance et débogage d’une application de collecte de taxes.
+Développement de web APIs pour une application de jeux vidéo avec Spring Boot.
+Gestion de projets et travail en équipe.
+Création de scripts Shell.
+Environnement : Java, JEE, Servlet, JSP, JavaScript, Spring Boot, PostgreSQL, ProjectJelly, SVN, JUnit, Maven, Jhipster, Git, Docker, Docker Swarm.
+
+Développeur et webmaster chez Siroko Travel | 12/2017- 10/2018
+Développement et Maintenance d’un ERP spécifique avec Java JEE
+

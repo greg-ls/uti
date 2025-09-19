@@ -1,0 +1,149 @@
+
+Analyste Développeur Mainframe IBM
+MVS - Zos - TSO - RDZ – COBOl - DB2 - SQL
+
+COMPETENCES TECHNIQUES
+Systèmes : Mainframe IBM MVS – z/OS (avec TSO et RDZ), UNIX
+Langages de Programmation : COBOL - SQL - PL1 – FORTRAN
+Transactionnel : CICS
+Bases de données : DB2, Oracle - NETEZZA, Teradata
+Autres : JCL, VSAM, ENDEVOR, MULTITEL, SYSTEX
+ETL : Informatica PowerCenter, ETI*Extract, OWB (Oracle Warehouse Builder)
+
+COMPETENCES FONCTIONNELLES
+Modélisation des données (MCD, MLD, MPD)
+Modélisation des traitements (MCT, MOT)
+Etude des flux de données
+Expression des besoins, cahiers des charges
+Spécifications fonctionnelles générales et détaillées
+Spécifications de réalisation
+Réalisation
+Recette (Qualification et suivi d'anomalies)
+Support et Conseils
+
+EXPERIENCE PROFESSIONNELLE
+De septembre 2024 à ce jour : EURO INFORMATION DEVELOPPEMENT (Cergy)
+Analyste Développeur Mainframe IBM
+Contexte : 
+Equipe C230, projet PBP (Partenaires Banque Privée)
+Taches : 
+Spécifications techniques
+Réalisation
+Maintenance
+Environnement : IBM MVS, RDZ et TSO, COBOL, DB2, SQL
+
+De Septembre 2023 à Août 2024 : GENERALI
+Analyste Concepteur Mainframe Cobol
+contexte : Equipe TIGRE (Recouvrement-Encaissement)
+Taches; 
+Spécifications pour enrichissements des données et fiabilisation des traitements existants
+Développement
+Intégration de « La Médicale » dans le SI Generali
+Suivi de Production
+Environnement : IBM MVS, COBOL, DB2, SQL, JCL
+
+De mai 2016 au à juillet 2023 : EURO INFORMATION DEVELOPPEMENT (Nancy)
+Analyste Développeur Mainframe IBM
+Contexte : 
+Equipe DOU (Douteux) – PVN (Provisions)
+Intégration de nouvelles banques (CMH, BEOBANK) dans le SI
+Déclassement de clients (douteux, contentieux, etc) et impacts dans les provisions
+Création des fichiers de restitution (fusion des données calculs des agrégats)
+Taches : 
+Analyse de l’existant
+Spécifications fonctionnelles
+Spécifications techniques
+Réalisation
+Tests
+Dossier d’exploitation pour la Production
+Environnement : IBM MVS, RDZ, COBOL, DB2, SQL
+
+2013 – 2015 : SOCIETE GENERALE
+Consultant ETI*Extract et COBOL
+EDC : Entrepôt de Données Commerciales
+Enrichissement du datawarehouse par intégration de nouvelles données
+Environnement : IBM MVS, COBOL, UNIX, ORACLE, SQL, ETI*Extract
+
+2010 – 2013 : CARDIF – CHRONOPOST – MONOPRIX- KRAFT-LU
+Consultant INFORMATICA
+Taches :
+Intégration de données
+Environnement : UNIX, ORACLE, IBM-NETEZZA, INFORMATICA V8, V9
+UNIX, ORACLE, INFORMATICA V9
+UNIX, DB2, ORACLE, SQLServer, SAP, INFORMATICA V8
+UNIX, DB2, ORACLE, INFORMATICA V8
+
+2009 : CREDIT DU NORD
+Consultant OWB, ETI*Extract, COBOL
+Contexte :
+Projet Data Warehouse
+Taches :
+Recueil des expressions de besoins pour élaborer des spécifications de réalisation en vue de l’alimentation de nouvelles données dans le datawarehouse
+Réalisation des "mapping" OWB et des traitements COBOL
+Environnement : IBM MVS(JCL), COBOL, DB2(SQL)
+UNIX, ORACLE(SQL), OWB, ETI*Extract
+
+09/2005 – 10/2008 : BNP PARIBAS
+Consultant ETI*Extract et COBOL
+Projet BMD ("Base Marketing Dynamique")
+BEC ("Base des Evénements Comptables ")
+Recueil, auprès de la MOA, des expressions de besoins pour l’alimentation du datawarehouse
+Réalisation des traitements COBOL sur MVS pour ces collectes.
+Environnement : IBM MVS(JCL), COBOL, DB2(SQL), SPITAB
+UNIX, ETI*Extract, Teradata SQL Assistant, dictionnaire Harry
+
+03/2005 – 08/2005 : CREDIT DU NORD
+Homologation
+Homologation sur le domaine de la Gestion des Titres (OMEGA)
+
+06/2004 – 02/2005 : ATHLON - EDF
+Consultant Décisionnel
+Taches :
+Modélisation, Rédaction de cahiers des charges
+Proposition de modèles d'architecture applicative de Data Warehouse
+
+06/2003 – 05/2004 : BNP PARIBAS
+Consultant ETI*Extract et COBOL
+Taches :
+Responsabilité Analyste et Développeur : réalisations des traitements COBOL permettant l'alimentation des données dans la Base Marketing
+Dynamique (BMD) et la Base des Evénements Comptables (BEC)
+Environnement : IBM MVS(JCL), COBOL, DB2(SQL)
+UNIX, ETI*Extract, Teradata SQL Assistant
+
+09/1999 – 11/2002 : CREDIT DU NORD
+Consultant ETI*Extract et COBOL
+Contexte :
+Projet MRC : Management Relation Client
+Taches :
+Responsable d'applications d'alimentation des référentiels : relations avec les responsables d'applications opérationnelles pour établir les cahiers des charges des données à mettre à disposition, qualification des données recettées, études de l’intégration de ces données dans le Data Warehouse
+Support à l'équipe décisionnelle : études et propositions de solutions relatives aux approches de résolution des problèmes (architecture applicative en couches, bascules d'agences, bascules de banques, reprise de banque)
+Analyste et Développeur : réalisations des traitements COBOL permettant l'alimentation du Data Warehouse
+Environnement : IBM MVS(JCL), COBOL, DB2(SQL)
+UNIX, Oracle (SQL), ETI*Extract, C
+
+07/1997 – 09/1999 : CREDIT DU NORD
+Responsable d'applications "Risques", Chef de projet, Analyste et développeur Mainframe
+Taches :
+Responsable d'applications : interlocuteur DSI vis-à-vis de la Direction des Risques, suivi des applications "Risques", spécifications des besoins
+Support : assistance fonctionnelle et technique
+Chef de Projets : estimation, planification et encadrement de la mise en œuvre de la réalisation des évolutions et corrections
+Analyste et Développeur : réalisations (COBOL), recettes, mises en production
+Environnement : IBM MVS(JCL), COBOL, DB2(SQL), CICS
+Project View
+
+1990 – 1997 : EUROP INFO SYSTEM – SOVAC – TELEMECANIQUE - CREDIT AGRICOLE - LA CONCORDE
+Analyste Développeur
+Tache :
+Analyse et développement Mainframe Cobol
+Environnement : IBM MVS(JCL), COBOL, DB2(SQL), CICS)
+
+1987 – 1989 : EDF
+Analyste Développeur FORTRAN
+Taches :
+Analyse et développement Fortran
+Environnement : BULL GCOS6 (DPS6, Mini6), Fortran, Assembleur
+
+DIPLOMES
+DESS
+MIAGE
+

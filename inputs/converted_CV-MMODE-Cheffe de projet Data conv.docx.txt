@@ -1,0 +1,145 @@
+Cheffe de projet /Experte Master Data
+PROFIL PROFESSIONNEL
+Avec une passion pour la gestion des données et un parcours riche en expériences variées, j'ai su développer une expertise solide dans le domaine de la gestion et de la gouvernance de la donnée
+Jai également appris à structurer et harmoniser les données pour optimiser leur utilisation
+Mon rôle de cheffe d’orchestre m'a permis de mener des projets stratégiques, tout en assurant une coordination efficace entre les différentes parties prenantes du projet. J'ai aussi contribué à des initiatives innovantes en tant qu’expert master data, en mettant en place des solutions adaptées aux besoins spécifiques de chaque secteur d’activité en naviguant entre les exigences techniques, fonctionnelles et stratégiques de l’entreprise pour assurer la qualité et l'intégrité des données
+Chaque projet est une opportunité d'innover et de créer des solutions sur mesure qui répondent aux besoins spécifiques des organisations, tout en assurant une gestion efficace et agile des données
+Je souhaite rejoindre une entreprise à laquelle je pourrais apporter mon dynamisme, ma créativité et mon goût du défi
+COMPETENCES
+Gestion de l’information : Master data management, gestion de la qualité de données, Product Information Management, Digital asset management, gouvernance de la donnée, gestion et modélisation des métadonnées, cartographie des données et des processus, analyse du besoin métier, définition des cas d'usage, rédaction des spécifications fonctionnelles et cahiers de tests fonctionnels, élaboration du dictionnaire de données et glossaire métier, sélection des solutions et notation de scénarios, …
+Management de projet : Cadrage, définition des plans d’action, gestion des équipes et financières, définition des besoins et processus métiers, animation des réunions, de comité de projet, comité de pilotage, conduite de changement, coordination transverse…
+Autres compétences : Travail en équipe, autonomie, adaptabilité, négociatrice, sens des responsabilités et d’initiative, force de proposition, communication écrite et orale
+OUTILS ET LANGAGES
+Agile Scrum, V-Model, ITIL V3, Prince2, Merise, UML, PERT, GANTT, Office 365, Access, Unix,Oracle SQL Server, Teradata, Hadoop,Neo4J ,Cassandra, ETL, OLAP, Qlikview, Business Object, J2EE, Scala, SQL server, Shell, Salesforce, Peoplesoft, GED, Patrol 7, Control-M, Syspéo, Jira, MS Project, Clarity, Informatica (MDM, DQM, Datacatalog), Tibco EBX , Semarchy MDM, Talend MDM , ETL DQE, Pimcore, Akeno, DataGalaxy,Metadata Management and Modeling, Data/Process Mapping, : GDSN ,EAN, global attribute explorer,Monday,Teamwork,
+FORMATION
+2022 Formation Manager agile
+2016 Certificat Collibra outil gouvernance des données 2011 Certification Prince2 Gestion de Projets
+2009 Certification ITIL V3 Gouvernance SI
+2000 Certification : Administration système Unix HP-UX et administration bases de données
+Diplome
+2015 Master 2 Gestion et conduite des projets IT
+LANGUES
+Anglais niveau : Opérationnel
+Espagnol niveau : Opérationnel Arabe niveau : Notions
+EXPERIENCES
+10/2023 - 04/2025 : Responsable Référentiels de Données 
+Roche Bobois
+contexte
+Pilotage des projets référentiels dans le respect des engagements (qualité, délais, coûts, dispositif, Process), budgets et exigences fonctionnelles
+taches
+Gestion et management des équipes multidisciplinaires, en assurant la coordination et le suivi des projets
+Coordination et supervision des travaux de migration des données de l'ERP vers le nouvel outil de gestion des données produits (PIM/ DAL) dans un délai de sept mois
+Gestion et suivi du budget
+Mise à disposition des dashboards et des indicateurs de pilotage de l’activité des projets
+Collaboration avec le département juridique afin de garantir que les référentiels des données sont conformes à la réglementation RGPD en vigueur
+Accompagnement et assistance de la responsable qualité du groupe pour identifier les besoins en termes de données et adapter le référentiel produits en conséquence afin de répondre aux besoins de la loi AGEC
+Participation à la définition et à la mise en place des processus d'amélioration continue des référentiels de données
+Participation à des comités de pilotage pour présenter les avancées et les résultats des actions mises en place
+Examen périodique des référentiels de données pour repérer les éventuelles erreurs et les rectifier
+Mise en place d'un tableau de bord de suivi des indicateurs de qualité des données pour permettre un suivi en temps réel
+Coordonner, gérer, animer et évaluer les membres de l’équipe
+Accompagner la montée en compétence en gestion de la donnée de l’équipe
+Prévoir l’évolution de l’équipe en fonction des plans de charge et s’assurer de l’adéquation des recrutements avec les activités
+Organiser, coordonner, planifier et contrôler les activités des équipes
+Coordination avec les différentes équipes pour garantir l'exactitude des données et la conformité aux normes en vigueur
+09/2019 - 09/2023 : Business Master Data Project Manager
+VINCI Construction
+contexte
+Contribution à la définition, à la stratégie, à l’architecture, à la gouvernance et à la mise en œuvre de toutes les problématiques liées aux données de référence du pôle VINCI Construction
+taches
+Définition de la feuille de route et les priorités des projets
+Elaboration de la cartographie des données /applications/processus/flux mise en place des dictionnaires de données et glossaires métiers pour les référentiels sous ma responsabilité,
+Pilotage des plans d’actions d’amélioration de la qualité des données des référentiels collaborateurs, organisations, entités légales, localisations, affaires et tiers (banques, fournisseurs, clients)
+Formalisation des processus de gouvernance pour chaque référentiel (rôles et responsabilités, processus, règles de gestion …)
+Présentation des résultats de l'audit des données lors des réunions stratégiques avec la direction pour guider les décisions.
+Mise en place d'un outil de reporting automatisé pour suivre l'évolution de la qualité des données et des KPIs ce qui a permis de réduire le taux des erreurs de saisie à 90%
+S’assurer de la conformité RGPD et de la sécurité des données des référentiels Réalisation et animation des clubs utilisateurs par référentiel
+Participation à l'ensemble des projets d’intégrations des données du pôle construction
+Coordination de l'harmonisation des données de références avec les autres entités du groupe VINCI Interaction transverse entre des différents interlocuteurs et variés (infrastructure, développement, métiers, autres contributeurs des pôles du groupe VINCI et externes)
+Mise en place des séances de feedback avec les utilisateurs afin de recueillir leurs retours d’expériences et améliorer l'ergonomie des référentiels
+Présentation des résultats et des bénéfices obtenus lors de rencontres avec la direction afin de justifier l'investissement dans la gestion des données du pôle
+09/2018 - 08/2019 : Chef de projet Expert Data Management – GS1 France
+contexte
+Mise en place des processus de contrôles sur la qualité et la gouvernance des données des préfixes d'entreprises en conformité avec les règles de contrôle interne et de confidentialité des standards GS1
+taches
+Formaliser le processus du cycle de vie (fonctionnel et technique) et les règles de gestion qui régissent les « préfixes entreprises »
+Assurer la coordination et la compatibilité des standards et solutions avec GS1 International 
+Participer aux travaux internationaux de maintenance et de développement des standards (GSMP/SMG) et des normes (Afnor, CEN, ISO ...)
+Accompagner en conseil les entreprises adhérentes sur leurs problématiques de qualité de données ou de mise en place des outils PIM, DAM, PLM …
+Animation des séminaires de formation et de conseils en entreprise sur les standards GS1
+Assurer la montée en compétence et la formation continue des adhérents dans la bonne mise en œuvre des standards GS1 en interne ou dans les locaux des adhérents
+Animer les groupes de travail sur la définition des nouveaux standards et des fiches produit
+Etablissement d'un processus de contrôle qualité des données pour garantir l'exactitude et la fiabilité des informations
+Gestion de projets en orchestrant les divers intervenants : équipes techniques, utilisateurs métiers, partenaires externes
+01/2018 - 08/2018 : Chef De Projet Data Transverse 
+GENERALI France
+contexte
+Accompagnement des projets liés aux enjeux des données et à l'élaboration de la feuille de route de l’entité en s'appuyant sur la stratégie d'entreprise et de l’IT
+taches
+Superviser et encadrer les équipes durant les étapes de conception, recette, mise en production et gestion du changement
+Cadrer les projets en définissant les objectifs, les livrables et les indicateurs de performance
+Assurer la bonne mise en œuvre des projets transversaux
+Veiller à la mise à disposition auprès des intégrateurs de tous les livrables d’exécutions projets (dictionnaire des données fonctionnelles et techniques, modèle conceptuel cible de l’entreprise …)
+Organiser, surveiller et collaborer avec les différentes équipes (équipes techniques, utilisateurs, métiers, partenaires externes) pour la mise en œuvre du plan de projet, planning, feuille de route …
+Prendre part aux instances liées aux données, que ce soit pour un nouveau projet, une migration des flux, RUN et reporter régulièrement l’état d’avancement aux opérationnels et à mon responsable
+Élaborer, coordonner et superviser le plan de gestion du changement y compris la stratégie de communication
+Assistance aux soutenances lors des présentations des appels d'offres
+Coordination du chantier POC ((Proof of concept & Proof of value sur 5 éditeurs) ainsi que l'implémentation des outils de gouvernance et de contrôle qualité des données
+07/2016 - 12/2017 : Chef De Projet Master Data Études Cliniques et R&D
+industrie pharmaceutique Servier
+contexte
+Cadrage du chantier refonte du référentiel des données études cliniques R&D
+taches
+Recueil et recensement des besoins des métiers sur les données de référence R&D
+Typologies des données études collectées lors des interviews avec les métiers (données de structures, décisionnelles, réglementaires, communes et partagées)
+Analyse du cycle de vie des données études existantes et collectées
+Définition des nouvelles données études manipulées dans les applications SI sur lequel s'articulera le projet refonte MDM
+Etablissement du modèle conceptuel de données
+Analyse des Impact de la refonte sur les interfaces et sur les flux entrants et sortant
+Elaboration de la cartographie : données de références /application SI et données / processus métier
+Proposition d'une architecture fonctionnelle cible, en adéquation avec la politique architecturelle Groupe Servier
+Proposition d'une gouvernance des données et modélisation des processus associés (règles de gestion, interfaces)
+Rédaction des livrables du projet
+Coordination des développements de l'application MDM (EBX) avec les différentes parties prenantes 
+Reprise des données vers un nouveau système en assurant une transition fluide et sans perte d'informations
+Suivi du budget et des échéanciers pour assurer le respect de l’état d’avancement
+Animation des instances projets (comités de projet et de pilotage), planification et coordination des réunions.
+Management des équipes et gestion des projets en méthode Agile
+Suivi du bon déroulement des étapes, documentation et communication régulière autour de l'avancement du projet, ajustement des tâches le cas échéant
+09/2008 - 06/2015 : Chef De Projet Gestion Des Données Financières et IT
+ BT
+contexte
+Réalisation des différentes missions de prestation de services pour le compte de British Télécom chez des différents clients
+taches
+Chef De Projet Master Data Management- Eiffage
+Etude de cadrage et mise en place du référentiel client tout en gardant une vue globale sur les autres référentiels du groupe
+Identification des problématiques rencontrées par les métiers au sein de leurs données de références clients
+Création d'une adhésion entre les différentes branches pour atteindre un objectif commun dans la gouvernance des données clients
+Définition d'une vision commune de l'architecture fonctionnelle organisationnelle et technique cible, en adéquation avec les besoins
+Définition des objets clients manipulés dans les applications SI sur lequel s'articule le référentiel client 
+Sélection des éditeurs / Intégrateurs
+Réalisation d'une feuille de route globale (budget et planning) pour implémenter la vision retenue, conduite du changement, acculturation aux données et à l'outil
+Marketing B2B Outils digitaux BT 
+Gestion et pilotage du référentiel Client
+Assistance des métiers dans la phase amont de recueil et de qualification des besoins fonctionnels 
+Réorganisation et capitalisation sur les contenus du référentiel des offres clients
+Suivi des développements et du déploiement des évolutions
+Contribution au lancement des nouveaux cas d’usage des applications digitales Architecte de données - Société Générale,
+Modélisation de données et cartographie applicative de flux à l'aide de l'outil MEGA (HOPEX) 
+Définition de stratégie et de trajectoire d'optimisation des données
+Définition du cycle de vie des données
+Association des concepts SI à leurs définitions métiers
+Définition des architectures fonctionnelles des systèmes de gestion des données incluant les référentiels, les outils analytiques et les portails collaboratifs
+Modélisation de données et cartographie applicative des flux de données
+Optimisation des processus collaboratifs de validation et de partage des données
+Transformation du modèle conceptuel des données, en modèle logique des données brutes Génération DDL ou script (Oracle/DB2/Teradata) puis transferts par environnements
+Définition d'une politique de contrôle et de maintien de la qualité des données en regard des enjeux de sécurité et de confidentialité des informations
+Crédit Agricole, Chef de projet AMOA
+Archivage et Purge de L’OUTIL d’assistance et de support ITIL pour Silca basé sur le produit USPSD (CMDB)
+EDF, Chef de Projet
+Mise en place d’un outil BPM OPX2 (Gestion de projets et de son portefeuille) dans le cadre du projet Industrialisation des arrêts de tranches Centrale Nucléaire (IAT)
+07/2000 - 08/2008 : Chef de Projet Transverse CRM
+ORANGE
+taches
+Gestion et coordination des projets Customer Relationship Management (CRM)
+Pilotage et coordination des projets de la direction technique entre différents acteurs du SI

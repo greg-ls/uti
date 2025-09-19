@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion des CVs - Éditeur de CV par UTI</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #f8fafc;
+            color: #334155;
+            line-height: 1.6;
+        }
+
+        .header {
+            background: white;
+            padding: 1rem 2rem;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: 600;
+            font-size: 1.1rem;
+            cursor: pointer;
+        }
+
+        .logo::before {
+            content: "📄";
+            font-size: 1.2rem;
+        }
+
+        .user-badge {
+            background: #10b981;
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 0.375rem;
+            font-weight: 500;
+            font-size: 0.875rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .page-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .page-header h1 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            color: #1e293b;
+        }
+
+        .add-cv-btn {
+            background: #3b82f6;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .add-cv-btn:hover {
+            background: #2563eb;
+        }
+
+        .cvs-grid {
+            display: grid;
+            grid-template-columns: 1fr 350px;
+            gap: 2rem;
+        }
+
+        .cvs-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .cv-card {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 1rem;
+            border: 1px solid #e2e8f0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .cv-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        .cv-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cv-title {
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 0.25rem;
+        }
+
+        .cv-meta {
+            font-size: 0.875rem;
+            color: #64748b;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .cv-status {
+            padding: 0.125rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        .cv-status.uploaded {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .cv-status.processing {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .cv-status.ready {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .cv-actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .action-btn {
+            background: #f1f5f9;
+            color: #475569;
+            border: none;
+            padding: 0.375rem 0.75rem;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .action-btn:hover {
+            background: #e2e8f0;
+        }
+
+        .action-btn.edit {
+            background: #3b82f6;
+            color: white;
+        }
+
+        .action-btn.edit:hover {
+            background: #2563eb;
+        }
+
+        .action-btn.delete {
+            background: #ef4444;
+            color: white;
+        }
+
+        .action-btn.delete:hover {
+            background: #dc2626;
+        }
+
+        .upload-section {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            border: 1px solid #e2e8f0;
+            position: sticky;
+            top: 2rem;
+        }
+
+        .upload-section h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 1rem;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .form-label {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: #374151;
+        }
+
+        .form-input {
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.5rem;
+            font-size: 0.875rem;
+            background: #f9fafb;
+            color: #6b7280;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: #3b82f6;
+            background: white;
+        }
+
+        .drop-zone {
+            border: 2px dashed #d1d5db;
+            border-radius: 0.75rem;
+            padding: 2rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-bottom: 1rem;
+        }
+
+        .drop-zone:hover {
+            border-color: #3b82f6;
+            background: #f8fafc;
+        }
+
+        .drop-zone.dragover {
+            border-color: #3b82f6;
+            background: #eff6ff;
+        }
+
+        .drop-zone-icon {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .drop-zone-text {
+            font-weight: 500;
+            color: #374151;
+            margin-bottom: 0.25rem;
+        }
+
+        .drop-zone-subtext {
+            font-size: 0.875rem;
+            color: #6b7280;
+        }
+
+        .upload-formats {
+            font-size: 0.75rem;
+            color: #6b7280;
+            margin-bottom: 1rem;
+        }
+
+        .submit-btn {
+            background: #3b82f6;
+            color: white;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            font-weight: 500;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            width: 100%;
+        }
+
+        .submit-btn:hover {
+            background: #2563eb;
+        }
+
+        .submit-btn:disabled {
+            background: #9ca3af;
+            cursor: not-allowed;
+        }
+
+        .next-steps {
+            margin-top: 1.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        .next-steps h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 1rem;
+        }
+
+        .step {
+            display: flex;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+
+        .step-number {
+            background: #3b82f6;
+            color: white;
+            width: 1.5rem;
+            height: 1.5rem;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.75rem;
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        .step-number.purple {
+            background: #8b5cf6;
+        }
+
+        .step-number.green {
+            background: #10b981;
+        }
+
+        .step-content h4 {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 0.25rem;
+        }
+
+        .step-content p {
+            font-size: 0.75rem;
+            color: #64748b;
+            line-height: 1.4;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: #64748b;
+        }
+
+        .empty-state-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .empty-state h3 {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #374151;
+            margin-bottom: 0.5rem;
+        }
+
+        .empty-state p {
+            font-size: 0.875rem;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .notification {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.5rem;
+            padding: 1rem;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            z-index: 1000;
+            transform: translateX(100%);
+            transition: transform 0.3s ease;
+        }
+
+        .notification.show {
+            transform: translateX(0);
+        }
+
+        .notification.success {
+            border-left: 4px solid #10b981;
+        }
+
+        .notification.error {
+            border-left: 4px solid #ef4444;
+        }
+
+        @media (max-width: 768px) {
+            .cvs-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .upload-section {
+                position: static;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo" onclick="goHome()">Éditeur de CV par UTI</div>
+        <div class="user-badge">Marie Dupont</div>
+    </div>
+
+    <div class="container">
+        <div class="cvs-grid">
+            <div class="cvs-list" id="cvsList">
+                <!-- CVs will be populated here -->
+            </div>
+
+            <div class="upload-section">
+                <h2>Charger un nouveau CV</h2>
+                <div class="upload-formats">Formats acceptés : .docx (Microsoft Word)</div>
+                
+                <div class="form-group">
+                    <label class="form-label">Nom du document</label>
+                    <input type="text" class="form-input" placeholder="Ex: CV John Doe - Développeur" id="documentName">
+                </div>
+
+                <div class="drop-zone" id="dropZone" onclick="triggerFileInput()">
+                    <div class="drop-zone-icon">📄</div>
+                    <div class="drop-zone-text">Glissez votre fichier ici</div>
+                    <div class="drop-zone-subtext">ou cliquez pour sélectionner un fichier .docx</div>
+                </div>
+
+                <input type="file" id="fileInput" accept=".docx" style="display: none;">
+
+                <button class="submit-btn" id="uploadBtn" disabled onclick="processUpload()">
+                    📄 Charger le document
+                </button>
+
+                <div class="next-steps">
+                    <h3>Que se passe-t-il ensuite ?</h3>
+                    
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h4>Analyse du document</h4>
+                            <p>Le contenu de votre CV sera extrait et structuré en paragraphes éditables</p>
+                        </div>
+                    </div>
+
+                    <div class="step">
+                        <div class="step-number purple">2</div>
+                        <div class="step-content">
+                            <h4>Édition avec IA</h4>
+                            <p>Vous pourrez sélectionner des paragraphes et obtenir des suggestions d'amélioration</p>
+                        </div>
+                    </div>
+
+                    <div class="step">
+                        <div class="step-number green">3</div>
+                        <div class="step-content">
+                            <h4>Optimisation pour l'offre</h4>
+                            <p>Associez une offre de mission pour obtenir des analyses de correspondance</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="notification" id="notification">
+        <div id="notificationMessage"></div>
+    </div>
+
+    <script>
+        // Sample CV data
+        let cvs = [
+            {
+                id: 1,
+                name: "CV Marie Dupont - Développeuse Full Stack",
+                uploadDate: "2024-01-15",
+                status: "ready",
+                size: "245 KB"
+            },
+            {
+                id: 2,
+                name: "CV Jean Martin - Chef de Projet",
+                uploadDate: "2024-01-10",
+                status: "ready",
+                size: "198 KB"
+            },
+            {
+                id: 3,
+                name: "CV Sophie Bernard - UX Designer",
+                uploadDate: "2024-01-08",
+                status: "processing",
+                size: "312 KB"
+            }
+        ];
+
+        let selectedFile = null;
+
+        function goHome() {
+            window.location.href = 'index.html';
+        }
+
+        function scrollToUpload() {
+            document.querySelector('.upload-section').scrollIntoView({ 
+                behavior: 'smooth' 
+            });
+        }
+
+        function renderCVs() {
+            const cvsList = document.getElementById('cvsList');
+            
+            if (cvs.length === 0) {
+                cvsList.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">📄</div>
+                        <h3>Aucun CV chargé</h3>
+                        <p>Commencez par charger votre premier CV pour utiliser l'éditeur IA</p>
+                    </div>
+                `;
+                return;
+            }
+
+            cvsList.innerHTML = cvs.map(cv => `
+                <div class="cv-card" onclick="editCV(${cv.id})">
+                    <div class="cv-info">
+                        <div class="cv-title">${cv.name}</div>
+                        <div class="cv-meta">
+                            <span>📅 ${formatDate(cv.uploadDate)}</span>
+                            <span>📊 ${cv.size}</span>
+                            <span class="cv-status ${cv.status}">${getStatusText(cv.status)}</span>
+                        </div>
+                    </div>
+                    <div class="cv-actions" onclick="event.stopPropagation()">
+                        <button class="action-btn edit" onclick="editCV(${cv.id})">Éditer</button>
+                        <button class="action-btn" onclick="downloadCV(${cv.id})">Télécharger</button>
+                        <button class="action-btn delete" onclick="deleteCV(${cv.id})">Supprimer</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleDateString('fr-FR');
+        }
+
+        function getStatusText(status) {
+            switch(status) {
+                case 'uploaded': return 'Chargé';
+                case 'processing': return 'En cours';
+                case 'ready': return 'Prêt';
+                default: return 'Inconnu';
+            }
+        }
+
+        function editCV(cvId) {
+            // Redirect to editor with CV ID
+            window.location.href = `editor.html?id=${cvId}`;
+        }
+
+        function downloadCV(cvId) {
+            const cv = cvs.find(c => c.id === cvId);
+            if (cv) {
+                showNotification(`Téléchargement de "${cv.name}" commencé`, 'success');
+                // Simulate download
+                setTimeout(() => {
+                    showNotification(`"${cv.name}" téléchargé avec succès`, 'success');
+                }, 1500);
+            }
+        }
+
+        function deleteCV(cvId) {
+            const cv = cvs.find(c => c.id === cvId);
+            if (cv && confirm(`Êtes-vous sûr de vouloir supprimer "${cv.name}" ?`)) {
+                cvs = cvs.filter(c => c.id !== cvId);
+                renderCVs();
+                showNotification(`"${cv.name}" supprimé avec succès`, 'success');
+            }
+        }
+
+        function triggerFileInput() {
+            document.getElementById('fileInput').click();
+        }
+
+        function resetUploadForm() {
+            selectedFile = null;
+            document.getElementById('documentName').value = '';
+            document.getElementById('fileInput').value = '';
+            updateUploadButton();
+            updateDropZone();
+        }
+
+        function updateUploadButton() {
+            const uploadBtn = document.getElementById('uploadBtn');
+            const documentName = document.getElementById('documentName').value.trim();
+            
+            uploadBtn.disabled = !selectedFile || !documentName;
+        }
+
+        function updateDropZone() {
+            const dropZone = document.getElementById('dropZone');
+            const dropZoneText = dropZone.querySelector('.drop-zone-text');
+            const dropZoneSubtext = dropZone.querySelector('.drop-zone-subtext');
+            
+            if (selectedFile) {
+                dropZoneText.textContent = selectedFile.name;
+                dropZoneSubtext.textContent = `${(selectedFile.size / 1024).toFixed(1)} KB - Cliquez pour changer`;
+                dropZone.style.borderColor = '#10b981';
+                dropZone.style.background = '#f0fdf4';
+            } else {
+                dropZoneText.textContent = 'Glissez votre fichier ici';
+                dropZoneSubtext.textContent = 'ou cliquez pour sélectionner un fichier .docx';
+                dropZone.style.borderColor = '#d1d5db';
+                dropZone.style.background = '';
+            }
+        }
+
+        function processUpload() {
+            const documentName = document.getElementById('documentName').value.trim();
+            
+            if (!selectedFile || !documentName) {
+                showNotification('Veuillez sélectionner un fichier et saisir un nom', 'error');
+                return;
+            }
+
+            // Simulate upload process
+            const uploadBtn = document.getElementById('uploadBtn');
+            uploadBtn.disabled = true;
+            uploadBtn.innerHTML = '⏳ Chargement en cours...';
+
+            setTimeout(() => {
+                // Add new CV to the list
+                const newCV = {
+                    id: Date.now(),
+                    name: documentName,
+                    uploadDate: new Date().toISOString().split('T')[0],
+                    status: 'processing',
+                    size: `${(selectedFile.size / 1024).toFixed(0)} KB`
+                };
+
+                cvs.unshift(newCV);
+                renderCVs();
+                resetUploadForm();
+                
+                uploadBtn.disabled = false;
+                uploadBtn.innerHTML = '📄 Charger le document';
+                
+                showNotification(`"${documentName}" chargé avec succès`, 'success');
+
+                // Simulate processing completion
+                setTimeout(() => {
+                    const cv = cvs.find(c => c.id === newCV.id);
+                    if (cv) {
+                        cv.status = 'ready';
+                        renderCVs();
+                        showNotification(`"${documentName}" est maintenant prêt pour l'édition`, 'success');
+                    }
+                }, 3000);
+            }, 2000);
+        }
+
+        function showNotification(message, type = 'success') {
+            const notification = document.getElementById('notification');
+            const messageEl = document.getElementById('notificationMessage');
+            
+            messageEl.textContent = message;
+            notification.className = `notification ${type}`;
+            notification.classList.add('show');
+            
+            setTimeout(() => {
+                notification.classList.remove('show');
+            }, 4000);
+        }
+
+        // File input event listener
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                if (file.type === 'application/vnd.openxmlformats-officedocument.wordprocessingml.document') {
+                    selectedFile = file;
+
+                    // Auto-populate document name field with file name (without extension)
+                    const fileName = file.name.replace(/\.[^/.]+$/, ""); // Remove file extension
+                    document.getElementById('documentName').value = fileName;
+
+                    updateDropZone();
+                    updateUploadButton();
+                } else {
+                    showNotification('Veuillez sélectionner un fichier .docx', 'error');
+                    e.target.value = '';
+                }
+            }
+        });
+
+        // Document name input event listener
+        document.getElementById('documentName').addEventListener('input', updateUploadButton);
+
+        // Drag and drop functionality
+        const dropZone = document.getElementById('dropZone');
+
+        dropZone.addEventListener('dragover', function(e) {
+            e.preventDefault();
+            dropZone.classList.add('dragover');
+        });
+
+        dropZone.addEventListener('dragleave', function(e) {
+            e.preventDefault();
+            dropZone.classList.remove('dragover');
+        });
+
+        dropZone.addEventListener('drop', function(e) {
+            e.preventDefault();
+            dropZone.classList.remove('dragover');
+
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                const file = files[0];
+                if (file.type === 'application/vnd.openxmlformats-officedocument.wordprocessingml.document') {
+                    selectedFile = file;
+                    document.getElementById('fileInput').files = files;
+
+                    // Auto-populate document name field with file name (without extension)
+                    const fileName = file.name.replace(/\.[^/.]+$/, ""); // Remove file extension
+                    document.getElementById('documentName').value = fileName;
+
+                    updateDropZone();
+                    updateUploadButton();
+                } else {
+                    showNotification('Veuillez sélectionner un fichier .docx', 'error');
+                }
+            }
+        });
+
+        // Initialize page
+        document.addEventListener('DOMContentLoaded', function() {
+            renderCVs();
+        });
+    </script>
+</body>
+</html>

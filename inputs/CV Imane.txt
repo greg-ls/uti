@@ -1,0 +1,130 @@
+Consultante Test Recette / Automatisation
+
+Connaissances fonctionnelles:
+7 ans d’expérience en stratégie de test et validation, suivi des phases de conception, développement, test et déploiement.
+Élaboration des plans de test : estimation des efforts, allocation des ressources, définition des KPI.
+Gestion des campagnes de test en contexte Agile ou maintenance applicative.
+Contribution à l'amélioration des processus QA et mise à jour des référentiels de tests.
+Coordination avec les équipes métier, développement, production et support.
+Gestion de la roadmap et vision produit : objectifs, indicateurs, suivi des jalons.
+Interface entre métier, équipe technique et utilisateurs, arbitrage stratégique.
+Tests tout au long du cycle de vie logiciel : développement, intégration, validation, production, maintenance.
+Tests fonctionnels et de non-régression, validation post-déploiement.
+Optimisation des bonnes pratiques de test et de maintenance.
+Support et assistance aux utilisateurs : traitement incidents et demandes d'évolution.
+Maîtrise des outils de gestion Agile (JIRA, Confluence, etc.).
+Automatisation des tests : identification des conformités aux standards et scénarios réglementaires.
+Tests non fonctionnels : performance, charge, stress, montée en charge, sécurité.
+
+Connaissances Techniques :
+Outils : Cypress, Selenium, Playwright, Cucumber, Robot, Grafana, JMeter, Junit, Jira Squash Tm, My SQL, Jenkins, Gitlab CI, Trello, Testlink, Microsoft Office, Xray, Notion, Docker, Allure.
+Systèmes : Linux, Windows Server, Mac OS, Windows Professionnel.
+Test API : Postman, Newman, Karate, Bruno.
+Langages : SQL, Python, Java, JavaScript, HTML, C#, YAML, Groovy, XML, Gherkin, Typescript, Maven.
+Mobile : iOS (Swift), Android, Windows, Linux.
+Outil cybersécurité : Elastic (SIEM), TheHive, Wireshark, Sentinel One (SOAR/EDR), IDS, Cortex, Kibana, MISP, Wazuh.
+Modélisation : UML.
+Sécurité et conformité : ISO 27001, ISO 27005, Ebios RM, RGPD.
+
+Diplômes :
+2018 : Master 2 en Cheffe de projet & Cybersécurité.
+2018 : Certification ISTQB.
+
+Langues
+Anglais : Intermédiaire.
+
+Expériences Professionnelles :
+
+BforBank (Mars 2023 / à ce jour)
+Rôle : Testeuse / Automaticienne.
+Projet : Adaptations dans le progiciel T24 pour un nouveau client Allemand.
+Tâches : 
+Analyse de besoin client 
+Rédaction et saisie des plans de test sous SQUASH en Gherkin
+Déroulement des cas de tests et analyse des résultats
+Préparation des jeux de données associés
+Mettre en place des procédures de test et méthodologie afin d'améliorer la qualité des solutions.
+Gestion des anomalies (détection, analyse et suivi )
+Gestion des différentes fonctionnalités du front / Back ....
+Examiner les logs pour identifier les causes profondes des
+problèmes et proposer des solutions appropriées aux devs 
+Surveiller les performances et la disponibilité des applications
+Coordonner les échanges avec les équipes internes et les parties
+prenantes externes lors d’incidents
+Tests de non-régression réguliers sur les différents environnements
+Participation à tous les rituels agiles : daily, démonstration, rétrospective...
+Test des scripts sur différents environnements (recette / préprod)
+Suivi des mises en production et des déploiements
+Mise en œuvre d'une stratégie d'automatisation des tests
+Encadrement et accompagnement d'une équipe d'ingénieurs QA (3+)
+Préparation des scripts Automatisés avec Playwrightet integration de cucumber pour l’implémentation de scenarii.
+Analyse des logs et des rapports de tests automatique et débogage offline avec trace viewer.
+Utilisation avancée de tags pour une exécution atomique ou groupée des tests pour chaque environnement.
+Vérification d’échange de flux de donnée entre services backend en automatisant  et exécutant des tests API avec postman et newman.
+Réalisation de bouchant pour simuler les dépendances externe et les fonctionnalités non développées. 
+Préparation et organisation des batchs pour une intégration fluide des tests dans la CI
+Conception de pipelines de tests avec Jenkins et assurer leur intégration dans processus CI/CD
+Monitoring de performance en Pré-Prod en exécutant les tests des charge et de performance avec k6/Grafana.
+Analyser des rapports générés suite à l’exécution des tests automatiques.
+
+Contexte technique Jira , Squash Tm ,  (Word, Excel, PowerPoint) SQL , Jenkins , Playwright , Groovy , Java , K6 , cucumber POM , Postman. Newman, bash, Git, Github
+
+URSAAF (Janvier 2021 / Mars 2023)
+Rôle : Consultante Test / Recette et Automatisation.
+Projet : Mise en place d’un dispositif permettant le calcul des effectifs moyens mensuels (EMM) des établissements et effectifs moyens annuels (EMA) , des entreprises du secteur privé.
+Tâches : Rédaction de cas de test 
+Analyse de besoin client 
+Elaboration d’une stratégie de test 
+Exécution des cas de tests Manuels et automatiques 
+Tests exploratoires 
+Conception des jeux d’essai et définition des données de tests
+Piloter la recette de bout en bout pour un nouveau produit
+Tests web (plateforme web) et mobile sur IOS, Androïd
+Assurer les tests en continue à l’aide de pipelines Jenkins
+Automatisation des tests fonctionnels avec Sélénium webdriver et cucumber
+Réalisation des tests de compatibilité des navigateurs sur selnium-grid
+Création de pipelines déclaratifs en groovy/jenkins pour assurer le tests en continu
+Automatisation des tests mobiles avec Appium et gestions des capablities pour chaque plateforme
+Vérification et contrôle des commit des robots
+Implémentation de test API en Gherkin sous KARATE et utilisation des tags pour une exécution ciblée
+Collecte et extraction de données  (SQL) 
+Analyse des US story et des specs.
+Déclarer les bugs et les suivre dans le workflow. 
+Reporting hebdomadaire sur l’état d’avancement de la campagne de recette.
+Test et validation des évolutions et TNR
+Analyses et gestion d’incidents 
+Adoption de l’approche POM dans l’organisation de test IHM
+Réalisation des tests de charge avec Junit (front et back)
+Synchronisation et communication avec l’équipe métier sur les livrables.
+
+Contexte technique  Selenium,  selnium-grid, SquashTm , Gherkin , appium, Jira , Google Sheet VS code ,  Suite office  , Gitlab , Karate, maven, java , Junit, cucumber , Jenkins , POM
+
+Flix (Février 2019 / Décembre 2020)
+Rôle : Consultante Fonctionnelle.
+Projet : Pilotage QA et Recette Fonctionnelle pour l’Application de Réservation Flix.
+Réalisation : Analyse des user stories et participation à la définition des critères d'acceptation
+Rédaction des cas de tests fonctionnels et de non-régressions
+Exécution des tests fonctionnels avant chaque release.
+Évaluation de la qualité du produit à travers des tests post-MEP
+ Réalisation des tests exploratoires pour assurer la stabilité du produit en production.
+Création et suivi des anomalies dans Jira.
+Priorisations des bugs selon leur gravités 
+Suivi des corrections auprès des équipes de développement
+Rédaction des procès-verbaux de recette
+Animation des ateliers 3 Amigos
+Reporting régulier de l’activité QA auprès des responsables projet.
+Exécution des tests de non-régression, Validation des correctifs pour les défauts attribués
+Challenger les UX sur les maquettes 
+Reporting quotidien sur l’état d’avancement des tests . 
+Rédaction du flash report 
+Contexte tecnique :  Jira , Xray , Confluence , Postman , Testlink , SQL , Figma
+
+Cyna (Mai 2018 / Décembre 2018)
+Rôle : Alternance en Cybersécurité.
+Projet : Suivi d’un dispositif de gestion des incidents de sécurité au sein du SOC.
+Réalisation : Conception d’un cahier de char
+Analyser et qualifier au plus vite les incidents, les risques et les menaces de sécurité remontés au SOC.
+Mise en oeuvre de règles de sécurité avec le SIEM “Elastic”, renforçant la résilience du système pour assurer une protection efficace des données et traitement des logs avec TheHive pour une gestion efficiente des incidents de sécurité.
+Utilisation de SOAR “Sentinel One” et de EDR pour la détection proactive et la réponse aux menaces, afin d'automatiser et d'améliorer les processus d'intégration et de déploiement.
+Analyser finement les logs et être capable de mener des investigations approfondies.
+Contexte technique :  Elastic (SIEM), TheHive, Sentinel One (SOAR/EDR), IDS,  Kibana, MISP, Wazuh

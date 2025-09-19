@@ -1,0 +1,144 @@
+Ing. Systèmes et Devops / CLOUD Linux - Kubernetes - Azure 14 ans d'expérience
+
+COMPETENCES FONCTIONNELLES
+Capacité d'analyse et résolution de problèmes en support N2/N3 ;
+Bon relationnel ;
+Capacité à travailler en équipe ou seul ;
+Auto-organisé ;
+Capacité à travailler en remote et/ou sur site ;
+
+
+COMPETENCES TECHNIQUES
+Devops CI/CD Tools (Jenkins, GitLab, Git, Maven, SonarQube, JMeter, Archiva, Arifactory, Tomcat)
+IaC : Ansible, Puppet, Vagrant, Terraform
+Monitoring : Prometheus, Grafana, (ELK) Elasticsearch, Logstash, Kibana
+Cloud et containerization
+Public Cloud (AWS, Azure)
+CaaS & Orchestrateur (Docker, Docker-Compose, Swarm, Kubernetes)
+Administration Systèmes Linux, Scripting SHELL
+Virtualization (KVM, Hyper-V, VSphere, XEN Citrix, VirtualBox)
+Expert en administration avancée des systèmes Linux, notamment RHEL, CentOS, Oracle, Debian, Ubuntu, Kali;
+Certification Linux (LPCI & LPICI - Devops Tools) ;
+Maîtrise des bonnes pratiques Devops et de l’intégration continue.
+Maîtrise des outils DevOps tels que Kubernetes, Git, Ansible et Terraform ;
+Déploiement des chaînes CI/CD ;
+Automatisation de l'installation des services sur les machines virtuelles (avec des playbooks Ansible);
+Scripting en shell ;
+Familiarisé avec les environnements Agile ;
+Déploiement d'infrastructures sur Azure (full Azure avec Paas Azure ou Azure EKS + ELK) ;
+Support N3 et résolutions des incidents.
+
+Diplômes :
+2007-2009 Ecole Supérieur de Science et Technique (ESSTT) Mastère de Recherche en Informatique (Majeur de la promotion)
+2003-2007 Ecole Supérieur de Science et Technique (ESSTT) Maîtrise en Informatique (Diplôme BAC+4)
+
+Langues vivantes :
+Français Courant
+Anglais Intermédiaire
+
+CERTIFICATIONS /FORMATIONS
+12 /2022 Certification Azure Administrator AZ 104
+12 /2022 Certification Kubernetes CKA
+12 /2022 Certification Kubernetes CKAD
+10/2019 Certification Linux Professional Institute DevOps Tools Engineer LPI-701
+11/2014 CCNA- Cisco
+10/2014 LPIC-1 & LPIC-2 – Linux Professional Institute,
+09/2014 Oracle Certification Expert SQL (Oracle OCE)
+
+EXPÉRIENCE PROFESSIONNELLE
+BNP Paribas Depuis Avril 2023
+Ingénieur systèmes & Devops / CLOUD
+Projet 1 : Automatisation de charge de travail par AAP2 (Ansible Automation Plateform) dans l’infrastructure du réseau CARDIF en EMEA.
+Tâches:
+ Gestion de l’infrastructure AAP2 et Gitlab (Evolution, Obsolescence, etc...)
+ Préparation des playbooks de déploiement des solutions avec AAP2
+ Gestion des patchs RHEL/ WINDOWS avec AAP2
+ Gestion des vulnérabilités
+ Support L3
+Projet 2 : Référent technique pour l’évolution de l’EDC avec l’info gérant KYNDRYL
+Tâches:
+ Suivie technique de l’ensemble des projets de l’EDC: (V7k, Veeam Backup, Désactivation d’infrastructures, EDC Move, DataDR, CyberDR, etc...)
+ Organiser le déploiement entre Kyndryl, Cardif et BP2I
+ S’assurer que les solutions techniques sont alignées sur les règles du Groupe IT
+Projet 3 : Migration des applications dans la DMZR (Cloud BNP)
+Tâches:
+ Provisionnement des ressources
+ Préparation des dashboad de Supervision des solutions
+ Automatisation de la chaine CI/CD
+ Préparation des DAT et DEX pour les solutions métiers
+ Rédactions de la documentation technique
+ Intervention sur la production en cas de besoin
+ SUPPORT L3
+contexte tehnique : Redhat Linux, Anisble automation Plateform, Centrify, CyberArk, BMC, Terraform, Ansible, Jenkins, Git, IBM Cloud, Kubernetes, Gitlab CI, Dynatrace, Jira, Confluence, SharePoint, Service Now
+
+Enginov Novembre 2022 au Avril 2023
+Ingénieur SRE / Devops
+Projet : Mise en place d'une solution de gestion de logs pour la collecte et l'agrégation des logs des différents services applicatifs de l'entreprise
+Tâches:
+ Réflexion sur le design full Azure (avec des Paas Azure…) Vs Azure EKS + ELK
+ Déployer une infrastructure hautement disponible pour la sauvegarde et l'agrégation des logs en mode cluster HA sur Kubernetes
+ Collecte et exposition des Logs via StatefulSets,
+ Configuration des configmaps et des secrets
+ Configuration d'Elasticsearch, Logstash, et Kibana pour la sauvegarde, l'analyse, et l'exposition des logs.
+ Définition des recherches préconfigurées sur Kibana
+ Création des recherches préconfigurée et configuration des visualisations et des dashboards dans Kibana
+ Configuration des alertes dans Elastic Watcher à base des logs collectés
+contexte tehnique : Azure Kubernetes Service (AKS), Helm, (ELK) Elasticsearch, Logstash, Kibana, Filebeat
+
+Mind Hosting Janvier 2020 à Octobre 2022
+Ingénieur Devops
+Projet : Le projet consiste à définir l’architecture matérielle, installer et configurer les systèmes d’exploitation, approvisionner les services nécessaires pour l’hébergement mutualisé et mettre en place la plateforme commerciale
+tâches :
+ Définir l’architecture matérielle en termes de ressources, type de serveurs, caractéristiques techniques du matériel et liens entre les services déployés ;
+ Installation et configuration des serveurs physiques dédiés avec Debian 9 et Virtualmin;
+ Installation et configuration des services nécessaires à l’hébergement mutualisé à savoir Apache2, Nginx, MySQL, Postfix, Bind9, ProFTPd, PhpMyAdmin, TLS/SSL ;
+ Déploiement des applications (front et back) avec docker / docker compose sous Kubernetes
+ Configuration des APIs externes pour s’intégrer à kubernetes
+ Mise en place de plateforme de monitoring de l’état des serveurs d’hébergement et des virtualhosts des nœuds de Kubernetes et des applications déployées en utilisant Prometheus/Grafana en utilisant Prometheus/Grafana (Configuration des tableaux de bord, des règles et voies d’alerting)
+ Support Niveau 3 et résolution des incidents
+contexte tehnique : Azure, Linux –Virtualmin– Shell – Docker – Docker compose – Apache - Nginx – MySQL – Postfix – Bind9 – Dovecot – PhpMyAdmin - ProFTP – API REST – Prometheus/Grafana – AlertManager
+Mind Engineering Janvier 2017 à Décembre 2019
+Ingénieur DEVOPS
+Projet 1: Intégration du DevOps dans le processus de développement des applications
+tâches :
+ Instauration des mécanismes CI/CD et la chaîne de déploiement et de livraison DevOps avec Gitlab-CI, Docker, Docker compose
+ Préparation des images docker qui respectent les spécifications des projets (version PHP, modules nécessaires) avec des Dockerfiles
+ Préparation des environnements d’exécution avec des fichiers docker compose
+ Upgrader l’environnement de déploiement en pré-production local pour utiliser les conteneurs Docker avec la prise en charges des certificats SSL.
+ Préparer les environnements de développement et de mise en test et en production avec Docker, et docker-compose.
+contexte tehnique : Docker, Docker compose, GItlab, Gitlab CI, Apache, MySQL, PHP, Composer
+Projet 2 : Mise en place d’une procédure de déploiement en production et en staging des projets clients dans une méthodologie Agile
+L’objectif de la mission est de faciliter le suivi de l’avancement dans les projets de développement web ainsi que l’exécution des tests d’acceptation soit par l’équipe de développement, soit par les clients.
+tâches :
+ Préparation des environnements de développement sur des machines Linux/Windows pour des projets basés sur PHP/MySQL.
+ Préparation des environnements de déploiement de pré-production et de production pour les sites et les applications web dans des espaces d’hébergements partagés et dédiés.
+ Déploiement des projets clients sur leurs serveurs d’hébergement ou dans les espaces d’hébergement mutualisés (chez OVH par exemple) en utilisant les accès disponibles (web, ftp, ssh/sftp).
+ Amélioration des procédures de mise en production en instaurant des mécanismes orientés DevOps : Adoption de l’utilisation de Git dans les projets de développement Web Installation et configuration de serveur Gitlab dans les locaux de l’entreprise, accessible à travers internet par Nginx Reverse Proxy pour les projets externalisés
+ Installation d’un serveur de pré-production dans les locaux de l’entreprise pour héberger localement les projets en cours de développement avec les technologies suivantes : Apache web server, MySQL server, Nginx Reverse Proxy.
+contexte tehnique : Apache, MySQL, PHP, IonCube, Squid, Nginx, PhpStorm, git, gitlab
+
+ISETTSL 2014 à 2016
+Ingénieur Système
+Projet : Mise en place d’une solution centrale pour le déploiement des environnements des travaux pratiques. Outils utilisés : Ansible, Apache Guacamole, OpenStack Multi-nodes, clonezilla.
+− Mise en place d’une solution d’enseignement à distance à base de Moodle et le serveurBigBlueButton.
+− La mise en place de Rundeck pour automatiser l’administration de l’ensemble des serveurs.
+− Mise en place d’une solution de gestion de parc et de gestion d’incident basée sur GLPi.
+
+
+Centre Calcul Khawarizmi (CCK) 2009 à 2014
+Administrateur Système
+Le CCK est le Responsable au développement du Réseau National Universitaire et de Recherchet des services Internet pour l’enseignement supérieur et la recherche scientifique
+Projet : Gestion de la solution de messagerie du réseau national universitaire tunisien
+tâches :
+ Gestion de la solution de messagerie du réseau national universitaire tunisien ; la solution est composée de 15 serveurs (POP, SMTP, Bais, LDAP, PAV, Roundecube (webmail)).
+ Mise en place d’une solution d’authentification à base LDAP, RADIUS et SQUID, destinée à l’authentification des clients éparpillés dans les différents établissements attachés au CCK.
+ Mise en place d’un nœud de grille de calcul, le site de Tunisie, dans le projet EumedGrid, Projet lancé durant la période 2006 et 2010, composé de 25 sites répartis dans 13 pays.
+
+ Mise en place d’un réseau de grille de calcul local Tunisien dans le cadre d’une convention avec l’unité de recherche UTIC.
+
+ Mise en place d’un nouveau Webmail personnalisé et sécurisé à base du client Roundecube
+ Ajout d’un nouveau plugin de réponse et renvoi automatique des E-Mails
+ Développement d’un module de modification des mots de passe des utilisateurs.
+ Développement d’une application web pour automatiser les tâches du service (Gestion des comptes) 
+ Mise en place d’un un outil d'analyse statistique d'un site Web (AWStats) destiné au Webmail https://webmail.rnu.tn.
+contexte tehnique : CentOS5, Condor, GLite - Linux – Shell – Postfix – Dovecot – PhpMyAdmin - VSFTP – SSL/TLS – OpenLDAP - FreeRadius – SQUID – Zimbra – Apache - MySQL - PHP - AJAX

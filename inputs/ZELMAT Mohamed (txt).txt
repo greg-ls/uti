@@ -1,0 +1,190 @@
+C O N C E P T E U R D E V E L O P P E U R S E N I O R
+P L U S D E 1 5 A N S D ’ E X P E R I E N C E
+
++33 (0)9 81 88 93 53
+Cell : 367 330 7446
++33 (0)7 44 94 30 09
+mzelmat@gmail.com
+
+Consultant sénior en conception et développement fullstack avec plus de 15 ans d'expérience je suis spécialisé dans les architectures micro services, la programmation fonctionnelle et les méthodologies agiles. Maîtrisant des technologies telles que Java (8-21), Spring Boot, Angular, Docker, Kubernetes et les outils DevOps. Passionné par la conception de solutions performantes et l'accompagnement technique des équipes, je m'engage dans une démarche de Software Craftsmanship, visant à écrire un code propre, maintenable et durable, tout en valorisant le travail collaboratif et l'excellence technique.
+
+F O R M A T I O N S & C E R T I F I C A T I O N S
+Université de Montréal – Bac +5 en informatique
+Formation Kafka – Formation Kafka – 06/2022
+OWASP WEB Certificate 05/2025
+Secure Coding (Java) Certificate 05/2025
+Secure Coding (Java Spring API) Certificate 05/2025
+Secure Coding (JavaScript Angular 2+) Certificate 06/2025
+AWS Certificate Cloud Practitiofier en cour
+
+C O M P É T E N C E S
+
+J A V A A N G U L A R
+Java (8-21), Spring Boot, Angular, Security, AOP, SpringBoot 3, RESTful, Swagger, Clean Code, Clean Architecture, SOLID, KISS, DRY, GitLab Actions, JUnit, Lombok, IntelliJ, Mockto, Sonar, Maven, SonarQube, Artifactiry, Jenkins, Gitlab CI, Docker, Kubernetes, ArgoCD, WSL2, Hibernate 4/5, Keycloak, OAuth2, ANGULAR, Authentification, Spring, JPA, Hibernate.
+
+Techniques
+automatisation de test, AWS, Microsoft Azure, API REST, SOAP, CQRS, Docker, domain-driven design, sécurité, Test, veille technologique, Sécurité, TDD, Ubuntu, Unix, Versioning, Cassandra, CICD, clean architecture, Conception, Développement, SonarQube, Spring Cloud, Spring Cloud Gateway, Consul, Swagger, Elastic Search, Fedora, Git, Hazelcast, Oracle, Outil, PostgreSQL, revue de code, Sonar, Spring, Spring Boot, SQL, Kubernetes (k8s), Liquibase, Maven, MongoDB, Nexus, Node.js, React.js, Microsoft SQL Server, MySQL, HP-UX, JavaScript, Jenkins, JSON, Kafka, Linux, Sourcing, GitLab, HashiCorp Vault, Clean Code, Software craftsmanship, Intégration, Beidou, Bitbucket, Event Agile.
+
+Transverses
+Formation, industrie de l'énergie, PoC.
+
+A U T R E S C O M P É T E N C E S
+Kafka, Formation.
+
+L I N G U I S T I Q U E S
+Anglais (Courant)
+
+S Y N T H È S E S D E S M I S S I O N S
+SMACL-MAIF
+Tech Lead Dev Socle Java Angular Software Craft depuis 04/2024 (10 mois)
+BGL BNP PARIBAS
+Développeur Fullstack de 10/2023 à 03/2024 (6 mois)
+MANPOWER
+Développeur Fullstack de 10/2022 à 09/2023 (1 an)
+SOCIETE GENERALE
+Développeur Fullstack de 01/2021 à 08/2022 (1 an et 8 mois)
+MAIF
+Tech Lead Fullstack Software Craft de 10/2019 à 12/2020 (1 an et 2 mois)
+RTE
+Tech Lead Fullstack Software Craft de 05/2017 à 08/2019 (2 ans et 4 mois)
+DIVERS CLIENTS
+Développeur Fullstack Java et Angular de 01/2005 à 04/2017 (12 ans et 4 mois)
+
+D É T A I L S D E S M I S S I O N S
+
+DESJARDINS Insurance/Bank (Canada)
+Analyste-programmeur, Exploitation, Maintenance et Développement des systèmes et des infrastructures
+depuis 05/2025
+Réalisations :
+Faire certifications obligatoires (OWASP WEB Certificate, Secure Coding (Java), Secure Coding (Java Spring API), Secure Coding (JavaScript Angular 2+), Secure Coding (Java Servlets)
+Enrichir l’équipe avec les connaissances et les bonnes pratiques de développement
+Gérer les priorités et avoir une bonne capacité d’analyse
+Participer à l’installation et aux tests de progiciels ou à l’implantation des applications
+Compétences pratiquées : EIS, Java 8/21, Angular 19, Micro services, Spring (Core, Batch, Security, Boostrap, jQuery, Ajax, JSTL, Taglibs, EL, T24, API, WebServices SOAP-REST, JSP, bower, XHTML, CSS, XML, MAVEN 3, JUnit, SOAPUI, Unix, UML, Tomcat7, JNDI, cache ehcache, Mysql, Eclipse LUNA, Git, IText, JXL, Jira, JUnit, EasyMock.
+
+SMACL-MAIF
+Tech Lead Dev Socle Java Angular Software Craft
+depuis 04/2024 (10 mois)
+Réalisations :
+Concevoir et développer des solutions techniques robustes, évolutives et performantes en functional programming Vavr pour l’application QDC
+Pair Programming
+Analyser l’existant pour faire migrer de Spring boot 2 vers Spring boot3
+Documenter les analyses dans les JIRAS
+Mettre en place de l’architecture et travaux de conception.
+Revue de code et accompagnement des membres de l’équipe.
+Faire de la veille technologique et proposer des solutions innovantes pour améliorer l’existant l'expérience utilisateur et la valeur ajoutée du produit
+Travailler dans un environnement technique varié : écosystème OPEN JAVA, API, micro services.
+Compétences pratiquées : Java 17, Angular 17, Vavr, Feign client, Micro services, Kubernetes (k8s), SpringBoot 2-3, TDD, BDD, Clean Code, Clean Architecture, SOLID, KISS, Jenkins 2, GitLab, Nexus, JUnit, Lombok, IntelliJ, keycloak , Mockto, Sonar, Maven, CAS, pair programming, SonarQube, Artifactiry, architecture hexagonale.
+
+BGL BNP PARIBAS
+Développeur Fullstack Java.Spring, Angular
+de 10/2023 à 03/2024 (6 mois)
+Contexte : Accompagner l'équipe sécurité et groupe framework dans leurs projets de transformation (Vault, outils d'authentification et d'identité etc).
+Réalisations :
+Développer un starter qui permet la création de alias dans le fichier application.yml qui pointent vers les données sensibles stockes dans Hashicorp Vault en basant sur le starter Spring Cloud Vault Config
+Développer un starter qui permet l'implémentation de plusieurs moteurs secrets Hashicorp Vault (clé-valeur, base de données...)
+Garantir les bonnes pratiques Consul, Spring Cloud, Vault et Infra dans les différents projets
+Ecrire et présenter des guidelines d'architecture (Vault, Spring Cloud, Infrastructure et sécurité)
+Compétences pratiquées : Vault, Java 11/17, Micro services, Kubernetes (k8s), SpringBoot 2, Spring Cloud Vault Config, Jenkins 2, GitLab, Nexus, JUnit, Lombok, IntelliJ, Mockto, Sonar, Maven.
+
+MANPOWER
+Développeur Fullstack Front/Back-end
+de 10/2022 à 09/2023 (1 an)
+Contexte : Développement back et front sur plusieurs sujets - Commande client, Fiche partir en mission
+Réalisations :
+Développement Back et Front
+Migration de projet fiche partir en mission de java 8 vers java 17
+Amélioration du code, clean code
+Développement de tests automatisés (unitaire, intégration)
+Maintien d'une chaîne d'intégration continue & des jobs de déploiement
+Compétences pratiquées : Angular 14, Java 11/17, Micro services, API REST, AWS, Docker, Kubernetes (k8s), SpringBoot 2, Jenkins 2, GitLab, Nexus, Ansible, JUnit, JPA2, Hibernate, Lombok, OpenAPI/Swagger, IntelliJ, keycloak , Mockto, Confluence, Jenkins CICD, Sonar, Agile, PostGreSQL, Windows, Mockito, Jenkins,Maven, liquibase, bullhrn.
+
+SOCIETE GENERALE
+Développeur Fullstack Front/Back-end
+de 01/2021 à 08/2022 (1 an et 8 mois)
+Contexte : Projet Compass (Financial Crime, Bribery & Corruption Compliance Assessment). Equipe : 20 développeurs, 1 Scrum master, 5 Product Owner.
+Réalisations :
+Développement et tests des stories.
+Proposition de choix techniques.
+Environnement technique : React JS, Java 8/11, Spring Core/Security, Hibernate, Jenkins CI/CD.
+Compétences pratiquées : React JS, Java 8/11, Vavr, Rest Feign Client, React JS, Stack spring (core / security / boot 2), Rest, JPA2, Hibernate, Lombok, Mvn, OpenAPI/Swagger, IntelliJ, JUnit, Mockto, Confluence, Jenkins CI-CD, Sonar, Agile, PostGreSQL, OpenShift, Windows, Mockito, Jenkins, Maven, Bower, Npm.
+
+MAIF
+Tech Lead Digital FullStack Front / Back-End Software Craft
+de 10/2019 à 12/2020 (1 an et 2 mois)
+Contexte : Digital Factory / Refonte du GED. 6 développeurs, 1 Scrum master, 1 Product Owner.
+Réalisations :
+Contrats API : Conception et développement des API en Vavr (Double-Authent, CGU, Cozy bank, Timeline)
+SUPPORT API : Support au développement des Squad API
+Résoudre les problèmes
+Mettre en place de bonnes pratiques TDD et BDD
+Designer et décliner les architectures
+Codage de parties spécifiques du programme
+Suivi de la qualité du code grâce des outils d'analyse et du code automatique
+Conception l'architecture logicielle de la préconisation de refonte du GED
+Correction des composants React JS pour administrer l'application GED
+La définition des architectures logicielles sur la base des solutions préconisées (API Management architectures micro services, intégration cloud)
+Compétences pratiquées : Micro Services, Java 8/11, Vavr, Jhipster 6, Rest Feign Client, Apache Camel, React JS, Rancher, Portainer, Eureka, Spring Cloud Gateway, Spring Cloud, Ribbon, Mongo, Elastic Search, kafka, Zookeeper, Stack spring (core / security / spring cloud /boot 2), Rest, JPA, Hibernate, Derby, Lombok, Maven, Gradle, GitLab, ELK, Docker, Kubernetes (k8s), Cucumber, TDD, BDD, Clean Code, Clean Architecture, SOLID, KISS, OpenAPI/Swagger, IntelliJ, Oracle, Sonar, JUnit, Mockto, Confluence, Jenkins CI-CD, Sonar, Agile Scrum, Jira.
+
+RTE
+Tech Lead Fullstack Software Craft
+de 05/2017 à 08/2019 (2 ans et 4 mois)
+Contexte : Développer de façon modulaire une brique logicielle centrale pour de nombreux processus de coordination européens. En particulier, cette brique logicielle aura pour objectif d’optimiser la configuration du réseau électrique à un instant donné (optimisations de parades) afin d’augmenter les échanges d’électricité entre pays d’Europe. Ainsi, Farao est un projet d’industrialisation d’un module situé au cœur des processus de coordination européenne. Ce nouvel outil modulaire ouvrira la voie à de futures extensions et ainsi permettra de nouveaux usages attendus par les gestionnaires de réseaux d’Europe. Equipe : 2 développeurs, 1 Scrum master,1 Product Owner.
+Réalisations :
+La mise en oeuvre de solutions techniques robustes et performantes base sur Functional Programmation Vavr
+Revues de code
+Pair Programming
+Mise en place des PoC
+Proposition sur les choix techniques
+Développer et tester les stories
+Compétences pratiquées : Micro Services, Java 8/11, Angular 7, Typescript, Stack spring JPA/Hibernate, Git, Bitbucket, OpenAPI/Swagger, Maven 3.3, SQL, Liquibase, Apache Camel, Jenkins, Sonar, Javascript, AngularJS 1.2, Boostrap, RabbitMQ, ActiveMQ, MapStruct, Lombok, Junit, logback, Tomcat, cxf, Eclipse, IntelliJ, Mockto, Powermock, Agile scrum, Moneythor, Sab, Marketpay, Quiksign, Salesforce, Ceo, Checkngo, FranFinance, Geolife, Harvest, Ingenico, Inwebo, MobileConnect, Jira.
+
+LA POSTE
+Développeur Back-End Java 7-8
+de 02/2015 à 05/2016 (1 an et 3 mois)
+Contexte : Le module d'alimentation (ou connecteur) est un développement Java traitant tous les flux entrants. Les différents flux sont des web services accessibles via http ou https avec une authentification en basic-auth. 4 développeurs, 1 chef de projet.
+Réalisations :
+Développement de deux nouveaux connecteurs CNP et GESPREST
+Maintenance (correction des bugs)
+Validation des choix techniques
+Migration des connecteurs de JAVA 7 vers JAVA 8
+Participer m la rédaction des spécifications techniques
+Intégration continue via Jenkins
+Compétences pratiquées : Java 8, JEE 7, CDI, EJB 3.2, Rest, Json, JPA 2.1, Hibernate 4.3.x, MongoDB, Elastic Search Wildfly 8.2.1, Git, GitLab, Maven 3.3, SQL, SQL Server, MySQL, Jenkins, Sonar, JUnit 5.x, DBUnit, Mockto, Powermock, Agile scrum, Markdown, guice, guice-multibindings, mybatis, gson, httpclient, timesten.
+
+B FOR BANK
+Développeur Fullstack
+2014
+Contexte : La cellule Etude et Développement a pour vocation de développer et de maintenir les applications internes en JEE utilisées dans les différents services (Contrôle de Gestion, Comptabilité Assurances, Consolidation, Middle Office, Reporting...) de la Gestion Administrative et Comptable des Placements Assurances. 20 Développeurs, 1 Scrum Master, 5 Product Owner.
+Réalisations :
+Assurer le développement des features dans le respect de la méthode agile & TDD et des contraintes architecturales, dans un souci constant d’optimisation
+Réalisation des tests unitaires des fonctionnalités et participation aux phases de recette IT
+Maintenance (correction des bugs)
+Compétences pratiquées : JAVA 8, GIT, Thymeleaf, Hazelcast, Spring MVC, Spring DisplayTag, Tiles, JQuery, Ajax, JSTL, Taglibs, EL, JPA 2.0, SQL, Hibernate 3.0, WebServices, Annotations, XHTML, CSS, XML, MAVEN 3, Gradle, JUnit, SOAPUI, Unix, Power AMC 11, UML, Tomcat7, JNDI, cache Guava, Mysql, EclipseJUNO, Mercurial-2.2.3, IText, JXL, Jira, JUnit, EasyMock.
+
+ENI (2013)
+Développeur Fullstack
+Contexte : Migration une application PHP (FOP) vers une plateforme JEE; 2 développeurs, 1 chef de projet;
+Réalisations :
+Proposition architecture applicative sur la couche back-end Java pour la refonte du « FRONT OFFICE PARTENAIRES » (Projet FOP écrit en PHP) à partir du cahier des charges
+Développement des IHM
+Développeur des API
+Déploiement en collaboration avec les équipes de la Production Applicative
+Mise en place des bonnes pratiques de développement back-end Java
+Compétences pratiquées : Java EE 6, Java 6, Spring (loC, Batch, MVC, AOP), DisplayTag, Tiles, JQuery, Ajax, JSTL, EL, Log4J, SLF4J, Logback, JPA 2, Hibernate 3, Spring (loC, Batch, MVC, AOP), XHTML, CSS, XML, MAVEN 3, Velocity Template Engine, JUnit, easyMock. Méthodes : Agile Scrum.
+
+RSI (2005)
+Développeur Fullstack Java/ Struts2
+de Janvier 2005 à Décembre 2012
+Contexte : Participer à l’implantation d’un espace client compte Assure et RIS. Conception et développement d’un espace client compte Assure et RIS pour les particuliers et professionnelles; 4 développeurs, 1 Scrum master, 1 Product Owner.
+Détail des tâches :
+Analyse des besoins exprimés par le Product Owner
+Validation des choix techniques
+Développement des composants
+Gestion des incidents de production
+Maintenance (correction des bugs)
+Proposition architecture applicative sur la couche back-end Java
+Mise en place des bonnes pratiques de développement back-end Java
+Rédaction des spécifications techniques
+Rédaction des documents techniques
+Compétences pratiquées : Java, J2EE, WebServices SOAP (JAX-WS), Struts2, Tiles, Jquery, Ajax, JSTL, EL, Log4J, SLF4J, Logback, JPA 2, Hibernate 3, Spring (loC, Batch, MVC, AOP), XHTML, CSS, XML, MAVEN 3, Velocity Template Engine, JUnit, easyMock. Méthodes : Agile Scrum.

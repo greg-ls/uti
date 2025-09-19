@@ -1,0 +1,128 @@
+DOSSIER DE COMPÉTENCES
+Consultant Sénior
+Après avoir obtenu un master en finance de marché en septembre 2019, j’ai développé de solides connaissances des métiers financiers.
+À la suite de mes études, j’ai décidé de m'établir au Luxembourg et de rejoindre CACEIS, l'une des plus grandes banques de dépôt au monde.
+Avec un esprit d'analyse et de curiosité, j’apprécie la compréhension des besoins de l'entreprise et le passage du concept à l'exécution, de la stratégie à l'exploitation.
+Mes diverses expériences m’ont permis de développer des compétences en gestion, une bonne communication, un sens de l'écoute et un goût pour le travail d'équipe.
+Consultant Sénior 5 années d’expérience
+
+compétences fonctionnelles
+MÉTHODOLOGIE: Animation de workshops, Change management, Agile, Lean Management, Management de projets, Maitrise d’ouvrage
+
+SECTEURS / CLIENTS: CACEIS (Asset Servicing), SOGELIFE (Assurance vie), FRANFINANCE (Banque), CACIB (CIB)
+
+MÉTIER : Cash management, Asset Servicing, Asset management, Assurance Vie, Corporate and Investment Banking, Crédit
+
+compétences techniques
+
+OUTILS: Pack Office, AIA, Jira, CICS, Confluence
+
+LANGUES
+Français : Langue maternelle
+Anglais : Courant
+Espagnol : Intermédiaire
+
+diplomes
+Master in Management (PGE)
+Master 2 finance de marché (KEDGE BS)
+
+Expériences professionnelles
+
+CACIB
+Mai 2023 Mai 2024
+CHEF DE PROJET équipe MIGRATION PROJECT TEAM
+
+CONTEXTE
+Au sein du département International Transaction Banking, le programme Cash Management Transformation prend en charge la refonte des activités de cash management des clients de la banque.
+Afin d’améliorer le service de Cash Management pour ses clients, une nouvelle offre a été développée et livrée progressivement pour être désormais opérationnelle.
+taches
+Responsabilités :
+Construction et pilotage des processus de migration
+Définition du rétro planning de migration
+Pilotage, planification, animation des comités (COPRO, COPIL…)
+Lotissement des clients sur les vagues de migration prévues
+Mise en place de la stratégie de recette
+Responsabilités amont migration :
+Suivi des offres et produits Corporate à livrer dans CMT
+Présentation client : préparation de support d’explications CMT / produits spécifiques, participation au call client
+Contrôles des paramétrages réalisés par le back office
+Responsabilités post-migration :
+Suivi des clients post-bascule et de la bonne intégration de leurs flux dans le nouvel environnement
+Monitoring des rejets et des anomalies liées à la migration
+Gestion de la gouvernance et comitologie post-bascule
+
+SOCIETE GENERALE - FRANFINANCE
+Mars 2022 Mai 2023
+chef de projet équipe DSI/CSP/MDM
+
+CONTEXTE
+Dans le cadre du programme YOGA le Groupe Société Générale fusionne avec Crédit du Nord.
+Franfinance, en tant que filiale spécialisée dans le crédit à la consommation pour le Groupe au travers d’une société commune, Sogéfinancement représente le SI cible pour la reprise des crédits à la consommation (Classiques et Renouvelables)
+taches
+Responsabilités dans le cadre du projet YOGA :
+Pilotage, planification, animation des comités
+Rédaction des spécifications fonctionnelles générales et détaillées
+Elaboration des cahiers de recettes
+Exécution des tests de recette interne
+Management des tests durant les phases de certifications dynamiques
+Conduite du changement
+Intégrés au Domaine Après-Vente de MDM, les MOA ont également en charge :
+Le suivi de production
+La maintenance corrective et évolutive des applications du domaine
+La gestion et le pilotage des projets du domaine
+La contribution aux projets des autres pôles
+
+CACEIS
+Janvier 2020 Décembre 2021
+OFFICER INVESTMENT MANAGEMENT SERVICES
+
+CONTEXTE
+Au sein de la Direction « Front Office Solution », l'offre « Back to Front service » propose aux clients de CACEIS une gamme de produits et de services pour externaliser les fonctions « support » à la gestion et ainsi leur permettre de se concentrer sur leur cœur de métier.
+Le Middle Officer assure toutes les activités qui contribuent à refléter les opérations générées par le Front Office des clients dans la chaîne de valeur administrative des fonds.
+taches
+Migration TMC (Migration de la plateforme de monitoring des flux)
+Participation à la rédaction de l’expression de besoin
+Exécution des tests
+Déploiement lors de la migration des clients sous ma responsabilité
+Follow the Sun (Déploiement de deux nouvelles équipes dans le monde)
+Rédaction des procédure métier à destination des équipés à Singapour et Toronto
+Formation des nouvelles équipes
+Suivi des KPI de production
+RUN
+Effectuer le matching, entre les opérations reçues des gérants et les confirmations reçues des contreparties
+Participer à la rédaction à l’évolution des procédures et des modes opératoires
+Contribuer à l’amélioration des processus, des indicateurs de qualité et de risque opérationnel
+Participer à la rédaction des fiches incidents et plans d’action associés
+
+SOGELIFE
+Juin 2019 Octobre 2019
+CHEF DE PROJET
+
+CONTEXTE
+En 2019
+Le grand du duché du Luxembourg impose à l’ensemble des compagne d’assurance vie luxembourgeoises de note la totalité de leur client en portefeuille.
+Avec plus de 10 000 client et 10 milliards d’euros sous gestion il est impossible pour SOGELIFE de réaliser cette opération manuellement.
+En collaboration avec l’équipe IT et AML j’ai donc mené à bien la mise en place du scoring automatisé.
+taches
+Mise en place du nouveau questionnaire du Commissariat aux Assurances afin d’harmoniser l’évaluation des risques d’exposition au blanchiment et au financement du terrorisme
+Répondre aux problématiques IT et AML
+Analyse et traitement de données Excel
+Animation de comités et d'ateliers
+Gestion du projets pilotage, planification, suivi de l’avancement s’assurer d'être dans les temps
+
+CACEIS
+Juillet 2018 Décembre 2018
+OFFICER INVESTMENT MANAGEMENT SERVICES
+
+CONTEXTE
+Au sein de la Direction « Front Office Solution », l'offre « Back to Front service » propose aux clients de CACEIS une gamme de produits et de services pour externaliser les fonctions « support » à la gestion et ainsi leur permettre de se concentrer sur leur cœur de métier.
+Le Middle Officer assure toutes les activités qui contribuent à refléter les opérations générées par le Front Office des clients dans la chaîne de valeur administrative des fonds.
+taches
+Saisie des instructions transmises par fax
+La saisie des opérations et la mise en place de solution d’automatisation
+Le suivi des flux et la garantie du traitement et de leur restitution (Trade Capture et Trade Delivery )
+Identification des rejets et des anomalies ainsi que leur résolution
+La communication et restitution clients interne (BO, Valo, Custo….) et externe ( Clients )
+La production des reportings et KPI internes et externe
+L'amélioration des processus et l'analyse d'impact des incidents
+La participation aux évolutions des outils Métiers : rédaction des EDB, participation aux tests et validation des recettes

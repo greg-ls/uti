@@ -1,0 +1,262 @@
+
+Profil :
+10 ans d’expérience dans le domaine de la QA (Automatisation, Fonctionnel, Performance).
+Excellente maîtrise des processus et outils de test logiciel (Cypress, Playwright, Selenium, Postman, Jira/Xray, Azure DevOps, Git, CI/CD, Méthodes agiles, shift left testing, …).
+Expérimenté sur la mise en place et l’amélioration de la QA au sein d’une Squad ou en transverse.
+Excellente communication en Anglais (Oral et écrit).
+Curieux et passionné par les sujets tech.
+
+Compétences fonctionnelles :
+Automatisation des tests.
+Stratégie QA :
+ Mise en place d’une stratégie de test basée sur l’état de l’art.
+ Définition des processus QA.
+ Implémentation des processus QA à petite et grande échelle.
+ Conception des plans de tests.
+ Gestion des campagnes d’exécution des tests.
+ Pilotage des recettes métiers.
+ Gestion du cycle de vie des anomalies.
+ Pilotage et gestion de l’activité de test (planning, ressources, KPI, …).
+
+Compétences techniques :
+Outils de gestion (agilité, tests, CI/CD) : Jira, XRAY, HP/ALM, Squash TM, Mantis BT, Azure DevOps, Gitlab.
+Outils d’automatisation des tests Front: Playwright, Cypress, Selenium, Webdriver IO, Appium, Cucumber, Behave, Katalon studio, Jest, Mocha, Chai, React Testing Library, Browserstack, Kobiton, Rest Assured.
+Outils de test d’API : Postman, Soap UI, Karate.
+Outils de test de performance : Gatling, Jmeter, k6.
+Stack JS: React, React Native, TypeScript, JavaScript, Node JS, Express, MongoDB.
+Autres langages et outils: Java, Groovy, Python, C#, Gherkin, Docker, Scala, SQL, Linux, Windows, Mac.
+Cypress, Playwright, Postman, Karate, Jira, Xray, JavaScript, NodeJS, Gherkin, Cucumber JS, VS Code, Gitlab CI.
+NodeJS, React, Gherkin, Cucumber JS, Visual Studio Code.
+
+Diplomes
+ 2015 Master 2 – Gestion de projet – EBS.
+ 2013 Licence 3 - Mathématiques, Statistiques et Informatique – EURIA.
+ 2011 CPGE – MPSI / MP – Paul Éluard.
+
+Formations
+ 2023 Bootcamp Data Science – Le Wagon.
+ 2020 Développeur Fullstack JavaScript – Le Réacteur.
+ 2017 Développeur de tests automatisés – École de la Qualité Logicielle.
+
+Langues :
+ Français (langue maternelle).
+ Anglais professionnel courant, TOEIC 945.
+
+Expériences professionnelles :
+
+Pernod Ricard Depuis 06/2023.
+Contexte : Mise en place des tests automatisés sur l’application d’optimisation calendaire des promotions (projet REVUP).
+Mission : Stratégie de test, Automatisation de test, CI/CD.
+Systèmes sous test : API REST, IHM Web, Machine Learning.
+Tâches :
+ Définition de l’approche des tests automatisés.
+ Mise en place des tests API avec Postman et Newman.
+ Développement d’un framework d’automatisation des tests UI.
+ Mise en place des pipelines de test avec Azure DevOps.
+ Mise en place d’un reporting automatisés dans Xray.
+ Évangélisation sur l’intérêt des tests autos au sein des équipes.
+ Définition des critères d’acceptance à chaque sprint.
+ Gestion des campagnes d’exécution à chaque sprint.
+Environnements techniques : Cypress, Playwright, Postman, Karate, Jira, Xray, JavaScript, NodeJS, Gherkin, Cucumber JS, VS Code, Gitlab CI.
+
+DevOps France TV 07/2022 – 06/2023.
+Ingénieur QA.
+Contexte : Mise en place « from scratch » d’une stratégie de test et d’automatisation transverse au sein des équipes de France info avec implémentation des tests en continue.
+Mission : Stratégie de test, Automatisation de test, CI/CD.
+Systèmes sous test : API REST, IHM Web développées en PHP et React.
+Tâches :
+ Définition de la stratégie de test transverse.
+ Mise en place des processus de test au sein des équipes.
+ Pilotage des indicateurs de suivi.
+ Suivi du backlog des bugs.
+ POC d’automatisation sur Playwright.
+ Développement d’un framework standardisé d’automatisation des tests avec Cypress.
+ Mise en place des pipelines de test et de la stratégie d’environnement.
+ Revue et validation des Merge requests (MR).
+ Mise en place d’un reporting automatisés dans Xray.
+ Développement d’un POC pour les tests API automatisés sous Postman.
+ Formation sur les outils de test (Cypress, Postman, Jira/Xray).
+Environnements techniques : Playwright, Cypress, Postman, Jira, Xray, JavaScript, NodeJS, Gherkin, Cucumber JS, VS Code, Azure.
+
+Sodexo 10/2021 – 07/2022.
+Ingénieur QA.
+Contexte : Gestion de la qualité des applicatifs au sein de la « Digital Service Platform ». Communication totale en Anglais sur le projet (meetings, documentations).
+Mission : Gestion d’équipe, Stratégie de test, Automatisation de test, CI/CD.
+Systèmes sous test : API REST, IHM Web développée en React.
+Tâches :
+ Définition de la stratégie globale de test.
+ Mise en place des tests de contrat de services avec Postman.
+ Développement du framework d’automatisation Front-End avec Cypress.
+ Mise en place des tests de performance avec Jmeter.
+ Mise en place et maintenance des pipelines de test.
+ Revue et validation des pull requests (PR).
+ Gestion des phases d’exécution en UAT avec le métier.
+ Organisation des bugs triages.
+ Pilotage d’une équipe interne de 4 testeurs (planning, ressources, KPI,…)
+ Supervision des équipes externes de testeurs.
+Tâches annexes :
+ Onboarding des nouveaux arrivants.
+ Formation sur les outils (Cypress, Postman, Azure DevOps).
+Environnements techniques: Cypress, Jest, React Testing Library, Postman, Karate, Jmeter, k6, Azure DevOps, Javascript, Typescript, DevOps, Javascript, Typescript, NodeJS, React, Gherkin, Cucumber JS, Browserstack, Nx, Git, Cosmos DB, Mongo DB, Visual Studio Code.
+
+Publicis Sapient 10/2020 – 06/2021.
+Ingénieur QA.
+Contexte : Développement « from scratch » du MVP d’une plateforme e-commerce pour SONEPAR, leader mondial dans la distribution BtoB de matériel électrique. Communication totale en Anglais sur le projet (meetings, documentations).
+Mission : Recette applicative, Automatisation des tests, CI/CD.
+Systèmes sous test : API REST, IHM Web.
+Tâches :
+ Définition et amélioration de la stratégie transverse de test.
+ Analyse des User story.
+ Rédaction des critères d’acceptation.
+ Revue et validation des critères d’acception.
+ Mise en place des tests unitaires avec Jest et React Testing Library.
+ Automatisation des tests Front-end avec Cypress puis Webdriver IO.
+ Automatisation des tests Back-end avec Karate.
+ Revue et validations des pull requests (PR).
+ Gestion des phases d’exécution des tests.
+ Automatisation de l’import des résultats d’exécution des tests dans Jira.
+ Gestion et analyse des bugs avec les développeurs.
+ Réalisation des tests de performance avec Gatling.
+ Contribution aux différentes cérémonies agiles :
+     Daily meeting
+     Sprint planning
+     3 amigos
+     Backlog refinement
+     Rétrospective.
+Environnements techniques : Cypress, Webdriver IO, Jest, React Testing Library, Gatling, Karate, Jira, Xray, Confluence, Postman, Azure DevOps, Javascript, Typescript, NodeJS, React, Gherkin, Cucumber JS, Browserstack, Nx, Git, Cosmos DB, Mongo DB, Visual Studio Code.
+
+Microsoft 12/2019 – 10/2020.
+Ingénieur QA.
+Contexte : Mise en place des services sur les véhicules connectés pour l’alliance RENAULT-NISSAN. Projet international, avec des équipes de développement en France, en Inde et au Japon. Communication totale en Anglais sur le projet (meetings, documentations).
+Mission : Recette applicative, Automatisation des tests, Test de performance.
+Systèmes sous test : API REST.
+Tâches :
+ Définition de la stratégie QA dans l’équipe.
+ Analyse des User story.
+ Rédaction et mise à jour des cas de test.
+ Développement et mise à jour des tests automatisés sur un Framework existant.
+ Mise en place des tests de performance sur les API avec Postman.
+ Gestion des phases d’exécution des tests.
+ Gestion et analyse des bugs avec les développeurs.
+ Analyse des logs avec Kusto DB.
+ Analyse des anomalies de production.
+ Recette des patchs réalisés.
+ Présentation des démos au client en fin de sprint.
+ Contribution aux différentes cérémonies agiles :
+     Daily meeting
+     Sprint planning
+     Rétrospective
+     DoD.
+Environnements techniques : Postman, Azure DevOps, Azure Storage, Cosmos DB, Microsoft SQL, Kusto DB, C#, MSTest, Event Hub.
+
+John Paul – Groupe ACCOR 09/2019 – 11/2019.
+Ingénieur QA.
+Contexte : Maintenance et évolution des applications de conciergerie digitale (mobile iOS/Android, API REST, web).
+Mission : Mise en place « from scratch » du département QA, Automatisation des tests, intégration continue.
+Systèmes sous test : Application mobile natives (iOS, Android), API REST, IHM web.
+Tâches :
+ Mise en place des processus QA.
+ Définition du contexte d’automatisation avec les PO.
+ Rédaction et mise à jour des tests d’acceptation avec la syntaxe Gherkin pour chaque user story (API, Web, mobile).
+ Design et mise en place d’un Framework de test BDD.
+ Développement et mise à jour des tests automatisés.
+ Automatisation de l’import des résultats d’exécution des tests.
+ Création de conteneurs Docker pour la mise en place de la CI.
+ Mise en place d’un processus d’intégration continue pour les tests avec Gitlab CI.
+ Analyse exhaustive des tests en échec
+     Analyse des logs
+     Vérification des jeux de données
+     Maintenance des tests automatisés.
+ Test des API avec Postman.
+ Contribution aux différentes cérémonies agiles :
+     Daily meeting
+     Sprint planning
+     Rétrospective.
+Environnements techniques : Selenium, Appium, Postman, Python, Behave, PowerShell, Docker, Gherkin, Gitlab, Kobiton, IntelliJ.
+
+Docaposte 02/2019 – 08/2019.
+Ingénieur QA.
+Contexte : Refonte technique de la plateforme de relation usagers de l’ANTAI, passage en architecture micro-services. Mise en place stratégique de l’automatisation des tests et des tests de performance.
+Mission : Recette applicative, automatisation des tests, tests de performance.
+Systèmes sous test : API REST, IHM web.
+Tâches :
+ Définition de la stratégie de test.
+ Rédaction et mise à jour du cahier de recette (API, IHM).
+ Constitution des jeux de données.
+ Test des API REST via Postman.
+ Exécution des tests de non-régression (PC, mobile, tablette).
+ Analyse exhaustive des tests en échec
+     Analyse des logs
+     Vérification des jeux de données.
+ Gestion des anomalies via Jira.
+ Rédaction des PV de recette.
+ Automatisation des tests IHM (PC, mobile, tablette)
+     Design d’un Framework hybride de test autour de Selenium, Appium et Cucumber
+     Rédaction des tests d’acceptation avec la syntaxe Gherkin
+     Développement et mise à jour des scripts Selenium Java
+     Exécution des tests après chaque livraison sur les environnements de recette et préproduction.
+ Automatisation des tests API
+     Création des scripts d’automatisation via Katalon studio
+     Maintenance des tests automatisés.
+ Réalisation des tests de performance
+     Définition de la stratégie de test (types de tests, volumétrie, temps de réponse)
+     Définition des scénarii pour les types de des tests suivants : charge, stress et endurance
+     Création des scripts d’injection via Jmeter puis Gatling
+     Exécution des tests sur l’environnement de préproduction
+     Monitoring des résultats via Gatling et VisualVM
+     Analyse des graphes systèmes
+     Analyse des logs des micro-services
+     Préconisation d’amélioration des performances (multi-instances)
+     Rédaction du rapport de test de performance.
+ Contribution aux différentes cérémonies agiles :
+     Daily meeting
+     Sprint planning
+     Rétrospective.
+Tâches annexes :
+ Contribution à la gestion du backlog.
+ Formation sur les outils (Gatling, Postman, Katalon).
+Environnements techniques : Jira, Selenium, Appium, Postman, Java, Cucumber, Gherkin, Katalon, Jmeter, Gatling, Gitlab, Eclipse.
+
+IFCAM 03/2017 – 01/2019.
+Ingénieur QA.
+Contexte : Évolution du SI de gestion de l’IFCAM, en réponse à un projet réglementaire bancaire défini par la politique groupe du Crédit Agricole (Sanctions internationales).
+Mission : Recette applicative du SI de gestion de l’IFCAM, Mise en place « from scratch » de l’automatisation sur les applications web.
+Systèmes sous test : Clients lourds / légers, ESB, Job / Batch, API REST et SOAP.
+Tâches :
+ Mise à jour des spécifications fonctionnelles.
+ Formalisation de la stratégie de recette.
+ Conception des cas de tests.
+ Revue et validation des tests.
+ Constitution des jeux de données.
+ Automatisation des tests de non-régression sur les applications web avec Squash TA et Selenium.
+ Test des API via Postman et Soap UI.
+ Planification et exécution des campagnes de test.
+ Priorisation et exécution des tests de non-régression.
+ Analyse exhaustive des tests automatisés en échec
+     Analyse des logs
+     Vérification des jeux de données
+     Analyse du code avec les développeurs.
+ Gestion des anomalies.
+ Rédaction des PV de recette.
+ Présentation du bilan de recette en fin de sprint.
+ Contribution aux différentes cérémonies agiles :
+     Daily meeting
+     Sprint planning
+     Rétrospective.
+Tâches annexes :
+ Formation sur Squash TM.
+ Formation des nouveaux arrivants dans l’équipe de test.
+Environnements techniques: Jira, Postman, SoapUI, PowerShell, Selenium, Java, Groovy, Microsoft SQL server Management Studio, MongoDB, Squash TA, Squash TM, Mantis BT.
+
+Quantic 09/2015 – 02/2017.
+Testeur QA.
+Contexte : Tierce recette applicative.
+Mission : Recette applicative sur plusieurs appareils (PC, Android, iOS).
+Tâches :
+ Rédaction des cas de test.
+ Définition des jeux de données.
+ Exécution des cas de test.
+ Création des tickets d’anomalie.
+ Suivi de la correction des anomalies.
+ Rédaction du PV de recette.
+Environnements techniques : MS Excel, HP/ALM, ITSM.

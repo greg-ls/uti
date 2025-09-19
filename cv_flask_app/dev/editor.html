@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Éditeur CV - par UTI</title>
+    
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="css/editor.css">
+    <link rel="stylesheet" href="css/edition.css">
+    <link rel="stylesheet" href="css/chat.css">
+    <link rel="stylesheet" href="css/comparison.css">
+</head>
+<body>
+    <div class="header">
+        <div class="logo" onclick="goHome()">Éditeur de CV par UTI</div>
+        <div class="user-badge">Marie Dupont</div>
+    </div>
+
+    <div class="main-container" id="mainContainer">
+        <!-- Editor Section -->
+        <div class="editor-section" id="editorSection">
+            <div class="editor-tabs">
+                <div class="tab active" data-tab="editor">✏️ Éditeur</div>
+                <div class="tab" data-tab="comparison">🔍 Comparaison</div>
+                <div class="tab" data-tab="preview">👁️ Aperçu</div>
+            </div>
+            <div class="editor-content" id="editorContent">
+                <!-- CV Content will be loaded here -->
+            </div>
+        </div>
+
+        <!-- Main resizer -->
+        <div class="resizer" id="resizer"></div>
+
+        <!-- Assistant Panel -->
+        <div class="assistant-panel" id="assistantPanel">
+            <!-- Assistant content will be loaded here -->
+        </div>
+    </div>
+
+    <!-- JavaScript Files -->
+    <script src="data/job-offers.js"></script>
+    <script src="js/editor.js"></script>
+    <script src="js/resizer.js"></script>
+    <script src="js/edition.js"></script>
+    <script src="js/chat.js"></script>
+    <script src="js/comparison.js"></script>
+</body>
+</html>

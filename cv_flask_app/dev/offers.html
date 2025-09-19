@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion des Offres - Éditeur de CV par UTI</title>
+    <link rel="stylesheet" href="css/offers.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            Éditeur de CV par UTI
+        </div>
+        <div class="user-badge">ST</div>
+    </header>
+
+    <div class="container">
+        <div class="page-header">
+            <h1>Gestion des Offres de Mission</h1>
+            <button class="add-offer-btn" onclick="openAddOfferModal()">
+                ➕ Ajouter une offre
+            </button>
+        </div>
+
+        <!-- Add Offer Modal -->
+        <div class="modal-overlay" id="addOfferModal">
+            <div class="modal">
+                <div class="modal-header">
+                    <h2>Ajouter une offre</h2>
+                    <p>Importez votre document Word (.docx) pour créer une nouvelle offre de mission</p>
+                </div>
+
+                <div class="upload-section">
+                    <h3>Sélectionner un document</h3>
+                    <div class="upload-formats">Formats acceptés : .docx (Microsoft Word)</div>
+
+                    <div class="file-input-container">
+                        <label class="file-input-label">Nom du document</label>
+                        <input type="text" class="file-input" placeholder="Ex: Offre Développeur Full Stack - TechCorp" id="documentName">
+                    </div>
+
+                    <div class="drop-zone" id="offerDropZone" onclick="triggerOfferFileInput()">
+                        <div class="drop-zone-icon">📄</div>
+                        <div class="drop-zone-text">Glissez votre fichier ici</div>
+                        <div class="drop-zone-subtext">ou cliquez pour sélectionner un fichier .docx</div>
+                    </div>
+
+                    <input type="file" id="offerFileInput" accept=".docx" style="display: none;">
+                </div>
+
+                <div class="next-steps">
+                    <h3>Que se passe-t-il ensuite ?</h3>
+
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h4>Analyse du document</h4>
+                            <p>Le contenu de l'offre sera extrait et structuré pour l'analyse de correspondance</p>
+                        </div>
+                    </div>
+
+                    <div class="step">
+                        <div class="step-number purple">2</div>
+                        <div class="step-content">
+                            <h4>Indexation des compétences</h4>
+                            <p>Les compétences et exigences seront identifiées automatiquement</p>
+                        </div>
+                    </div>
+
+                    <div class="step">
+                        <div class="step-number green">3</div>
+                        <div class="step-content">
+                            <h4>Prête pour l'analyse</h4>
+                            <p>L'offre pourra être utilisée pour optimiser les CV et calculer les correspondances</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal-actions">
+                    <button class="btn btn-secondary" onclick="closeAddOfferModal()">Annuler</button>
+                    <button class="btn btn-primary" id="uploadBtn" disabled onclick="processOfferUpload()">
+                        📄 Ajouter l'offre
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-filter">
+            <h2>Rechercher une offre</h2>
+            <input type="text" class="search-input" placeholder="Rechercher par mot-clé...">
+            <div class="filters">
+                <div class="filter-group">
+                    <label class="filter-label" for="type">Type de contrat</label>
+                    <select class="filter-select" id="type">
+                        <option>Tous</option>
+                        <option>CDD</option>
+                        <option>CDI</option>
+                        <option>Freelance</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label" for="secteur">Secteur d'activité</label>
+                    <select class="filter-select" id="secteur">
+                        <option>Tous</option>
+                        <option>Informatique</option>
+                        <option>Marketing</option>
+                        <option>Finance</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="offers-grid">
+            <div class="offers-list" id="offersList">
+                <!-- Offers will be dynamically added here -->
+                <div class="offer-card">
+                    <div class="offer-info">
+                        <div class="offer-title">Développeur Full Stack Senior</div>
+                        <div class="offer-company">TechCorp Innovation</div>
+                    </div>
+                    <div class="offer-actions">
+                        <button class="action-btn" onclick="viewOffer(1)">Voir</button>
+                        <button class="action-btn">Supprimer</button>
+                    </div>
+                </div>
+                <div class="offer-card">
+                    <div class="offer-info">
+                        <div class="offer-title">Chef de Projet Digital</div>
+                        <div class="offer-company">Agence Web Solutions</div>
+                    </div>
+                    <div class="offer-actions">
+                        <button class="action-btn" onclick="viewOffer(2)">Voir</button>
+                        <button class="action-btn">Supprimer</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="add-offer-form" id="addOfferForm">
+                <h2>Ajouter une nouvelle offre</h2>
+                <div class="form-group">
+                    <label class="form-label" for="jobTitle">Intitulé du poste</label>
+                    <input type="text" id="jobTitle" class="form-input" placeholder="Ex: Développeur Frontend">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="company">Entreprise</label>
+                    <input type="text" id="company" class="form-input" placeholder="Ex: TechCorp">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="location">Localisation</label>
+                    <input type="text" id="location" class="form-input" placeholder="Ex: Paris">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="duration">Durée</label>
+                    <input type="text" id="duration" class="form-input" placeholder="Ex: 6 mois">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="description">Description</label>
+                    <textarea id="description" class="form-input" rows="4" placeholder="Décrire les missions..."></textarea>
+                </div>
+                <button class="submit-btn" onclick="addNewOffer()">Ajouter l'offre</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/offers.js"></script>
+</body>
+</html>

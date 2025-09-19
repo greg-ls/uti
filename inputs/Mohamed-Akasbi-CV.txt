@@ -1,0 +1,126 @@
+RELEASE & DELIVERY MANAGER
+
+OBJECTIF
+Chef de projet déterminé, spécialisé dans l'optimisation des processus de livraison et l'amélioration continue, avec un excellent bilan dans la satisfaction client. Professionnel en gestion des opérations, fort d'une expérience en gestion d'équipe et de la communication interfonctionnelle, visant à garantir une livraison fluide des produits.
+
+---
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Release Manager| Jan 2022 — Présent
+Groupe les Mousquetaires Intermarché— Paris, Île-de-France, France
+Gestion de projet pour le lancement de plusieurs versions de logiciels.
+Coordination des équipes de développement et de qualité pour garantir la livraison dans les délais.
+Mise en place de processus d'intégration continue et de déploiement continu.
+Suivi des indicateurs de performance et des retours utilisateurs pour améliorer les versions.
+Collaboration avec les équipes de support pour résoudre les problèmes post-lancement.
+Animation des instances de CAB pour formaliser les déploiements en PROD.
+Préparation du Pré/PI planning avec le RTE et les squads participantes.
+Mise en place d'une communication fluide pour informer les parties prenantes de l'avancement des versions et des release notes après chaque déploiement.
+Coordination des déploiements sur les environnements Hors PROD / PROD et suivi des phases de test par environnement (INT/QA/HML/Préprod).
+Instauration et animation des points de préparation des versions candidates pour mise en production.
+
+Delivery Manager & Integration Lead| Juil 2018 — Déc 2021
+AXA Partners— Paris, Île-de-France, France
+Coordination entre les équipes de développement et les parties prenantes pour assurer des livraisons réussies.
+Implémentation de solutions d'intégration API pour améliorer l'efficacité des systèmes.
+Analyse des besoins des clients et traduction en spécifications techniques.
+Préparation du scope de la release et des estimations pour la validation budget.
+Gestion des différents backlogs sur Jira pour aligner les sujets sur le planning global.
+Pilotage et organisation des livrables des squad dev (entre 4 à 7 personnes par équipe).
+Pilotage de l'avancement des livrables selon le planning et le budget engagé.
+Suivi des sujets critiques et veille à la livraison de la solution de bout en bout.
+Tenue d'un daily scrum of scrum avec les team lead et le program manager.
+Suivi des tests sur les différents environnements pour la validation finale.
+Gestion de projets de livraison de logiciels en utilisant des méthodologies Agile.
+
+Release Manager au sein de l’équipe Group IT| Mar 2017 — Juin 2018
+Heuler Hermes— Paris, Île-de-France, France
+Analyse et production d'une communication régulière sur l'avancement de la release.
+Amélioration des processus et des outils.
+Coordination entre les équipes IT et Business sur l'avancement de la release en mode scrum.
+Pilotage des MEP transverses et des opérations de PCA.
+
+Product Owner auprès du service public| Déc 2015 — Mar 2017
+Ministère du travail français, DSI— Paris, Île-de-France, France
+Mise en place d'une solution de déclaration pour les élections professionnelles :
+    Analyse du cahier des charges et appropriation du besoin client.
+    Définition du produit cible et découpage en storymap.
+    Définition de la solution à mettre en place et priorisation des besoins.
+Mise en place d’une solution GED Workflow pour la gestion du courrier entrant :
+    Animation des ateliers de conception et alimentation du backlog.
+    Rédaction des user-stories.
+    Coordination avec les intervenants métiers et MOE.
+    Suivi des livraisons et participation aux meetings Scrum.
+    Reporting projet.
+    Participation à la conception et déroulement des tests.
+    Réalisation des guides d'utilisateurs et du support au déploiement et post-déploiement.
+
+Chef de projet AMOA & Qualité| Nov 2010 — Nov 2015
+RMA Assurance— Casablanca, Maroc
+Gestion d'un portefeuille de projet en tant qu'AMOA :
+    Collecte de l'expression du besoin :
+        Séances de travail avec le client pour définir le besoin.
+        Recensement et formalisation du besoin exprimé.
+    Planification du projet :
+        Établissement d'un calendrier de réalisation prévisionnel.
+    Réalisation d'un Business case :
+        Étude d'opportunité par branche.
+        Business plan et rentabilité du projet.
+    Énoncé du projet avec périmètre à couvrir :
+        Conception fonctionnelle et technique du besoin.
+        Rédaction des spécifications fonctionnelles détaillées.
+        Rédaction des plans de tests (Stratégie, Supports et Outils).
+    Pilotage de la réalisation et validation des livrables :
+        Lancement des réunions de suivi du projet (Kick off, Comité de suivi et Comité de pilotage).
+        Validation des livrables avec le client.
+        Cadrage du projet pour le respect du périmètre initial.
+        Supervision de la réalisation de la recette (Comité de suivi) avec l'équipe de recette et des séances de test avec le client.
+        Réalisation des guides d'utilisateurs.
+
+---
+
+COMPÉTENCES TECHNIQUES
+
+Méthodologies :AGILE, Prince2, PMI, Six Sigma, SAFe
+Planification :GANTT / PERT
+Processus :Merise, UML, BPMN, Mindmap
+Bureautique :Word, Excel, PowerPoint, Microsoft Office Project
+Modélisation :Microsoft Visio, Méga
+Décisionnel :Business Object, SAGE, Power BI
+Recette :HP Quality Center, Mantis, Azure Devops, Jira
+CI/CD :GitLab, Jenkins
+Expertise métier :Souscription Assurance Multirisques Habitation / Sinistre Auto Matériel
+
+---
+
+LANGUES
+
+Français :Compétence professionnelle complète
+Anglais :Compétence professionnelle complète
+
+---
+
+ÉDUCATION
+
+Master Audit & Système d'information| Sep 2009 — Sep 2011
+Skema Business School— Lille, France
+
+Licence Science de gestion| Sep 2002 — Sep 2006
+Université Hassan II— Casablanca, Maroc
+
+---
+
+CERTIFICATIONS & COURS
+
+Gestion de projet :
+    Certification de maîtrise des techniques PMP, standards du PMI.
+    Certification PRINCE 2 Fondation.
+    Méthode Agile.
+    Certification Leading SAFe course 5.0.
+Système de management de qualité :
+    Certification d'auditeur Qualité pour la Norme ISO 9001 v.2008.
+Domaines d'expertise :
+    Production Automobile, Sinistre matériel, Production & Prestation Bancassurance, Production Accident de travail, Devis Assurance Habitation, Devis Automobile.
+
+---

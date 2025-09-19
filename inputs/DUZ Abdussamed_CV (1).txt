@@ -1,0 +1,120 @@
+
+DÉVELOPPEUR LOGICIEL C# .NET SÉNIOR
+
+
+
+PROFIL PERSONNEL
+Ingénieur Développeur Logiciel spécialisé en C#/.NET, passionné par
+l'amélioration de l’expérience développeur, le développement
+d’architectures robustes, et les pratiques de clean code. Expérience
+confirmée dans des environnements Cloud et microservices, avec une forte
+culture DevOps et Agile. À la recherche d’un environnement où qualité,
+rapidité et innovation sont au coeur de la stratégie.
+
+COMPETENCES FONCTIONNELLES
+Architectures & Méthodologies: Microservices, TDD, DDD, BDD, Agile / SCRUM
+Langages de Programmation : C#, Java, Go, Python, JavaScript, TypeScript, Flutter
+Langages de Programmation :
+C#, Java, Go, Python, JavaScript, TypeScript, Flutter
+Backend Frameworks et Outils :
+.NET Core, EF Core, Dapper
+SpringBoot, Maven, Gradle, JPA, Hibernate
+Messaging: RabbitMQ, Kafka
+Authentication & Security : Keycloak, OAuth2.0, OpenID Connect
+Frontend et Technologies Web :
+ReactJS, AngularJS, Vue.js, WPF, Html, CSS
+APIs & Protocoles de Communication:
+Rest API, GraphQL, gRPC, WebSocket, SignalR
+Bases Des Données:
+Relational : SQL Server, PostgreSQL, MySQL, T-SQL, Azure SQL
+NoSQL: MongoDB, Redis, Neo4j, GraphDB
+Object Storage: Azure Blob Storage, AWS S3
+Services Cloud:
+Azure: AKS, DevOps, App Services, Functions, Key Vault, Monitor
+GCP: GKE, Pub/Sub, Cloud SQL, Cloud IAM
+AWS : EKS, EC2, S3
+DevOps & Observability :
+CI/CD: Jenkins, GitLab CI, Azure DevOps, ArgoCD
+Containers & Orchestration: Docker, Kubernetes
+Monitoring: Grafana, Prometheus, ElasticSearch, Kibana
+Configuration & Artifact Management: Ansible, JFrog
+Testing & Quality Assurance :
+Postman, Selenium, Cucumber
+Unit Testing: xUnit, JUnit, NUnit,
+Code Quality: SonarQube
+
+LANGUES
+Anglais (C2)
+Français (B2 / C1)
+Turc (Langue maternelle)
+Allemand (A1)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Développeur Logiciel Full-Stack
+SAVOYE Jan 2024- Présent
+Taches:
+Développement de systèmes d'entrepôt à l'échelle de l'entreprise avec un fort accent sur la
+performance, la fiabilité et les pratiques DevOps.
+Maintenance d’une architecture à base de microservices en utilisant Java (Spring
+Boot), Python, Kafka et Redis dans un environnement orienté événements, tout en livrant
+des interfaces frontales réactives avec ReactJS et GraphQL.
+Conception d’API GraphQL et intégrations avec Apollo Client afin de permettre des
+modèles d'accès aux données performants et flexibles côté front-end.
+Développement d’algorithmes d’optimisation en Python pour améliorer le suivi des
+stocks, la priorisation des commandes et l’allocation des ressources.
+Mise en ouvre de la livraison continue à travers des pipelines CI/CD, des principes
+d’infrastructure en tant que code, et des méthodes agiles (Scrum/Kanban).
+Contribution à l'observabilité du système en utilisant Elasticsearch et Kibana, et
+intégration de modèles cloud-natifs pour améliorer la scalabilité.
+Mon approche repose sur le TDD, le DDD et les principes SOLID pour garantir une
+architecture durable, tout en encadrant activement les développeurs juniors et en
+soutenant la croissance de l’équipe dans des équipes agiles pluridisciplinaires.
+
+Développeur Logiciel C# .NET / Développeur Support
+VENTE-PRIVEE ( VeePee) Sept 2022- Dec 2023
+Taches:
+Conçu et mis en oeuvre des API RESTful évolutives pour les opérations d'entrepôt en
+utilisant C# .NET Core dans une architecture de microservices en temps réel.
+Proposé et partiellement dirigé des migrations de services axées sur la performance de
+C# .NET 7 vers Golang, réduisant la latence de 30 % et améliorant l'efficacité des
+ressources système.
+Appliqué les méthodologies TDD et DDD pour garantir un code propre, maintenable et
+aligné sur le domaine métier à travers les services.
+Développé et maintenu la communication asynchrone entre les services à l’aide de
+RabbitMQ dans une architecture orientée événements (EDA).
+Participé à la migration vers le cloud sur GCP, en déployant des microservices
+conteneurisés via les pipelines CI/CD de GitLab.
+Requêtes SQL Server optimisées et procédures stockées pour prendre en charge
+l'agrégation de données en temps réel dans les systèmes à haute disponibilité.
+Refactorisé du code existant, introduit des tests unitaires complets et amélioré la
+documentation interne afin de standardiser les processus de développement.
+Fournit un support technique de niveau 2, diagnostiquant les problèmes en
+production, résolvant les incidents et surveillant les systèmes via Prometheus et Kibana.
+
+Développeur Logiciel Full-Stack C# .NET / ReactJS
+K.E.T - Electronique et Technologie Mars 2022 - Juillet 2022
+Taches:
+Développement d'API RESTful avec ASP.NET Core pour prendre en charge
+l'authentification des utilisateurs, la sélection de restaurants, la réservation de tables,
+la consultation des menus et la prise de commandes.
+Refactorisation d’un backend monolithique en microservices déployables
+indépendamment, améliorant la maintenabilité et l’évolutivité.
+Intégration du frontend ReactJS avec les endpoints WebAPI du backend pour offrir
+une interface utilisateur réactive et interactive.
+Application des meilleures pratiques en architecture logicielle, réutilisabilité du code et
+conception modulaire pour assurer la croissance à long terme du produit.
+
+Ingénieur logiciel IoT C# .NET / Leader d'équipe
+YEO Automation Avr 2018 to Nov 2020
+Taches:
+Conçu et mis en oeuvre des API IoT en C# .NET et PostgreSQL, prenant en charge des
+échanges de données sécurisés et en temps réel.
+Développé des tableaux de bord et panneaux de contrôle front-end avec ReactJS, fournissant
+des applications web interactives pour l’accès à distance et l’automatisation industrielle
+Dirigé la transformation SaaS des solutions IoT de l’entreprise, passant d’API à instance
+unique à une plateforme modulaire basée sur le cloud, offrant des déploiements clients
+flexibles et évolutifs
+Promu les bonnes pratiques en architecture logicielle, standardisation du code et collaboration
+en équipe dans des environnements Agile

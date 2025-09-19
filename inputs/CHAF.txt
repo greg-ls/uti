@@ -1,0 +1,65 @@
+AMINE CHAFFARI
+Amine.chaffari1@gmail.com
++33605600270
+Poissy
+
+Formation
+DIPLOME D'INGENIEUR, INGENIERIE INFORMATIQUE FACULTE DES SCIENCES DE TUNIS, Tunis
+de 2017 à 2020
+CONCOURS NATIONAL D'ENTREE AUX ECOLES D'INGENIEURS INSTITUT PREPARATOIRE AUX ETUDES D’INGENIEURS DE TUNIS, Tunis
+de 2015 à 2017
+BACCALAUREAT : MATHEMATIQUES LYCEE MHAMDIA 2, BEN AROUS, Ben Arous
+de 2014 à 2015
+
+Compétences
+React
+React Native
+Next.js
+Typescript
+Javascript
+Redux
+CSS3, React Mui, Tailwind CSS
+Docker
+C#, .NET Core
+NodeJs ( NestJS / Express.js )
+Git, Gitlab, Github
+Agile, SCRUM
+
+Expérience professionnelle
+Développeur React INFINE GROUP, Paris PROJET : MONALIZA Monaliza est un Plan d’Épargne Retraite (PER) permettant aux utilisateurs de réduire leurs impôts et de générer des revenus complémentaires à la retraite. Mes responsabilités :
+de févr. 2023 à ce jour
+Développement complet de l'espace client (application B2C ), de l’espace courtier/agent ( application B2B ) et l'espace administration avec ReactJS, Next.js TypeScript et Redux. Implémentation de formulaires de souscription avec des règles de validation/affichage complexes en utilisant react-hook-form Mise en œuvre de logiques métier spécifiques : règles fiscales de déduction, calculs de rendement, gestion hiérarchique des commissions. Mise en place de tests unitaires et de tests UI en utilisant Cypress pour garantir la fiabilité des fonctionnalités critiques. Participation au développement des API REST avec NestJS. Configuration d’un environnement de développement Dockerisé pour faciliter l’onboarding
+Technologies: ReactJS, Next.js , Nestjs, TypeScript, Redux, Postgresql,
+Docker, Git, Mui, Tailwind CSS, react-hook-form.
+PROJET : PRODATA ProDATA est un produit développé pour la société Quick FDS, permettant aux industriels de gérer des informations techniques liées aux produits chimiques, en complément des Fiches de Données de Sécurité (FDS). Mes responsabilités :
+Développement de l’espace d’administration et de l’espace client avec ReactJS, TypeScript, Redux et MUI. Conception et implémentation d’un système de formulaires dynamiques, générés à partir de modèles entièrement personnalisables selon les besoins spécifiques de chaque client en utilisant react-hook-form. Élaboration des modèles clients, avec une architecture permettant d’adapter conditionnellement les champs, les validations et les sections en fonction des données métier. Intégration d’une logique complexe de gestion des fiches produits (création, mise à jour, hiérarchie des données, validations avancées). Participation à l’intégration et au maintien d’un environnement Dockerisé pour faciliter les développements et les tests en équipe.
+Technologies : ReactJS, TypeScript, Redux, MUI, Docker, Git, react- hook-form
+Développeur React Native / React Freiraum GmbH, Stuttgart PROJET : MEMOMEISTER MemoMeister est une application mobile multiplateforme (iOS / Android) destinée aux professionnels pour documenter leurs flux de travail (projets, chantiers, étapes de test, incidents, etc.). Mes responsabilités :
+de mars 2021 à janv. 2023
+Développement de l’application mobile et l'application web avec React Native, ReactJs, TypeScript, Redux, Apollo Client, Native Base et Mui. Implémentation d’une synchronisation en temps réel des données via GraphQL. Gestion avancée du cache côté client avec Apollo pour améliorer la fluidité de l'expérience utilisateur. Participation au développement backend avec GraphQL. Configuration de Sentry pour la collecte et le suivi des erreurs en production. Contribution aux étapes de packaging, test et déploiement des applications sur l’App Store et le Play Store.
+Technologies : React Native, ReactJs, TypeScript, Redux, Apollo Client, GraphQL, Git, Native Base, Mui.
+Développeur React Native Freelance, Paris PROJET : CERTISIO-NG Certisio-Ng est une application mobile multiplateforme (iOS / Android) permettant aux utilisateurs de certifier leurs photos et
+de sept. 2022 à déc. 2022
+vidéos via une connexion à la blockchain, créant ainsi une preuve d’ authenticité immuable. Mes responsabilités :
+Développement de l’application mobile avec React Native, TypeScript et Redux. Implémentation de la capture et gestion de contenus multimédias (images, vidéos) directement depuis l’application. Génération de certificats blockchain à partir des contenus, en garantissant leur traçabilité et leur intégrité. Intégration des achats intégrés (In-App Purchase) pour la gestion des plans et certificats. Déploiement de l’application sur l’App Store et le Play Store.
+Technologies : React Native, TypeScript, Redux, Git.
+Développeur React Native / React DIGIT-U, Tunis PROJET : SEXO SANTÉ Sexo Santé est une application mobile multiplateforme et multilingue visant à sensibiliser les jeunes à la santé sexuelle pour promouvoir une vie plus saine au sein des familles. Mes responsabilités :
+de janv. 2020 à févr. 2021
+Développement de l’application mobile avec React Native, TypeScript, Redux et ExpressJs. Création d’une interface utilisateur multilingue et accessible, adaptée à un public jeune. Implémentation de contenus éducatifs couvrant la conscience sexuelle, la gestion des problématiques sexuelles, l’évolution corporelle, et la prévention des infections et maladies. Optimisation de l’expérience utilisateur pour faciliter l’ engagement et la compréhension des informations sensibles.
+Technologies : React Native, Express.js, TypeScript, Redux, Git.
+PROJET : MONITOR Monitor est une application multiplateforme et multilingue dédiée à la préparation, supervision et pilotage des travaux sur chantier, facilitant la coordination et la sécurité. Mes responsabilités :
+Développement frontend de l’application mobile et web avec React Native, ReactJS, TypeScript et Redux. Participation au développement backend avec Express.js pour la gestion des données chantier, phases, équipes et contrôles. Conception et implémentation des fonctionnalités clés : préparation des chantiers, gestion des phases de travail, points de contrôle et points d’arrêt critiques pour assurer la conformité et la sécurité. Gestion des équipes intervenant sur les chantiers avec attribution des rôles et suivi des activités. Développement d’un module d’analyse des risques et des mesures préventives adaptées à chaque situation.
+Technologies : React Native, ReactJS, TypeScript, Redux, Express.js, Git
+
+Informations personnelles
+LinkedIn linkedin.com/in/amine- chaffari
+
+Langues
+Anglais
+Français
+Arabe
+
+Centres d'intérêt
+Baseball
+Football
+Jeux vidéo

@@ -1,0 +1,167 @@
+
+Product Owner / Project Manager
+PRofil:
+J'accompagne les entreprises dans le développement de leurs applications métier de l'AMOA au delivery.
+Je peux intervenir en phase de Build & de Run, en mode Agile (SCRUM) ou hybride.
+
+COMPETENCES TECHNIQUES
+Bureautique : Gsuite, Microsoft office
+Gestion de projet : Jira, Redmine, Trello, Wrike, Asana, Gantter
+Gestion de produit : Miro
+Documentation : Confluence, Notion
+Test & Recette : Postman, Swagger, Squash, Sentry
+Prototypage Figma, Sketch, Adobe XD
+Conduite d'ateliers : Klaxoon
+Data : Metabase, Qlik
+Emailing / Automation Mailjet, Mailchimp
+Langages : HTML, CSS, Javascript, SQL, XML, JSON
+DAM Cloudinary
+CRM Pipedrive, Zoho
+Langues : Anglais Conversationnel de base et technique
+
+Expériences professionnelles
+Product Owner / Freelance
+De décembre 2022 à octobre 2024
+LEGALLAIS [Commerce de gros - Quincaillerie - B2B] Hérouville-Saint-Clair
+Contexte : stabilisation de l'ERP du client (environ 600 utilisateurs)
+Mode hybride puis Agile - Squad de 10 à 12 développeurs (internes et prestataires) dédiés au projet et 1 expert UX/UI Oracle / PostgreSQL / Java / ReactJS
+Tâches :
+D'abord en tant que Proxy-product owner
+Collecte des besoins métier et co-définition des solutions (prototypage)
+Conduite d'ateliers auprès de la communauté d'utilisateurs
+Rédaction des user stories et des cas de tests associés
+Chiffrage avec les développeurs
+Mise en place de process de fiabilisation des livraisons :
+Mise en place d'une instance de pré-production
+Définition des sprints types incluant les recettes techniques & métiers
+Gestion de la recette technique
+Pilotage de la recette métier
+Mise en place d'une release note fonctionnelle à destination des utilisateurs et du support
+Planification projet et organisation des contenus des sprints
+Puis en tant que Responsable de la maintenance évolutive et corrective sur cet ERP
+En plus des tâches précédentes :
+Gestion des interaction avec le support
+Prise en charge des tickets de bugs issus du support N2 (GLPI) pour qualification des bugs
+Gestion du backlog & priorisation des demandes d'évolution en lien avec les métiers
+Co-définition de la roadmap produit
+100% d'utilisateurs "globalement satisfaits" en fin de mission
+
+Product Owner / Project Manager
+De septembre 2021 à juillet 2022
+LIMENGO / STAFFEA [Éditeur de logiciels] Colombelles
+Contexte : Mise en place du MVP de STAFFEA.
+Un outil de GTA pour les établissements du secteur médico-social
+Mode Agile - Equipe de 7 développeurs PostgreSQL / Golang / ReactJS
+Tâches :
+Co-définition du périmètre du MVP
+Reprise de toutes les interfaces sous Adobe XD
+Rédaction de la documentation en anglais
+Rédaction des users stories
+Alimentation du backlog et calibrage des sprints
+Pilotage des sessions de développement (SCRUM)
+Recette technique (Swagger)
+Recette fonctionnelle
+
+Expériences professionnelles
+Digital Product Manager
+De septembre 2019 à août 2021
+MARIE-NOËLLE SAS / DANS MA CULOTTE [E-commerce] Caen
+Contexte : refonte intégrale du Prestashop et mise en place d'un SI robuste
+Mode Agile - Jusqu'à 7 développeurs, 1 expert UX/UI PostgreSQL / Php / Laravel / Nova / VueJS
+Tâches :
+Pilotage de la mise en place des outils de suivi projet et configuration
+Planification projet et organisation des sprints
+Recrutement et management de l'équipe IT
+Définition de solutions techniques intermédiaires low cost afin d'accompagner la croissance de l'entreprise avant livraison du nouvel SI
+Pilotage du développement des 3 piliers du SI de la structure (rédaction des user stories, gestion du backlog et des sprints) :
+Site e-commerce (Laravel / VueJS)
+ERP (Laravel / Nova)
+Brique Logistique (gestion multi-entrepôts)
+Mise en place et configuration des vues / KPI dans Metabase
+Pilotage des intégrations d'outils tiers : Analytics, Outil de parrainage (Referral Candy), Emailing (Mailjet),...
+
+Responsable du Pôle développement
+De janvier 2019 à juin 2019
+CICD [Éditeur de logiciels] Bretteville-sur-Odon
+Contexte : co-pilotage du projet Tempo pour Total et management de l'équipe de développement
+Hybride - 10 développeurs
+Tâches :
+Management opérationnel.
+Mise en place et configuration d'un outil de suivi de projet (Redmine)
+Mise en place de cérémoniaux agiles (Daily meeting,...)
+Co-gestion du projet Tempo pour Total (Outil de gestion financière à destination des franchisés)
+
+Responsable Tech studio / Product Owner
+De 2017 à 2019
+SOYHUCE [Éditeur de logiciels, Studio R&D] Caen
+Contexte : Prise en charge du Tech studio et lancement de l'expérimentation Happy Plan pour EDF
+Agile (SCRUM)- 20 développeurs et designers PostgreSQL / Php / Laravel / VueJS / Machine learning / Computer vision
+Tâches :
+Management opérationnel, planification des projets
+Rédaction des User stories et gestion du backlog sur les différents projets du Tech studio
+Etudes de faisabilité et mise en place de POCs innovants pour des projets grands comptes (Bouygues Immobilier, Natixis,...)
+Parmi les projets les plus significatifs :
+HAPPY PLAN / EDF : Outil collaboratif de planification sous contrainte avec gestion de courbe de charge à destination des centres de relation client EDF
+validation de l'expérimentation et outil adopté au niveau national
+industrialisation de la solution sous le nom AlgoRH
+OCTODATA/ L’Oréal : Lambda architecture destinée à traiter des flux de data très conséquents.
+Solution scriptée sur Terraform et déployable sur AWS.
+adoption de la solution par le client
+
+Enseignant / Formateur
+De 2009 à 2017
+IUT INFOCOM [Université de Caen] Ifs
+Tâches :
+Prise en charge de la formation des étudiants sur les périmètres suivants : gestion de projet numérique (Cycle en V / Agile / hybride) UX/UI design Développement web
+
+CEO
+De 2009 à 2022
+SWAY [Conseil et développement informatique] Caen
+Tâches :
+Audit & conseil
+Analyse des besoins
+Design UX/UI
+Développement full stack
+Quelques clients : Florette (Développement d'une GED), Groupe Hamelin, Plan.net (pour leurs clients finaux Mamie Nova, Desperados,...), 9 telecom (gestion de la newsletter du client), Bayer (Développement d'applications tablettes pour les visiteurs pharmaceutiques sur la base du framework JS propriétaire du client).
+
+Chef de projet / Développeur
+De 2009 à 2014
+CRéCET Caen
+Contexte : prise en charge du pan numérique des programmes FEDER de la structure MySQL / Php / Javascript
+Tâches :
+3 missions menées à bien (en gestion de projet, UX/UI et développement) :
+Mise en place d'un portail pour 60 musées régionaux
+Gestion technique pour le projet de numérisation et mise en conformité des bases régionales des collections pour versement à la base nationale Joconde
+Conception de webdocumentaires ethnographiques
+
+CTO / Lead dev
+De 2006 à 2008
+CASUS BELLI [Agence de communication digitale] Caen
+Contexte : Constitution et management de la première équipe technique du studio 5 développeurs et designers MySQL/ Php / Javascript / Flash
+Tâches :
+Recrutement, formation et management de 4 développeurs
+Gestion des prestataires externes.
+Définition technique des solutions
+Pilotage de la production
+Quelques clients : Toyota, Nokia, Ubisoft, EDF, GlaxoSmithKline, Kraft (Prince), Splenda, Swiffer, Casino,...
+
+Expériences professionnelles
+Concepteur web
+De 2003 à 2006
+FREELANCE Caen
+Tâches :
+Gestion de projet
+Design UX/UI
+Développement Full Stack
+
+Webdesigner / Développeur full stack / Associé
+De 1998 à 2003
+Normanet / Business & décision Caen
+Contexte : J'ai intégré le board de cette Agence web fondée par des autodidactes.
+Nous l'avons cédée au groupe Business et décision et Orange vient d'en faire l'acquisition récemment.
+Tâches :
+Design UX / UI
+Gestion de projet
+Développement front-end
+Motion design
+Quelques clients : M6, Kompass, Stepstone, Expand, France Télévisions,... et de nombreux clients locaux !

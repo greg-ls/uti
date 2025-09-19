@@ -1,0 +1,97 @@
+
+
+
+Ingénieur Test et Automatisation QA Certifié ISTQB, PSM1  
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Septembre 2023 – Aujourd’hui  
+Poste : QA Lead  
+Client : CATS (Crédit Agricole Technologies et Services)  
+Projet : CRM entreprises  
+Descriptif du projet : Le CRM entreprises solution du produit Relation Commerciale, qui permet aux collaborateurs Entreprise de mieux gérer leurs relations commerciales.  
+Technologies utilisées : Java (17-21), Spring Boot, Spring Kafka, Rest API, Swagger, Selenium, Cucumber, Gherkin, Jenkins, Gitlab CI/CD, JFrog, Confluence, Job Factory, MySQL, Newman, Postman, Swagger.  
+Tâches :  
+- Création des plans de tests d'intégration sur XRAY/JIRA.  
+- Rédaction des cas de tests.  
+- Configuration et mise en place du projet d'automatisation de test (IHM et API).  
+- Mise en place de l'intégration continue des tests sur Jenkins (Migration vers Gitlab-CI).  
+- Analyse et partage de rapport de campagne de TNR (Avant GO/NoGO MEP).  
+- Suivi des anomalies remontées sur Jira.  
+- Partage du KPI de test avec les responsables (PO).  
+
+Août 2022 – Septembre 2023  
+Poste : QA Lead  
+Client : BNP Paribas  
+Projet : DMT - Data Management Tool  
+Descriptif du projet : Le Data Management Tool est un gage et un prérequis pour la gestion des paramétrages logistiques par IHM.  
+Technologies utilisées : Jira, Java, Selenium, Cucumber, Gherkin, Jenkins, Git, Confluence, Python, SFTP, VsCode, MongoDB, Postman, Grafana, Swagger, Docker.  
+Tâches :  
+- Migration du Framework de test Lean FT vers Selenium.  
+- Automatisation des scénarii de test et création d’une batterie de test de Non-Régression.  
+- Test des US développées durant le sprint.  
+- Participation à la mise en place de l’agilité.  
+- Assurer l’intégration continue avec Jenkins.  
+- Formation de l’équipe sur les techniques d’automatisations de test.  
+- Documentation du projet d’automatisation.  
+- Test de bout en bout des fonctionnalités.  
+
+Février 2021 - Septembre 2021  
+Poste : Ingénieur QA  
+Client : DGFIP (Direction Générale Des Finances Publiques)  
+Projet : EscaleV2  
+Descriptif du projet : EscaleV2 est un outil d'échanges de fichiers volumineux et dématérialisé de déclarations d'enregistrement avec paiement en ligne.  
+Technologies utilisées : Testlink, Java, Selenium, Cucumber, Gherkin, Design Pattern POM, Jenkins, Eclipse, LombokV24, Postgres, Maven.  
+Tâches :  
+- Création du plan de test, des suites de tests et les cas de tests via TestLink.  
+- Automatisation des tests IHM de bout-en-bout rédigé par les fonctionnels.  
+- Développement des scripts de test automatisé en utilisant le langage Java.  
+- Rédiger les scénarii en langage Gherkin de Cucumber.  
+- Assister aux réunions avec les différents acteurs du projet.  
+
+Décembre 2017 - Décembre 2018  
+Poste : Chef de projet Design électrique  
+Entreprise : Sogeclair Aerospace Tunisie  
+Tâches :  
+- Validation des dossiers de définition : plans de définitions, plans de montages, plans d’assemblages et des nomenclatures sous SEE Electrical Expert V4, Axiom et Gilda.  
+- Gestion de projet : estimation de chiffrage, planification, répartition des tâches, suivi des états d’avancement, organisation des réunions.  
+
+Août 2016 - Décembre 2017  
+Poste : Ingénieur Test/QA  
+Entreprise : Sogeclair Aerospace Tunisie  
+Tâches :  
+- Intégré dans l’équipe de design électrique comme testeur logiciel, participation à tester la qualité des produits de l’équipe de design.  
+
+Janvier 2019 - Mai 2019  
+Poste : Q/A Test Automation  
+Entreprise : Sclable  
+Projets : Hoerbiger et Dream Factory  
+Tâches :  
+- Rédaction des plans de tests, la gestion, l’automation des tests et l’intégration continue pour plusieurs produits.  
+- Création du plan de test, suites de test et cas de test pour le projet « Areal Bank », puis écriture et automatisation de scénarii de test à l'aide de Cypress.  
+- Gestion des tests via TestLink.  
+- Automatiser les tests en utilisant Selenium et Cucumber via le design pattern POM et avec le langage Java.  
+- Remonter et suivre les bugs grâce à Trello et Jira.  
+
+CONNAISSANCES TECHNIQUES
+
+Langages : C, C++, Java, JavaScript, Python, Typescript  
+Logiciels : Eclipse, IntelliJ, Postman, Swagger, Jenkins, Visual Basic, Android Studio, LabVIEW, LabWindows/CVI, Matlab, Simulink  
+Génie Logiciel : Méthode Agile, Scrum, Safe  
+Design Aéronautique : SEE Electrical Expert (V2/V4), EPlan, Catia V5, Axiom, CIRCE-C  
+
+CERTIFICATIONS
+
+- Certification ISTQB  
+- Certification PSM I  
+- Formation en Exigences et principes de la norme ISO 9001 version 2015  
+- Certification en Management (Chez Sogeclair Aerospace)  
+- Formation Playwright  
+
+CONNAISSANCES FONCTIONNELLES
+
+- Suivi des bugs et incidents : Jira, Bugzilla, Mantis, XRay  
+- Automatisation des Tests : Selenium, TestComplete, Serenity, Appium, Cucumber, Robot Framework, Gherkin  
+- Gestion des tests : TestLink, TestRail, Squash, POM, Design Pattern, BDD  
+- Animer et Assister aux réunions avec les différents acteurs du projet  
+- Création des jeux de données  

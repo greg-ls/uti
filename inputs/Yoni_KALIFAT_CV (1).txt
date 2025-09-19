@@ -1,0 +1,78 @@
+Yoni KALIFAT
+CHEF DE PROJET IT - RESPONSABLE APPLICATIF
+06.20.37.15.76 | ykalifat@hotmail.com | Paris
+
+PROFIL
+
+Consultant IT avec plus de 15 ans d’expérience, j’ai occupé des rôles de chef de projet et de responsable applicatif sur des environnements critiques. J’ai mené des projets de transformation (Move to Cloud, Azure), de déploiement multisite et de migration applicative majeure en coordonnant les équipes IT ainsi que les équipes métiers. Mes points forts sont l’autonomie, la rigueur, un bon relationnel, ma capacité à proposer des solutions et à résoudre des problèmes complexes.
+
+COMPETENCES
+
+Langages : SQL, VB .NET, VBA.
+Base de données : SQL Server, MySQL, Oracle.
+Environnement : Windows, Windows Server, Citrix Server, Microsoft Azure.
+Outils : Microsoft Office 365, SharePoint, Teams.
+Outils Projet : MS Project, JIRA Software, ServiceNow. GitHub.
+Méthodes Projet : Cycle en V, Agile.
+Langues : Français (natif), Anglais (Professionnel).
+
+EXPERIENCES
+
+09/2018 – 12/2024
+Client : TotalEnergies | Raffinage-Chimie \ TGITS
+Chef de projet déploiement et responsable du support de la solution documentaire Meridian, utilisée par plusieurs milliers d’utilisateurs dans des filiales internationales.
+Gestion de projet de migration de versions majeures et déploiement sur des sites :
+Définition du planning. Identification des parties prenantes.
+Gestion du budget.
+Pilotage projet : Kick off, COMOP, COPIL, suivi des actions, suivi des risques, météo, rapport flash, Réunion GO/NOGO…
+Provisionnement de l’infrastructure (serveurs, sizing mémoire, base de données). Planification et suivi des installations.
+Gestion de la phase recette : création des tests sous JIRA, suivi des anomalies et des corrections.
+Formation : accompagnement du key-user, adaptation et validation du support de formation, organisation de session de formation.
+Déploiement : définition de la stratégie de déploiement (site ou entité pilote), coordination du déploiement, support post go-live, planification et suivi du passage en run.
+Décommissionnement de l’ancienne infrastructure.
+Responsable du RUN applicatif :
+Pilotage d’une équipe TMA de 4 personnes.
+Suivi du backlog (assistances, corrections, évolutions) et du respect des SLA.
+Suivi des incidents (applicatifs ou exploitation).
+Organisation de cellule de crise pour les incidents critiques.
+Validation des devis, des charges et des modes opératoires proposés.
+Suivi du budget (devis, licences, base de données, contrat de
+maintenance…) Interlocuteur privilégié du métier et des équipes transverses IT (support, exploitation serveur, cybersécurité, réseau, IT local)
+Gestion de la relation avec l'éditeur de la solution.
+Organisation et animation des comités opérationnels et comités de pilotage.
+Paramétrage et administration de l’application.
+Accompagnement et support utilisateurs : formation et documentation.
+Référent technique de la solution.
+Projets transverses :
+Obsolescences : upgrade OS serveur et base de données.
+Déploiement Citrix : suivi de l’installation de l’environnement, réalisation des
+tests (performance, applicatif), habilitation des utilisateurs, suivi du déploiement et assistance post-déploiement. Interfaçage avec des systèmes tiers : validation de la spécification de l’interface, assistance auprès des équipes transverses, participation aux tests.
+POC Migration vers Microsoft AZURE (Move To Cloud) :
+Réunion de cadrage avec la squad Azure pour définir l’architecture cible. - Suivi du commissionnement de l’infrastructure. - Suivi du plannig. - Organisation de points d’avancement réguliers avec plusieurs acteurs (Expert Azure, Editeur, TMA)
+Mise en place de solution de contournement en coordination avec les équipes dédiées (Authentification SAML, ouverture de port, configuration Firewall, Application Gateway)
+Réalisation des tests.
+
+07/2008 – 08/2018
+TotalEnergies | Total Marketing Services & Raffinage-Chimie
+RESPONSABLE APPLICATIF & CHEF DE PROJET SIRH
+
+Gestion et support d’un portefeuille d’applications métiers (RH, Communication) utilisées par plusieurs milliers utilisateurs.
+Responsable du bon fonctionnement des applications dans le respect des engagements de qualité, coûts et délais. - Pilotage d’équipes externes (TMA, Intégrateur…) - Suivi des réalisations (assistance, correction & évolution) - Déploiement et mise en production de nouvelles versions. - Interlocuteur privilégié du métier. Assistance pour rédaction du cahier des charges. - Support utilisateur. Projet de dématérialisation de documents RH (Périmètre France & Belgique).
+Recensement du besoin métier. - Définition du planning. - Organisation des ateliers de travail. - Animation des comités opérationnels et des comités de pilotage. - Création du plan de test. Organisation et suivi de la recette métier. - Coordination avec des équipes transverses (SAP, RH) pour la mise en place d’interfaces. - Conduite du changement. Formation des utilisateurs. - Mise en place d'un plan de communication. Projet de création d'une nouvelle société (RC)
+Analyse des systèmes d'information RH impactés. - Coordination avec les équipes IT & métiers impactés. - Définition du planning. Animation des réunions projet. - Suivi des modifications (applicatives, interfaces…) et des tests. - Suivi de la mise en production.
+
+09/2002 – 08/2008
+LOGICACMG – Client : Total
+INTEGRATEUR PACKAGEUR
+
+Tierce Maintenance Applicative chargée de l'intégration et de la distribution des applications métiers (> 400) sur les postes de travail.
+
+05/2000 – 07/2002
+GTI INFORMATIQUE – Client : GAN ASSURANCE
+ANALYSTE DEVELOPPEUR
+
+Développeur pour le service Retraite & Prévoyance
+
+FORMATION
+
+2000 : BTS INFORMATIQUE DE GESTION (Option développeur)

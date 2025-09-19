@@ -1,0 +1,148 @@
+YWA
+Expérience : 10 ans
+Pilotage de projet
+Recette
+Reengineering
+CORE BANKING
+Conduite de changement
+Banque
+AMOA
+LCBFT/KYC
+
+Expériences clés :
+2017 BNP PARIBAS Consultant chez finance groupe
+2018 CHAABI BANK EUROPE Consultant en AMOA, projet CoreBanking
+2019 BANQUE POSTALE PMO Programme
+2020 WAFA BANK EUROPE Directeur de projet au sein de la DSI
+2022 Société Générale PB Consultant Support applicatif Banque Privée,
+
+Compétences métiers
+Gestion de projet MOA
+Analyse des besoins fonctionnels
+Assurer la coordination entre les différentes parties prenantes du projet
+Animation de comité de pilotage
+Rédaction des processus
+Recette fonctionnelle
+Support applicatif
+
+Compétences techniques
+Outils de gestion de projet/Recette : Mantis – JIRA
+Outils de bureautiques : Microsoft Office (Word, Excel, PowerPoint)
+Environnements collaboratifs : SharePoint – Teams -- SKYPE
+Connaissance des systèmes d’information bancaires: Amplitude et T24
+
+Etudes et formations
+Master en mangement stratégique à l’IAE LYON - Lyon, France (2009-2013)
+Master “Finance, Risque et Contrôle” à Audencia Business School - Nantes, France (2016-2017)
+
+Langues
+Anglais
+
+2021 - 2024 (36 mois)
+SOCIETE GENERALE PRIVATE BANKING
+Cadre de la mission : Chef de projet - Support Fonctionnel Banque Privée
+Contexte : Intervention au sein du département SAU (Support Applicatif aux Utilisateurs) Banque Privée, j’ai assuré le support fonctionnel et le suivi de l’activité du support sur les applications utilisées par les banquiers privées de la Société Générale en France.
+Réalisations :
+Rédaction et mise en place de la documentation interne au service
+Suivi de l’activité du support applicatif aux utilisateurs de la Banque Privée.
+Analyse des anomalies et des remontés du Front.
+Participation/Animation des différents points avec les interlocuteurs MOA, MOE et métier.
+Organisation du comité de pilotage de l’activité du support au sein de la banque privée.
+Suivi de la mise en place de solution de contournement pour les cas de gestion en anomalie
+Préparation de la fusion CDN/Société Générale :
+Rédaction des FAQ sur le site ISO banque de détail
+Suivi des ruissellements des contrats assurance vie.
+Elaboration du Reporting erreur d’intégration assurance vie.
+Suivi des anomalies post production
+
+2020 - 2021 (18 mois)
+Attijari WAFA BANK Europe(AWBE)
+Cadre de la mission : Chef de projet DOSIE au sein de la banque AWBE
+Contexte : Intervention au sein de la direction de l’organisation et système d’information de la banque de détail, j’ai assuré la gestion d’un portefeuille projet dans le cadre la transformation digitale de la banque et le passage de l’ACPR.
+Réalisations :
+Rédaction et mise en place de la documentation interne au service
+Accompagnement de la mise en place du projet intermédiation au sein de la direction organisation et SI.
+Pilotage du programme intermédiation au sein de la DOSIE
+Organisation des ateliers de cadrages avec les métiers
+Rédaction des expressions de besoins
+Préparation des cahiers de recettes
+Mise à jour du corpus procédural
+Rédaction des modes opératoires
+Formalisation des process et des SFG
+Organisation des COPIL/COPROJ
+Elaboration des recettes de qualifications et des UAT
+Formation des utilisateurs (Réseau Europe).
+Organisation des comités de changements.
+Suivi Post production des solutions déployées par les équipes SI.
+Suivi et gestion du portefeuille des projets portés par la DOSIE :
+Signature électronique (Yousign)
+Projet de dématérialisation des traitements des PCE (Procédures civiles d’exécution) avec la DGFIP
+Projet intermédiation (Gestion des activités relais)
+Archivages des dossiers clients
+Gestion de la réclamation client (DSP2)
+Mise à jour des données clients
+Mise en place de la cellule PRC (Plate-forme relation client)
+
+2019 (6 mois)
+La banque postale
+Cadre de la mission : PMO Programme Core affacturage
+Contexte : Intervention au sein de la direction projet de la banque postale leasing et affacturage, j’ai assuré le pilotage de la phase cadrage du changement de l’outil Core affacturage de la banque (Solution CODIX).
+Réalisations :
+Cadrage et Pilotage du projet de montée de version CODIX
+Définition du périmètre, du budget et du planning du projet
+Mise en place de la gouvernance et la stratégie de migration
+Préparation et animation des ateliers métiers et des comités de projet
+Préparation des tableaux de bords et des outils de pilotage
+Pilotage de la stratégie de recette
+Pilotage et suivi des travaux techniques d’installation
+
+2018 (12 mois)
+CHAABI BANK EUROPE
+Cadre de la mission : AMOA sur projet de migration Core Banking
+Contexte : Intervention au sein de la direction de la direction de programme de transformation, j’ai assuré la gestion du projet de migration de la solution T24.
+Réalisations :
+Accompagnement de la mise en place de l’infocentre au sein du département contrôle de gestion de CHAABI Bank France
+Rédaction des expressions de besoins sur le domaine crédit engagement
+Rédaction des cahiers de recette et déroulement de la recette
+Formation des utilisateurs
+Formalisation des process crédit
+Rédaction des procédures
+Suivi de la TMA et traitement des tickets via Mantis.
+
+2017 (6 mois)
+BNP PARIBAS
+Cadre de la mission : Consultant services financiers département FSO /FAAS /BCM (EY) :
+Contexte : Intervention au sein de la direction finance groupe de la BNP, j’ai assuré la mise en place de l’IFRS 16.
+Réalisations :
+AMOA projet implémentation de la norme IFRS 16 chez IMEX Groupe BNPP
+Accompagnement dans la mise en place des normes IFRS
+Contrôle et production des provisions des portefeuilles titres
+Analyse des bases de données comptables et des contrats
+Coordination entre les différentes parties prenantes : Equipes Risques / Finance / IT / MOA
+
+2017 (6 mois)
+SOCIETE GENERALE CIB
+Cadre de la mission : Analyste crédit large-Cap département Coverage & Investment Banking :
+Contexte : Intervention au sein de la direction Coverage, j’ai assuré l’élaboration et l’analyse des demandes de financement.
+Réalisations :
+Traitement de demande de crédit/renouvellement de ligne existante
+Analyse du risque de contrepartie
+Analyse financière sur les comptes consolidés
+Proposition de notation interne de contrepartie
+Suivi de portefeuille et veille sectorielle
+Rédaction des expressions de besoin dans le cadre de la mise en place du Dashboard crédit
+
+2014 (36 mois)
+CIH BANK
+Cadre de la mission : AMOA Projet Core Banking
+Contexte : Intervention au sein de la direction projet de la banque de détail dans le cadre de la mise en place de la solution NOVA BANK SOPRA.
+Réalisations :
+Pilotage du projet (Planning, organisation et suivi des livrables)
+Rédaction des expressions de besoins et des SFDs
+Elaboration de la stratégie de recette, et rédaction des scenarios de test
+Traitement des alertes KYC
+Organisation des COPIL/COPROJ et des comités de changements
+Animation d’ateliers avec des experts métiers
+Déroulement des recettes de qualifications
+Suivi Post production et support aux utilisateurs
+Traitement des tickets au niveau de Jira

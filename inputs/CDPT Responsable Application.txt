@@ -1,0 +1,152 @@
+Chef De Projet Technique I.T/Responsable d'application 10 ans d'expertises
+
+Profil
+Je possède 10 années d’expérience en technologie del’information. J’ai une solide expertise en Management de développement logiciel web et mobile sur des technologies telles que Angular/.Net c#, de la mise à l’essai à la réalisation d’un produit finis , j’ai également une forte expertise sur la mise en œuvre de solutions technique, réalisation de POOC .Je maitrise la méthodologie agile (Scrum), la conception et la
+structure des équipes techniques (recrutement, suivi, gestion de portefeuille etc.) . Avec un forte experience en Tuning / optimisation et resolution des problèmes de performances Base de données de l'indexation en partant des plans d’exécutions jusqu'au refactoring
+
+Expérience professionnelle
+Responsable de projet Techniques, AXA FRANCE, Paris
+novembre 2024 - Présent
+
+Contexte :
+Gestion de risque et minimisation, Anticipation des Bugs et reduction d'incident coté Run
+Traitement d'obsolescence Technique sur une migration de .NET 4 vers NET8
+
+Tâches :
+Réalisation de documentation Technique et mise en place de RoadMap de migrations
+Identification des WSDL et schémas XML associés
+Reverse Engineering sur un build API perdu lors d'une migration cloud infrastructure vers Azure
+Documentation des opérations, les endpoints, les schémas de messages, et les types complexes utilisés par les services SOAP et utilisation de SoapUI
+Pipelines CI/CD, conteneurisation (Docker)
+Modernisation les mécanismes d’authentification et de cryptage en utilisation librairie Maison
+Estimation Délais/ charges de Travail jour Home & validation métier
+Création de (Diagramme séquence, flux, use case, composant)
+Affectation de tâches & meeting quotien avec le métier & communication et validation des jalons
+Micro et Macro chiffrage
+Analyse et monitoring via Kibana pour identifier et résoudre les anomalies en production
+Pilotage d’un projet de migration de PaaS vers CaaS Azure, en collaboration avec les équipes OPS, Architecture et Réseau
+Refonte des services GED de SOAP vers REST avec authentification OAuth2
+Intégration d’un outil d’IA pour la reconnaissance et le classement automatique de documents contractuels
+Gestion des pipelines de migration de bases de données SQL as a Service
+Audit de code source C# .NET MVC : analyse qualité, performance et mise en œuvre d’optimisations
+Pilotage d’un projet de purge des données personnelles (RGPD) : identification technique des critères de purge et script de suppression automatisée
+Gestion de Budget projet
+Consolidations BDD Sql server
+
+Environnement Technique :
+Cloud Azure, pipeline CI/CD, .NET CORE 8 c#, JetBrains dotPeek, visual studio 2022, API REST, SOAP, SOAPUI, SQL Server, Scrum AGile, Kanban, confluence, JIRA, Docker, Kubernetes, Azure service BUS, Mediatr Pattern, Blazor, SQL SERVER, Azure Container Registry, Azure NET 8, C#, Azure DevOps, Docker, Kubernetes, CQRS, DDD, MediatR, SQL Server, API REST
+
+Responsable d'application, BNP Paribas, Paris
+avril 2022 - octobre 2024
+
+Contexte : Interface entre le Business et les équipes Production et développement
+Tâches :
+Analyse de bug/incident sur des requêtes PL/SQL
+Rédaction des spécifications techniques
+Gestion du scope des versions et des livraisons
+Gestion et animation de l'équipe et reporting d'activité
+Référent technique
+Analyse des incidents et monitoring de performance avec Dynatrace
+Coordination avec les différentes équipes (exploitation, fonctionnelles, support produit)
+Veille technologique
+Analyse de toutes les évolutions et des issues du périmètre Comptabilité
+Coordination des développements entre différentes équipes (équipe de produit, batch, infra)
+Planification et estimation des développements
+Délégation des développements
+Réalisation du projet (Front & Back End)
+Suivi de la production
+Rédaction du cahier des charges technique
+Collaborer efficacement avec les métiers et la direction des Technologies
+Analyser finement les besoins internes (direction Financière)
+Préparation des jeux d'essai et scénarii de recette
+Evolution du zoning réseau Ntiers
+Mise en place d'un environnement de non-production (VMWare)
+Gestion de l'obsolescence & changement sur le parc de serveurs
+Utilisation de ServiceNow pour la gestion des changements
+Réalisation de test unitaire
+Gestion de Budget projet
+
+Environnements Techniques :
+Azure DevOPS, CI/CID, AKS / Kubernetes / Git Lab, Dynatrace, ServiceNow, Oracle 19C sous Linux, .Net CORE c#, .NET Framework AP.NET MVC, MsTest, Selenium c#, PowerShell, Agile Scrum
+
+Chef de projet Technique, Hutchinson
+avril 2021 - mai 2022
+
+Contexte : 
+Encadrement de l'équipe développeurs et métiers
+
+Tâches :
+Rédaction des Guides et supports techniques des utilisateurs
+Réalisation de conception base de données MLD/UML & création de base de données
+Cadrage de projet & gestion de la planification des tâches et affectations aux teams développeurs
+Déploiement & livraisons de version application & mise en place d'un déploiement automatisé via Team City
+Participation aux tests fonctionnels et aux tests unitaires
+Pilotages des A.O et négociations des offres avec les sociétés prestataires
+Suivi et Animation des Projets : Préparation et animation des cérémonies Scrum, fourniture quotidienne du burndown permettant à l'équipe de suivre son avancement, d'éviter les dérapages et d'agir en cas de besoin
+Assistance à l'équipe pour maximiser son efficacité, accompagnement dans la définition des processus et diffusion des concepts de l'Agilité dans l'entreprise
+
+Environnements Techniques :
+Jenkins, CI/CID, Git Lab, JIRA, SQL SERVER, .Net CORE c# MVC, .NET Framework AP.NET MVC, xUnit, Agile Scrum
+
+Tech Lead Développeur ASP/NET MVC C#, Orange O.B.S
+janvier 2018 - mars 2021
+
+Contexte : 
+Interface entre le Business et les équipes Production et développement
+Tâches :
+Analyse de bug/incident sur des requêtes Transact SQL / PLSQL
+Formateur sur les techniques d’optimisation et d’améliorations des problèmes de performances en Base de données (SQL server)
+Rédaction de supports techniques sur la formation
+Développement et maintenance évolutive d’application
+Rédaction et validation des spécifications techniques
+Développement de nouvelles IHM
+Participations aux tests fonctionnels et d’intégrations
+Déploiement de l’application via Team City
+Assurer la maintenance de l’application
+Animation des réunions d’avancement avec le client final et en interne + brainstorming
+Support client
+Chiffrage de tâches
+Packaging et livraisons
+Audits de codes sources SQL, Modélisation UML et migration de la base vers SQL version supérieure
+Réalisation de traitements batch
+Power BI DAX pour générer des rapports à intégrer sur une application ASP.NET MVC
+
+Environnement Technique :
+c#, REST API, TDD, NUNIT, test d’intégration, principes SOLID, ASP.NET MVC 4, .NET Core MVC, Entity Framework 5, Cloud Azure, JavaScript, HTML5, CSS, SSIS, AngularJS, jQuery, SQL Server, TFS, SVN, méthodologie Agile (Scrum), Plan Explorer, Scrum Agile
+
+Développeur ASP.NET MVC, Verlingue, Rennes
+janvier 2017 - novembre 2017
+
+Contexte : 
+Développement et maintenance logiciel
+Tâches : 
+Rédaction et validation des spécifications techniques
+Développement de nouvelles IHM
+Participations aux tests fonctionnels et d’intégrations
+Livraison & Déploiement de l’application
+Animation des réunions d’avancement avec le client final et en interne
+Développement de nouvelles solutions techniques (batch, API)
+Revues de code et refactoring
+Utilisation d'Entity Framework Core : Configuration d'EF pour la gestion d'une base de données
+
+Environnements Techniques :
+c#, ASP.NET, Oracle/PL SQL, Crystal Report, Entity Framework, JavaScript, Unity, HTML, CSS
+
+Développeur ASP.NET MVC, PSA Peugeot Citroën, Paris
+janvier 2016 - décembre 2016
+
+contexte : 
+Prise en compte des entrants : expressions de besoins
+Tâches : 
+Participation aux réunions de suivi d’avancement
+Chiffrage de tâches
+Développement et participation aux tests
+Participation aux phases de test et de déploiement des applications
+Correction d’anomalies
+Utilisation de GTM (Google Tag Manager)
+Utilisation de la méthode Agile (Scrum)
+
+Formation
+Master II en informatique de systèmes embarqués, Université Paris VIII Vincennes-Saint-Denis septembre 2015 - juin 2016
+ISO/IEC 27032 Lead Cybersecurity Manager - FR, Orsys février 2023 - janvier 2023
+Anglais : Technique

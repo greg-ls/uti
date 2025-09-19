@@ -1,0 +1,77 @@
+SYNTHESE DES COMPETENCES :
+
+PMO / Cheffe de projet transverse Sénior 
+Spécialisée en transformation digitale, conduite du changement, gouvernance IT et pilotage de portefeuilles projets. 
+Expérimentée dans le suivi budgétaire, la consolidation de KPI, la préparation de comités de gouvernance et la coordination transverse multi- équipes. 
+PMO / Gouvernance : Gestion de portefeuille projets, reporting, KPI, suivi budgétaire,
+préparation de comités de gouvernance.
+Gestion de projet transverse : Coordination multi-équipes, planification, reporting, COPIL /
+CODIR, ...
+Forte capacité à collaborer avec les parties prenantes et à assurer la livraison de solutions adaptées, dans le respect des délais, des budgets et de la qualité.
+Soft Skills : Leadership, communication, gestion du stress, adaptabilité, prise de décision.
+
+EXPERIENCES PROFESSIONNELLES
+
+Janv 2023 – Mai 2025 | Desjardins — Cheffe de projet planification /PMO
+Contexte : Programme GPAP – Coordination transverse, environnement Agile. Encadrement direct d’une équipe de 12 personnes.
+Pilotage de la planification et suivi budgétaire du programme.
+Mise en place et gestion de Jira et Confluence pour le suivi des projets et la collaboration.
+Automatisation et fiabilisation des organigrammes de programmes.
+Animation des comités de gouvernance et de pilotage.
+Consolidation des KPI et reporting transverse à destination des directions.
+Encadrement et coordination d’une équipe pluridisciplinaire.
+Méthodes : Agile / Scrum, planification transverse, reporting | Outils : Jira, Confluence, MS Project, Excel, Teams, PowerPoint.
+
+2022 | Desjardins — Cheffe de projet fonctionnel / Product Owner / PMO
+Contexte : Migration TIBCO → Camunda, modernisation des workflows et règles métier. Coordination transverse de 10 à 15 squads.
+Gestion du backlog, priorisation des évolutions et suivi des sprints.
+Coordination des ateliers, conception des formulaires UI/UX et mise en place de la signature électronique.
+Reporting COPIL et consolidation des informations projets pour la direction.
+Animation des cérémonies Agile et accompagnement des utilisateurs.
+Suivi transverse et coordination des parties prenantes pour garantir la cohérence fonctionnelle.
+Méthodes : Agile / Scrum, Product Owner, AMOA, conduite du changement | Outils : Confluence, Jira, Camunda, Swagger, Excel, Teams.
+
+Déc 2020 – Juil 2021 | Société Générale ITIM — Cheffe de projet Gouvernance & Résilience / PMO
+Contexte : Projet de gouvernance IT – continuité et reprise d’activité (BCP/DRP) Contribution à la mise en œuvre des normes et méthodologies. Analyse des risques IT sur des scénarios spécifiques. Suivi des évolutions et support fonctionnel des outils de continuité. Mise à jour des supports de formation et dispositifs de crise. Consolidation des livrables et reporting pour COPIL et CODIR.
+Méthodes : AMOA, gestion des risques IT, gouvernance, continuité d’activité | Outils : Mainframe, Excel, SharePoint, PowerPoint, MS Project, Teams.
+
+Oct 2019 – Sept 2020 | Solution Maker — Consultante / Cheffe de projet AMOA / PMO – Transformation digitale
+Contexte : Missions multi-clients : transformation digitale et conduite du changement (Schindler, Amnesty International, Orange).
+Déploiement d’une plateforme e-learning et accompagnement des équipes.
+Analyse des workflows existants et mise en place de ticketing Salesforce.
+Consolidation des KPI et reporting sur l’adoption et la performance des projets.
+Suivi transverse multi-projets et coordination des parties prenantes.
+Méthodes : AMOA, conduite du changement, suivi de projet transverse | Outils : Salesforce, SAP, Excel, SharePoint, Teams, O365, PowerPoint, MS Project.
+
+Avril 2011 – Oct 2019 | Teva Santé — Cheffe de projet / Product Owner / PMO– Pôle Méthodes & Excellence Opérationnelle
+Contexte : Transformation SI et organisationnelle suite au rachat d’un laboratoire. Participation à plusieurs projets, dont la refonte du CRM interne et la migration.
+Animé la relation métiers / IT et suivi le backlog fonctionnel
+Refonte du CRM interne et optimisation d’un module ERP.
+Animation de la relation métiers / IT et gestion du backlog.
+Mise en place de processus qualité et conformité SOX (Sarbanes-Oxley Act).
+Préparation et suivi des audits avec PwC.
+Coordination d’une équipe de 3 personnes, suivi budgétaire et reporting KPI qualité et conformité.
+Méthodes : Product Owner, Agile / Scrum, AMOA, conduite du changement | Outils : Excel, SAP, MySQL, Oracle, SharePoint, PowerPoint, MS Project, Teams.
+
+Avril 2007 – Juin 2010 | Sofrat / TechnipFMC — Document Controller – Projets Agbami (Nigeria) & Pazflor (Angola)
+Contexte : Projets pétroliers offshore majeurs. Coordination documentaire entre équipes onshore et offshore.
+Gestion et traçabilité documentaire sur projets.
+Garantie de la conformité documentaire aux normes ISO.
+Création et suivi de KPI pour le reporting projet.
+Coordination avec directeurs de projet et équipes internationales.
+Méthodes : AMOA, suivi de projet, conformité ISO | Outils : Prodom, Excel, bases de données internes, Skype, OneDrive.
+
+COMPETENCES CLES
+
+Méthodes & AMOA : Agile / Scrum, Product Owner, conduite du changement, conformité
+réglementaire (SOX, BCP/DRP).
+Outils : Excel, SharePoint, Teams, PowerPoint, MS Project, Salesforce, SAP, Jira, Confluence, Camunda, Swagger… - Secteurs : Banque / Assurance, Industrie pharmaceutique, Transformation digitale, Énergie / Pétrole.
+
+FORMATIONS & CERTIFICATIONS 
+2018 – 2019 : Master II Chef de Projet Informatique (RNCP) – IPI Groupe IGS 
+2019 : ISO 20 000 
+2019 : ITIL Foundation V3 
+2010 : Gestion des priorités & résolution de problèmes – IFS.
+
+LANGUES 
+Anglais : intermédiaire

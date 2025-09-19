@@ -1,0 +1,132 @@
+Voici le texte sans les espaces superflus :
+
+CHEFFE DE PROJET AMOA ASSURANCE VIE
+
+
+
+PROFIL
+
+Experte en assurance avec 14 ans d'expérience, spécialisée en maîtrise d'ouvrage et gestion de projets de migration/intégration logicielle et digitalisation client. Je suis motivée à apporter mon expertise à votre équipe.
+
+
+DIPLOMES
+
+MASTER 2 : INGÉNIERIE FINANCIÈRE
+Institut Supérieur de Gestion - Tunis / Tunis / 2011
+
+MAÎTRISE : FINANCE
+Institut Supérieur de Gestion - Tunis / Tunis / 2009
+
+
+
+COMPÉTENCES
+
+Compétences Fonctionnelles : Assurance Vie (Épargne, Capitalisation, Retraite, PER) et Assurance IARD. Flux bancaire. Scoring Client. Flux partenaires. Gestion de projet en Cycle en V. Gestion de projet de digitalisation. Compréhension des méthodes Agile. Assistance à la maîtrise d'ouvrage. Recette, implémentation de SI et de migration. Gestion des activités opérationnelles et suivi des évolutions techniques.
+
+Outils : MS Office, JIRA, Confluence, XML, SoapUI, Postman, API, Groovy (lecture et logging), SQL (lecture et compréhension), Solife, KLIFE.
+
+
+
+LANGUES
+
+Français
+Anglais
+Arabe
+
+
+
+
+EXPÉRIENCES PROFESSIONNELLES
+
+
+
+SwissLife France
+nov. 2019 - Présent | Levallois
+CHEFFE DE PROJET AMOA ASSURANCE VIE SWISSLIFE FRANCE
+
+Contexte: Expertise en gestion de projet AMOA pour Swisslife France :
+Spécialisée dans les contrats de capitalisation et d'épargne premium Luxembourg.
+Spécialisée dans les abonnements API avec les partenaires.
+
+Tâches :
+Maîtrise de la méthodologie de gestion de projet Cycle en V, incluant la planification, le budget, la conception fonctionnelle et la coordination inter-équipes.
+Responsable de la rédaction et de la validation des spécifications fonctionnelles, ainsi que de la gestion des plans de recette et de test.
+Pilotage efficace des comités de projet et de pilotage, assurant une communication fluide et une coordination optimale des parties prenantes.
+Participation active à des projets stratégiques de migration de systèmes, de conformité réglementaire et de refonte de programmes financiers.
+Gestion opérationnelle des activités en mode Run, incluant la clôture de contrats et la mise à jour des systèmes de gestion.
+Expertise dans la gestion des frais de gestion de contrats et la valorisation des fonds internes dédiés (FID) avec les partenaires financiers.
+Pilotage des abonnements API, de la communication avec les partenaires et de la coordination technique pour le paramétrage des règles de gestion.
+Assurance qualité des API, gestion des réclamations et suivi des évolutions des flux via Jira, garantissant une satisfaction client optimale.
+
+
+
+Deloren Consulting
+avr. 2018 - oct. 2019 | Paris
+CONSULTANTE AMOA
+
+Contexte : Piloter le projet d'implémentation du calcul de commissionnement des conseils commerciaux de SwissLife France
+Tâches :
+Pilotage stratégique du projet de rémunération chez SwissLife France, aligné avec les normes réglementaires.
+Gestion rigoureuse du budget et du plan de charge, optimisant les ressources tout au long du cycle de vie du projet.
+Présentation de l'avancement du projet dans les comités de projet et de programme.
+Organisation et coordination des réunions, assurant une synchronisation parfaite des équipes.
+Contribution active aux ateliers de cadrage des besoins, garantissant une compréhension approfondie des objectifs métiers.
+Rédaction précise des spécifications fonctionnelles, traduisant les besoins métiers en solutions concrètes.
+Interface dynamique entre la maîtrise d'ouvrage (AMOA) et la maîtrise d'œuvre (MOE), assurant une cohésion technique et fonctionnelle.
+Élaboration et mise en œuvre d'une stratégie de recette exhaustive, incluant la préparation des cas de test.
+Développement de simulateurs de recette sur Excel, outil facilitant l'analyse et la validation des résultats.
+Supervision de la production des livrables.
+Expertise sur les systèmes Sysvarem, Portail de consultation de la rémunération, MVS, Klife, renforçant l'efficacité opérationnelle.
+
+
+
+VERMEG
+avr. 2015 - févr. 2017 | Tunis
+BUSINESS ANALYST
+
+Contexte : Business Analyst sur le projet d'intégration du logiciel Solife pour le client Nationale Nederlanden (NN) (Assureur Néerlandais), pour un scope de 8 produits Tradlife et la migration d'un portefeuille de 3 millions de polices :
+Tâches :
+Rédaction de la stratégie de la recette.
+Définition des plans et des scenarii de tests.
+Préparation des simulateurs de tests pour le pricing des polices d'assurance.
+Exécution des tests et identification des anomalies.
+Vérification de la conformité de la solution par rapport aux exigences fonctionnelles.
+Création de supports de formation et de documentation utilisateur, ainsi que de reportings réguliers pour le suivi des tests.
+Formation des nouveaux arrivants dans l'équipe.
+
+
+
+VERMEG
+févr. 2017 - mars 2018 | Tunis
+SENIOR BUSINESS ANALYST
+
+Contexte : Piloter le projet d'intégration du logiciel Solife pour le client P&V Assurance (Assureur Belge) pour un scope de 2 produits d'épargne en assurance vie.
+Tâches :
+Pilotage de la mise en production de la solution Solife V6.3 pour P&V Assurance Vie, incluant l'analyse des besoins, la rédaction de spécifications fonctionnelles et la configuration sur mesure.
+Planification des phases projet (planning, organisation, budget...).
+Définition et exécution de la stratégie de recette, gestion des anomalies et coordination avec les équipes MOE et utilisateurs finaux.
+Création de supports de formation et de documentation utilisateur, ainsi que de reportings réguliers pour le suivi de projet.
+Mentorat de nouveaux collaborateurs et management opérationnel de deux analystes juniors.
+
+
+
+Recordati Group
+avr. 2013 - avr. 2015 | Tunis
+RESPONSABLE PORTEFEUILLE ASSURANCE ET FINANCE
+Tâches :
+Pilotage stratégique des contrats d'assurance chez Opalia : souscription, avenants et gestion efficace des sinistres.
+Négociation avancée des taux de prime, générant des économies substantielles pour l'entreprise.
+Suivi et reporting mensuel des sinistres pour le groupe RECORDATI, garantissant transparence et conformité.
+Gestion de la trésorerie, incluant analyse précise et optimisation des flux financiers.
+Administration des comptes bancaires, assurant une surveillance quotidienne et un placement stratégique des liquidités.
+
+
+
+Atlas Conseil International
+mai 2011 - déc. 2012 | Tunis
+CHARGÉE D'ÉTUDE EN ASSURANCE
+Tâches :
+Expertise en souscription de contrats d'assurance IARD et Vie, incluant Automobile, Multirisques Habitation, Multirisques Entreprises, Assistance en voyage et Assurance groupe.
+Gestion optimisée du portefeuille clients, assurant fidélisation et satisfaction.
+Maîtrise de la souscription en réassurance facultative, avec élaboration et gestion comptable des bordereaux de primes.
+Compétence en placement d'affaires facultatives dans le secteur des transports.

@@ -1,0 +1,183 @@
+COMPETENCES TECHNIQUES
+
+Gestion de projet : Techniques de gestion de projet, management d’une équipe autour d’un projet, gestion d’équipes offshore, Cycle en V, méthodologie Agile, méthode SCRUM, Kanban, Trello, Slack, MS Project, Monday.
+
+Environnements mobiles : iOS (iPhone / iPad), Android, Web App, Responsive Design, Ergonomie.
+
+Outils utilisés : .NET Framework, MS Visual Studio, MS Windows Azure, Google Cloud Platform, Amazon Web Services, Apple XCode, Salesforce, Dynatrace, Azure AppInsight, Clarity PPM, PSNext, Remedy, Service Now, JIRA, YouTrack, MantisBT, Fitnesse, Omniture, Akamai, XML Spy, MS Visio, MS Visual SourceSafe, CVS, Rational Rose, Select Enterprise, Enterprise Architect, Rational Change.
+
+Langages : UML, Design patterns, C#, C/C++, SQL, ASP, ASP.Net, Objective-C, Swift, MVC, HTML/DHTML, HTML5, CSS3, JavaScript, XML/XSL/XSLT, SOAP/Web Services, Visual Basic, Perl, UNIX Shell.
+
+Bases de données : MS SQL Server, CodeFluent, MS Access.
+
+EXPERIENCE PROFESSIONNELLE
+
+EDENRED FRANCE (UTI GROUP), Malakoff, France                               2021-2025
+Responsable Support / Chef de Projet
+Contexte: En charge du support niveau 1 du service de paiement en ligne (EDPS) mis à disposition des partenaires marchands.
+Tâches:
+Gestion de la relation avec les partenaires qui ont implémenté le service EDPS dans leur application.
+Accompagnement technique aux équipes commerciales lors de la rencontre de prospects.
+Aide aux partenaires dans leur implémentation des APIs d’authentification et de paiement EDPS.
+Investigation de 1er niveau sur les problèmes rencontrés par les partenaires dans leur utilisation du service EDPS.
+Assistance au support technique pour analyser les problèmes de connexion et de paiement.
+En parallèle depuis début 2024, gestion du projet sur l’observabilité du SI.
+
+Accompagnement au quotidien des principaux partenaires marchands utilisant EDPS depuis son lancement en 2018 que sont Uber Eats et Deliveroo.
+Intégration réussie d’une dizaine de nouveaux partenaires par an.
+Etude et choix de l’outil d’observabilité pour la supervision de la chaîne Marchand. Proof of Concept avec Dynatrace sur leur solution en SaaS.
+
+MANPOWERGROUP SOLUTIONS, Paris, France                               2018-2020
+PMO Innovation
+Contexte: En charge de la gestion de tous les projets digitaux de la division Innovation de ManpowerGroup Solutions.
+Tâches:
+Gestion des projets Innovation (coûts, délais, qualité et risques).
+Encadrement de l'équipe technique en charge du développement et du support des applications de la division Innovation.
+Participation à la rédaction et à la présentation des réponses aux appels d’offres provenant des clients internes et externes.
+Participation aux recrutements de l’équipe.
+Participation à des conférences majeures en France avec animation de stand.
+
+Développement et support de la Digital Room, une solution d’évaluation digitale offrant aux recruteurs une aide à la pré-sélection de candidats postulant à des offres d’emploi, basée sur un entretien d'embauche virtuel conçu sur mesure.
+Participation à la commercialisation de la Digital Room, avec notamment plusieurs campagnes de recrutement réussies pour Manpower France, Experis Pérou et ManpowerGroup Espagne.
+Présentation de la solution lors des conférences Viva Technology 2018 et 2019.
+Reprise en interne du développement et du support de l'application ASkE, outil digital à destination des professionnels RH, permettant d’identifier et d’évaluer les compétences professionnelles des candidats et des collaborateurs.
+
+EXPERIS IT (MANPOWERGROUP), Nanterre, France                               2017-2018
+Directeur de Projet
+Contexte: En charge du pilotage des projets de la cellule Innovation d’Experis IT, filiale de ManpowerGroup France dédiée au conseil et au recrutement de cadres dans les technologies de l’information.
+Tâches:
+Gestion des principaux projets digitaux (coûts, délais, qualité et risques).
+Animation des Comités de Pilotage Projet pour la validation des budgets et la gestion des risques.
+Participation aux recrutements de l’équipe.
+Participation à la rédaction et à la présentation des réponses aux appels d’offres provenant des clients internes et externes.
+Travail sur l’élaboration du Business Case des nouveaux produits.
+Participation à des conférences technologiques majeures en France (Viva Technology 2017, Microsoft experiences’17) avec animation de stand.
+
+Création d’un prototype de la Digital Assessment Room, une solution d’évaluation digitale basée sur un entretien virtuel avec un avatar, et permettant d’évaluer les candidats sur leur communication verbale et non-verbale.
+Présentation du prototype lors des conférences Viva Technology 2017 et Microsoft experiences’17.
+Création d’une solution Web commercialisable de la Digital Room, offrant une aide à la pré-sélection de candidats postulant à des offres d’emploi, en se basant sur l’interprétation des réponses orales du candidat, de sa communication non-verbale (gestes, émotions) et de résultats à un QCM, grâce à des services cognitifs basés sur l’Intelligence Artificielle.
+Présentation de la Digital Room lors du Forum Economique Mondial de Davos 2018.
+
+STREAMDATA.IO, Paris, France                               2015-2017
+Responsable Relations Clients
+Contexte: Streamdata.io propose une solution en Proxy-as-a-Service basée sur les standards du Web, qui transforme toute API en un flux de données, mises à jour en temps-réel sans implémentation côté serveur, permettant de proposer aux utilisateurs une expérience temps-réel dans les applications Web et Mobile.
+En charge de mettre en œuvre la stratégie Relations Clients de Streamdata.io.
+Tâches:
+Gestion de la relation avec les clients et partenaires existants.
+Identification et établissement d’une relation commerciale avec de potentiels clients et partenaires.
+Suivi du pipeline commercial avec les outils Salesforce.
+Participation à des conférences technologiques majeures en Europe (Devoxx, APIDays, dotScale, dotJS, DevFest, TIAD, BestOfWeb, Viva Technology, Paris Web) avec animation de stand et présentation de talk.
+Rencontre de clients et partenaires potentiels lors d’événements commerciaux.
+Maintenance des contrats types (contrat client, de sous-traitance, de distribution, d’apporteur d’affaires).
+Contractualisation avec les nouveaux clients et partenaires.
+Implémentation d’applications de démonstration dans divers langages (JavaScript, Node.js, Objective-C, Swift, etc.) basées sur la technologie Streamdata.io.
+Rédaction de blog posts et d’articles autour des notions d’animation temps-réel et de streaming d’APIs.
+
+Enregistrement de Streamdata.io sur les Marketplaces d’IBM France et US et de Pivotal.
+Initiation d’un partenariat avec Orange Business Services.
+Implémentation des applications de démonstration iOS (incluant l’Apple Watch) en Objective-C et Swift, disponibles sur le répertoire Github de Streamdata.io.
+Article «Des données animées grâce aux APIs» paru dans le magazine Programmez! d’avril 2016.
+Talk «IoT Streaming: alive session» avec Ari Kouts d’Orange Datavenue, lors de la conférence TIAD en octobre 2016.
+
+STREAMDATA.IO, Paris, France                               2015-2017
+Chef de Projet
+Contexte; En charge de gérer les projets pour les clients Grand Compte de Streamdata.io.
+Tâches:
+Proxy entre les équipes technique et business des clients et les équipes de développement internes et offshore.
+Participation à la rédaction des spécifications techniques.
+Etablissement des informations de coût et planning en ligne avec les attentes du client.
+Suivi des évolutions et corrections remontées par les clients.
+Gestion de l’avancement des projets en méthodologie Agile / SCRUM.
+Revue fonctionnelle et technique du travail réalisé avant livraison en fin de sprint.
+Assistance aux équipes de support de Production.
+Gestion de la facturation des clients et suivi de la comptabilité liée aux projets.
+Principaux projets:
+Application Trader’s Box / Bourse Live de BNP Paribas: Application mobile d’information boursière sur iOS & Android pour la France, les Pays-Bas, la Suède et l’Espagne.
+Application EasyBourse de la Banque Postale: Application mobile de courtier en ligne sur iOS & Android.
+Application em4 remote de Crouzet Automation / InnoVista Sensors: Application mobile iOS & Android permettant de surveiller et contrôler les objets IoT connectés sur un automate programmable em4 remote.
+
+ASTEK, Puteaux, France                               2014
+Manager de développements offshore à ECONOCOM
+Contexte: En charge de gérer les ressources offshores (6 développeurs, Ile Maurice et Lettonie) travaillant à temps plein sur un projet intranet.
+Tâches:
+Suivi au quotidien du travail effectué, en méthodologie Agile / SCRUM.
+Rédaction avec les Product Owners du besoin dans le backlog, spécifications détaillées et techniques.
+Assignation des items du backlog aux équipes.
+Point de contact entre les développements offshore et le business.
+Proxy avec l’équipe de développement interne et l’architecte technique.
+Revue fonctionnelle et technique du travail réalisé avant livraison en fin de sprint.
+Réalisations:
+Application intranet destinée à gérer l’ensemble des opérations de leasing d’Econocom.
+
+ASTEK, Boulogne-Billancourt, France                               2011-2013
+Chef de Projet Mobile/ m-Commerce à la Française des Jeux (FDJ)
+Contexte: Responsable de la gestion de l’ensemble des études et projets de la FDJ liés au mobile, aussi bien les applications natives que les webapps, sur les environnements iOS et Android, au sein de la filière Digitale de la Direction Etudes et Projets (DEP).
+Tâches:
+En charge de la relation entre les acteurs côté DSI (développement, qualification et mise en Production) et le Marketing Client Mobile de la FDJ sur tous les sujets mobiles.
+Pilotage des études préalables sur les nouvelles applications mobiles à venir et les évolutions des applications existantes ; Rédaction d’un rapport d’étude décrivant la solution SI proposée accompagné d’un planning global et d’un budget consolidé de réalisation du projet.
+Gestion de la réalisation et de la recette de bout en bout de la solution SI proposée dans les délais et le budget impartis, pour les projets mobiles.
+Fournir un reporting régulier au management sur le statut des projets mobiles en cours d’étude et de réalisation, et alerter sur les risques éventuels.
+Réalisations:
+Evolution des applications mobiles Loto et Euromillions existantes sous iOS et Android, avec notamment l’intégration de la prise de jeu Loto en webview dans l’appli.
+Création d’une nouvelle application mobile Parions Sport pour iOS et Android, mettant à disposition des utilisateurs l’offre de paris sportifs FDJ en point de vente, avec réception d’alertes en cas d’évolution de côtes.
+Création de l’application mobile FDJ Scan pour iOS et Android, permettant aux nouveaux clients de la FDJ de prendre en photo leurs pièces justificatives et de les envoyer au Service Client via leur smartphone.
+Refonte des applications mobiles Loto et Euromillions pour iPhone et Android, offrant un design plus ergonomique avec une prise de jeu en natif, et une version spécifique tablette en mode paysage; projets pilotes dans l’utilisation des méthodes Agile et SCRUM à la FDJ.
+Création d’une plateforme internalisée d’envoi de pushs de notifications mobiles via les plateformes Apple et Google, et intégration de cette nouvelle solution dans les applications mobiles Loto et Euromillions.
+Refonte de l’application mobile ParionsWeb pour iPhone, présentant l’offre de paris sportifs en ligne de la FDJ avec une prise de jeu en natif, et une version spécifique iPad en mode paysage.
+
+GENIOUS, Paris, France                               2010-2011
+Chef de Projet, Responsable d’applications au Pari Mutuel Urbain (PMU)
+Contexte; Responsable de l’application Poker en ligne du PMU (150 millions d’euros de chiffre d’affaire sur le 2nd semestre 2010).
+Tâches:
+En charge de la relation avec la société partenaire développant le logiciel de jeu de Poker.
+Pilotage de la réalisation des correctifs et évolutions de l’environnement technique de l’application Poker     (5 mises en production majeures + des versions correctives mineures).
+Gestion de la cartographie applicative et de la documentation de l’architecture applicative.
+Assurer la qualité de service et le support sur les incidents de Production liés aux jeux de Poker.
+Responsable de l’application Plateforme d’Echanges (PFE), qui assure le transfert de l’information hippique (programme des courses, rapports, résultats, etc.) entre les sociétés de courses, le Système d’Information Central du PMU, et les hippodromes et les points de ventes (plus de 10.000 points de vente en France).
+Construction et pilotage du périmètre et du plan de réalisation des versions logicielles de l’application.
+Garantirle respect des niveaux de service et de qualité définis pour les versions d’application gérées.
+Pilotage du prestataire en charge des réalisations sur l’application ; gestion du budget et des plannings de développement et qualification pour ces réalisations (155 jours de charge sur le 1er semestre 2011).
+Assurer la communication avec les clients de la division (département Projets, métiers, utilisateurs).
+
+REDCATS USA, New York, USA                               2008-2010
+Chef de Projet Technique
+Contexte: En charge de la gestion de projets techniques et fonctionnels des sites web e-commerce pour les marques Américaines et Européennes de Redcats USA, incluant La Redoute en Europe et des catalogues en ligne comme
+Brylane, Avenue et Woman Within aux Etats-Unis. Redcats fait partie du groupe PPR, un leader mondial dans les industries de la mode et du luxe.
+Tâches:
+Gestion de l’ensemble des initiatives liées à la Qualité de Service pour les marques Européennes de La Redoute, améliorant de façon significative la satisfaction globale des clients.
+Réduction des taux d’erreur en dessous de 0,05%, en déterminant les causes principales d’affichage d’une page d’erreur, et en les fixant.
+Diminution du temps de réponse sur les parties du site web les plus cruciales pour le business de plus de 3 secondes sur certaines pages, afin d’améliorer l’expérience du client (optimisation de contenu, caching, etc.)
+Gestion des différentes mises à jour du code et de l’infrastructure réseau du site web La Redoute France afin d’assurer que le site soit prêt pour le début de la période des soldes (plusieurs millions d’euros de revenus).
+Direction des sessions de test en charge impliquant des ingénieurs en interne et externe (HP, Oracle), supportant jusqu'à 20.000 utilisateurs virtuels simultanés avec une bonne expérience de navigation.
+Couverture de l’ensemble des opérations du 1er jour des soldes assurant une résolution rapide des problèmes, avec pour résultat 4 campagnes successives sans interruption du trafic sur le site web et un record de 125.000 commandes en ligne en 16 heures (environ 10 millions d’euros de revenus) atteint en janvier 2009.
+Implémentation de Web Services sur les plateformes des marques Américaines et Françaises afin de remplacer une technologie vieillissante basée sur la solution «Host Integration Server» (HIS) de Microsoft.
+Refonte de la page Produit de site web de La Redoute France, intégrant une nouvelle ergonomie pour l’utilisateur et une interface de zoom novatrice.
+
+Telecom Italia France, Paris (2001-2008)
+Ingénieur Développement et Chef de projet
+
+Excite Europe, Londres, Royaume-Uni (1999-2001)
+Ingénieur Développement
+
+Cap Gemini, France (1998)
+Administrateur Systèmes et Réseaux
+
+Diplômes
+
+Master of Science en Informatique (1999)
+The University Of Hull, Kingston-upon-Hull, Royaume-Uni
+Diplôme d’Ingénieur en Electronique et Traitement de l’Information (1998)
+CPE Lyon (Ecole Supérieure de Chimie Physique Electronique de Lyon), Lyon, France
+
+INFORMATIONS COMPLEMENTAIRES
+
+Réalisation :
+Collaboration avec 52Martinis sur l’application mobile iOS “Paris Cocktail”. Version 1.0 publiée sur l’App Store en août 2017.
+
+Publication :
+Auteur de l’article intitulé : «Des données animées grâce aux APIs» paru dans le magazine Programmez! d’avril 2016
+Thèse de Master intitulée : «A Design Pattern for the Design and Implementation of Distributed Virtual Environment Systems Applied to Medical Training Simulations» (Méthodologie pour la conception et l’implémentation de systèmes d’environnement virtuel appliqués à des simulations de formation médicale), en décembre 1999.
+Co-    auteur de l’article intitulé : «A Software Architecture for Distributed Virtual Environments: the Actor-Spectator-Producer Pattern», présenté à la première conférence Asie-Pacifique «Pattern Languages of Programming», KoalaPLoP'2000, à Melbourne, Australie, en mai 2000.
+
+Récompense :
+Vainqueur du prix «2008 Excel Team Award» en reconnaissance de contributions exceptionnelles par Redcats USA, en tant que membre de l’équipe Gestion de Projet de la division Online Technologies.

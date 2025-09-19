@@ -1,0 +1,196 @@
+BALDE Mahamadou Moumini 7 Rue Gaston Monnerville 77100 Meaux Portable : +33(0)6 19 31 00 10. baldemahamadou@yahoo.fr
+Freelance - Product Owner | Business Analyst | Agile | IT / Digital.
+17 années d’expérience technico-fonctionnelle dans des contextes Agile / Scrum, spécialisé dans le recueil des besoins, la rédaction de spécifications fonctionnelles et de User Stories, la priorisation du backlog, la réalisation de tests fonctionnels et UAT, ainsi que la coordination des équipes IT. Expérience dans les secteurs de l’énergie, des télécommunications et de la banque.
+Certification : Product Owner & Microsoft Excel.
+
+Expérience professionnelle
+
+❖ Depuis Juillet 2022 : Product Owner.
+RTE Paris - Projet de modernisation des systèmes de transmission des offres, CUO et programmes énergétiques.
+Application métier critique de transmission des offres et des programmes énergétiques (temps réel, contexte européen). Cette application permet à l’opérateur de réseau de transport d’électricité de réceptionner l’ensemble des offres d’ajustement (spécifiques et standards), les contraintes techniques d’utilisation des offres (CUO) ainsi que les programmes d’appel (PA). Elle est utilisée en temps réel par les acteurs d’ajustement (AA) et les responsables de programmation (RP), en France et en Europe. Il s'agit d’un système à forte criticité, au cœur du pilotage énergétique et de l’équilibrage du réseau électrique.
+➢ Principales tâches accomplies :
+Uniformisation de l'heure pour faciliter l’intégration des données à l’échelle européenne. 
+Recette fonctionnelle post-uniformisation pour valider l’intégration des données. 
+Migration applicative depuis une application obsolète vers cette nouvelle solution métier. 
+Recueil, analyse et traduction des besoins métiers des Offres Spécifiques et Contraintes Techniques via des ateliers de cadrage.
+Rédaction, validation et priorisation des User Stories (des CUO). 
+Recette fonctionnelle des User Stories avec SQL, ORACLE, API, Postman, Swagger, SOAP, Xray, Cucumber, Jira, Confluence.
+Analyse des logs applicatifs et des Microservices via Putty, Postman et Notepad++. 
+Gestion de la volumétrie des données clients et des performances de l’application. 
+Tests de non-régression, tests de charge et tests de performance pour sécuriser les livraisons. 
+Partage de la vision produit avec l’équipe de développement. 
+Collecte des feedbacks utilisateurs (Acteurs, Métiers et Parties Prenantes). 
+Suivi et validation des MEPP / MEP (Mise en Pré Production / Production) des versions du produit. 
+Conduite de réflexions stratégiques pour les futures versions. 
+Mise à jour du Guide d’implémentation (Documentation).
+Environnement technique : Systèmes : Windows, Linux. Langages & Frameworks : Java, Angular. Base de données : SQL, Oracle
+APIs / Web services : REST, SOAP, Postman, Swagger. Tests & Automatisation : Postman, Swagger, Cucumber, Xray. CI/CD & Automation : Jenkins, Docker, Git. Analyse de logs / Debug : Putty, Notepad++, Kibana. BI / Reporting : Power BI. Outils de gestion Agile : Jira, Confluence. Documentation & Collaboration : Word, Excel, PowerPoint. Méthodologies agiles : Scrum, Kanban, gestion de backlog, user stories, sprints.
+
+❖ Février 2020 - Juin 2022: Business Analyst – Refonte fonctionnelle et technique des applications Pricing & Sourcing (Talend → Java).
+TotalEnergies – DSI / Energy Management – Électricité & Gaz. Rattaché à la direction Energy Management, dans le cadre de la refonte complète des applications métiers dédiées à la gestion du Pricing et du Sourcing.
+➢ Principales tâches accomplies :
+Recueil des besoins métiers auprès des utilisateurs (trading, approvisionnement) via des ateliers de cadrage.
+Formalisation des processus métier existants et des nouveaux besoins dans un objectif d’optimisation fonctionnelle.
+Cartographie des processus existants sous Talend des applications et identification des impacts métier liés à la migration vers Java. 
+Mapping des données (Source → Cible). 
+Rédaction des spécifications fonctionnelles détaillées et des User Stories adaptées à l’environnement Java.
+Priorisation des fonctionnalités selon la valeur métier et les contraintes techniques. 
+Maintien et optimisation du Product Backlog dans une démarche d’amélioration continue. 
+Suivi de la conception et du développement pour garantir l’alignement avec les besoins métiers. 
+Recette fonctionnelle des User Stories avec SQL, Oracle, API, Postman, Swagger, SOAP, MariaDB, Jira, Confluence. Interface entre les équipes métiers et techniques pour assurer la compréhension commune des exigences et des solutions.
+Gestion des risques et anticipation des impacts liés à la migration technologique. 
+Accompagnement du changement auprès des utilisateurs finaux, formation et collecte des feedbacks post-migration.
+Création et suivi des indicateurs, plannings et tâches via Excel. 
+Planification et suivi des MEPP / MEP (Mise en Pré Production / Production) des différentes itérations.
+Mise à jour de la documentation fonctionnelle et technique tout au long du projet.
+Environnement technique : Systèmes : Windows, Linux. ETL & Migration : Talend, Java. Bases de données : SQL, Oracle, SQL Developer , MariaDB. API & Tests fonctionnels : Postman, FileZilla, Putty, mRemonte, Swagger, SOAP, Xray, Cucumber. Gestion de projet & Documentation : Jira, Confluence, Excel. Analyse & Debugging : Putty, Notepad++.
+
+❖ Octobre 2017 - Janvier 2020 : PRODUCT OWNER.
+RTE Paris - Projet de certification des volumes réalisés pour l’ajustement et l’effacement énergétique (MA & NEBEF).
+Le contrôle du réalisé a pour but de vérifier que les volumes d’électricité dégagés par les hausses/baisses de production/consommation sont conformes à la demande. RTE se doit d’établir les volumes réalisés dans le cadre du MA et NEBEF au plus juste, car ceux-ci sont la base de l’élaboration a posteriori de flux financiers entre les diverses parties. Par ailleurs, RTE s’est positionné en tant que certificateur des volumes effacés dans le cadre de NEBEF.
+➢ Principales tâches accomplies :
+Recueillir les besoins des utilisateurs et des parties prenantes. 
+Comprendre et formaliser les attentes fonctionnelles des utilisateurs et des parties prenantes. 
+Sélectionner et prioriser les fonctionnalités à plus forte valeur ajoutée. 
+Décrire chaque fonctionnalité retenue sous forme de User Story suffisamment petites pour être implémentée en une seule itération.
+Analyser et intégrer les Technical Stories proposées par l’équipe de développement. 
+Maintenir et affiner le Product Backlog afin de maximiser en continu la valeur métier. 
+Prioriser les User Stories selon leur valeur métier, leur complexité et leur dépendance technique. 
+Valider la réalisation du produit via la recette fonctionnelle avec SQL, API, mRemonte, Swagger, SOAP, Oracle, Jira, Confluence.
+Partager la vision produit avec l’équipe de développement. 
+Collecter les retours utilisateurs. 
+Répondre aux questions de clarification émises par l’équipe de développement sur les Stories en cours.
+Contribuer aux cérémonies Scrum avec l’équipe de développement et le Scrum Master. 
+Organiser et exécuter les Tests Utilisateurs / Métier pour valider chaque version. 
+Mener une réflexion stratégique sur les versions à venir. 
+Implémenter des tests fonctionnels automatisés avec Cucumber.
+Environnement technique : Systèmes : Windows, Linux. Langages & Frameworks : Java, Angular. Base de données : SQL, Oracle. APIs / Web services : REST, SOAP, Postman, SQL Developer, Swagger. Tests & Automatisation : Postman, Swagger, Cucumber, Xray. CI/CD & Automation : Jenkins, Docker, Git. Analyse de logs / Debug : Putty, Notepad++, Kibana. BI / Reporting : Power BI. Outils de gestion Agile : Jira, Confluence . Documentation & Collaboration : Word, Excel, PowerPoint. Méthodologies agiles : Scrum, Kanban, gestion de backlog, user stories, sprints.
+
+❖ Juillet 2016 - Septembre 2017 : Business Analyst – MOA
+RTE Paris - Projet de modernisation des systèmes de contrôle, de calcul d’écarts et de facturation dans le cadre des mécanismes d’ajustement et d’effacement énergétique
+➢ Application métier dédiée à l'Ajustement
+Développée pour faciliter le traitement des contestations du Mécanisme d’Ajustement (MA), cette application centralise et structure les données nécessaires à leur analyse.
+➢ Application de calcul d’écart et de facturation
+Il s’agit d’une application BackOffice permettant de calculer et de valoriser des écarts de RE « Responsable d’Equilibre » à échéances. Elle est principalement utilisée par l’équipe RE du Service Commercial Décomptes Facturation au CNES et uniquement en consultation aux pôles Décomptes-Facturation en région. Le Responsable d’Equilibre est une personne morale ayant signé avec RTE un accord de Participation pour la qualité de responsable d’équilibre AP-RE, s’engageant à assurer l’équilibre Production = Consommation dans son périmètre.
+➢ Outil de suivi et de validation du réalisé
+Le contrôle du réalisé a pour but de vérifier que les volumes d’électricité dégagés par les hausses/baisses de production/consommation sont conformes à la demande. RTE se doit d’établir les volumes réalisés dans le cadre du MA et NEBEF au plus juste, car ceux-ci sont la base de l’élaboration a posteriori de flux financiers entre les diverses parties. Par ailleurs, RTE s’est positionné en tant que certificateur des volumes effacés dans le cadre de NEBEF.
+➢ Principales tâches accomplies :
+Assurer le Maintien en Condition Opérationnelle (MCO) des applications à l’aide de SQL, API, mRemonte, Swagger, SOAP, Notepad++, JIRA, Confluence.
+Animer des ateliers métiers pour recueillir, analyser et formaliser les besoins fonctionnels. 
+Réaliser l’analyse d’impact des évolutions fonctionnelles ou techniques. 
+Rédiger les expressions de besoin en collaboration avec les utilisateurs métiers. 
+Élaborer les spécifications fonctionnelles détaillées, en cohérence avec les exigences métier. 
+Définir les plans de test, exécuter les scénarios de validation, et participer à la recette utilisateur (UAT).
+Suivre les MEPP / MEP (Mise en Pré-Production / Production) et accompagner les utilisateurs lors du déploiement.
+Rédiger les supports utilisateurs, assurer la formation, et collecter les retours terrain post- MEP.
+Mettre à jour les règles de gestion du Système d’Information (SI).
+Environnement technique : Systèmes : Windows 7, l’Unix. Langages : SQL. Outils : Putty, SQL Developer, FileZilla, Service Manager et Quality Center.
+
+❖ Mars 2013 - Juin 2016 : Business Analyst / Référent MOA – Campagnes de validation compteurs
+ENEDIS (Ex ERDF) - Projet LINKY « les compteurs intelligents ».
+➢ Descriptif de la mission :
+Appuyer le département matériel pour intégrer les outils de test dans son laboratoire CPL dans le but de valider les matériels (Compteurs Communicants et Concentrateurs).
+➢ Enjeux du projet Linky:
+Amélioration du fonctionnement du marché de l’électricité, participation à la maîtrise de la demande d’énergie et à la réduction des émissions de CO2.
+➢ Pré-requis :
+Le pilote de la campagne doit avoir des très bonnes connaissances techniques et fonctionnelles sur cette mission.
+➢ Principales tâches accomplies :
+Préparation de la stratégie de validation et des livrables de recette pour la campagne. 
+Diagnostic et analyse des anomalies rencontrées (outils, scripts, matériels). 
+Création et suivi des anomalies; organisation de réunions de validation avec les prescripteurs compteurs et l’équipe diagnostic ENEDIS (Ex ERDF).
+Reporting quotidien à la MOA. 
+Encadrement d’une équipe de 5 personnes (analystes et testeurs). 
+Répondre aux sollicitations des constructeurs compteurs et de la MOA en plus de celles de mon analyste et de mes testeurs.
+Gestion des inattendus et création d’alertes si nécessaire. 
+Suivi du cycle de vie des anomalies. 
+Transfert de compétences à la MOA, et aux nouveaux collaborateurs.
+Environnement technique: Systèmes : Windows 7. Langages : TTCN3. Outils : FullTester, Quality Center, PDA, VIEWER-EURIDIS, Analyser de trame CPL.
+
+❖ Avril 2012 - Février 2013 : Ingénieur d'étude et développement.
+France Telecom/ Orange Business Service
+➢ Descriptif de la mission :
+Correction d'anomalies sur Chronos. C’est le système d'information au cœur du SI de France Telecom qui a pour fonction principale:
+Le provisionning : Action de transformer les demandes commerciales en données techniques nécessaires à la production des demandes client.
+La médiation : Enrichissement des données d'usage des différents produits client afin de les transmettre au SI de la facturation.
+➢ Principales tâches accomplies :
+Analyse, évaluation (chiffrage) et correction des anomalies.
+Création et rédaction de divers documents :
+o Cahier de tests et spécifications détaillées. o Manuel de mise en production et guide d'installation. o Matrice de mise en production (document répertoriant la liste de tous les packages à installer). o Document de la justification de la définition (document répertoriant une série de tests poste mise en recette sur les HLR et LLR).
+o Cahier de tests vérifiant le bon fonctionnement de Chronos après la mise en production.
+Mise en Recette et réalisation des tests en environnement recette. 
+Livraison et réalisation des tests en environnement production.
+Environnement technique: Systèmes : Windows XP/ Unix. Langages : Perl/ Java/ SQL/ PL/SQL. SGBD : SQL Server. Outils : SQL Query Analyser/ Ptty.
+
+❖ Août 2009 - Mars 2012 : Ingénieur d'étude et développement.
+SFR Rive Défense
+➢ Descriptif de la mission :
+Exploitation N2 HiSpeed (SI)
+➢ Enjeux du projet :
+Résolution d'incidents techniques et fonctionnels sur la chaîne de production des services dégroupés au niveau du SI.
+➢ Principales tâches accomplies :
+Correction par des scripts SQL, des adresses IP (Pool IP) mal déclarées sur un DSLAM en BDD Oracle.
+Synchronisation via des scripts Shell des données entre le réseau et le référentiel HiSpeed (BDD oracle).
+Correction sur la déclaration des conduits opérateurs 
+Rétablissement des clients coupés etc.
+Environnement technique: Systèmes : Windows XP/ Unix. Langages : SQL/ PL/SQL SGBD : ORACLE/ ACCESS. Outils : Toad/ Ptty.
+
+❖ Juin - Juillet 2009 : Ingénieur d'étude et développement.
+La société générale Paris la défense.
+➢ Descriptif de la mission :
+Correction d'anomalies et développements en VBA
+➢ Enjeux du projet :
+Développement d'un outil permettant la réalisation des indicateurs qualités de services QoS pour la Société Générale.
+➢ Principales tâches accomplies :
+Création d'indicateur QoS. 
+Correction d'anomalies. 
+Support aux utilisateurs. 
+Maintenance et mise à jour.
+Environnement technique: Systèmes : Windows XP Langages : VBA/ Servlet/ JavaBean/ JSP/ JDBC/ SQL. SGBD : ORACLE/ ACCESS Outils : Eclipsqe3.2/ Microsoft Visual Basique.
+
+❖ Mai 2008 - Mai 2009 : Ingénieur d'étude et développement.
+Toyota France – Finance Paris
+➢ Enjeux du projet :
+Développement d'une application web dans le cadre de la réalisation d'une évolution sur un projet forfaitaire « Wholesale ».
+➢ Principales tâches accomplies :
+La correction d'anomalies. 
+L’évolution BALE II (Une norme pour mieux appréhender les risques bancaires). 
+Le support aux utilisateurs. 
+La maintenance et la mise à jour.
+Environnement technique: Systèmes : Windows XP Langages : VBA/ Servlet/ JavaBean/ JSP/ JDBC/ SQL/ PL/SQL, Hibernate. SGBD : ORACLE/ ACCESS. Outils : Eclipse3.2/ Microsoft Visual Basique.
+
+Cursus / diplômes
+2008 : Master 2 IRM (image, réseaux, multimédia) : Institut Galilée (Université Paris XIII) Villetaneuse - France.
+2007 : Master 1 STIRM (signal, télécommunication, image, réseaux, multimédia) : Institut Galilée (Université Paris XIII) Villetaneuse - France.
+2005 : Maîtrise de physique appliquée : Faculté des Sciences et Techniques de Bamako - Mali
+
+Formations complémentaires
+2025 : Microsoft Power BI.
+2025 : Certified Microsoft Office Specialist : Microsoft Excel Expert (Office 2019) – (TOSA).
+2018 : Certified Scrum Product Owner (CSPO) – XEBIA.
+2014 : Gestion de Projet – le CNAM Paris.
+2013 : Ingénierie des Systèmes Décisionnels – le CNAM Paris.
+2012 : Informatique Décisionnelle - le CNAM Paris.
+2011 : Conception et Administration de Base de Données – le CNAM Paris.
+
+Connaissances informatiques
+Base de données : Oracle, SQL Server, Access, MySQL, PostgreSQL.
+Business Intelligence: Talend, ETL Data Integrator.
+Languages: PL/SQL, SQL, Java/J2EE, XM, HTML, JSP, Javascript, Java Servlets, VBA, CSS, Perl, TTCN3.
+Matériel : Switch, Routeurs.
+Outils: TOAD, SQL Developer, SQL Query Analyser, Hibernate, Talend Open Studio, Eclipse, Quality Center.
+Progiciel : CRM Clarify.
+Réseaux et Télécom : Protocole Ethernet, Protocole FTP, Protocole TCP/IP, VLAN.
+Systèmes: Windows XP, Windows 7, Linux.
+
+Langues
+Français : Bilingue.
+Anglais : Lu, écrit, parlé.
+Arabe : Lu, écrit.
+Peul : Bilingue.
+Bambara : Bilingue.
+
+Intérêts / activités
+Lecture, cinéma, vélo, footing.
+Voyages : Allemagne, Belgique, Espagne, France, Guinée, Grèce, Pays-Bas, Sénégal, Suisse, Mali.
+Membre actif d’une association impliquée dans le développement du Mali.
+Activités informatiques personnelles : Création d'un site de vente aux enchères.

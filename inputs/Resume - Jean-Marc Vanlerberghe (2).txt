@@ -1,0 +1,274 @@
+Voici la traduction en français :
+
+RÉF : UTIGROUP_XXX CONSEIL CIO/CTO, DIRECTEUR DE PROGRAMME, EXPERT PRODUCTION IT & INFRASTRUCTURES, LEADER / COACH TRANSFORMATION IT & AGILE, SAFE SPC & RTE
+DOMAINE D'INTERVENTION Expert en Production IT, conseil CIO/CTO, Gestion de Projets/Programmes & Produits et méthodologies Agile. J'ai géré de larges systèmes IT complexes, des environnements de production et des départements d'infrastructure dans de multiples organisations. Avec plus de 20 ans d'expérience — dont 4 ans à l'étranger — j'ai occupé des rôles de conseil CIO/CTO, de coaching, d'audit et de consultance en production IT, ainsi que la direction de transformations IT et/ou Agile@Scale. Le Leadership, le coaching, la coordination et le soin des personnes sont au cœur de mon approche.
+
+CONNAISSANCES FONCTIONNELLES
+Management Conseil CIO/CTO, Coaching Exécutif/Managérial, gestion régionale et matricielle large et complexe en IT Systèmes d'Information et Infrastructures
+Agilité 2 certifications Agile Coach (ICP-ATF & ICP-ACC), 5 certifications SAFe (SPC 5.1, RTE 5.1, LPM 5.1, Agilist 4.0, PM/PO 4.0), certification Scrum/Kanban Master. Management Conseil CIO/CTO, Coaching Exécutif/Managérial, gestion régionale et matricielle large et complexe en IT Systèmes d'Information et Infrastructures Agilité 2 certifications Agile Coach (ICP-ATF & ICP-ACC), 5 certifications SAFe (SPC 5.1, RTE 5.1, LPM 5.1, Agilist 4.0, PM/PO 4.0), certification Scrum/Kanban Master Gestion du Changement / Projets & Programmes Ceinturon Vert Six-Sigma, Gestion de Programme et de Projet, Cycle de Vie de la Gestion de Projet (PMLC) Run / Production Expert en Production IT, 3 certifications ITIL (Foundation, Service Strategy, Continual Service Improvement), Gestion Lean, méthodologie DevOps Développement et Test Logiciel Cycle de Vie du Développement Logiciel/Système (SDLC), Cycle de Vie du Test Logiciel/Système (STLC), Méthodologie de Test Globale (GTM), Usine de Développement, Développement Dirigé par les Tests (TDD), Artisanat Logiciel (Craftsmanship) Livraison Intégration Continue (CI), Gestion des Changements et des Mises en Production (CMRM)
+
+CONNAISSANCES TECHNIQUES
+Langages: C/C++, Java
+Outils: HP Quality Centre, HP OpenView TeMIP
+Méthodologies: Agile, SAFe, Scrum/Kanban, Waterfall/V-Model, Gestion Lean, DevOps, ITIL, GTM, PMLC, SDLC, STLC
+
+DIPLÔMES
+2005: Diplôme de Master - Cardiff Business School (Gestion Stratégique, Marketing, Droit, Comptabilité)
+2005: Diplôme de Master / d'Ingénieur - Diplômé de l'École Polytechnique Universitaire de Nice/Sophia-Antipolis, anciennement ESSI (Informatique). Dernière année en échange ERASMUS à l'Université de Cardiff (Pays de Galles)
+2002: Diplôme de Licence - Diplômé de l'Université des Sciences de Nice (Informatique et Mathématiques)
+1999: Baccalauréat Scientifique (S), Option Mathématiques
+
+CERTIFICATIONS
+RÉF : UTIGROUP_XXX
+2017: Craftsmanship
+2017: Prise de Décision
+2017: Bitcoin, Révolution Blockchain
+2017: Murex MX.3
+2016: Comprendre les Gens et les Conflits
+2016: Travailler Efficacement au Royaume-Uni
+2015: Managers, Développez vos Talents
+2014: Gérer pour le Succès
+2013: Gestion des Risques
+2012: Communiquer pour Convaincre
+2011: Développement Dirigé par les Tests (TDD)
+2011: Méthodologie de Test Globale (GTM)
+2011: Gestion Lean
+2011: Optimiser votre potentiel - Indicateur de Type Myers Briggs (MBTI)
+2011: Management de Proximité - Index de Management d'Équipe (TMI)
+2011: Usine Logicielle
+2011: Intégration Continue (CI) et Livraison
+2011: Gestion des Changements et des Mises en Production v3.2 (CM/RM)
+2011: Gestion de Projet Avancée/Master
+2010: Moniteur incendie et intervention premiers secours
+2010: Cycle de Vie du Développement Système/Logiciel (SDLC)
+2010: Cycle de Vie de la Gestion de Projet (PMLC)
+2010: Cycle de Vie du Test Système/Logiciel (STLC)
+2007: Trading de Marché et Finance
+2007: QlickView
+2006: HP OpenView TEMIP
+
+LANGUES
+Français: Langue maternelle
+Anglais: Bilingue (4 ans au Royaume-Uni, 3 mois aux États-Unis)
+Italien: Niveau universitaire
+
+EXPÉRIENCES PROFESSIONNELLES
+BNP PARIBAS CORPORATE & INVESTMENT BANKING, Paris (Janvier 2023 - Actuel)
+Conseil CTO/CIO et Transformation d'Infrastructure IT (freelance)
+Contexte/Projets Directeur de Programme du Programme Global TOM pour la production d'infrastructure CIB visant à revoir et renforcer le modèle opérationnel.
+Détail des tâches :
+Rapportant directement au CTO Global et au COS Global
+Évaluation, recommandation et mise en œuvre d'un nouveau modèle opérationnel cible incluant un modèle de support FTS (Follow The Sun), des déplacements d'effectifs nearshore/offshore et une stratégie d'expertise des ressources
+90+ entretiens avec les CIO, CTO et Global Head de tous les domaines IT et Infrastructure
+Création d'enquêtes spécifiques sur les infrastructures avec plus de 130 questions détaillées
+Sessions d'observation ("shadowing") autour de l'ITSM (Gestion des Incidents, Changements et Problèmes) avec les équipes opérationnelles
+Ateliers dédiés avec la direction globale et les opérationnels
+Mise en œuvre du modèle opérationnel cible dans toutes les entités mondiales
+Gestion de Programme mondiale.
+Gestion de plusieurs Chefs de Projet dans tous les Domaines et tous les pays pour mettre en œuvre le nouveau Modèle Opérationnel Cible
+Mise en œuvre du modèle Follow-The-Sun dans tous les Domaines et Équipes dans toutes les régions
+Coaching managérial des niveaux opérationnels aux niveaux de direction supérieure
+
+BNP PARIBAS, Paris (Octobre 2023 - Février 2024)
+Conseil CTO/CIO pour la Production IT du Groupe (freelance)
+Contexte/Projets Création d'un modèle opérationnel cible pour la Tour de Contrôle Globale de la Production IT du Groupe.
+Détail des tâches :
+Évaluation de la situation existante (As-Is) en menant 20 entretiens avec la Direction et les opérationnels
+Ateliers dédiés pour créer une solution globale et des actions
+Missions et objectifs opérationnels de la Tour de Contrôle du Groupe
+Gouvernance formelle avec les autres Tours de Contrôle et les partenaires IT
+Création du nouveau Modèle Opérationnel
+Plan d'actions détaillé et feuille de route
+Mise en œuvre du modèle opérationnel cible
+
+BNP PARIBAS CORPORATE & INVESTMENT BANKING, Paris (Mai - Novembre 2023)
+SAFe Program Consultant (SPC) & Coach Agile - Transformation Cloud (freelance)
+Contexte/Projets Déploiement du cadre SAFe, formation et coaching agile de la direction, de la gestion de programme et des équipes pour le programme stratégique "Move To Cloud" de BNPP CIB.
+Détail des tâches :
+Coaching agile des niveaux de direction et de gestion de programme
+Coaching dédié du Release Train Engineer (RTE)
+Déploiement du cadre SAFe
+Mise en place d'un Train de Release Agile (ART) SAFe
+Animation et facilitation des Planifications de PI SAFe
+Dispenser les formations SAFe (Leading SAFe, SAFe for SM & PM/PO, SAFe for Teams) à tous les membres des Trains
+
+SOCIETE GENERALE CORPORATE & INVESTMENT BANKING, Paris (Mars - Décembre 2022)
+SAFe Program Consultant (SPC) / Coach Agile (freelance)
+Contexte/Projets Déploiement du cadre SAFe, formations et coaching agile de la direction, de la gestion de programme et des équipes au sein d'une Tribe.
+Détail des tâches :
+Coaching agile des niveaux de direction et de gestion de programme
+Coaching dédié du Release Train Engineer (RTE)
+Déploiement du cadre SAFe au sein de la Tribe
+Mise en place d'un Train de Release Agile (ART) SAFe de plus de 120 personnes à terme (Eliot Next)
+Animation et facilitation des Planifications de PI SAFe
+Dispenser les formations SAFe (Leading SAFe, SAFe for SM & PM/PO, SAFe for Teams) à tous les membres des Trains
+
+MERITIS, Sophia Antipolis (2021 - 2022)
+Directeur de la Pratique Agile
+Contexte/Projets Membre du Conseil d'Administration du groupe et rapportant directement au CEO de l'entreprise,
+Détail des tâches :
+Leader de la Transformation Agile
+Directeur de l'Offre Agile
+Responsable du Centre de Compétences Agile : 10 coachs, 50 SM et PO
+Coordinateur de la Communauté de Pratiques Agile : 150+ personnes
+
+GSF, Sophia Antipolis (2019 - 2021)
+Leader de la Transformation Agile
+Contexte/Projets Transformation Agile complète de l'organisation IT et de tous les départements pour déployer l'agilité avec une équipe de coachs que je coordonnais et manageais.
+Détail des tâches :
+Transformation de l'organisation IT (150+ personnes) d'un modèle technique à un modèle produit basé sur des équipes produit orientées fonctionnalités et des tribes de support transversales, en s'appuyant sur le cadre SAFe et le modèle Spotify
+Coach d'Entreprise pour le management de l'organisation IT
+Coach Principal de l'équipe de Coachs, Scrum Masters et PMO Agile
+Mise en place du plan de formation pour l'ensemble du département IT
+Plan de recrutement : architectes applicatifs et UX/UI, architecte d'entreprise, RSSI, Product Owner, Scrum Master
+Déploiement d'une Gestion Lean Agile du Budget et du Portefeuille
+Mise en place d'une Planification Distribuée (Remote Release/PI Planning) adaptée au contexte du client mais basée sur les cadres SAFe et LeSS
+Création de plusieurs communautés pour partager les connaissances et les meilleures pratiques
+Déploiement d'une Intégration Continue mixant les mises en production ITIL, DevOps et la méthodologie Agile
+
+ASTEK, Sophia Antipolis (2017 - 2019)
+Directeur IT Agile
+Contexte/Projets En tant que membre du Conseil d'Administration du groupe et rapportant directement au Directeur des Opérations groupe à Paris, je manageais toute la région Sud-Est de la France en duo avec le Directeur des Opérations.
+De plus, je supervisais le déploiement de l'Agilité au sein des départements IT des clients en m'appuyant sur les méthodologies SAFe et Scrum/Kanban.
+Détail des tâches :
+Responsable de la Livraison (Delivery Manager) :
+Gestion globale du Centre de Livraison/Service Agile pour Amadeus dans les locaux d'Astek
+Gestion globale de toutes les ATG (Assistance Technique Groupée) ou TMA (Tierce Maintenance Applicative) dans les locaux d'Air France
+En charge d'un budget d'environ 17 millions d'Euros et 37500 hommes-jours
+Management direct de 4 Directeurs de Projet/Chefs de Projet Seniors, qui managent 20 Chefs de Projet/Scrum Masters et leurs équipes (jusqu'à 170+ personnes)
+Gestion des carrières du personnel, évolution, salaires, contrat avec l'équipe RH.
+Massification et externalisation des ressources en Régie (Time & Materials) travaillant chez tous les clients dans le Centre de Livraison/Service d'Astek en méthodologies Agile
+Coaching, audit et consultance pour déployer l'Agilité à l'échelle (Agility@Scale) au sein des départements IT et des équipes de développement
+Mise en place de contrats Agiles :
+Durée de 3 à 6 sprints maximum et 2-3 semaines chacun
+Engagement basé sur les points d'histoire planifiés/engagés à être livrés par les équipes de développement Agile lors de la Planification de l'Increment de Programme (PI) SAFe avec les équipes clientes
+Facturation des points d'histoire livrés suivant la Definition Of Done (DoD) convenue avec les deux parties, incluant un système de bonus/malus selon le nombre de points d'histoire livrés
+Coach Agile :
+déploiement des méthodologies Agile au sein des équipes de développement mais aussi de management/commerciales
+
+AIR FRANCE, Sophia Antipolis (2018 - 2019)
+SAFe Program Consultant (SPC) / Coach Agile
+Contexte/Projets Coaching et déploiement d'un Train de Release Agile (SAFe ART).
+Détail des tâches :
+Transformation d'une grande équipe de développement travaillant en Cycle en V (Waterfall) en deux équipes Scrum en méthodologie Agile SAFe
+Coaching de deux équipes de développement
+Participation et facilitation de la Planification des PI
+Conseils et coaching au RTE du programme
+
+AMADEUS, Sophia Antipolis (2017 - 2019)
+Directeur de Projet Senior
+Contexte/Projets Management direct et étroit d'un service complexe et stratégique d'Amadeus basé sur la Livraison ("Delivery Based Services").
+Détail des tâches :
+Management direct d'un Directeur de Projet et de Chefs de Projet/Scrum Masters et leurs équipes (jusqu'à 50+ personnes)
+Suivi étroit et monitoring pour améliorer la satisfaction client ainsi que la marge
+Restructuration des effectifs, plans de formation, recrutements clés
+Méthodologies de management :
+Management de bienveillance : Comprendre et créer des organisations attentionnées et bienveillantes.
+Great Place To Work : Motiver le personnel et l'unifier en une seule équipe, en déployant des activités de team building, des auto-évaluations d'équipe, des sessions de discussion ouvertes, en supprimant les facteurs irritants, le travail flexible et à domicile....
+Reporting des KPIs de haut niveau aux CIOs Amadeus lors des Comités de Pilotage Stratégiques trimestriels
+
+MUREX, Paris (2017 - )
+Release Train Engineer (RTE) SAFe
+Contexte/Projets Rapportant directement au CIO, je manageais de larges programmes de développement pluriannuels complexes dans un environnement véritablement Agile, en m'appuyant fortement sur le Cadre Agile À l'Échelle (SAFe) pour piloter la livraison Agile à l'échelle, équilibrant Gestion de Programme, Coaching Agile et leadership transformationnel dans l'objectif de supporter et gérer les équipes Agile pour construire et livrer des solutions et de la valeur plus efficacement.
+Détail des tâches :
+Management jusqu'à 15 équipes Agile (120+ personnes)
+Scrum Master de Programme / Release Train Engineer (RTE) du Train de Release Agile (ART) :
+Déploiement du Cadre Agile À l'Échelle (SAFe v4.0) au sein de tout le département et des équipes de développement Agile
+Réunion de "Scrum of Scrums" bi-hebdomadaire, Increment de Programme (PI), événement de Planification des PI récurrent de 2 jours bi-mensuel
+Rapporter à la Direction Générale un état et une progression sur l'exécution
+Déploiement du Cycle de Vie du Développement (DLC), de l'Usine de Développement, du Développement Dirigé par les Tests (TDD), de l'Artisanat Logiciel (Craftsmanship), de l'Intégration Continue (CI) sur toutes les Équipes Agile du Train
+Gérer et livrer les Innovations Stratégiques dans les délais et selon les standards de qualité
+Initialiser et maintenir une boîte à outils de Gestion de Projet/Programme avec la gouvernance, les outils et les processus recommandés
+Déployer et évangéliser cette boîte à outils de Gestion de Projet/Programme au sein de la Division Produit
+Développer l'expertise en Gestion de Projet/Programme par la capitalisation sur les expériences passées
+
+SOCIETE GENERALE, Londres (2013 - 2016)
+Responsable Régional EMEA
+Contexte/Projets Responsable EMEA de la Gestion des Comptes Régionaux Membre permanent du Comité Exécutif UK et EMEA des Infrastructures IT du groupe, je rapportais directement au CTO Régional EMEA. J'ai géré un RC/Département EMEA de 35 ressources réparties dans la région EMEA composé de 6 équipes de Responsables de Comptes, Chefs de Projet & Programme, PMO et Responsables de Service à Londres, Jersey, Luxembourg, Zurich, Munich et Milan. J'étais le Responsable EMEA de 4 périmètres : la qualité, la stabilité et le reporting de la production, les portefeuilles globaux et les enveloppes de projets et programmes, les relations clients avec toutes les lignes métier, le développement d'applications internes.
+Détail des tâches :
+Management & Ressources Humaines :
+Gestion des capacités et des effectifs pour le UK et l'EMEA
+Évolution des carrières du personnel et plans de formation avec l'équipe RH
+Budget Opérationnel : gestion des salaires et de l'enveloppe de bonus par département
+Gestion des Comptes Régionaux :
+Gérer la relation client avec les COO, CEO et CIO de chaque ligne métier (Investment Banking, Private Banking, Securities Services, Equity Finance, ...)
+Gestion / Accord de Niveau de Service entre l'IT et les Clients internes ou les Régulateurs (SLA / SLM)
+Opérations et Monitoring :
+Propriétaire de la cohérence des outils et processus ITIL, de la qualité des services et de la stratégie du Système d'Information du groupe, astreinte 24/7, escalade d'incidents et gestion de crise, catalogues de services, cycle de vie des processus
+Responsable des activités IPCM (Gestion des Incidents, Problèmes et Changements)
+Gérer toutes les opérations d'infrastructure IT et de middleware.
+4000 changements par an
+Gestion du Budget, des Projets/Programmes et des Portefeuilles :
+Gestion du budget EMEA : 18 millions d'Euros et 20000 hommes-jours
+Gérer les Portefeuilles et Enveloppes de tous les Projets et Programmes Internes et Clients (150 Projets et Programmes)
+
+SOCIETE GENERALE CORPORATE & INVESTMENT BANKING, Paris (2006 - 2013)
+Manager Senior (2012 – 2013)
+Contexte/Projets Responsable d'Application et Directeur de Projet pour la livraison de 10 projets et la gestion de la production dans une Application Front utilisée par les Traders pour créer des produits exotiques complexes.
+Détail des tâches :
+Chef d'équipe de 20 ressources (Développeurs, Ops et Business Analysts)
+Gestion des capacités, évolution des carrières du personnel et plans de formation
+En charge du budget et du portefeuille de l'application de trading pour un total de 4000 hommes-jours et 3.5 millions d'Euros
+Déploiement d'une Usine de Développement et de l'Intégration Continue (CI)
+En charge du Support de Production Niveau 3 de l'application
+
+SOCIETE GENERALE CORPORATE & INVESTMENT BANKING, Paris (2006 - 2013)
+Coordinateur Global des Mises en Production (Release Coordinator) (2011 – 2012)
+Contexte/Projets En charge de la disponibilité des environnements de test, responsable de la qualité du code livré en production. Coordination des campagnes de tests de non-régression globales pour l'ensemble des chaînes applicatives Front-To-Back.
+Détail des tâches :
+Chef d'équipe de 5 ressources : 2 Release Managers, 4 Analystes Qualité, 2 Pré-Production
+Méthodologies Lean Management et DevOps
+Validation des mises en production et de la qualité des tests dans HP Quality Centre : 3500 hommes-jours de développement livrés par an
+Réunion Go/No-Go mondiale et Comité Consultatif/Revue des Mises en Production/Changements Global (RRB / CRB / CAB)
+Livraisons en production, Reporting, Post-Mortem, Revue Post-Mise en œuvre, Rétrospective
+Certification de l'application : Gestion des Changements et des Mises en Production (CM/RM) et Méthodologie de Test Globale (GTM)
+
+SOCIETE GENERALE CORPORATE & INVESTMENT BANKING, Paris (2006 - 2013)
+Scrum Master / Chef de Projet (2009 – 2011)
+Contexte/Projets En charge de la transformation agile des équipes de développement et de ses projets en cycle en V (waterfall).
+Détail des tâches :
+Gestion de Projet Agile (Scrum/Kanban Master) et Cycle en V/Waterfall
+Utilisation des standards/méthodes GTM/PMLC/SDLC
+Définition et suivi des User Stories, vélocité, backlog, sprints, ...
+Mise en place de Daily Stand-up Meeting, Coding Dojo et Pair-programming, Poker planning
+Études fonctionnelles, études de coûts, planification, réunion client hebdomadaire / réunion sponsor mensuelle, reporting
+
+SOCIETE GENERALE CORPORATE & INVESTMENT BANKING, Paris (2006 - 2013)
+Responsable du Support Applicatif (2007 – 2009)
+Contexte/Projets Chef d'une équipe de support fonctionnel et technique pour les applications Front-To-Back (niveau 1 et 2). Équipe de 7 ressources
+Détail des tâches :
+CRM : Gérer la relation entre les clients internes et les équipes de développement des Systèmes d'Information
+Créer et maintenir un Accord de Niveau de Service (SLA)
+Coordinateur ITEC Global pour le processus de Fin de Mois (EOM)
+Création du support Follow The Sun (FTS) : Suivi des incidents 24/7 mondial
+
+SOCIETE GENERALE CORPORATE & INVESTMENT BANKING, Paris (2006 - 2013)
+Support fonctionnel et technique (2006 – 2007)
+Contexte/Projets Support technique et fonctionnel (niveau 1 et 2) pour les applications Front-To-Back.
+Détail des tâches :
+Application principale pour les opérations de Banque d'Investissement, l'alimentation du Back Office et les réconciliations.
+Référentiel pour l'ouverture, la clôture et les prix de marché internes intrajournaliers
+Extractions SQL complexes des opérations et positions pour inspection et audit lors de l'affaire Kerviel : Scripts Shell pour industrialiser et automatiser les processus de support
+
+HEWLETT PACKARD, Sophia Antipolis (2005 - 2006)
+Développeur C/C++ et Java
+Contexte/Projets Projet visant à fusionner les technologies Hewlett Packard et NNM.
+Détail des tâches :
+Relation client avec SFR, Alcatel, Siemens, Nokia
+Spécifications fonctionnelles et techniques
+Développement de modules HP OpenView TeMIP (Telecommunications Management Information Platform)
+Tests de non-régression et unitaires
+Livraison et déploiement sur site client
+
+BRITISH TELECOM, Cardiff (2004 - 2005)
+Développeur Java
+Contexte/Projets Stage en alternance deux jours par semaine et pendant toutes les vacances
+Détail des tâches :
+Développeur d'interfaces utilisateur graphiques.
+Proof Of Concept (POC) pour intégrer les appels vidéo dans de nouveaux services pour les clients
+
+IT-FINANCE / PRO-REAL-TIME, Nice (2004 - )
+Développeur Java
+Détail des tâches :
+Développeur de produits graphiques utilisateur et financiers sur une plateforme boursière pour Boursorama
+Création de nouveaux indicateurs d'analyse technique, configuration des outils créés et de la base de données

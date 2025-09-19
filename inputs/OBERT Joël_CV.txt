@@ -1,0 +1,348 @@
+JOELOBERT
+Informations Personnelles
+Joel-obert@netcourrier.com
+0616164602
+71, rue Etienne Dolet
+94140 Alfortville
+JoëlObert
+
+Profil
+J’ai 34 ans d'expérience en informatisation de besoins métiers Micro Windows et Mainframe IBM Z/OS.
+Mon expertise en Conception-Réalisation d’applications et d’Outils spécifiques
+ERPs/SI et Analyse de données
+ne peut qu’améliorer les tâches des services métiers qui me seront attribués.
+
+Qualités
+Autonome
+Rigoureux
+Réactif
+Esprit d’équipe
+Force de proposition
+Autodidacte
+
+Compétences par Mission
+Algorithmes Avancés
+Projets:Nouveaux,Evolutions,Suivi
+Documentation, Manuels
+Méthode Agile
+Ms-Excel,Ms-Access,VBA,PowerQuery,PowerPivot,M,DAX
+PowerBI, Python
+IBM Z/OS,Cobol,DB2,Jcl,Rexx
+Analyse-Adaptation-Transformation de données (ETL)
+Interfaces Hommes / Machines
+Etats/Tableaux de Bord/KPIs
+MsAccess SQL, Oracle PL-SQL,Ms-SqlServer T-SQL
+Scripting Windows
+Formations Utilisateurs
+Assistance Utilisateurs,Incidents
+Suivi Production
+Automatisation Tâches
+Besoins Metiers:Recueil,Analyse,Charges,Planning,Rédaction
+Etude,Dev,Tests,Livraison
+Communication Inter-Logiciels-Os
+Manuels, Documentations, Formations, et Méthode Agile.
+Documentations.
+Injection-Extraction-Contrôle Données en Masse
+
+Années d’expérience par Technologie
+Ms-Excel,Ms-Access,VBA,PowerQuery,PowerPivot,M,DAX
+Ms-Access SQL, Oracle PL-SQL,Ms-SqlServer T-SQL.
+PowerBI,Python
+IBM Z/OS,Cobol,DB2,Jcl,Rexx
+VB6
+
+Langues
+Français (Natif)
+Anglais lu, parlé
+Anglais Technique
+
+Outils Annexes
+Ms-Word, Ms-Powerpoint, Ms-Excel
+Ms-Outlook, Ms-Teams
+Jira,Itsm,Ficanaf
+
+Méthodes par Mission
+V2025G1
+
+Permis B
+
+Formations avec diplômes
+1889-Diplôme Universitaire d’informatique
+en Base de données, Télématique et
+Communications,Université de Picardie, Amiens (Somme)
+2016-2019 : Mainframe IBM Z/OS, Cobol, DB2
+2022-PowerBIet Python
+2020-Ms-Excel Power-Query,Powershell,AdministrationSqlServer.
+2012-Ms-Excel, VBA
+2011–MsSql-Server / T-SQL
+2007-VB6, Administration Oracle
+2005-Mainframe REXX
+1999-Oracle PL/SQL
+1998-Mainframe IBM Z/OS, Cobol, DB2, JCL
+1992-ScriptingMs-Dos, Ms-Access, VBA
+Auto-Formations
+en missions
+Rafraichissements enmissions
+
+EXPERIENCE PROFESSIONNELLE COMPLETE MICRO / MAINFRAME
+STIME
+Secteur Assurance
+Analyste Développeur
+Ms-Access / VBA
+Décembre 2022–Août 2023(9 mois), TMA ESN
+Outil de gestion des Evolutions de la suite commerciale.
+Environnement
+: Windows 10, Ms-Access 2019/VBA
+Manuels, Documentations, Formations, et Méthode Agile.
+Outils Métiers :
+Prise en charge des demandes multi-Services(Nouveaux Projets, Evolutions, Maintenances Correctives)
+Analyse des spécifications fonctionnelles, Réalisation, Livraisons.
+GENERALI
+Secteur Assurance
+Analyste Développeur
+Ms-Access / VBA
+Février 2020–Octobre 2022(2 ans et 8 mois), Mission ESN
+Création d’un ETL Données pour leReportingFrance.
+Création d’un Outil de contrôle d’arrivée defluxsBNP.
+Environnement
+: Ms-Excel-PowerQuery/PowerPivot/Ms-Access/VBA,PowerBI, Python 3.9, Scripts batchPowershell
+Serveur,Windows APIs, Ms-Office 365 32/64 bits,Ms SQL-Server 2010-2019/ManagementStudio 18, Oracle DB 11g/SQL Developer 20.2
+Documentations.
+Outils Métiers :
+BNP
+Secteur Banque
+Analyste Concepteur Expert
+Ms-Access / Ms-Excel / VBA
+Mainframe Z/OS
+Mars 2024–Avril 2024(2 mois), CDD
+Facturation Bonus points de vente, Gestion des articles,Gestion des promotions,ou des thèmes ponctuels comme Noël.
+Environnement
+: Windows 11, Ms-Excel 365/VBA
+Documentations et Méthode Agile.
+Outils Métiers :
+Recueil/Analyse des besoins, Réalisations, Mise au point, Livraisons.
+GENERALI
+Groupe des Mousquetaires
+Secteur Grande Distribution
+Ingénieur Etudes et Développement Senior
+Ms-Excel / Ms-Access / VBA
+Février 2016–Juin 2016(5 mois), TMA ESN
+Nouvel Applicatif Générateur de Reports avec paramétrage
+multi-Profils Utilisateurs (Analyse de données, Reports et
+Tableaux Croisés dynamiques avec des vues différentes).
+Environnement
+: Windows 7, Office 2010-2016-VBA (Excel, Access),Interface VBA/Mainframe, IBM Réflection,PSE (Puits de données, gestionnaire de flux),Format Json, Mainframe IBM Z/OS, Cobol,Jcl, DB2.
+Evolutions en TMA.
+Etats, Tableaux de bord, Analyse, Adaptation et Transformation de données
+Outils Métiers :
+GENERALI
+Groupe des Mousquetaires
+Secteur Grande Distribution
+Ingénieur Etudes et développement Senior
+Ms-Excel / Ms-Access / VBA
+Juillet 2016–Décembre 2019(3 ans et 6 mois), Mission ESN
+Gestion des rejets (intégrations et pilotage).
+Environnement
+: Windows 7, Ms-Access 2010 / VBA
+Evolutions en TMA.
+Analyse des besoins, Réalisations, Mise au point, Livraisons.
+Etats, Tableaux de bord, Analyse, Adaptation et Transformation de données.
+Outils Métiers :
+COURS LEGENDRE
+Secteur Soutien scolaire
+Responsable Applicatifs
+VB6 / Oracle
+Avril 2015–Janvier 2016(10 mois), Mission ESN
+Création/Evolution outils divers comptables
+:Cours à domicile, Cours et livres de vacances, Stages et
+Garde enfants, Suivi des Prospects / Clients / Elèves, Inscriptions,
+Planification des professeurs et cours,
+Suivi des paiements, Pont
+comptable, Sites Espace Professeurs et Mandat électronique
+Environnement
+: Windows, Pc Portables, VB6, Sql server,Visual SourceSafe
+Réalisation des spécifications Fonctionnelles et Techniques
+Formations, Suivi opérationnel
+Etats, Tableaux de bord, Analyse, Adaptation et Transformation de données.
+SFR
+Secteur Télécommunications
+Analyste Développeur
+Ms-Access / Ms-Excel / VBA
+Janvier 2012-Mai 2012:(5 mois), Mission ESN
+Fiabilisation des données
+: Windows, Ms-Access /Ms-Excel / VBA,VB.net, Outil d’urbanisation MEGA, Lotus Notes
+Tests de non régression et d’intégration,
+Comparaison / Consolidation de métaclasses entre bases
+Outils Métiers
+Analyse, Proposition, Réalisation de solutions techniques, Méthode Agile.
+Interfaçage/Transformation/Exploitation d’informations
+Automatisation d’outils
+Débogage Recette fonctionnelle et recette technique,
+Tâches Base de données et Méthode Agile.
+GENERALI
+Secteur Assurance
+Analyste Développeur Expert
+VB6
+Juin 2012–Décembre 2014(2 ans et 5 mois) , Mission ESN
+:Outil de Gestion du Personnel.
+Environnement
+: Windows, Ms-Access, Ms-Excel, VBA
+Extraction d’informations
+Tâches Administrateur Base de données
+Résolution Incidents de production
+BANQUE POSTALE
+Secteur Banque
+Analyste Développeur Confirmé
+Ms-Access / Ms-Excel / VBA
+Administrateur Urbanisation SI
+Janvier 2011-Décembre 2011(1 an), Mission ESN
+: Mouvements comptables, Anomalies, SolvencyII,
+Etats Réglementaires.
+Environnement
+: Windows 7, VBA (Excel, Access), SRA(R2vision), Lua,Mainframe IBM Z/OS, Cobol, DB2, SAI,Rexx
+Etats, Tableaux de bord, Analyse, Adaptation et Transformation de données
+Outils Métiers
+GMF
+Secteur Assurance
+Analyste Concepteur
+Ms-Access / VBA, Mainframe Z/OS
+Décembre 2007-Décembre 2010(3 ans et 1 mois), CDI
+:Urbanisation du système d’informations.
+Environnement
+: Windows, VB6, Oracle 8i et 11g, Transactions Bancaires
+Sécurisées Paybox, Apache, Html, Php,Css, Crystal reports
+Tests de non régression et d’intégration,
+Réalisation spécifications Fonctionnelles et Techniques détaillées,
+Modifications/Evolutions Fonctionnelles
+Reprise et stabilisation des applications existantes
+Evolution et maintenance applicative,
+Tâches Base de données
+Outils Métiers
+Evolution et maintenance applicative,
+Mise en place système paiement carte bancaire sécurisé
+Développements et Tests unitaires,
+Développements et Tests unitaires,
+LYONNAISE DES EAUX
+Secteur Fournisseur Eau
+Ing. Etudes & Développements
+Mainframe Cobol, Ms-Access
+Mai 2004-Mars 2005(11 mois), Mission ESN
+: Compteurs/Qualité d’eau, Gestion Commerciale &
+Production, Suivi Client. Outil de suivi de la maintenance.
+Environnement
+: Cobol, DB2, NCR/Teradata, Mvs, Tso, Control-M, Opc,Endevor, Rexx, Ms-Access/VBA, Odbc DB2,OdbcTeradata
+Création d’outils mainframe/micro d’aide au projet pour les intervenants
+Outils Métiers
+CREDIT LYONNAIS
+Secteur Banque
+Analyste Développeur
+Mainframe, Cobol, DB2
+Mai 2005-Mars 2006(11 mois), Mission ESN
+: Transactions cartes bancaires, Fraude/Sécurité,Successions, Reporting d’opérations, Crédit, Pilotage Logistique, Change.
+Environnement
+: IBM et NCR, Unix, Cobol, Jcl, Vsam, Vse
+Ms-Access, VBA.
+Etude et Analyse des besoins
+Assistance Recette/Production/Intégration
+Outils Métiers
+Automatisation de tâches périodiques
+Outils Métiers
+Veille opérationnelle des applications
+SNCF FRET
+Secteur Transport Ferroviaire
+Ing. Etudes & Développements
+Mainframe, Cobol, DB2
+l2001-Mars 2004(3 ans), Mission ESN
+: Gares, Marchandises, Trains, Trafics, Taxes, Echange
+Environnement
+: IBM Z/OS, Cobol, DB2, Mvs, Tso,Rexx.
+Analyse des besoins par application
+Organisation des développements et tests unitaires
+Développement avec Vérification des normes SNCF
+BRED
+Secteur Production Optiques
+Support Fonctionnel
+Juillet 2007-Novembre 2007(5 mois), CDD
+: Unix HP, Oracle, Cobol (Batch), Delphi (TP Windows)
+Assistance téléphonique, Veille Fonctionnelle
+Outils Métiers
+ICP / ESSILOR
+Secteur Banque
+Ing. Etudes & Développements
+Ms-Access / VBA
+Avril 2006-Mars 2007(1 an), Mission ESN
+: Tiers/Comptes, Trade processing, Flux/Moyens de
+paiement, Produits/Services, Risques.
+Environnement
+: Ms-Access, VBA, Oracle
+IBM /
+Analyse du temps de charge d’une évolution
+Assistance fonctionnelle aux utilisateurs (anglais-français)
+TECNILOG
+EDF-GDF
+Secteur Fournisseur Eléctricité
+Ing. Etude & Développement
+Delphi / Oracle
+Janvier 1998-Décembre 1998(1 an), Mission ESN
+: Flux financiers internationaux
+Environnement
+: Cobol, Db2, IMS, Mvs, Tso
+FRAMIMEX
+Secteur Recyclage Textile
+Analyste Concepteur-Réalisateur
+Ms-Access / VBA
+Janvier 1999-Mars 1999(3 mois), Mission ESN
+: Commercial/Production, Pointage du Personnel
+Environnement
+: Ms-Access, Vba, Scripting Interscan PowWow, Outil de
+Pesées, Organes Fixes et Mobiles de Lecture code à barre Interscan.
+Elaboration cahier des charges, Etude, Maquettage
+Documentation technique
+Outils Métiers
+Relation Fournisseurs pour Matériel/Logiciel
+BNP PARIBAS
+Secteur Banque
+Ing. Etude & Développement
+IBM Z/OS Cobol / DB2
+Avril 1999-Février 2001(1 an et 11 mois) , CDD
+: Construction de Fours et Appareils Réfrigérés pour Boulangeries
+Industrielles, Construction de Flux laminaires, Revendeurs d’outillage,
+Chaudronneries/Tôleries, Médecines du Travail, Expertise-Comptable,
+Avocats, Transports Routiers, Géomètres.
+Interfaçage de l’outil de production avec Paie et Gestion commerciale
+Sage
+Outils Métiers
+Documentation technique
+Outils Métiers
+Migration Gestion Production Mainframe->Micro-PC
+Développements de programmes spécifiques
+Secteur Editeur logiciels
+Responsable d’Applications
+Ms-Access / VBA / VB4 / Clipper/Dbase
+Janvier 1990–Décembre 1997(8 ans), CDI
+: Prospects/Clients, Tarifs, Facturation, Achats, Stocks,
+Produits Reporting/Statistiques, Nomenclatures, Planning charges, Qualité,
+Temps passés,Aide calcul, Relation Clients/Routiers, Visites médicales/Rapports.
+Environnement
+: Dos, Windows, Ms-Office, NT, Novell, Clipper, Ms-Access,
+VBA, VB4, Sql-Sever, Comptabilité/Paie SYBEL ou SAARI.
+Secteurs
+Prise en charge maintenance corrective/informative en production
+venant hot-line
+Veille Fonctionnelle et Technologique
+Tests unitaires
+Développement de logiciels spécifiques métiers
+Analyse, Développement, Installation, Formation
+Formation, Assistance téléphonique
+Etats, Tableaux de bord, Analyse, Adaptation et Transformation de données
+Outils Métiers
+Mise en place d’un système code à Barre
+: Gestion de Tourets
+Environnement
+: Delphi, Oracle, Windows
+Instauration des règles d’exploitation
+Tests/Mise au Point des éléments migrés
+Adaptation de l’interface applicatif / système d’information
+Propositions de solutions fonctionnelles et techniques
+Prise en charge des développements de modules du Projet
+Tests unitaires

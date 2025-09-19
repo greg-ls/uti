@@ -1,0 +1,106 @@
+
+Poste recherché
+
+Business Analyste Paiements, Compliance, AML KYC/Sanctions-Embargos  
+
+Profil
+Experte en Finance | Conformité et Business Analyst | +10 ans d'expériences professionnelles | Solide formation bancaire | Capacité d'apprentissage rapide | Esprit d'équipe et autonomie | Compétences en Compliance, AML/KYC, et stratégie financière | Orientée résultats et rigueur.  
+  
+
+Connaissances fonctionnelles  
+Management formation d’équipes  
+Professionnelle, rigoureuse, impliquée  
+Bonne gestion du stress, bonne capacité d’adaptation / Esprit d’équipe  
+Stratégie et sécurité financière / LCB-FT / KYC  
+Monétique (CB, TPE, E-banking, PSP)  
+Paiements SWIFT / SEPA PAIEMENTS INSTANTANÉS, PAYLIB  
+Gestion de projets IT  
+Curiosité  
+
+Langues  
+- Français (langue maternelle)  
+- Anglais (courant)  
+- Allemand (intermédiaire)  
+
+
+Expériences Professionnelles  
+
+SENIOR BUSINESS ANALYST/SUPPORT IT  
+Business Analyst Conformité, Sanctions/Embargos  
+Février 2018 - À aujourd'hui  
+ABN AMRO, Paris  
+- Traduction des besoins fonctionnels LCB-FT en besoins IT  
+- Rédaction et validation des User stories  
+- Définition de la stratégie de recette et Réalisation des tests  
+- Extraction et analyse des données LCB-FT  
+- Contribution à la mise en œuvre des solutions pour transformer les modes opératoires processus et IT  
+- Suivi des indicateurs opérationnels de bonne mise en œuvre du projet (coût, qualité, délai, satisfaction client)  
+- Organisation à l'issue du projet d'un retour sur expérience et contribution à l'amélioration des démarches processus et outils  
+- S'informer des dernières tendances émergentes dans les métiers de filtrage et de veille réglementaire  
+- Implémentation et Maj Fircosoft/Actimize  
+- Filtrage des transactions selon les listes de sanctions-Embargos  
+- Suivi et Analyse des alertes Fircosoft et Tracfin  
+- Analyse du risque de Conformité et mise à jour de la documentation  
+- Revue périodique KYC des comptes existants et politiques de contrôle bancaire examinés et approuvés  
+- Surveillance des comptes clients afin d'enquêter sur l'évasion fiscale  
+- Vérification des procédures, pratiques et documents pour cerner les failles possibles  
+- Déclaration des comptes aux autorités compétentes pour le reporting FATCA et LCB/FT  
+- Réalisation des contrôles de 1er et 2ème niveau sur les différents thèmes (chèques, activités de correspondances bancaires, gel des avoirs, PPE)  
+- Participation à la mise en œuvre de la réglementation en matière de LCB-FT et de respect des Sanctions / Embargos dans le dispositif interne (politiques et procédures, modus operandi…)  
+- Conseils et formations aux lignes métiers sur les sujets LCB-FT et Embargos  
+- Participation à la réalisation de reportings ou rapports (quotidien, hebdomadaire, mensuel, trimestriel…) à destination du siège ou des autorités de tutelle  
+- Formation des employés sur les pratiques et les exigences réglementaires actuelles et nouvelles  
+- Coordination d'une équipe de 07 personnes  
+
+Environnement technique 
+- Méthodologie: Agile  
+- ALM/QC, Jira, Actimize, Fircosoft, Tracfin, Pack office, World Check, Oméga, T24  
+- Conformité, LCB-FT, KYC, Sanctions/Embargos
+
+BUSINESS ANALYST, Monétique/Paiements SWIFT/SEPA, T2S  
+Février 2010 - Décembre 2017  
+TRAVELEX, Paris  
+- Recueil de besoins utilisateurs  
+- Rédaction et validation des User Stories  
+- Migration du nouveau Core banking  
+- Organisation et animation des workshops avec les différentes équipes métiers et IT  
+- Coordination des différentes équipes métiers et IT  
+- Conception et Exécution des cas de Tests  
+- Définition et mise en œuvre des correctifs nécessaires à la résolution des différents incidents  
+- Support technico-fonctionnel  
+- Assistance et rédaction du manuel utilisateur  
+- Gestion de la conduite du changement : organisation des sessions de formation des utilisateurs  
+- Reporting d'activité auprès du chef de projet (avancement, problèmes techniques, retours clients), participation aux comités de pilotage, rédaction de rapports  
+- Animation des ateliers fonctionnels et recueil des expériences, estimation des charges et des ressources nécessaires si besoin  
+
+Environnement techniques 
+- Méthodologies: Cycle en V et Agile  
+- ALM, JIRA, Pack-Office, Core-Banking, divers progiciels internes, Avaloq  
+- Paiements SWIFT/SEPA, Monétique (CB, TPE, E-banking, PSP)  
+
+ANALYSTE DE CRÉDIT  
+Juillet 2005 - Décembre 2009  
+PSA FINANCE, Paris  
+- Conseils, analyses et études pour la gestion des dossiers de financement des clients PSA  
+- Mise en place et gestion des dossiers de financement en assurant l'étude de solvabilité et du taux d'endettement  
+- Accompagnement des clients tout au long du processus de financement en leur offrant des conseils personnalisés  
+- Évaluation des demandes de crédit des clients en analysant leurs ressources et antécédents financiers pour déterminer leur recevabilité  
+- Gestion des dossiers de crédit comportant des impayés en identifiant les causes et évaluant les risques pour l'organisme bancaire  
+- Mise en place d'un système d'alertes et d'une procédure pour gérer les incidents  
+- Utilisation des données telles que le ratio d'endettement, la situation professionnelle et la conjoncture économique pour calculer et analyser le risque associé aux clients  
+- Rédaction des rapports à la direction proposant des améliorations des produits et services offerts aux clients ainsi que des ajustements de la stratégie commerciale  
+- Veille informationnelle pour suivre l'évolution du marché et les produits concurrents  
+- Gestion des tâches administratives telles que la saisie des données, le classement, l'archivage, la numérisation des documents, ainsi que la rédaction de compte rendus de réunion  
+- Fichage/Défichage auprès de la BDF  
+
+  
+
+
+Environnement technique  
+- MVS, Pack-office  
+- Crédit auto LOA/LLD  
+
+Diplômes et formations  
+- Master 2 Banque / Finances  
+Septembre 2022 - À aujourd'hui  
+Université Paris Nord

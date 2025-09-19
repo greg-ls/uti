@@ -1,0 +1,91 @@
+
+Azure Data Engineer
+Certifié DP-203, DP-600, PL-300, DP-900, AZ-900, AI-900
+
+Profil
+Ingénieur de données certifié et expérimenté sur Azure, avec six ans d’expérience dans divers secteurs, notamment les télécoms, la santé, le BTP et le secteur humanitaire. Mon expertise couvre la conception, le déploiement, la maintenance et la migration de plateformes data performantes sur Azure, permettant aux clients d’exploiter efficacement leurs données grâce à une maîtrise complète de la chaîne data (Azure Data Lake, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Azure SQL, SQL Server, Analysis Services, Power BI).
+
+J’ai eu l’opportunité de collaborer avec des acteurs majeurs tels qu’Orange, Unicef et Colas sur la mise en place de solutions data et BI sur Azure, afin de renforcer l’analyse métier, fiabiliser les indicateurs clés et soutenir la performance décisionnelle.
+
+Mon objectif : transformer vos données en leviers concrets pour guider vos décisions et créer de la valeur.
+Je suis ouvert à des opportunités en freelance ou en CDI. N'hésitez pas à me contacter pour en discuter.
+
+
+EXPÉRIENCES :
+Projet 1 : Analyse en temps réel de la production photovoltaïque
+
+Client : Colas (Via Decilia) | Secteur : BTP | Durée : 20 mois (Novembre 2023 – Mai 2025)
+Tâches :
+
+Collaboration étroite avec les équipes métiers et IT pour recueillir les besoins métier et définir les KPIs et les axes d’analyse.
+Mise en place de l’architecture technique en coordination avec l’architecte data.
+Création des ressources Azure nécessaires pour le projet.
+Développement et orchestration de pipelines data sur Databricks (modèle Médaillon, ingestion IoT, API météo, Excel, ...).
+Supervision et gestion de la plateforme Databricks (jobs, clusters, monitoring, alertes).
+Développement des rapports Power BI pour le suivi en temps réel de la production électrique réelle vs estimée.
+Monitoring via Datadog, CI/CD avec Terraform et Azure DevOps.
+Encadrement et montée en compétence de deux ingénieurs de données juniors.
+Réalisation de la documentation technique et fonctionnelle.
+
+Résultats :
+
+Mise en production d’une plateforme de données Azure permettant le suivi en temps réel de la production énergétique de plus de 60 sites photovoltaïques à l’échelle internationale.
+Optimisation des coûts et des performances (réduction ~30%).
+Réduction de 40 % du temps d’analyse des écarts de production.
+Projet 2 : Migration d’une solution MSBI vers Azure data platform
+
+Client : Colas (via Decilia) | Secteur : BTP | Durée : 12 mois (Novembre 2022 – Octobre 2023)
+Contexte : Migration d’une solution MSBI vers Azure dans le cadre de la modernisation de la plateforme BI, avec pour objectif de renforcer l’analyse financière de l’activité des matériaux (béton, granulats, enrobés, ...).
+
+Tâches :
+
+Définition et planification de la stratégie de migration.
+Structuration des données en couches Raw, Curated et Gold dans Azure Data Lake.
+Migration des pipelines SSIS vers Azure Data Factory, avec intégration des chargements incrémentaux et une gestion améliorée des erreurs et des logs.
+Refonte du Data Warehouse avec Azure Synapse Analytics afin d’accélérer les traitements analytiques ou pour améliorer les performances d’analyse.
+Modélisation d’un modèle de données optimisé dans Azure Analysis Services.
+Connexion du rapport Power BI à Azure Analysis Services avec test et validation des KPIs.
+Ajout de nouvelles sources de données et intégration de KPIs stratégiques pour enrichir la plateforme analytique.
+Gestion des accès via Azure AD & RBAC et sécurisation des secrets avec Azure Key Vault.
+Automatisation des déploiements avec CI/CD dans Azure DevOps et Power BI.
+Supervision proactive de la chaîne de traitement, détection des anomalies, gestion des incidents et optimisation des performances.
+Projet : Plateforme data Azure pour l’analyse des données médicales
+
+Client : Cerba HealthCare (via Decilia) | Secteur : Santé | Durée : 16 mois (Juillet 2021 – Octobre 2022)
+Contexte : Mise en place d’une plateforme cloud sur Azure (ADF, Data Lake, Synapse, Databricks) pour centraliser et analyser des données médicales sensibles (patients, examens, prescripteurs, facturation).
+
+Tâches :
+
+Animation d’ateliers avec les parties prenantes (DG, biologistes, DAF) pour définir les KPIs et valider les modèles analytiques.
+Conception, développement et orchestration de pipelines de données avec Azure Data Factory et Databricks, pour l’ingestion de sources hétérogènes (Oracle, Azure SQL, fichiers plats).
+Mise en place d’une plateforme analytique avec Azure Synapse Analytics.
+Accompagnement de la direction générale dans la conception et le développement d’un rapport Power BI dédié à la COVID-19.
+Mise en place de règles de sécurité et de gouvernance pour protéger les données sensibles, avec masquage dynamique et conformité RGPD.
+Supervision des pipelines ADF et configuration des alertes via Azure Monitor et Log Analytics.
+Client : Orange | Secteur : Télécommunications | Durée : 35 mois (Juillet 2018– Mai 2021)
+
+Projets 1 : Mise en place d’une plateforme de données centralisée et mutualisée sur Azure, avec pour objectifs de standardiser les KPIs entre les départements, automatiser l’ingestion de données multisources et fournir des datasets fiables et partagés aux directions métiers.
+
+Tâches :
+
+Animation d’ateliers avec les métiers pour recueillir, clarifier et prioriser les besoins fonctionnels de chaque direction.
+Rédaction des spécifications techniques en lien avec les besoins métier.
+Conception et développement des pipelines d’intégration avec Azure Data Factory (ADF).
+Modélisation logique et physique du datawarehouse dans Azure Synapse Analytics pour permettre des analyses transverses performantes.
+Exposition sécurisée des jeux de données via une API REST, destinée aux partenaires externes, avec mise en œuvre des règles RGPD pour protéger les données sensibles.
+FORMATION :
+09/2015 - 10/2018 : Diplôme d’Ingénieur en télécommunications et IT – INPT (Institut National des Postes et des télécommunications) - Rabat - Spécialisation Décisionnelle
+09/2013 – 06/2015 : Classe préparatoire aux Grandes Ecoles Ibn Taymia - Marrakech - Spécialité PCSI/PSI
+Compétences et outils :
+Stockage et gestion des données : SQL Server, Oracle, MongoDB, Azure Data Lake, Azure Synapse, Azure SQL DB, APIs, fichiers parquet, Delta table, fichiers plats, Json
+ETL / ELT et orchestration : Airflow, Spark, Python, PySpark, SSIS, Azure Data Factory
+Analyse et reporting : Azure Analysis Services, Power BI, SQL, DAX, M
+Sécurité et gouvernance : Microsoft Entra ID, RGPD, Key Vault, VNet, Private Endpoints
+CI/CD : Azure DevOps, Terraform, Pipelines de déploiement Power BI
+Méthodologies : Agile (SCRUM, Kanban), JIRA, Confluence
+LANGUES :
+Arabe : Langue maternelle
+Français : Courant (écrit et oral)
+Anglais : Courant (écrit et oral)
+
+Ceci est l'intégralité du contenu extrait du fichier PDF.

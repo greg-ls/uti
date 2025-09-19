@@ -1,0 +1,175 @@
+Développeur Fullstack PHP / Symfony JavaScript (> 6 ans d’experience)
+COMPÉTENCES TECHNIQUES
+Langages : PHP (5 à 8), JavaScript, TypeScript, Twig, GraphQL
+Frameworks & bibliothèques : Symfony (2 à 7), Phalcon, React.js (17), Next.js (11), Nest.js, Tailwind CSS, Bootstrap
+Base de données : MySQL, PostgreSQL, MongoDB
+Web services : API REST, SOAP, GraphQL
+Tests : PHPUnit
+Cloud & DevOps : AWS, Google Cloud Platform, Docker, Kubernetes, OVH
+Outils de développement : PHPStorm, VS Code, Postman, Git
+Gestion de projet : Méthodes Agile/Scrum, Jira, Trello, GitHub, Gitlab, Bitbucket
+Autres connaissances : Java/Spring, Angular, DaisyUI, TDD, DDD, clean architecture er architecture hexagonale
+DIPLÔMES 
+2017 – Master MIAGE Université de Picardie Jules Verne, Amiens (80)
+2015 – Licence Informatique Université de Picardie Jules Verne, Amiens (80)
+2011 – Baccalauréat Scientifique Lycée Jules Uhry, Creil (60)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+
+
+ Octobre 2022 – Septembre 2024 (2 ans) Développeur Freelance PHP/Phalcon – Nouvel Obs (Groupe Le Monde) – Paris (75)
+Projet « NouvelObs » : Site web et magazine français du Groupe Le Monde qui retranscrit l’actualité, l’évolution dans le monde et les phénomènes de société.
+Il propose différentes offres d’abonnement (Essentiel et Intégral).
+Lien : [https://www.nouvelobs.com](https://www.nouvelobs.com)
+Contexte : Refonte et uniformisation des tunnels d’abonnement des différents sites du Groupe Le Monde dans le but de gagner une indépendance et une meilleur productivité sur les évolutions et maintenance des tunnels d’abonnement.
+Tâches réalisées :
+Analyse et documentation de l’existant (Confluence)
+Migration vers une base de données interne (PostgreSQL) : développement de scripts de récupération, d’enregistrement et de synchronisation des données utilisateurs et abonnements
+Refonte des tunnels d’authentification : connexion, inscription, SSO, activation de compte et inscription aux newsletters
+Refonte de l’espace personnel : affichage des abonnement en cours, modification des informations et du mot de passe de l’utilisateur, activation de compte et inscription aux newsletters
+Refonte des tunnels d’abonnement : offres d’abonnement, paiement et enregistrement des données de souscription de l’utilisateur (Stripe)
+Refactoring de code commun à plusieurs sites (pattern Context) et revue de code
+Mise en place de tests unitaires et fonctionnels (PHPUnit)
+Déploiement sur les serveurs de développement, intégration et de production
+Environnement technique : PHP 7 / Phalcon, Volt, Javascript, PostgreSQL, Docker, RabbitMQ, Redis, Travis CI, Google Cloud Platform, Kubernetes, GitHub, Jira
+
+ Octobre 2021 – Septembre 2022 (1 an) Développeur PHP/JS – Technology Everywhere – Paris (75)
+Projet 1 « Cardinal Workside » : Application web de réservation de salles de réunion, bureaux clés en main et espaces de coworking.
+Lien : [https://www.cardinalworkside.com](https://www.cardinalworkside.com)
+Contexte : Digitaliser la gestion des réservations de salles de réunion, bureaux clés en main et espaces de coworking au sein de l’entreprise.
+Tâches réalisées :
+Migration des appels API existants vers du Nest.js et branchement à la solution GetGround (GraphQL)
+Intégration de composants React réutilisables depuis une maquette Figma
+Gestion et intégration de contenu de pages configurées sur Prismic
+Implémentation du paiement des réservations via Stripe (paiement direct et 3D Secure)
+Environnement technique : React.js 17, Redux, Next.js 11, Nest.js, TypeScript, Tailwind CSS, GraphQL, Bitbucket, Jira
+
+
+Projet 2 « Socotec Présence » : Application mobile de côntroles d’ouvriers sur un chantier par des intervenants.
+Contexte : Refonte de l’authentification JWT vers une authentification SSO afin de simplifier l’inscription des comptes Microsoft existants.
+Tâches réalisées :
+Implémentation de l’authentification SSO/Keycloak (KnpUOAuth2ClientBundle)
+Mise en place d’un script d’import des utilisateurs depuis un fichier en SFTP
+Correction de bugs
+Déploiement
+Environnement technique : PHP 7 / Symfony 4, MySQL, Doctrine, React.js, Redux, TypeScript, Bitbucket
+
+ Octobre 2019 – Septembre 2021 (2 ans) Développeur Backend PHP/Symfony – MyStudioFactory (Groupe Webhelp) – Paris (75)
+Projet 1 « Agrements France Galop » : Application web connectée à une API REST de demandes d’agrément à France Galop (propriétaire, entraineur, jockey, éleveur…).
+Lien : [https://agrements.france-galop.com](https://agrements.france-galop.com)
+Contexte : Digitaliser les demandes d’agrément afin d’optimiser le traitement des dossiers et faciliter les démarches pour les utilisateurs.
+Tâches réalisées :
+Mise en place d’une architecture de base de données (Doctrine)
+Mise en place d’une authentification JWT pour la gestion des utilisateurs (LexikJWTAuthenticationBundle)
+Mise en place de commandes pour l’import des données des agréments, les prix des agréments et les pays ciblés
+Implémentation des différents endpoints de l’API REST de l’application : choix de l’agrément, informations personnelles de l’utilisateur et de son conjoint, choix des pièces jointes et paiement
+Upload et sécurisation des documents envoyés (AWS S3)
+Mise en place du paiement de l’agrément et gestion des taxes (Paybox)
+Déploiement continue sur les serveurs de développement et de pré-production (Deployer, Bitbucket CI)
+Environnement technique : PHP 7 / Symfony 4, Twig, React.js, MySQL, Doctrine, Docker, AWS, Bitbucket CI
+
+
+Projet 2 « MyWebhelp » : Application mobile pour les employés de gestion des demandes de congés, les demandes administrative et l’emploi du temps.
+Contexte : Refonte technique de Python et GraphQL vers Symfony dû au manque de connaissance interne sur les technologies existantes de l’application.
+Tâches réalisées :
+Analyse de l’existant
+Mise en place d’une authentification SSO (Microsoft)
+Réécriture des requêtes GraphQL (GraphQLBundle)
+Récupération et enregistrement des données depuis différentes sources (API SOAP, Oracle)
+Optimisation des performances : réécriture des requêtes SQL et gestion de cache (Redis)
+Mise en place de tests unitaires et fonctionnels (PHPUnit)
+Déploiement sur les serveurs de développement et de pré-production (Deployer)
+Environnement technique : PHP 7 / Symfony 5, React.js, GraphQL, MySQL, Doctrine, Python, AWS, Bitbucket
+
+
+Projet 3 « HP Sales Central » : Application mobile de catalogue produits connectée à une API REST.
+Contexte : Refonte de l’infrastructure afin d’améliorer la scalabilité, de réduire la surchage sur le serveur et d’optimiser les performances de l’application,
+Tâches réalisées :
+Migration de PHP 5 / Symfony 3 vers du PHP 7 / Symfony 5 : arborescence du projet et mise à jour du code déprécié
+Passage de MongoDB vers du Amazon DynamoDB : configuration et réécriture des requêtes incompatibles
+Passage de Redis vers du Amazon ElastiCache : configuration et vérification
+Mise à jour des tests unitaires et fonctionnels (PHPUnit)
+Environnement technique : PHP 7 / Symfony 5, React.js, MongoDB, Redis, AWS, Bitbucket
+
+
+Projet 4 « Epsens Essentiel » : Application web, connectée à une API REST et un CRM (Hubspot) de souscription d’épargne salariale pour TPE/PME.
+Lien : [https://essentiel.epsens.com](https://essentiel.epsens.com)
+Contexte : Participer aux évolutions et à la maintenance de l’application existante.
+Tâches réalisées :
+Configuration des champs du CRM (Hubspot)
+Enregistrement des données de l’utilisateur, de l’entreprise et des souscriptions sur le CRM (Hubspot) par étape depuis l’application web
+Mise à jour du statut de la souscription en fonction des étapes complétées
+Gestion et mise à jour du statut des signatures électroniques en fonction des différentes parties (Docusign webhooks)
+Sécurisation et envoi du contrat définitif par mail aux différentes personnes concernées après les signatures complètes de toutes les parties (Docusign webhooks, Docusign HMAC)
+Environnement technique : PHP 7 / Symfony 3, React.js, MySQL, Doctrine, Docusign, Hubspot
+
+
+Projet 5 « Webhelp » : Site multilingue du Groupe Webhelp.
+Lien : [https://webhelp.com/fr](https://webhelp.com/fr)
+Contexte : Développement d’une API REST sous Symfony afin de gérer le site multilingue et la partie offres d’emploi,
+Tâches réalisées :
+Gestion des traductions (catégorie d’emploi, pays et langues)
+Récupération des offres d’emploi depuis différentes sources de données (API SOAP)
+Mise en place de commandes et de tâches cron d’import des données (offres d’emploi, catégories d’emploi, pays et langues) et mise à jour des fichiers de traduction
+Développement des différents endpoints de l’API et récupération des données via des appels HTTP depuis l’application Wordpress
+Travail dans un environnement Agile / Scrum : daily et estimation de tâches
+Déploiement sur les environnements de développement et de pré-production
+Environnement technique : PHP 7 / Symfony 4, Wordpress, MySQL, Doctrine
+
+ Janvier 2019 – Août 2019 (8 mois) Ingénieur Études et Développement – Smile Open Sources – Asnières-sur-Seine (92)
+Projet « Staffing Tool » : Application interne de gestion des staffings des collaborateurs de l’entreprise.
+Contexte : Maintenance et évolutions de l’application permettant le suivi et la gestion des collaborateurs en prestation chez un client.
+Tâches réalisées :
+Analyse des besoins métier
+Optimisation des performances de l’import des staffings : réécriture des requêtes SQL et refactoring
+Mise en place de filtre des staffings par période et par collaborateur (jQuery, Ajax)
+Encadrement de stagiaires
+Travail dans un environnement Agile / Scrum : daily et estimation de tâches
+Déploiement sur les serveurs de pré-production (Ansible)
+Environnement technique : PHP 5 et 7 / Symfony 2 et 4, Twig, Javascript, jQuery, Ajax, MySQL, Doctrine, Ansible
+
+ Janvier 2018 – Août 2018 (8 mois) Ingénieur Études et Développement – Sopra Steria (en prestation chez SFR) – Courbevoie (92)
+Projet : Application web interne de configuration et déploiement d’équipements sur le réseau SFR (ADSL, fibre optique, téléphonie).
+Contexte : Maintenance et évolutions de l’application en fonction des besoins utilisateurs.
+Tâches réalisées :
+Analyse des besoins métier (tickets Mantis)
+Corrections de bugs
+Environnement technique : Zend Framework 2, Javascript, HTML, CSS, MongoDB
+
+ Octobre 2016 – Septembre 2017 (1 an) Apprenti Développeur d’application – SNCF (DGPP) – La Défense (92)
+Projet « REPART » : Application bureau interne de prévision du trafic et répartition du trafic par transporteur, utilisée par la Direction Grands Projets et Prospective (DGPP) pour réaliser des études économiques et financières qui portent sur des projets de lignes à grande vitesse (LGV).
+Les résultats de prévisions du trafic sont obtenues sous forme de tableau à partir d’un masque de données (fichier Excel) pré-rempli et importé dans l’application.
+Contexte : Développement d’une nouvelle version de l’application permettant de gagner en précision sur les prévisions du trafic et les recettes futures mais aussi de gagner en productivité au sein des différentes équipes Projet.
+Environnement technique : C#, WPF, VBA
+
+ Avril 2016 – Août 2016 (5 mois) Stagiaire Développeur web – Bluesquare Computing – Paris (75)
+Projet «Bykaza » : Marketplace de produits personnalisés en ligne
+Lien : [https://www.bykaza.com](https://www.bykaza.com)
+Contexte :
+Intégration de pages web depuis une maquette Photoshop
+Développement d’un site web multilingue permettant aux utilisateurs de personnaliser des produits et les vendre (t-shirt, mug, sacs à main et accessoires).
+Développement d’un Backoffice pour la gestion et l’administration des utilisateurs, des produits et la logistique.
+Environnement technique : PHP 5 / Symfony 2, Twig, Bootstrap, Javascript, jQuery, MySQL, Doctrine
+
+ Juillet 2015 – Août 2015 (2 mois) Stagiaire Développeur web – Echo Home – Paris (75)
+Projet « Mountain40 » : Site média pour la communauté du trail
+Contexte :
+Développement d’un site média aux fonctionnalités média, éseau social et e-commerce afin de suivre l’actualité du sport et les experiences des traileurs
+Développement d’un Backoffice pour la gestion des utilisateurs et des articles
+Environnement technique : PHP 5 / CodeIgniter 2, HTML, CSS, Bootstrap, Javascript, jQuery, Ajax, MySQL
+
+
+PROJETS PERSONNELS
+2024 - « Projet ecommerce » : Développement d’une application fullstack de vente de produits en architecture hexagonale et DDD (Java Spring Boot 3, Angular 18, PostgreSQL, Kinde, Stripe, Tailwind CSS, DaisyUI)
+Lien : [https://gitlab.com/ashad.khan/java21-angular18-ecommerce](https://gitlab.com/ashad.khan/java21-angular18-ecommerce)
+2024 - Formations personnelles à l’architecture hexagonale, à la clean architecture et au DDD
+2024 - « Projet envoi de mail en asynchrone » : Développement d’une mini application d’envoi de mail en asynchrone (PHP 8, Symfony 6, Docker, Doctrine, RabbitMQ, MailHog)
+Lien : [https://gitlab.com/ashad.khan/php8-symfony6-messenger](https://gitlab.com/ashad.khan/php8-symfony6-messenger)
+2024 - « Projet skeleton Symfony » : Mise en place d’un Docker permettant de démarrer un projet skeleton Symfony (PHP 8, Symfony 6, Docker Compose, Dockerfile)
+Lien : [https://gitlab.com/ashad.khan/docker-php8-symfony6](https://gitlab.com/ashad.khan/docker-php8-symfony6)
+2022 - « Projet déploiement continue » : Mise en place et configuration d’une CI/CD sur un environnement Docker (Symfony 5, PHP 7, Docker Compose, Docker, Docker Registry, Gitlab CI)
+Lien : [https://gitlab.com/ashad.khan/symfony-ci-cd](https://gitlab.com/ashad.khan/symfony-ci-cd)
+LANGUES
+Français : Bilingue
+Anglais : Niveau B2 (Technique)

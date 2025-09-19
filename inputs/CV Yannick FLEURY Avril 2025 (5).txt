@@ -1,0 +1,126 @@
+Analyste concepteur confirmé Cobol
+
+DOMAINE D'INTERVENTION
+
+Ces 30 ans d’expérience en tant que consultant informatique m’ont permis de m’adapter à différents contextes : que ce soit humain, fonctionnel et technique.
+Avec toujours ce souci de me perfectionner, d’apprendre encore et encore, de me fixer des objectifs tout en essayant d’être le plus rigoureux possible.
+Ayant acquis de bonnes compétences dans le domaine Mainframe : j’ai aussi cette curiosité de découvrir de nouveaux horizons.
+Je cherche un poste en fixe ou dans une ESN.
+
+COMPETENCES FONCTIONNELLES
+Gestion de projet
+Domaines fonctionnels : IARD, santé, retraite, Comptabilité générale assurance – affacturage
+Moyens de paiement – Gestion des CRE, virements, prélèvements, TIP, gestion des impayés, éditique
+Pour des évolutions/ maintenance corrective : Analyse, rédaction de spécifications fonctionnelles et techniques, réalisation des développements, élaboration et exécution (via QC) de plans de tests et de recette techniques et fonctionnels, rédaction de dossier d’exploitation (si besoin), mise en production, suivi de production
+Etroite collaboration avec la MOA : suivi de recette, support et assistance aux utilisateurs, organisateur de comités de pilotage : d’un point de vue fonctionnel et aussi technique
+Remontée des alertes, Reporting
+Etude d’impacts, gestion et résolution d’incidents et d’anomalies fonctionnels et techniques, correction des incidents de production : réaction « à chaud
+
+COMPETENCES TECHNIQUES
+BATCH IBM/MVS, TSO/ISPF, DB2, SQL, COBOL, VSAM, ENDEVOR, FILE-AID, SPITAB, XPEDITER, ABENDAID, SPUFI, AFP, INTERTEST, PLATINIUM LIBRARIAN, OPC, DIALOG MANAGER, QC
+TP IMS, CICS, TELON
+
+EXPERIENCES PROFESSIONNELLES
+
+NATIXIS –BPCE-SA 07/2021 à -03/2025
+Analyste développeur senior au sein de l’équipe MOE PERSE – Moyens de paiement
+Contexte
+Prise en charge des demandes de chargements de flux des éléments de paie avant les payes de fin de mois (affectations, maladies, télétravail, augmentations, RTT…)
+Travail sur les évolutions intéressements et participations 2022, 2023 et 2024
+taches
+Rédaction des documentations techniques
+Diverses analyses d’impacts
+Analyse notamment de matricules, de personnes non payées / ADP
+Maintenance corrective
+Suivi de production (1 fois /mois pendant une semaine)
+Résultats obtenus => Les participations et intéressements sont versés correctement tous les ans aux plus de 40 sociétés de notre périmètre malgré des règles très disparates et très évolutives (notamment depuis la pandémie Covid), Satisfaction de la MOA quant à la réactivité sur des chargements parfois complexes de fichiers avant les payes de fin de mois.
+Environnement technique : IMS. SQL. POEME/ISPW, EOS. DB2. TSO
+EID Affacturage - (CM-CIC, EI) – 06/2017 à 05/2021
+Analyste au sein du CDS HN
+Contexte
+Projets d’affacturage
+Migration technologique de COBOL Unisys vers COBOL IBM
+Refonte des bases de données et de la méthodologie de développement de l’entreprise
+taches
+Rétro-analyses car aucun document technico-fonctionnel existant…
+Développement en COBOL et en générateur de COBOL de programmes TP et BATCH
+Gestion de projets ponctuels (3-4 jours) et/ou courts (1-2 mois)
+Tests unitaires, tests d’intégration
+Recette : préparation de l’environnement, élaboration du plan de tests
+Livraison des objets en production : suivi, contrôle
+Maintenances correctives et évolutives BATCH et TP
+Mise aux normes EI JCL
+Base de données
+Traduction de base de données Français-Anglais
+Création de tables, sous-tables, et de nouvelles colonnes DB2 : validées par l’équipe technique
+Utilisation de l’éditeur RDZ
+Environnement technique : MVS, IMS DB/DC, DB2, COBOL2, SQL
+AXA GROUP SOLUTIONS - 01/2016 A 05/2017
+Analyste confirmé au sein du domaine de la comptabilité générale
+Taches
+Migration de tous les contrats/primes des produits Vie Individuelle vers un nouveau système cible
+Prise en charge de la recette avec la comptabilité et les différents contributeurs, Maintenance corrective, Tests unitaires et tests d’intégration, Gestion des incidents comptables
+Analyse et rédaction de comptes-rendus, Résolution ou redirection des incidents
+Suivi des traitements et de la cohérence des réponses aux utilisateurs.
+Mise en production/lot, Suivi de production.
+Projet : Mise en place de la taxe CASA (Contribution Additionnelle de Solidarité de sur l’Autonomie) sur l’application ‘RENTES’
+Analyse et rédaction des spécifications fonctionnelles et techniques détaillées, Réalisation des développements, tests unitaires, tests d’intégration, Participation à la recette, Analyse et élaboration des comptes-rendus d’incidents comptables, Mise en production, Suivi de production.
+Projet : Intégration de l’acte global ‘Remboursement de prêt A2P’ pour le réseau salarié
+Analyse et rédaction des spécifications fonctionnelles et techniques détaillées, Réalisation des développements, tests unitaires, tests d’intégration, Participation à la recette, Analyse et élaboration des comptes-rendus d’incidents comptables, Mise en production, Suivi de production
+Environnement technique : MVS/XA, CICS, COBOL2, SQL, QC
+SOCIETE GENERALE – 04/2013 à 12/2015
+Analyste concepteur
+Contexte
+Dans le cadre de la facturation des services, participation à la génération de CRE (Compte Rendu d’ Evènements comptables) pour les opérations décomposées et les Relevés de commission
+taches
+Etude du cahier des charges, Rédaction des Spécifications détaillées et Techniques sur les facturations des services, lesrelevés de Compte, Réalisation des développements, des tests unitaires et des tests d’intégration, Participation à la recette, élaboration du plan de tests, préparation des environnements, Maintenance évolutive et corrective.
+Environnement technique : MVS/XA, CICS, COBOL2, SQL, QC
+BNP PARIBAS DE 08/2011 A 03/2013
+Analyste au sein du système « BAC », application garante de la comptabilité générale et réglementaire de plusieurs entités de la BNP
+Contexte
+Participation aux évolutions réglementaires pour une centralisation annuelle de la constitution des déclarations des risques BDDF
+taches
+Prise de connaissance des EDB (Expression De Besoin), Rédaction des SFE, Rédaction des EIM (Etude d’impact Macroscopique) pour une TMA, Prise de connaissance du Rapport de Recette, fourni par la TMA, pour validation, Suivi de production.
+Environnement technique : MVS/XA, CICS, COBOL2, SQL, ENDEVOR, LOTUS NOTE
+CETELEM – 12/2009 A 07/2011
+Concepteur fonctionnel au service éditique
+Contexte
+Proposer une nouvelle gamme de cartes bancaires, associant les fonctions de paiement comptant et à crédit, pour les clients des groupes Banques populaires et Caisse d’épargne:
+taches
+Redéfinition de la chaîne de conception, de gestion, et d’édition des contrats de consommation
+Mission
+Analyse du cahier des charges, de la note de lancement et de cadrage du projet, Analyse et rédaction des DAF (Dossier d’Analyse Fonctionnelle), des FF (Fiches de Fonctionnalités), et des FIV (Fiche d’Intégration de Version), Coordination avec les interlocuteurs du métier, des architectes de données.
+Environnement technique MVS/XA, DB2, CICS, COBOL2, SQL
+ALLIANZ – 06/2005 A 01/2009
+Responsable de système applicatif et analyste confirmé au sein du domaine IARD/Santé
+Contexte
+Calcul des montants de rémunération complémentaires destinés aux agents
+Taches
+Analyse du cahier des charges, Rédaction des spécifications fonctionnelles, Rédaction des spécifications Techniques détaillées, Délégation aux réalisateurs, Assistance et suivi de la recette Utilisateurs.
+Projet : Intégration des produits SANTÉ AGF vers le système cible IARD (ex PFA) : Analyse, rédaction des spécifications détaillées, Réalisation des développements et des tests, Suivi de la recette, Participation aux comités de pilotage et de recette, Etroite collaboration avec les interlocuteurs du site SANTÉ, Mise en production et suivi.
+Environnement : Technique MVS, IMS, DB2, DL1, COBOL2, SQL, TELON
+GCA (GROUPEMENT DES CAISSES ASSOCIEES) – 01/2004 à 05/2005
+Analyste programmeur
+contexte
+ELSI (Evolution Logique du Système Individus)
+taches
+Mise en place d’un nouveau référentiel cotisant, dans le cadre du rapprochement des fédérations ARRCO et AGIRC, Refonte du traitement des déclarations de salaires (DADS), dans l’optique d’anticiper sur l‘arrivée massive à la retraite des générations du papy-boom, Projet ‘Historisation et traçabilité des informations cotisant’, chargé de gérer l’historique d’un compte de point de retraite et de justifier ses évolutions et ses calculs, mise en place d’un nouveau référentiel individu DB2.
+Analyse et rédaction des spécifications fonctionnelles et techniques détaillées, Réalisation des développements, tests unitaires, tests d’intégration, Participation à la recette, Mise en production Suivi de production
+Environnement technique : MVS, CICS, DB2, DL1, COBOL2, SQL, TELON
+ALLIANZ AGF – 07/1999 à 12/2003
+Analyste programmeur
+taches
+Projet : Participation à la migration de toutes les primes IARD vers un nouveau système cible PFA (ex-AGF) au sein de l’équipe ‘Encaissement des primes’ Participation à la réalisation, tests unitaires, d’intégration, mise en production, suivi de production.
+Projet : Responsable de projet ayant pour objectif de permettre la télétransmission de l’encaissement des primes directement par les courtiers, au sein de l’équipe ‘Encaissement des primes’ Analyse, rédaction des spécifications fonctionnelles, rédaction des spécifications détaillées, réalisation, tests unitaires, test d’intégration, paramétrage des JCLs, élaboration de plan de recette, rechargement de l’environnement de recette, suivi de recette, mise en production, suivi de production
+Projet : Responsable de la refonte des chaînes Batch destinés à séparer les courriers MED courtiers des courriers agents, pour des raisons juridiques, au sein de l’équipe ‘Encaissement des primes’ Analyse, rédaction des spécifications fonctionnelles, rédaction des spécifications détaillées, réalisation et création de deux nouvelles chaînes Batch, tests unitaires, tests d’intégration, élaboration de plan de recette, suivi de recette, rédaction des dossiers d’exploitation, contrôles de la qualité des livrables, mise en production, suivi de production.
+Environnement technique : MVS, IMS DB/DC, DB2, DL1, COBOL2, SQL, TELON
+BFCE-NATEXIS – 06/1994 à 06/1999
+Responsable Maintenance évolutive et corrective de l’ensemble des chaînes de Comptabilité / Réalisateur
+taches
+Projet : Application GLADIATEUR (Gestion des lettres de change, avis de prélèvements, domiciliation, instructions permanentes, annulation d’opérations compensées à tort, TIP, effets de commerce) Intégration de l’Eurdans l’ensemble des programmes, Prise en charge de l’ensemble des tests unitaires, d’intégration et de non-régression, Mise en œuvre des différentes phases de recette et suivi.
+Projet : Création d’une nouvelle chaîne Batch ‘Prélèvements Livrés en Masse’ Prise en charge des réalisations Batch et TP de la partie retour SIT : mise à disposition du serveur ETEBAC des opérations SIT, Participation à la recette, Mise et suivi de production
+Projet : Emission et réception de virements sur le système Interbancaire de Télé compensation(SIT) de la nouvelle application ESPOIRS : Echange pour Sous-Participants d'Opérations Interbancaires Prise en charge des réalisations Batch et TP de la partie aller SIT (ramassage quotidien des opérations des clients et livraison de ces opérations) et la partie retour SIT (mise à disposition du serveur ETEBAC des opérations SIT) Participation à la recette Mise et suivi de production
+FORMATION
+2009 Editeur DIALOG MANAGER
+1994 TELON Diplome
+1993 DUT Informatique de Gestion, Orléans

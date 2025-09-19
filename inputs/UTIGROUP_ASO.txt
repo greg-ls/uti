@@ -1,0 +1,35 @@
+Support applicatif bancaire
+
+Profil
+Gestionnaire back et middle office spécialisé en transferts internationaux, avec expertise en gestion des opérations, conformité, et optimisation des processus bancaires.
+
+Compétences clés
+Ruby & Javascript SQL & Linux SFCC Microsoft Office
+
+Langues
+Anglais - Bilingue 
+Espagnol - Intermédiaire 
+Japonais - Notions
+
+
+Expériences Professionnelles
+
+BNP Paribas Support Cash Management Paris Octobre 2024 – Actuel
+Support technique et applicatif Pilotage de projets Ouverture et configuration d’accès Mise en conformité des outils
+
+OCSI Group I Paris Aout 2023 – Avril 2024
+Consultant SFCC Paris UI UX design, référencement SEO Développement Javascript (Node JS, React, Vue Js) Commerce Cloud SFRA & Business manager Business cases SFCC & obtention certification B2C commerce developper
+
+Banque BIA Septembre 2022 — novembre 2023
+Gestionnaire Back office Swift Paris Transferts Swift Prélèvement Sepa Réconciliation de comptes Controle conformité
+
+BNP Paribas Mars 2021— Aout 2021
+Gestionnaire Swift Monitoring Montreuil Supervision de l’acheminement des flux Assurer la gestion des incidents de production et de coordination des acteurs du service Traitement de rejets de flux et d’anomalies
+
+Diplômes - Formations - Certifications
+Aout 2022 Certification B2C Commerce Developper Salesforce Paris
+Organiser une vitrine à l'aide de catalogues, de catégories, de produits, de prix et d'affinements de recherche Améliorer les résultats des moteurs de recherche grâce aux bonnes pratiques de SEO Création et gestion de dictionnaires
+Juin 2021 Titre concepteur d'applications web et mobile Le Wagon Paris
+Programmation OOP, développement d'application en sprints Pilotage de projets Elaboration de base de données
+Juin 2015 Licence Développement Commercial & International Faculté d’ Evry Evry
+Alternance Business Developper – 1 an

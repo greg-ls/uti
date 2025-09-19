@@ -1,0 +1,173 @@
+DA COSTA Alfredo
+Développeur C# .NET, Angular
+
+COMPETENCES TECHNIQUES
+Langages Back-end : 	C#, ASP.NET WEB API 2, T-SQL, PL/SQL
+Web Front-End :	HTML 5/CSS 3, JAVASCRIPT, TYPESCRIPT
+Frameworks Back-end : 	.NET FRAMEWORK 3.0/3.5/4.0/4.6/4.7, LINQ, ENTITY FRAMEWORK 5/6, WCF, WPF MVVM, WINFORMS, ASPOSE, DEVEXPRESS 8.2.3 / 11
+Web Front-End : 	ANGULAR 8, JQUERY, BOOTSTRAP 3/4
+Conception :	UML, DESIGN PATTERNS, SOLID
+Architecture :	SOA, REST
+Outils :	VISUAL STUDIO 2015/2019, RESHARPER, IIS, JIRA
+SGBDR :	MS SQL SERVER 2005/2008/2010/2014, ORACLE
+Usine de build :	GIT, TFS/TFS ONLINE, NPM
+Tests :	NUNIT, MSTEST
+Cloud :	AZURE
+Méthodologies :	AGILE SCRUM, TDD
+Systèmes :	WINDOWS XP/7/10/SERVER 2008/SERVER 2012
+Autre : 	Depuis Août 2024 : Projet personnel - Développeur C# confirmé
+CONTEXTE : développement d’une photothèque avec une partie back en WPF et Front en Angular. Elle sert à sauvegarder nos photos, à les visualiser ainsi qu’effectuer des recherches soit par date, objet (trouvé par IA ex : arbre, carnivore, armoire, etc…), soit visage d’une personne.
+Création d’un diaporama des photos personnelles.
+Environnement technique : .NET 4.7, Linq, Base de données SQL Server 2012, KENDO UI, css/html, Devops, Cognitive Services Azure
+
+LANGUES
+Anglais : Scolaire
+
+FORMATIONS
+1999 : 	Master en informatique - Université au Portugal (FCTUC Coimbra)
+1994 : 	Baccalauréat série scientifique
+
+EXPERIENCE PROFESSIONNELLE
+DEPUIS JANVIER 2024 : ORANGE
+Développeur C# confirmé
+CONTEXTE : Le projet Orange pour la gestion des alarmes de sites (Evolutions applicatives) et de la
+MCO (Maintien en Condition Opérationnelle)
+Validation du workflow par le client
+Prise en compte des nouveaux flux IOT
+Modification du schéma de la base
+Ajout/saisie des informations dans l’ihm
+Validation et tests par l’équipe
+ENVIRONNEMENT TECHNIQUE : .NET 4.7 , C# 7, .Net Core 3.1, REST, IIS, UI Kendo, Angular 8, TFS
+
+MARS 2021 – DECEMBRE 2023 : CACIB
+Développeur C# confirmé
+CONTEXTE : Développement de la plateforme JetStream Bonds pour la filière concernée, dans un contexte international, les échanges avec les utilisateurs se font en anglais. Ajout de fonctionnalités et correction de bugs. La plateforme JetStream Bonds est un client lourd WPF et s’appuie sur un ensemble de services hautement « multithreadés ».
+Ces services permettent la contribution des prix sur les marchés, la négociation suivant des workflows prévus par les marchés, des services de « booking » et enfin des services de cache instruments et contreparties.
+DOMAINE D’INTERVENTION :
+Etude du besoin depuis les spécifications fonctionnelles
+Conception et implémentation de la solution et tests unitaires
+Support traders et correction de bugs
+Utilisation MMI / Tradeweb et Bloomberg
+Développement d’un outil de test du carnet d’ordres du marché automatique en WPF
+Optimisation du client de marché WPF (Lazy loading, threads)
+Environnement hautement multithreadé et temps réel.
+Amélioration et optimisation des performances des services existants.
+Refactoring de code.
+Négociation des marchés via ION trading en utilisant l’API IFC.
+Administration de la plateforme ION trading à l’aide de sysadmin.
+ENVIRONNEMENT TECHNIQUE : .NET 4.7, Linq, Base de données SQL Server 2012, Infragistics, WPF, Git, Solace, ION, Teamcity
+Contraintes techniques : Optimisation de performances, forte volumétrie de données.
+Méthodologies : Scrum
+
+MARS 2020 – MARS 2021 : ORANGE
+Développeur C#
+CONTEXTE : Dans le cadre d’un projet de surveillance d’ouverture de portes sécurisées par des objets connectés, je suis responsable de la partie IHM. Cet IHM permet de signaler les alarmes sur les sites en temps réel et d’envoyer des commandes aux différents objets connectés.
+DOMAINE D’INTERVENTION :
+Développement des nouvelles fonctionnalités en C#.NET
+Etude du besoin depuis les spécifications fonctionnelles
+Conception et implémentation de la solution
+ENVIRONNEMENT TECHNIQUE : .NET 4.7 –C# 7, .Net Core 3.1, REST, IIS, UI Kendo, Angular 8, TFS
+Contraintes techniques : Temps réel, Optimisation de performances, forte volumétrie de données.
+Méthodologies : Méthodes Agiles (sprint de 1 mois)
+
+DECEMBRE 2018 - MARS 2020 : FNAC-DARTY
+Développeur C# confirmé
+CONTEXTE : Dans l’équipe Middle Office des flux de référencement des produits, je m’occupe de créer des logiciels de mise à jour des descriptifs des produits site Fnac. Nous sommes une équipe de 6 personnes pour réaliser ces logiciels et rectifier les flux provenant de plusieurs partenaires de ce groupe.
+DOMAINE D’INTERVENTION :
+Etude du besoin depuis des projets existants
+Rédaction et mise à jour des spécifications avec la MOA.
+Développement des nouvelles fonctionnalités en C#.NET
+Upgrade de Linq to Sql vers Entity Framework
+ENVIRONNEMENT TECHNIQUE : .NET 4.7, Linq, WCF, Base de données SQL Server 2012, DevExpress, Winforms, TFS. Méthodologies : Scrum
+Contraintes techniques : Optimisation de performances, forte volumétrie de données.
+
+NOVEMBRE 2016 – JUIN 2017 : SODEXO
+CONTEXTE : Suite à la dématérialisation des tickets restaurants, ce client a créé une application depuis 2013 et à ce jour le volume de la base de données pour ce produit augmente de façon conséquente. Je me charge de réécrire les requêtes linq afin d’assurer les temps de réponse du smart client.
+DOMAINE D’INTERVENTION
+Importation des commandes par le web ou par fichier vers Oracle
+Evolutions du client WPF (MVVM)
+Refactorisation du code Entity Framework (montée de version de 4 vers 6)
+Maintenance / Mise en production des corrections urgentes
+ENVIRONNEMENT TECHNIQUE : C# 4.5, Linq, WPF MVVM, SQL Developper, Oracle
+Contraintes techniques : forte volumétrie de données, optimisation des performances
+SGBD Oracle, Contrôleur de source TFS
+
+MAI 2016 – NOVEMBRE 2016 : MONEYLINE BANKING SYSTEMS
+Développeur
+CONTEXTE : Dans le cadre de la surveillance de ses automates monétiques le client fait évoluer son offre avec une nouvelle application web qui permet à la fois de surveiller et de gérer les automates à distance. Sur ce projet je suis en autonomie en me basant sur les spécifications fonctionnelles
+DOMAINE D’INTERVENTION :
+Analyse des spécifications fonctionnelles, mise en place des spécifications techniques.
+Conception SGDB et charte graphique
+Développement API serveur Backend et IHM HTML5
+Utilisation de Mantis pour corrections et évolutions du projet
+ENVIRONNEMENT TECHNIQUE : C#4.6, VS 2015, Entity Framework, Sql Server 2012, Bootstrap, CSS, JavaScript, Angular 2, Typescript 1.8, ASP.NET Web Api
+
+JUILLET 2014 – MAI 2016 : NAXOS-CENTURY21
+CONTEXTE : Evolution d’un logiciel pour le compte d’un groupe national d’agence immobilière développé principalement avec les technologies Microsoft, qui permet aux conseillers immobiliers de générer leurs propositions commerciales pré-formatées pour les aider à mieux répondre et surtout plus rapidement aux besoins de leurs clients
+DOMAINE D’INTERVENTION :
+Gestion des bailleurs d’appartements en location et de contrats/mandats de gestion
+Génération de listes d’adresses de biens à prospecter par les commerciaux
+Développement d’un nouveau module de normalisation d’adresses respectant un cahier des charges fonctionnel
+Design des écrans avec XAML, en respect de la charte graphique du groupe
+ENVIRONNEMENT TECHNIQUE : C#4.0, Visual Studio 2013, WPF MVVM, Sql Server 2012, Telerik, web services SOAP
+
+AVRIL 2012 – JUIN 2014 : MEDASYS
+Développeur
+CONTEXTE : Evolution d’une plateforme de facturation pour un éditeur de logiciel spécialisé dans le domaine de la santé. Cet outil a pour but de faciliter la génération de facture ainsi que la mise en relation avec un dossier d’hospitalisation correspondant.
+DOMAINE D’INTERVENTION :
+Analyse et conception de modules sur la base d’un cahier des charges et des nouvelles règlementations définies par l’état.
+Développement d’un module de facturation pour la sécurité sociale et les mutuelles.
+Développement d’un moteur de tâches avec répartition de charge sur différents serveurs.
+ENVIRONNEMENT TECHNIQUE : C#4.0, 3.5, 3.0, 2.0. Visual Studio 2010. Infragistics, Winforms, Oracle – TOAD, Framework Entity, WCF
+
+Février 2009 – Mars 2010 : SAUR
+Développeur
+CONTEXTE : Saur compagnie des eaux organise ces interventions via une application de planification. Le but de la mission est d’optimiser aux mieux les trajets journaliers des agents qui interviennent sur une zone géographique spécifique
+DOMAINE D’INTERVENTION :
+Interfaçage du moteur d’optimisation de planification de ressources (MASA Group) avec les applications « planning » internes déjà existantes.
+Maintenance de ces applications sous le même environnement.
+ENVIRONNEMENT TECHNIQUE : VS2008, SQL Server, C# 3.5 Winforms, Linq, WCF
+
+AVRIL 2008 – NOVEMBRE 2008 : SUEZ
+Développeur
+CONTEXTE : Suez environnement dans les services des eaux gère ces interventions via une application Access.
+Nous sommes 4 développeurs et travaillons ensemble sur ce nouveau projet. Je suis chargé de la partie IHM, et de problèmes plus complexes comme des fuites de mémoire.
+DOMAINE D’INTERVENTION :
+Développement d'un Outil de planification des interventions pour les agents SUEZ en Winforms 2.0/ Oracle.
+Gestion des problèmes techniques (optimisation performances, mémoire CLR.Net)
+Etude du Garbage Collector suite à fuite mémoire et résolution avec .NET Memory Profiler
+Re-factoring de code Migration des données Access vers Oracle
+ENVIRONNEMENT TECHNIQUE : Oracle, PL/SQL, TOAD, VS2005, C# 2.0, Winforms, .NET Memory Profiler, Architecture SOA
+
+NOVEMBRE 2007 – MARS 2008 : FNAC MUSIC
+Développeur
+CONTEXTE : Fnac Music dans ces débuts vendait des titres de musique mp3 et wma. Le but du projet est d’automatiser le processus de mise en ligne des titres qui arrivent des maisons de disques. Le titre est ainsi automatiquement disponible et mis en vente sur le site.
+DOMAINE D’INTERVENTION :
+Développement de zéro du backoffice Fnac Music au sein d'une équipe de 6 personnes.
+Autonome sur 2 des 8 modules à développer pour la plateforme.
+ENVIRONNEMENT TECHNIQUE : VS 2008, TFS, C# 3.5, Linq, Linq To Sql, Winforms, WWF, WCF, Architecture 3 tiers
+
+MARS 2006 – JANVIER 2007 : RENAULT
+Développeur
+CONTEXTE : RENAULT eLearning, met à disposition dans ces différentes usines dans le monde des leçons de mécanique. Cette application ce traduit automatiquement et présente les leçons sur forme d’un composant Flash.
+DOMAINE D’INTERVENTION :
+Développement d’un Framework SQL. Toutes les requêtes SQL passent par ce Framework.
+Intégration de contrôles serveur ASP.NET. (Treeview, validateurs), …
+Mise à jour des bases clients par rapport au modèle du Framework. (Création/modification des tables, index, etc via un script T-SQL généré automatiquement)
+Développement de Web services pour traduction et génération fichiers Adobe Flash.
+ENVIRONNEMENT TECHNIQUE : Visual Studio 2005, ASP.net, VB.NET, SQL Server 2000, WebForms
+
+2000 – 2004 : OTIS NEA (NORTH EUROPEAN AREA)
+Développeur
+CONTEXTE : OTIS NEA Siège européen des ascenseurs américains, a besoin régulièrement d’applications spécifiques pour chaque service. (Achats, Finances, DRH, Communication)
+DOMAINE D’INTERVENTION :
+Je suis responsable de créer et réaliser plusieurs projets à partir d’éléments fournis par le client.
+Administration du serveur d’applications (IIS + SQL Server) et une partie du réseau NT.
+Optimisation de tables SQL, développement de divers BackOffice en langage C# et d’interfaces ASP pour le client.
+Développement également de composants ActiveX (DLL) afin d’ajouter des suppléments à IIS.
+ENVIRONNEMENT TECHNIQUE : ASP, C#, SQL Server, NT, VB6, Access
+
+UTI GROUP		Contact commercial : Fabrice BARREAU
+SA au capital de 638 350 €		06 80 81 96 23
+68, rue de Villiers Levallois-Perret Cedex 		fabrice.barreau@uti-group.com
+www.uti-group.com 	1/7

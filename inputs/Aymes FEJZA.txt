@@ -1,0 +1,63 @@
+Data Scientist / Passionnée de Big Data
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Data Scientist / Machine Learning Engineer, SOCIÉTÉ GÉNÉRALE, Paris, France Feb '23 - présent
+
+Sujet: Assistance au développement d'une solution de génération de données synthétiques.
+Développement d'algorithmes de génération de données synthétiques en Python.
+Évaluation des métriques de performance de ces algorithmes à l'aide de la bibliothèque sdmetrics.
+Utilisation de Jenkins pour CI/CD, améliorant la qualité du code et l'efficacité du développement.
+Optimisation mémoire et réduction du temps d'entraînement via le parallélisme des données distribuées dans PyTorch.
+Gestion des versions de code avec GitLab, facilitant une collaboration efficace en équipe.
+Python PyTorch Pandas Deep Learning Big Data Airflow Github Spark Databricks ML
+
+NLP Data Scientist, LIG (LABORATOIRE D'INFORMATIQUE GRENOBLE), Grenoble, France May '22-July '22
+
+Sujet: Identification des mentions d'articles scientifiques sur Twitter.
+Collecte d'un corpus de tweets contenant des « fuzzy mentions » d'articles scientifiques.
+Application de techniques et de modèles d'extraction existants, en se concentrant sur la reconnaissance d'entités nommées.
+Évaluation de l'efficacité des modèles NER à l'aide de métriques telles que la précision, le rappel et le score F1.
+Python spaCy NER Machine Learning NLP Scientometrics Excel Github Data Visualization
+
+Data Engineer, INRIA, Grenoble, France May '21 - July '21
+
+Sujet: Implémentation d'un outil de représentation et d'analyse de la complexité des plans logiques sur des requêtes récursives.
+Recherche de métriques pour les graphes de propriétés et leur représentation structurelle.
+Développement d'un prototype pour calculer ces métriques sur des ensembles de données d'équipe, avec des expérimentations menées pour évaluer son efficacité.
+Python Query Optimization Recursive Relational Algebra Graph metrics Topology Correlation Gitlab
+
+DIPLOMES
+
+Master 2 en Mathématiques Industrielles et Appliquées (MSIAM), spécialité Data Science ENSIMAG Grenoble INP, France
+2022-2023
+
+Master 1 en Mathématiques Industrielles et Appliquées (MSIAM)
+ENSIMAG Grenoble INP/Université Grenoble Alpes, France
+2021-2022
+
+Licence en Mathématiques et Informatique
+Université Grenoble Alpes
+2019-2021
+
+COMPÉTENCES TEchniques
+
+Programmation Python, C, C++, SQL, OCaml, R, HTML, Github / Gitlab
+
+Machine Learning Scikit-learn, PyTorch, TensorFlow
+
+Bases de données / Graphes PostgreSQL, Graph Query Languages
+
+Gestion de projet Méthodologies Agile/Scrum
+
+Analyse de données Analyse des besoins métier, Data Visualization, Tableau, Power BI
+
+LANGUES
+
+Albanais Langue maternelle (C2)
+
+Anglais Courant (C2)
+
+Français Courant (C2)
+
+Italien Intermédiaire (B1-B2)

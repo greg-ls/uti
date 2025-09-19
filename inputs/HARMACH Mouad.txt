@@ -1,0 +1,293 @@
+
+
+Consultant Développeur COBOL
+
+
+FORMATIONS 
+
+2023                      Formation Gestion de Projet avec Devops (à distance chez Cegefos)
+
+DIPLOMES
+2003                      Diplôme d'Ingénieur Informatique option MIAGE | Ecole Marocaine des
+                          Sciences de l'Ingénieur (EMSI), Casablanca (Maroc)
+
+1997                      Baccalauréat Sciences Expérimentales
+
+
+COMPÉTENCES TECHNIQUES
+
+Langage de programmation: 
+Cobol, JCL, (intêret pour Rexx et CLIST), SQL,
+hors context professionnel :
+Python, C/C++, Rust, Linux, scripting bash.
+
+Bases de données: DB2, Supra
+
+Environnements de Développement: Eclipe RDZ, ISPF, TSO
+
+Outils d’analyse et gestion des données: Spufi, File-Aid, Strobe
+
+Outils de gestion de projet et suivi des tests: HP Quality Center, Service Now
+
+Outils d’intégration, de conteneurisation et de gestion des versions: Endevor, LCM, Git, GitHub, Docker
+
+Systèmes et plateformes: Mainframe, Unix/Linux
+
+Autres: ZEKE, XPeditor, RSM
+
+Méthodologies: Cycle en V, Agile.
+
+Compétences fonctionnelles
+Moyens de payement
+Finance : OPCVM
+Assurance : Sinistres Auto
+
+Analyse des besoins métiers
+Rédaction des spécifications générales et détaillées
+Conception et développement de solutions techniques
+Conception et exécution des plans de tests unitaires, non régression et d’intégration.
+Correction et suivi des anomalies/BAL équipe
+Mise en production, Préparation dossier de MEP, suivie production
+Support en production , analyse/résolution incidents de production.
+Documentation des reprises de chaînes, jobs pour les nouveaux cas.
+
+Langues :
+Français : Courant
+Anglais : parlé Bien, écrit courant.
+
+
+
+EXPÉRIENCES PROFESSIONNELLES
+
+
+COMMISSION DE CONSTRUCTION DU QUEBEC (CCQ)                                            Juillet 2022 à Décembre 2024
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Projet MISTRAL : Migration de MVS vers le Cloud (volet décommissionnement / historisation)
+Adaptation des programmes dont l’accès à certaines bases de données ont été supprimés ou
+modifiés.
+Equipe de ~10 personnes / Méthodologie Agile
+
+TACHES :
+   Recueil des spécifications techniques et fonctionnelles.
+   Analyse d’impacts de commissionnement des liens d’intégrités de la base de données SUPRA
+   Cartographie des patrimoines existants pour l’étude d’impact
+   Réalisation et développement des évolutions et modifications
+   Tests unitaires et d’intégration (rédaction des plans de tests et de recette, documentation des
+       tests unitaires, préparation MEP, exécution des tests)
+
+ENVIRONNEMENT TECHNIQUE :
+Files SUPRA, CICS, ISPF, SDSF, ZEKE, Service NOW, HP Quality Center, Cobol, JCL, Mainframe
+
+EURO INFORMATION                                                     Mars 2016 à Mai 2022 (6 ans et 2 mois)
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Intervention sur plusieurs projets :
+    Équipe Recouvrement Porteur Cartes :
+
+
+        Build et Run sur plusieurs projets relatifs à la gestion des opérations des cartes de
+        crédit / débit dans la partie émission.
+        Equipe de 12 personnes / Méthodologie Cycle en V puis Agile / SCRUM
+
+      Centre de Service Pôle Finance :
+        Projet en Run pour la gestion des mouvements d’actions OPCVM
+        Equipe de 6 personnes / Méthodologie Cycle en V
+
+TACHES :
+   Recueil des spécifications fonctionnelles
+   Rédaction spécifications techniques.
+   Création/Évolution des traitements (batchs IMS, DB2, appareillage fichiers), transactions,
+       composants TP.
+   Tests unitaires et de non régression
+   Tests d’intégrations
+   Recette.
+   Préparation des dossiers de MEP, pour mise en production.
+   Documentation des consignes de reprise (Carte SYSIN, fichiers à reinitialiser, indicateurs
+       clés).
+   Suivi de production.
+   Traitement des tickets incidents de recette et de production.
+
+
+
+Équipe Recouvrement Porteur Cartes
+Parmis les réalisations :
+   Mise en place de la conversion des mouvements JCB du format CMI au format interne
+       pour intégration aux chaînes monétiques (création d’une chaîne qui reçoit les
+       mouvement au format CMI, extraction des mouvements de frais JCB identifié par leurs
+       code réseau, et conversion au format interne, puis intégration au chaînes existantes).
+   Optimisation des consommations CPU des chaînes et programmes en utilisant les résultats
+       d’analyse Strobe.
+   Mise en place de nouvelles modalités de contrôles d’impayés (création de nouveaux
+       traitements, batch et les différents modules qui sont pilotés par ce batch pour la
+       personnalisation des impayés selon les délais des dates d’opération, les code MCC,
+       localisation des mouvements et date d’envoi des fichiers remises).
+   Correction du traitement SINGLE et rattrapage des mouvements non rapprochés pour les
+       cartes de crédit Cofidis-ES.
+   Participation à la gestion de BAL équipe des tickets d’incidents, MOA, de production et
+       recette
+   Réalisation de la partie back-end de la Transaction SCIM (Service de Consultation via
+       Internet des Mouvements de Cartes – Banque à Distance) (~150 j/h pour ma partie)
+
+
+
+Centre de Service Pôle Finance
+   Mise en place d’une transaction de création / modification des opérations OPCVM et batchs
+       de rapprochements
+   Accompagnement de la MOA sur les tests de qualifications
+   Analyse des corrections et anomalies liées aux jeux de données et correction de la solution
+       proposée.
+   Revue de code selon les normes de développement
+
+ENVIRONNEMENT TECHNIQUE :
+Spufi, File-Aid, Eclipse RDZ, ISPF, SDSF, HP Quality Center, DB2, Cobol, JCL, SQL, Outils internes
+
+
+BNPP                                                      Mars 2010 à Novembre 2015 (5 ans et 8 mois)
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Intervention sur différents projets :
+    TMA Gestion de Tenues de Comptes (GTC) :
+       Build et Run sur un projet de gestion de tenues de comptes
+       Equipe de 8 personnes / Méthodologie Cycle en V
+
+      TMA THALER :
+        Il s’agit d’un progiciel de gestion Bancaire, les interventions consistait à la création de
+        traitements faisant appels au API THALER pour la partie métier et utiliser la sécurité et
+        rapidité/volumétrie de Z/OS pour traiter les flux THALER, ainsi que l’implémentation de
+        nouvelles règles de gestions au niveau de la partie COBOL ne exonérant ainsi la modification
+        de l’existant sur THALER .
+
+TACHES :
+   Recueil des spécifications techniques
+   Développement de la couche pour faire appel aux API
+   Réalisation des tests unitaires et tests d’intégration
+
+ENVIRONNEMENT TECHNIQUE :
+RSM, XPeditor, LCM, File-Aid, DB2, Spufi, ISPF, Cobol, SQL, JCL
+
+
+
+
+EURO INFORMATION                                                        Août 2012 à Décembre 2012 (5 mois)
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Au sein du Centre de Service Banque et Réseaux
+Participation à la mise en place du fichier central pour FICOBA
+
+TACHES :
+   Recueil des spécifications techniques
+   Développement du traitement de création du fichier central
+   Réalisation des tests unitaires.
+   Tests d’intégration.
+   Recette et accompagnement de la MOA.
+
+ENVIRONNEMENT TECHNIQUE :
+Cobol, JCL, DB2, SQL, ISPF, File-Aid
+
+
+
+GAN ECOURTAGE                                                               Octobre 2011 à Juin 2012 (9 mois)
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Surveillance quotidienne des chaînes comptables et mise en place d’un module de gestion
+éditique
+Au sein d’une équipe de 8 personnes / Méthodologie Cycle en V
+
+TACHES :
+   Reproduction des anomalies de production
+   Analyses techniques et fonctionnelles à partir d'imprimé écrans des anomalies de
+       production du portail E-courtage
+   Surveillance et intervention sur la chaîne comptable et mise à jour du mode opératoire si
+       nouveau type d'anomalies
+   Conception du traitement principal de l’éditique pour l’impression des clauses particulières
+       de contrats commerciaux.
+   Évolutions de modèles de calcul comptable en COBOL en environnement unix
+
+ENVIRONNEMENT TECHNIQUE :
+Cobol, Unix, DB2, SQL, JCL, MVS
+
+
+
+SOCIETE GENERALE                                            Mars 2010 à Novembre 2011 (1 an et 9 mois)
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Intervention sur plusieurs projets :
+    TMA Services Aux Agences (SAA) :
+       Maintenance corrective et évolutive de l’outil interne permettant de surveiller les
+       attributions des coffres forts et les passages des agents d’entretien dans les agences
+       Equipe de 4 personnes / Méthodologie Cycle en V
+
+     TMA Fidélisation (FID) :
+       Maintenance corrective et évolutive de l’outil interne permettant de gérer la
+       fidélisation des clients
+       Equipe de 4 personnes / Méthodologie Cycle en V
+
+TACHES :
+   Recueil des spécifications techniques
+   Développement des évolutions
+   Réalisation des tests unitaires et tests d’intégration
+   Correction des bugs
+   Livraison via LCM
+   Accompagnement de la MOA pour la recette
+
+ENVIRONNEMENT TECHNIQUE :
+Cobol, DB2, SQL, JCL, LCM
+
+
+
+BANQUE CENTRALE POPULAIRE                                             Août 2009 à Décembre 2010 (1 an et 5
+                                                                                                    mois)
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Au sein du pôle moyens de paiements, flux d’échange interbancaire et compensations
+
+TACHES :
+   Refonte documentaire des chaînes de traitement batch
+   Développement et tests unitaires de batchs
+
+ENVIRONNEMENT TECHNIQUE :
+
+Cobol, DB2, SQL, JCL
+
+
+
+MEDIT (Filiale BNPP)                                             Mars 2007 à Juillet 2009 (2 ans et 5 mois)
+
+Analyste / Développeur COBOL
+
+CONTEXTE :
+Participation au développement du projet SEPA au sein du pôle BDDF
+
+TACHES :
+   Recueil et analyse des spécifications techniques
+   Développement des évolutions
+   Réalisation et exécution des tests unitaires et tests d’intégration
+   Correction des bugs
+   Accompagnement de la MOA pour la recette
+
+ENVIRONNEMENT TECHNIQUE :
+File-Aid, DB2, Spufi, ISPF, Endevor, Cobol, SQL, JCL
+
+
+
+SITEL                                                         Avril 2004 à Février 2007 (2 ans et 11 mois)
+
+Ingénieur support
+
+CONTEXTE :
+Support technique par téléphone pour les clients particuliers

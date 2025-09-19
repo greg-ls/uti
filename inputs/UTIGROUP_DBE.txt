@@ -1,0 +1,177 @@
+SYNTHESE DES COMPETENCES
+Chef de projet MOA/ Business Analyst
+
+Compétences fonctionnelles:
+Expertise, au sein d’institutions financières, notamment pour les Directions des Risques
+Engagements, Recouvrement, Pilotage Contrôle de Gestion, …
+Maîtrise d’ouvrage: cadrage, cahiers des charges, recettes, …
+Organisation, conduite du changement, accompagnement utilisateurs
+Management de projets, encadrement et animation d’équipes pluridisciplinaires
+Gestion de projets, depuis l’expression des besoins jusqu’à la mise en production
+Evolution des modèles de calcul ERC sur produits dérivés (mtm, add on, isda, collatéral...)
+Homologation Bâle 2 pour les particuliers & professionnels :
+Mise en place de moteurs de notations, de segmentation, base incidents, indicateurs qualité des données, datamart...
+Dossier d'homologation avec présentation à la CB,
+Recette, conduite du changement, revue schémas délégataires, ...
+Constitution d'un historique de défaut sur les CIL validé par l'ensemble des Directions concernées
+Mise en place de la nouvelle définition NDOD des défauts Bâlois
+Alignement du défaut bâlois sur le douteux comptable (harmonisation des règles avec impacts sur encours et provisions)
+Cartographie du contrôle permanent sur le risque crédit avec plan d'action dans une Direction des Risques
+Travaux QIS préparatoires pour une estimation des fonds propres mobilisés en fonction du modèle retenu
+
+CERTIFICATIONS
+2025: Certification ISTQB Foundation
+
+FORMATIONS
+2017: Formation SAS / Programmation et fondamentaux
+2010 : Formation Informatique Test & Recette (IF2I) Quality Center V10 et QTP 10
+2006 : Formation Informatique Développeur (IF2I)
+
+DIPLOMES
+1998 : DEA Monnaie Finance Nanterre
+1997 : Maîtrise d’Econométrie Panthéon SorbonneParis I
+1993 : DEUG Sciences et Structures de la Matières Paris VII
+1991 : Baccalauréatsérie D (dominante Biologie)
+
+LANGUES
+Anglais: courant
+
+EXPERIENCE PROFESSIONNELLE
+De Juin 2023 à Janvier 2025 : BPCE SI – Finance & Risques
+Business Analyst sénior
+Contexte
+Au sein de la plateforme Finance et Risques. accompagnement sur les activités connexes au produit Sécurité Financière EQUINOXE
+Prise en charge de la gestion du besoin Métier sous délégation du CP
+Tâches
+Animation des ateliers de travail avec les établissements dans le but d'intégrer dans leur poste de travail la solution la plus appropriée.
+Participation à la recette des lot IT (en assurant la communication des livraisons)
+Organisation et Animation de son projet Métier :
+Gestion des risques (participation avec le CP à la gestion du projet qualité, coût, délai)
+Gestion de la qualité des livraisons (recette)
+Participation aux instances opérationnelles Comités de projets (COPRO avec intervenants internes)
+Participation aux instances opérationnelles avec d’autres entités du Groupe (Ateliers de travail)
+Vérification de la pertinence des solutions fonctionnelles retenues en s’appuyant sur les instances correspondantes (atelier banque, atelier DSFG, Comité Animation Banque)
+Reporting du projet : Reporting hebdomadaire avec remontées d’alertes éventuelles, contribution au Reporting mensuel
+Contribution aux instances de décision COPIL
+Environnement technique: Confluence – Jira - Teradata
+
+D’Avril 2022 à Mai 2023 : SOCIETE GENERALE – BDDF
+Business Analyst/ Homologateur MOA
+Contexte:
+Contribuer à la migration des crédits PRO et ENT du Crédit du Nord sur la plateforme informatique de la Société Générale (programme YOGA)
+Piloter la certification statique pour les nouvelles données dans l’outil dédié (LOANS CREDITME)
+Coordonner et faciliter l’action des opérationnels du Crédit du nord (activité, mise en place d’un échantillon, expliquer le fonctionnement cible, identifier les fiabilisations en source indispensables, les régularisations post bascule nécessaire, les écarts acceptés…)
+Tâches
+Rédaction de livrables types (type cahier de recette, PV)
+Recette (de la rédaction du plan de recette utilisateur à la recette) (Xray)
+Faire évoluer DRF (de la détection de l’anomalie à la mise en place une nouvelle règle de gestion)
+Environnement technique: LOANS – X Ray
+
+Février 2015à Mars 2022 : BNP PARIBAS – BDDF Finance
+Chef de Projet MOA/ Business Analyst
+Contexte
+Mise en place de la nouvelle définition NDOD des défauts Bâlois
+Contribution sur l’implémentation de la nouvelle définition du défaut (BCE)
+Maintenance évolutive de la Base des Créances Risquées (détermination du défaut, provision et apurement)
+Evolutions sur le moteur de déclassement et de reclassement (Retail et Corp)
+Mise en place du droit à l’oubli pour les clients en recouvrement
+Evolution des juridictions applicatives pour le Contentieux et Recouvrement
+Mise en place de la période probatoire pour l’implémentation de la nouvelle définition du défaut (BCE)
+Suivi et correction des écarts de provisions entre la Comptabilité et les Risques
+Amélioration du modèle de provisionnement statistique pour empêcher les pertes non couvertes
+Rapprochement avec le groupe des encours en défaut et des pertes sur un exercice (BCE)
+Taches
+Rédaction de livrables types (notes de cadrage, expression de besoin, cahier des charges…)
+Recette (de la rédaction du plan de recette utilisateur à la recette) (ALMQC)
+Animation des comités de projet avec le métier
+Pilotage des écarts de provision entre Risque et la Comptabilité
+Production de reporting sur le coût du risque
+Environnement technique: VBA – Access – SQL – ALM QC – Confluence
+
+Janvier 2012 à Décembre 2014 : Crédit Foncier de France / IT-CE
+Chef de Projet MOA
+Taches
+Migration du SI CFF vers plateforme Mysys pour les outils du Pilotage (suivi d’activité et calcul PNB)
+Sécurisation Belgique (partie Risques: Base Incidents, notation, Sequana)
+Maintenance évolutive des applications du Contrôle de Gestion (instruction et Gestion)
+Mise en place d’une base de données dédiée aux Prêts viager hypothécaires
+Portage MOA des induits sur le décisionnel (projets du PIA)
+Rédaction des notes de cadrage
+Rédaction de cahiers des charges
+Animation des comités de projet avec le métier
+Pilotage
+Rédaction de plans de recette utilisateur (ALM)
+Requêtes SQL
+Environnement: SQL – ALM 11
+
+De Février 2009 à Juin 2010: Caisses d’Epargne Provence Alpes Corse
+Consultant Risques / Support fonctionnel
+Tâches
+Expertise Risques pour assurer la migration informatique de la caisse PAC vers le système cible du GCE
+Conduite du changement
+Constitution du dossier d’homologation (cahiers de recette) pour Commission Bancaire et Audit interne:
+Participation à l’homologation Bâle 2 multi marchés du Groupe Caisse d’Epargne
+Contribution sur le contrôle permanent du Risque Crédit pour la BDD et la BDR
+Reportings d’activité (VBA, Access)
+Environnement technique: VBA - Access
+
+De Mars 2007 à Octobre 2008: Groupe Caisses d’Epargne
+Chef de projet / Consultant fonctionnel risque
+Tâches
+Pilotage budget du Domaine Risque & Recouvrement / Recherche de ressources / Encadrement (5 à 6 personnes)
+Répondre aux besoins des Directions Risques et assurer la conformité réglementaire
+Coordination de l’activité avec la Direction Risque Groupe et la MOE
+Rapports, animation de comités et interface avec les Directeurs Risques en caisses
+Traiter les recommandations de l’Audit et de la Commission Bancaire en période d’homologation Bâle 2 (BDD)
+Dans le cadre de fusions/migrations, assurer la «non génération» d’écarts fonctionnels avec la cible
+
+D’Avril 2006 à Mars 2007: ACTI Consulting
+Consultant MOA
+Tâches
+Support fonctionnel à l’activité commerciale bancaire
+Recueil et expressions des besoins clientèle, rédaction des réponses à appels d’offres
+
+De Mars 2003 à Mars 2006: DEXIA CREDIT LOCAL
+Analyste financier
+Contexte
+Institutions financières:
+Tâches
+Analyse et surveillance, en complément de la Cellule Centrale des Analystes belges, de plusieurs portefeuilles parisiens principalement composés d’institutions financières
+Animation des réunions avec les équipes métier
+Suivi trimestriel de contreparties dites «sensibles» et «dérogatoires ». Réalisation d’analyses sectorielles
+Contexte
+Autres Acteurs Locaux:
+Taches
+Analyste sur CCM, CH, Associations médico-sociales, d’enseignement privé, chambres de commerce, parapublic…
+Participation au Comité de Crédit avec avis
+
+De Septembre 1999 à Février 2003: DEXIA CREDIT LOCAL
+Credit Risk Manager
+Taches
+Responsable du suivi risque crédit et de contrepartie (limite & exposition)
+Reportings liés à l’activité et revue de presse
+Back up pour la gestion des contrats de collatéraux (appels de marge voire négociation des contrats)
+Participation régulière aux comités de marchés
+Participation avec le holding pour l’évolution du modèle de calcul des risques crédit
+Evaluation des actifs pondérés (obligataire et produits dérivés), QIS 2, …
+
+De Mai à Septembre 1999: CDC Marchés
+Assistant Sales (stage)
+Taches
+Mise en place et développement du reporting Sales Crédit
+Interlocuteur des vendeurs (filiales de Francfort, New York et Tokyo)
+Interface Middle Office pour la clientèle sur le règlement des opérations
+
+De Juin à Août 1998: SOCIETE GENERALE, Montréal
+Assistant Trader (stage) - Assistance sur produits de taux canadiens et provinciaux
+Tâches
+Participation aux reportings des résultats de la salle pour la direction des marchés
+Développement d’un système d’échéancier et de gestion de stocks
+
+COMPETENCES TECHNIQUES
+Systèmes : MVS, TSO, Windows NT
+SGBD : ORACLE, DB2, SQL Server, Access, BO
+Langages : SQL, COBOL, JCL, JAVA, XML
+Outils: ALM QC, QTP, PACBASE, BO, Bloomberg, Reuters
+Méthodes: MERISE, UML
+Bureautique: Univers Microsoft

@@ -1,0 +1,429 @@
+Développeur Full Stack | Chef de projet Technique
+
+
+// FORMATION
+2007 Licence Informatique - Option systèmes d'information - CNAM Paris.
+2006 DUT Informatique - Option génie informatique - CNAM Paris.
+2002-2003 ESIG (Ecole Supérieur d'Informatique et Gestion).
+2001-2002 Formation "Administrateur Réseaux et Téléinformatique" (Formation niveau III).
+1998 British Council, First Certificate of English.
+1993 Baccalauréat F3 électrotechnique.
+
+
+// COMPETENCES TECHNIQUES
+Systèmes: Linux, MacOs, Windows.
+Méthodologies: Agile (Scrum), TDD, CI/CD
+Langages: JavaScript, TypeScript, PHP, Python, Go, Java, SQL, Shell, Ada, C, Rust, HTML
+Web: HTML5, CSS, JSON, AntD, EJS, Bootstrap, Semantic UI, Material UI
+Base de données: DynamoDB, MongoDB, PostgreSQL, MySQL, FluxDB, Redis, SQL Server, Oracle, Sybase
+Serveurs: Apache, Nginx, Varnish, ElasticSearch, Apache SolR, Tomcat, Glassfish, CAS, Bind.
+JavaScript: React JS, VueJS, Svelte JS, Node.js, Express.js, Webpack, Jest, Mocha, Cucumber, eslint, Axios, Got, Passport, Mongoose, npm, pnpm, yarn, Brunch, ExtJS, Backbone, Ember, Angular, Jquery, Jquery.flot, Plop,...
+Java: JavaFX8, Applet, J2ME, Struts2, Spring MVC, CXF, Hibernate, Maven, Ant, Jasper Report, JBPM, JAXB, JSP, JSF, JSTL, JUnit 4, Apache Lucene, SLF4J, PowerMock, Google Guice.
+PHP: Symfony, Twig, Silex, Zend, Doctrine, Composer, Puli, Codelgniter, PhpDocumentor, JPGraph, Drupal, Wordpress, Magento.
+Sécurité: Cognito, OpenSSL, PKI, SSO, CAS, OpenLDAP, GR security, Iptables, oauth2, Cryptolib, JSSE, PKCS#11.
+Services Cloud: AWS (CloudFormation, EC2, ECS, Lambda, S3, RDS, DynamoDB, Elasticache, APIGateway, CodePipeline, Poly, IAM, Kinesis, Alexa, Amplify, AppSync, Step Functions, SNS, SQS, Cloudwatch, CDK), Terraform, Terragrunt, Pulumi, Copilot
+IOT: MQTT, Mosquitto, Z-wave, EnOcean, NodeRed, Raspberry Pi
+Web 3: web3.js, ether.js
+
+TECHNOLOGIES
+ADA: 4 ANS
+JAVASCRIPT: 6 ANS
+TYPESCRIPT: 5 ANS
+NODE.JS: 6 ANS
+PHP: 7 ANS
+JAVA: 6 ANS
+HIBERNATE: 5 ANS
+MAVEN: 5 ANS
+SPRING: 6 MOIS
+STRUTS 1.x, 2.x: 5 ANS
+DRUPAL: 1 AN
+MAGENTO: 4 ANS
+SYMFONY: 4 ANS
+WORDPRESS: 2 ANS
+AWS: 6 ANS
+GRAPHQL: 3 ANS
+EXPRESSJS: 8 ANS
+ELASTICSEARCH: 7 ANS
+REACTJS: 6 ANS
+OPENSSL: 1 AN
+MONGODB : 7 ANS
+MYSQL: 11 ANS
+ORACLE: 1 AN
+POSTGRESQL: 6 ANS
+SQL SERVER 1 AN
+PYTHON : 3 ANS
+GO: 1 AN
+RUST: <1 AN
+SHELL: 10 ANS
+
+// EXPÉRIENCES PROFESSIONNELLES
+
+Février 2024 à Novembre 2024
+Industrie de l'énergie
+EDF
+Poste: DÉVELOPPEUR FULL STACK (Nest JS / Angular)
+Au sein d'une équipe de développeurs dédiée à la conception d'un MVP (Minimum Viable Product), pour un projet soumis à des normes et accréditations strictes, dans le domaine du nucléaire, j'ai contribué activement à l'élaboration d'une solution stratégique. En tant que développeur fullstack, mes responsabilités incluent:
+Contexte: Développement d'une API REST
+En charge de la conception et implémentation d'une API REST sécurisée avec NestJS et PostgreSQL, garantissant la gestion et la recherche fiable et performante de données sensibles.
+Tâches :
+Mise en œuvre de tests unitaires et fonctionnels pour assurer la qualité et la fiabilité du produit.
+Contexte: Développement d'un client Web
+Aide au développement d'un client web ergonomique en Angular, destiné à offrir une interface utilisateur intuitive pour accéder et manipuler les données critiques.
+Environnement technique: Nest JS, Node JS, Angular, TypeScript, PNPM, Webpack, AWS, PostgreSQL, TypeOrm, Terraform, ApiGateway, S3, Cognito, Gitlab, Swagger, Postman, MaterialUI, Jira, Jest
+
+Novembre 2021 à novembre 2023
+Emeria / Foncia
+Immobilier
+Poste: DÉVELOPPEUR FULL STACK (NodeJS / React)
+Contexte: Développement et maintenance de la plateforme Millenium
+La plateforme Millenium, un ERP développé par Emeria Technologies, est un outil clé pour les métiers de l'immobilier. Elle couvre un large éventail d'activités, de la comptabilité interne à la gestion locative, en passant par la gestion de copropriété, les transactions immobilières, les déclarations fiscales et la gestion des fournisseurs. Millenium repose sur une architecture en microservices. Une vingtaine de services développés en JavaScript (Node.js, Express, React). Les données sont gérées via MongoDB Atlas, et les services sont déployés sur AWS avec une intégration et un déploiement continu (CI/CD), orchestrés par Terraform.
+Tâches :
+Au sein d'une équipe de 6 développeurs, je contribue activement au développement et à la maintenance corrective et évolutive des fonctionnalités de cet outil essentiel.
+Contexte: Migration et optimisation de la plateforme
+Dans le cadre de l'évolution de Millenium, une deuxième version de la plateforme est en cours de développement. Elle vise à optimiser le code et les données tout en proposant une architecture plus extensible, avec NestJS, TypeScript et PostgreSQL. La structure de la base de données a été repensée pour répartir les données des cabinets dans des bases distinctes. J'ai participé à cette transition en re-développant le module de génération de documents, désormais basé sur des composants ReactJS pour une modélisation plus efficace.
+
+Contexte: Module des déclarations fiscales
+J'interviens également sur le développement et la maintenance corrective du module de déclaration des impôts fonciers. Ce module gère les déclarations pour les comptes bailleurs et les immeubles des cabinets Foncia.
+
+Contexte: Module de rapprochement bancaire
+Enfin, j'ai développé un module dédié au rapprochement et à la compensation des comptes bancaires, renforçant la gestion financière et la fluidité des opérations.
+
+Environnement technique: Node JS, Express JS, React JS, Nest JS, JavaScript, TypeScript, PNPM, Webpack, AWS, Mongoose, MongoDB, PostgreSQL, Prisma, GraphQL, Terraform, ApiGateway, S3, Okta, Gitlab, Swagger, Postman, MaterialUI, Jira, Datadog, Jest, Cucumber, Rabbitmq
+
+Septembre 2019 à novembre 2021
+TV/Media
+Eurosport/Discovery
+Poste: DÉVELOPPEUR FULL STACK (NodeJS / React / AWS)
+Contexte :
+Au sein d'une équipe agile de 7 développeurs, j'ai participé activement à la conception, au développement et à la maintenance du projet « InFlow », une brique centrale de l'écosystème Eurosport, jouant le rôle d'orchestrateur entre différents projets de la plateforme. Voici les principaux domaines de contribution:
+Tâches : 
+Développement et maintenance des microservices sur AWS
+Ingestion de données EPG: Intégration des données (SQL Server, API Rest) dans DynamoDB.
+Encodage et publication: Déclenchement des workflows (Step Functions) pour l'encodage des clips et programmes (Live, Replay).
+Publication de contenus: Gestion de la taxonomie et publication vers une vingtaine de pays, sur différents streams (350 au total).
+Gestion des actions: Historisation complète des processus (ingestion, encodage, publication) dans des jobs.
+Écriture de tests unitaires (TDD) et fonctionnels avec Jest et Cucumber pour garantir la robustesse des services.
+Déploiement en CI/CD via Circle-Cl et Terraform, avec des microservices Lambda développés en Node.js et exposés via API Gateway.
+
+Contexte: Développement d'un Backoffice pour la gestion des ressources
+Tâches :
+Création d'un outil en ReactJS et Ant Design permettant l'administration des programmes, clips, lives, utilisateurs, et autres ressources.
+Intégration de l'API GraphQL et d'AWS ElasticSearch pour la recherche.
+Déploiement en CI/CD sur S3 avec Circle-Cl et Terraform.
+Contexte: Authentification et gestion des droits
+Mise en place d'une solution d'authentification et de gestion des droits utilisateurs pour le Back Office en utilisant Okta et Cognito.
+
+Contexte: Contribution spécifique aux Jeux Olympiques
+Tâches :
+Développement de fonctionnalités adaptées pour les JO.
+Participation à des astreintes de nuit pour assurer la maintenance corrective des programmes en Live.
+Contexte: Support technique et coordination internationale
+Support technique de niveau 3 pour les utilisateurs (éditeurs, opérateurs, développeurs).
+Participation aux réunions de crise avec des interlocuteurs dans plusieurs pays (France, Suède, USA, UK, Inde, Argentine).
+Mon rôle a permis d'assurer la fiabilité, l'évolutivité et la disponibilité des services critiques d'Eurosport, en répondant aux besoins d'un environnement international exigeant et en constante évolution.
+Environnement technique: Node JS, React JS, JavaScript, Yarn, Webpack, AWS, Lambda, DynamoDB, GraphQL, Terraform, AppSync, ApiGateway, S3, Cognito, Okta, SNS, SQS, Step Functions, ElasticSearch, Kibana, Github, Swagger, Postman, AntD, Jira, Circle-Cl, New-Relic, Jest, Cucumber
+
+Novembre 2016 à avril 2019
+PROSODIE/CAP-GEMINI / PSA
+Opérateur de Services
+Poste: DÉVELOPPEUR FULL STACK (NodeJS / React / AWS)
+Contexte :
+Dans le cadre d'un partenariat avec PSA, j'ai participé à la conception et au développement d'une plateforme innovante de type marketplace pour FreezMove Services. Ce projet, réalisé en mode Agile, vise à simplifier l'accès à divers services liés à la mobilité directement depuis les véhicules équipés d'un NAC. Voici un résumé de mes principales contributions:
+Tâches :
+Développement de la plateforme FreezMove Services
+Conception et développement de microservices sur AWS (Lambda, DynamoDB, API Gateway).
+Intégration des services tels que gestion des utilisateurs, véhicules, facturation mensuelle, achats de parkings (OnStreet, OffStreet), péages, et voituriers.
+Mise en place d'un système de paiement via HiPay pour la gestion des factures et transactions.
+Déploiement des services en CI/CD avec CodePipeline.
+Contexte: Création d'un outil Back Office
+Développement d'un Backoffice en ReactJS et MaterialUI pour gérer les ressources de la plateforme (utilisateurs, services, promotions, etc.).
+Mise en place d'ElasticSearch pour optimiser les recherches.
+Déploiement sur des instances EC2 avec Docker et Elastic Load Balancing, en CI/CD.
+
+Contexte: Développement du système de Shops
+Tâches :
+Conception du premier "Shop" basé sur Node-Red, permettant aux équipes marketing d'intégrer des services tiers via des scénarios fonctionnels.
+Intégration des API de fournisseurs comme Parkeon, Woosh, Easytrip, et Amadeus.
+Communication avec PSA via le protocole MQTT.
+Déploiement des shops dockerisés sur EC2 avec Elastic Load Balancing et CodePipeline.
+Contexte: Authentification et gestion d'identité
+Mise en place d'une solution Single Sign-On (SSO) avec Cognito pour les applications et APIs de la plateforme.
+
+Contexte: Automatisation des infrastructures
+Tâches :
+Conception et développement de scripts en AWS CloudFormation pour automatiser la création des ressources d'infrastructure et des pipelines CI/CD.
+Avec ces contributions, j'ai aidé à rendre la plateforme plus évolutive, intuitive et adaptée aux besoins des utilisateurs, tout en garantissant une infrastructure robuste et performante.
+
+Environnement technique: Node JS, Express JS, React JS, JavaScript, Webpack, AWS, CodePipeline, Cloudformation, Lambda, DynamoDB, GraphQL, EC2, S3, Cognito, MQTT, Mosquitto, ElasticSearch, GIT, Swagger, Postman, MaterialUI, Docker, Jira, Linux
+
+Avril 2015 à octobre 2016
+Radio / Media
+NRJ
+Poste: DÉVELOPPEUR PHP (Symfony2 / Silex)
+Dans le cadre de la refonte des sites nrj.fr, cheriefm.fr, nostalgie.fr, rireetchanson.fr, et autres plateformes associées, j'ai participé activement à plusieurs étapes clés du projet, réalisé en mode Agile. Voici un aperçu de mes contributions:
+Contexte: Conception et développement des briques communes
+Tâches :
+Développement des bases communes pour tous les sites avec Silex 2 et Puli.
+Architecture modulable: un paquet partagé entre les sites et des bases de données spécifiques par site sous MongoDB.
+Mise en place de l'indexation des données avec ElasticSearch pour alimenter les frontaux avec des données structurées.
+Création d'API (webradios, replay, grille TV, programmes, utilisateur, etc.) avec Symfony2, Swagger, et API-bundle.
+Développement de commandes spécifiques (diffusions radio, sitemaps, encodage vidéo, feeds RSS) avec Silex.
+
+Contexte: Développement des fonctionnalités utilisateur
+Tâches :
+Conception des formulaires pour l'authentification, la gestion des profils, et la récupération des mots de passe, avec intégration de Redis et sauvegarde via API dans la base utilisateurs.
+Création de bibliothèques front-end (diaporama, recherche, menus, réseaux sociaux, etc.) en JavaScript, utilisant Common.js, jQuery, et Brunch.
+
+Contexte: Migration des données
+Tâches :
+Conception d'un ETL (Extract, Transform, Load) sous Symfony2 pour gérer les imports de données dans MongoDB et ElasticSearch. Gestion du mapping pour maintenir les index ElasticSearch à jour lors des importations.
+
+Contexte: Développement d'un nouveau backoffice
+Tâches :
+Création des modules de gestion pour les playlists, articles, artistes, programmes, utilisateurs, votes, médiathèque, avec Symfony2, jQuery, et Bootstrap.
+Intégration d'un système d'authentification dédié et un dispositif de changement de base pour les utilisateurs selon les besoins des différents sites.
+Grâce à ces contributions, nous avons contribué à moderniser l'écosystème NRJ et à améliorer l'expérience utilisateur pour des millions d'auditeurs et visiteurs en ligne. Ce projet a également permis de renforcer la modularité et la performance des plateformes, tout en rendant leur gestion plus intuitive et efficace.
+
+Environnement technique: PHP5, Javascript, Silex, Symfony2, Twig, ElasticSearch, MongoDB, GIT, MongoChef, Swagger, Brunch, CommonJs, Bootstrap, New Relic, Webistrano, Xiti, Jenkins, Jira, Linux
+
+Septembre 2013 à avril 2015
+Éditeur de logiciel
+DALLOZ/ELS GESTION
+Poste: DÉVELOPPEUR JAVA / JAVAFX
+Contexte: Développement d'un client de recherche ergonomique
+J'ai conçu et développé un client de recherche full-text basé sur Apache SolR, destiné à faciliter l'accès et l'exploitation des données éditoriales (pose de liens, exploitation numérique, transformation des documents en HTML via XSLT). Mes contributions incluent:
+Tâches :
+Analyse des besoins et rédaction des spécifications fonctionnelles et IHM.
+Prototypage, tests utilisateurs et intégration des retours en méthode Agile (Scrum).
+Mise en place de l'intégration continue des modules avec Jenkins.
+Rédaction des spécifications techniques, chiffrage du projet, et réalisation des phases de recette et qualification.
+
+Contexte: Conception d'une application de supervision des travaux d'exploitation
+J'ai également conçu et réalisé une application de supervision pour les travaux d'exploitation des fonds Dalloz:
+Tâches :
+Développement d'un client JavaFX installé sur les postes des techniciens, connecté à une application serveur pour gérer les tâches d'exploitation via une base de données.
+Rédaction des spécifications fonctionnelles et techniques, ainsi qu'un guide d'installation.
+Qualification et recette pour garantir la fiabilité et la performance de l'application.
+Ces projets ont permis d'améliorer l'efficacité des équipes éditoriales et techniques, tout en offrant des outils ergonomiques et robustes pour leurs activités quotidiennes.
+
+Environnement technique: Java 8, JavaFX, Maven, Google Guice, Spring MVC, Spring Batch, CXF, PostgreSQL, REST, SOAP, Git, SolR, Glassfish4, Tomcat8, Jenkins, Sonar, Jira, Netbeans, Scrum
+
+Mars 2013 à septembre 2013
+Groupe L'EXPRESS - ROULARTA
+Média
+Poste: DÉVELOPPEUR PHP (Symfony 1.4)
+Contexte : Migration des sites belges (données, front) vers le système centralisé français.
+Tâches :
+Conception, développement et optimisation des scripts de migration sous Symfony 1.4.
+Gestion des contenus dynamiques en XML et XSLT. Correction d'anomalies sur la plateforme existante.
+Rédaction du guide de déploiement. Recettes et qualification.
+
+Environnement technique: PHP 5.3+, Symfony 1.4, MS SQL, MySQL, Git, Web services (REST), Sublime Text2
+
+Décembre 2012 à février 2013
+Éditeur de logiciel
+VOLUNTIS
+Poste: DÉVELOPPEUR JAVA
+Contexte : Réalisation d'une applet permettant la lecture des informations des cartes CPS (Carte pour les Professionnels de Santé) pour authentifier les utilisateurs à l'aide d'un certificat électronique, envoyer les informations de la carte au serveur et contrôler la session utilisateur. Tâches :
+Chargement, déchargement et exécution de l'applet à l'aide de JavaScript. Tests et recettes sur les environnements Windows et MacOsX. Spécifications techniques et guide de déploiement.
+Environnement technique: JAVA 1.6, JSSE, JavaScript, OpenSSLCryptolib, PKCS#11, Eclipse, Maven, Subversion, Lecteur de carte
+
+Décembre 2011 à décembre 2012
+BETCS 4D DIGITAL (Havas)
+Web Agency
+Poste: CHEF DE PROJET TECHNIQUE
+Contexte: Crédit Agricole / Soyjoy/Transitions:
+
+Tâches :
+Etude des besoins et rédaction des spécifications techniques pour l'ensemble des sites portail du Crédit Agricole (SPIP). Études amont préalables au lancement des projets avec les équipes Marketing et créatives.
+Réalisation et suivi des plannings projets. Suivi de production des équipes onshore et offshore (Maroc).
+Respect des délais de livraison pour toutes les opérations commerciales. Phase de recette et qualification.
+Design, chiffrage, intégration au plan de charge global de la TMA (Crédit Agricole).
+Contexte: Cuir Center:
+Suivi de production des équipes offshore (Vietnam). Réalisation et suivi des plannings projet. Tests et recettes. Mise en production du site cuircenter.com sous Magento.
+Encadrement des équipes de développeurs offshore, pour garantir la qualité du code, partager les bonnes pratiques, et assurer la cohérence des livrables.
+Environnement technique: PHP 5.3+, SPIP, Magento 1.6+, HTML5, CSS3, SPIP, Zend, SQL, JavaScript, JQuery, XITI, Facebook (FQL, Graph API), SOA, Phone Gap, Textmate, Subversion, Webistrano, Linux, MySQL, Redmine, Jira
+
+Juillet 2011 à novembre 2011
+WONDERBOX
+eCommerce
+Poste: DÉVELOPPEUR PHP
+Contexte : Conception et réalisation d'une application pour compenser et facturer les chèques des fournisseurs partenaires, génération des factures PDF (fpdf), en mode agile (Scrum), en PHP et JavaScript, avec Zend et ExtJS. 
+Tâches :
+Spécifications techniques, phase de recette et qualification.
+Environnement technique: PHP 5.3+, Zend, JavaScript, ExtJS, fpdf, HTML5, CSS3, SQL, Scrum, Eclipse, Subversion, GIT, MySQL, Linux
+
+Janvier 2011 à juin 2011
+Web Agency
+YLLY
+Poste: CTO & LEAD DEVELOPPEUR PHP
+Contexte : Client: Apila / Arengi/AFA / Nikon / EADS Seca
+Tâches :
+Maintenance évolutive des applications, développées en PHP avec Symfony 1.4, Magento et Zend.
+Spécifications fonctionnelles et techniques. Développement des évolutions clients en mode agile (Scrum), coordination des développements Offshore (Maroc). Tests et recettes. Administration et maintenance des serveurs chez un hébergeur externe pour assurer la distribution d'une vingtaine de sites en parallèles.
+Environnement technique: PHP 5.3+, Symfony 1.4, Zend, Magento 1.6+, HTML5, JavaScript, JQuery, XML, Textmate, GIT, Subversion, Apache, MySQL, Linux (Debian)
+
+Novembre 2008 à avril 2012
+eCommerce
+ORGONE DESIGN
+Poste: CO-FONDATEUR / CTO & DÉVELOPPEUR (Magento, Wordpress)
+Contexte : Conception et développement du premier site sous Drupal. Migration successive de la base des produits sous Magento 1.3, 1.4+ puis 1.6 sur 3 ans. Conception et réalisation de modules spécifiques (Designer, Email, Affiliation, ...). 
+Tâches :
+Réalisation d'un module de paiement Banque Populaire (ATOS - Cyberpaiement). 
+Coordination, planification et implémentation des évolutions du SEO, SEM avec l'ensemble des prestataires externes, afin d'améliorer le référencement sur la boutique et le blog. 
+Intégration CSS des sites Magento et Wordpress. Administration et maintenance des serveurs sous Linux chez un hébergeur externe pour assurer la distribution des sites (Apache, MySQL, Bind, PureFTPd, ...).
+Environnement technique: PHP 5.3+, Magento 1.4+, Drupal 5+, HTML5, CSS3, JavaScript, JQuery, Wordpress, SOA, SQL, ATOS, Textmate, Subversion, Bind, Apache, Mysql, PureFTPd, Linux (Debian)
+
+Juin 2008 à janvier 2011
+eCommerce
+MOBY VIEW
+Poste: LEAD DÉVELOPPEUR (Symfony 1.4, Java 1.5)
+Contexte: Plateforme de génération d'applications mobiles natives
+En tant que lead technique, j'ai dirigé la conception et le développement d'une plateforme de génération d'applications mobiles natives pour iOS et Android, permettant la création d'applications personnalisées via un formulaire intuitif (nom, contenu, type d'application, paiement, publication sur les stores). Mes responsabilités incluent:
+Tâches :
+Responsabilité technique: Définition de l'architecture technique en SOA (REST, socket) et rédaction des spécifications techniques pour garantir la qualité et la maintenabilité du code.
+Développement serveur: Implémentation de la recherche, du tri et des filtres avec Hibernate Search.
+Gestion des CI/CD: Mise en place de l'intégration continue des modules via Jenkins.
+Garantie de qualité: Supervision des tests, recettes, et qualification, revues de code pour assurer la conformité avec les exigences fonctionnelles.
+Support technique: Accompagnement des développeurs dans la résolution des problèmes techniques, partage des bonnes pratiques, et validation des livrables.
+
+Contexte: Messagerie instantanée basé sur l'IA
+J'ai piloté la conception et le développement d'une messagerie instantanée intelligente, basée sur l'IA, intégrée à la plateforme dialoguecare.com, avec un agent conversationnel. Mes actions principales:
+Tâches :
+Coordination des équipes: Gestion des développeurs pour le développement des clients de messagerie sous iOS 4 et Flash (AS3), en veillant au respect des délais et des standards qualité.
+Intégration et diffusion: Intégration de la messagerie via un protocole de communication basé sur des messages (sockets) pour une diffusion en temps réel, tout en assurant une compatibilité optimale avec la plateforme.
+Assurance qualité: Planification et supervision des tests, revues de code, recettes et qualification.
+Contexte: Administration de serveurs Linux
+En tant que responsable de l'administration, j'ai assuré la gestion et la maintenance des serveurs Linux hébergés chez un prestataire externe.
+Optimisation des performances: Supervision de l'infrastructure pour garantir une distribution fluide des sites en parallèle sous Glassfish.
+Soutien technique: Assistance des équipes pour résoudre les incidents critiques et optimiser les performances des serveurs.
+
+Contexte: Garant de la qualité et mentorat technique
+En complément de ces missions, j'ai pu :
+Tâches :
+Établir des standards de qualité: Mise en place de bonnes pratiques de développement (code review, architecture claire, documentation).
+Encadrer les développeurs: Accompagnement des équipes juniors et freelances dans leur montée en compétences techniques et méthodologiques.
+Assurer la cohérence technique: Vérification des implémentations pour garantir l'alignement avec les objectifs du projet et les exigences de performance.
+Ces rôles ont renforcé ma capacité à gérer la responsabilité technique d'un projet tout en assurant un environnement collaboratif et performant pour les équipes.
+Environnement technique: PHP 5.2+, Symfony 1.4, Java 1.5, JavaScript, JQuery, Html5, CSS3, Jboss-Seam, JSF, Lucene, XML, Objective-C, Scrum, SOA, Eclipse, Hibernate, JAXB, Reddwarf, Maven, Subversion, GIT, MySQL Cluster, Apache, Jenkins, Glassfish, Linux
+
+Avril 2007 à Juin 2008
+Mission (régie):
+LINAGORA
+SSLL
+Poste: DÉVELOPPEUR JAVA
+Client: JC Decaux
+Contexte : Mise en place d'une solution SSO sur une application Java, pour authentifier les utilisateurs sous Active Directory avec Tomcat (Security realm) et enregistrement des messages dans une base Oracle. 
+Tâches :
+Spécifications techniques. 
+Tests et recettes.
+Environnement technique: JAVA J2EE 1.4, Microsoft ActiveDirectory, Eclipse, OpenOffice, Tomcat, Oracle 11, Windows.
+
+Mission (forfait):
+DÉVELOPPEUR JAVA
+Client: CertEurope / Infogreffe
+Contexte : Conception et développement d'une application permettant la gestion des identités, des certificats et des habilitations (par URL) des utilisateurs protégés par un serveur CAS, dans la mise en place d'une solution SSO. Les identités sont sauvegardées tous les jours dans une base référente sous PostgreSQL. Spécifications techniques, guides d'installation et d'utilisation de l'application. 
+Tâches :
+Tests et recettes.
+Environnement technique: Java J2EE 1.4, PL-SQL, HTML, JQuery, XML, CSS, SSL, Eclipse, Ant, Struts2, Hibernate3, Tomcat, AXIS, CAS, SSO, PostgreSQL, Linux
+
+Mission:
+FORMATEUR HIBERNATE
+Client: Police National
+Contexte : Formation Hibernate (3 jours). 
+Tâches :
+Rédaction des supports de cours et implémentation des exemples de cours en Java.
+Environnement technique: Java J2EE 1.4, Hibernate3, Ant, Eclipse, Tomcat, MySQL.
+
+Mission (forfait):
+DÉVELOPPEUR PHP (Symfony 1.2)
+Client: Ministère de la défense (habilitation confidentiel défense)
+Contexte : Conception et réalisation d'un outil intranet dédié à l'analyse et au suivi des stagiaires étrangers, permettant de créer et valider les fiches par différentes habilitations militaires. 
+Tâches :
+Recherche et exportation des fiches, en XML, sur une clé USB. 
+Développement en mode agile (XP). 
+Tests et recettes. Coordination et planification des réunions de pilotage. 
+Spécifications techniques, guides d'installation et d'utilisation.
+Environnement technique: PHP 5.2+, Symfony 1.2, JavaScript, Prototype, SQL, HTML, XML, CSS, SSL, Eclipse, Apache, MySQL, Subversion, Linux
+
+Mission (forfait):
+DÉVELOPPEUR JAVA/JAVASCRIPT
+Client: Linagora / Unilog
+Contexte : Conception et réalisation d'un outil de « demande de mission », dans le cadre d'une avant-vente, pour le ministère des affaires étrangères, en JavaScript, pour la partie cliente et Java 1.4 avec Spring et Oracle pour la partie contrôleur et modèle. 
+Tâches :
+Tests et recettes.
+Environnement technique: Java J2EE 1.4, Spring, JavaScript, Ant, PL-SQL, HTML, XML, CSS, Eclipse, Tomcat, Oracle 11, Subversion, Linux (Ubuntu).
+
+Mission (forfait):
+DÉVELOPPEUR PHP (Symfony 1.0)
+Client: CRDP de Lyon
+Tâches : : Conception et réalisation d'un module de gestion de paiement pour les abonnements commerciaux du CRDP. Tests et recettes.
+Environnement technique: PHP 5.0+, Symfony 1.0, JavaScript, SQL, HTML, XML, CSS, SSL, Eclipse, Apache, MySQL, Subversion, Linux
+
+Février 2003 à avril 2007
+Éditeur de logiciel
+LOG SERVICE
+Poste: DÉVELOPPEUR JAVA
+Contexte: Outil de Saisie de Dossiers de Prêts en Ligne
+Au sein d'une équipe de 3 développeurs, j'ai participé activement à la conception et au développement d'une solution en ligne dédiée à la gestion des dossiers de prêts pour le secteur du 1% Logement (Loca Pass, Mobili Pass, Pass Travaux). Cet outil permettait:
+Tâches :
+La validation, le changement d'état et le déblocage des dossiers.
+Le calcul des assurances, la recherche avancée et l'export des données en comptabilité analytique.
+Relations clients: Personnalisation des fonctionnalités et design CSS en fonction des besoins spécifiques.
+
+Contexte: Développement d'un Intranet Multi-Fonction
+Dans le cadre des besoins internes, j'ai participé à la conception d'un intranet complet :
+Fonctionnalités clés: 
+Tâches :
+Extraction statistique, génération de PDF, et une interface intuitive pour la création de vues SQL.
+Conception des modèles de données nécessaires aux différentes vues pour garantir une fiabilité et une facilité d'accès.
+Gestion d'infrastructure: Mise en place et maintenance d'une solution Apache - Tomcat - PostgreSQL, permettant la gestion simultanée d'une vingtaine de sites hébergés chez un prestataire externe.
+
+Contexte: En étroite collaboration avec les clients, j'ai conçu un outil de connexion à distance basé sur le tunneling SSH pour l'administration des serveurs chez les clients:
+Tâches :
+Développement en Python et Shell, offrant une solution sécurisée et performante pour les équipes d'infogérance.
+Environnement technique: Java J2EE, SQL, XML, JSP, HTML, CSS, JavaScript, Prototype, Dojo, AJAX, SSL, Python, Script Shell, Protocole SSH, Apache, Tomcat, Struts1, Hibernate, PostgreSQL, JBoss, Eclipse, Ant, OpenOffice, PyDev, WxPython, Eclipse, CVS, Linux
+
+Septembre 2001 à décembre 2002
+SSII
+VASDO
+Poste: DÉVELOPPEUR PHP
+Contexte : Conception et réalisation d'un outil Intranet pour le suivi des incidents clients (moteur de recherche, changement de statut, historique de validation,...).
+Tâches :
+Réalisation du site internet de l'entreprise.
+Environnement technique: PHP 4, HTML, XML, CSS, SSL, Apache, MySQL, CVS, MySQL, Linux
+
+Juin 2001 à septembre 2001
+SSII
+CAP GEMINI
+Poste: ADMINISTRATEUR SYSTEME / RÉSEAUX (stagiaire)
+Contexte : Administration des serveurs (principalement Windows 2000) sur l'intranet du groupe. 
+Tâches :
+Administration système et des comptes sous active directory. 
+Aide à l'installation de plusieurs serveurs en Raid 5 et Raid 1.
+Environnement technique: Active Directory, Windows NT/2000, Dameware, Hyena, PC Anywhere, PC Duo, VNC
+
+1997 à 1999
+Divers emplois à LONDRES
+
+1996 à 1997
+ARMÉE DE L'AIR - Balard
+Service Militaire
+Poste: TECHNICIEN DE MAINTENANCE EN INFORMATIQUE
+Contexte : Maintenance des postes et du réseau informatique sur la base.
+Environnement technique: Windows NT 3.x
+
+// DIVERS
+Langues:
+Anglais - Professionnel
+Allemand - Bonnes notions
+Loisirs:
+Informatique, électronique, domotique, trading, crypto monnaies, littérature, voyages, course à pied, surf, squash,...
+Projets notables:
+[http://philanthropyadvisors.org](http://philanthropyadvisors.org)
+[http://www.physalix.com](http://www.physalix.com) (responsive)
+[http://montkailash-bien-etre.fr](http://montkailash-bien-etre.fr) (responsive)
+[http://www.nrj.fr](http://www.nrj.fr) (responsive)
+[http://www.cheriefm.fr](http://www.cheriefm.fr) (responsive)
+[http://www.nostalgie.fr](http://www.nostalgie.fr) (responsive)
+[http://www.rireetchansons.fr](http://www.rireetchansons.fr) (responsive)

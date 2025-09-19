@@ -1,0 +1,163 @@
+Consultant test recette EXPERIMENTE
+AUTOMATISATION des tests
+certification istqb
+
+Compétences fonctionnelles
+Accompagnement du métier dans l'expression du besoin
+Rédaction de spécifications fonctionnelles pour les équipes de développement
+Développements Infocentre SAS, Batchs, requêtage SQL
+Recette fonctionnelle (IHM/Front ou back Office)
+Recette technique (tests unitaire, d’intégration)
+Recette automatisée pour les tests de non-régression
+Recette en environnement classique ou agile
+Réalisations :
+Rédaction de stratégie de recette
+Rédaction des exigences/cas de test/campagnes de test + Exécution pour les tests d’évolutions en mode bouchonné ou de bout en bout
+Développement d’automates pour les tests de non-régression
+Déclaration des anomalies avec qualification approfondie (exploration en base de données, revue de code/des fichiers d’échanges xml/des webservices, reproductibilité, criticité)
+Comité de Recette / Daily meeting
+Bilan de Recette
+Enrichissement de la bibliothèque de Recette (passage de tests en TNR, évolution de robots)
+Suivi de production (supervision du run, gestion des incidents, communication MOE/ MOA/ Métier/ Partenaires extérieurs
+
+EXPERIENCE TECHNIQUE
+Outils Test :    	HP ALM, Squash TM, QaRun, Eclipse Selenium, QuickTestPro, JIRA, Mantis
+Langages :	Java/J2EE, SQL, Scripts SHELL, SAS Enterprise Guide 7.15, Squirrel
+Datacenter :	SAS
+Solutions batch :	Scripts sh sous Aix – ordonnancement sous TWS / IWS – MVS – Flux Secure Transport
+SGBDR :	DB2 8.2, ORACLE 11i, SQL.SERVER 7
+Configuration: 	Clearcase, Continuus 5.1, VSS, CVS & SVN
+Éditique :	EXSTREAM
+CRM :	Siebel V7.5
+Méthodes :	Méthode AGILE, UML, Cycle en V
+
+DIPLOMES ET FORMATIONS
+2020 :	SAS Enterprise Guide niveau1 - Utilisation de l'interface
+2019 :	Certifié ISTQB®, Tests niveau Fondation
+2001:	SIEBEL (Tools, Ebusiness Essentials, Core Consultant), SIEBEL France
+1992 :	DESS Intelligence Artificielle & Ingénierie de la Connaissance, Ecole d'ingénieur ESSIGEC
+1991 :	Maîtrise Informatique, Université des Sciences et Techniques de Montpellier
+1989 :	DEUG A, Université des Sciences et Techniques de Montpellier
+
+EXPERIENCE PROFESSIONNELLE
+Depuis Février 2024 : AGIRC-ARRCO
+Consultant Recette
+Contexte : Consultant recette MOE dans le cadre de l’Ecosystème multi-briques de liquidation des Retraites Complémentaires
+Taches : 
+Recette d’acceptance des livrables pour chaque sprint hebdomadaire du Système Centralisé de Liquidation des retraites avec le CRM (canal Téléphone) ou le Front Office (canal Internet via le site Info retraite pour tous les régimes ou le site ESAA pour le régime Agirc-Arrco) ou directement dans SCL (canal Rendez-Vous CRC)
+Recette fonctionnelle (IHM de gestion de la retraite complémentaire)
+Recette technique (requêtage en base de données, suivi des tâches et évènements, xml)
+Assistance à MOA pour le suivi des environnements (Supervision des rejets Hermès, Console SFI, Gestion des logs sous Splunk), pour le lancement des batchs pour la recette Métier, pour l’analyse de niveau 1 des Jiras et le cas échéant le transfert pour résolution aux éditeurs
+Daily meeting avec la MOA, l’intégration et les éditeurs
+Constitution d’un environnement complet de recette à partir du puit de données (image de Prod)
+Requêtages PostgreSQL dans chaque brique (Référentiel National des Individus, des Administrations, des Entreprises, de Gestion des Droits pour les carrières, SCL pour les dossiers de retraites, Allure/Celia pour les prestations et paiements, ARCPRC pour les anciens systèmes de dossiers de retraites) pour constitution du futur jeu de données des recettes à venir
+Environnement : 	Squirrel 3.7.1 -> PostgreSQL, Squash TM 6.1.1, Jira 9.12.4, Confluence 8.5.5, Citrix, Teams, VPN PulseSecure, Filezilla, Webservices REST,
+Agile
+
+Février 2020 à Décembre 2023 : MALAKOFF HUMANIS
+Consultant MOE Recette et Développement - Infocentre Référentiel Retraite Complémentaire
+Contexte : Dans le cadre de l’Infocentre Référentiel Retraite Complémentaire (SAS) alimenté par les extracteurs Agirc-Arrco :
+Taches : 
+Ecriture de spécifications détaillées
+Recettes techniques et fonctionnelles des demandes d'extraction d’information de l'Infocentre
+Aide au développement et au suivi du run de production (supervision des batch/jobs MVS, gestion des incidents de production, communication MOA/Métier/Agirc-Arrco)
+Recette technique de la migration d’ordonnanceur de MVS vers IWS
+Environnements : 	SAS Enterprise Guide 7.15, ordonnanceur TWS puis IWS, Aix 7.1, scripts sh, Jira, Citrix, Émulateur MVS 3270, Easyvista, Secure Transport, Teams, VPN InWebo, Émulateur Aix Putty, MobaXTerm, Winscp
+
+Poste : Consultant MOA Éditique
+Contexte: Dans le cadre de la migration de l’éditique Humanis (PreS) vers l'éditique groupe (Exstream) :
+Taches : 
+Rédaction des spécifications fonctionnelles à partir de dossiers techniques et/ou des scripts PreS
+Courriers Santé (devis, avis de paiement, décomptes), Prévoyance (décomptes rentes, dépendance, invalidité, prestations hospitalières), Appels de Cotisations, Certificats de scolarité, de radiation.
+Environnements : Exstream, Jira, Citrix, Office365, SharePoint, Teams
+
+Juin 2018 à Janvier 2020 : MUTEX
+Consultant Recette Éditique
+Contexte : Dans le cadre de l’éditique :
+Taches : 
+Recette de la migration de l’éditique JetForms vers HP Exstream et des évolutions règlementaires 2019 (Prélèvement à la source et Règlementation Générale sur la Protection des Données)
+Rédaction des cahiers de recette
+Accompagnement recette MOA
+Suivi des anomalies de recette et production
+Environments: JetForms, HP Exstream, Mantis
+
+Janvier 2017 à Juin 2018 : MGEN
+Consultant Batch et Données
+Contexte : 
+Dans le cadre du référentiel applicatif Gestion des Personnes et Contrats ORPER en lien avec le Régime Obligatoire, le régime Complémentaire (Aide à la complémentaire santé) :
+Taches : 
+Pilotage de la conduite du changement des Batchs de traitement de masse (spécifications, développements, Recettes HP ALM & SQL Developer)
+Rédaction des spécifications fonctionnelles
+Rédaction et exécution des cahiers de recette
+Gestion des anomalies
+Réalisation de REX dans le cadre de l’amélioration continue du service
+Écriture de toutes des requêtes SQL demandées par le Métier sur les données Orper
+Environnements : HP ALM 12.21, JIRA, Oracle SQL Developer
+
+Octobre 2013 à Décembre 2016 : MALAKOFF MEDERIC
+Consultant MOA Éditique
+Contexte : Dans le cadre de l’Éditique du groupe pour les Retraite, Santé et Mutuelle :
+Taches : 
+Rédaction des spécifications fonctionnelles détaillées
+Recette technique et fonctionnelle sous HP ALM
+Animation du Comité de Recette
+Recette de la migration des systèmes retraite AGIRC-ARRCO (Usine Retraite -> Usine à Documents)
+Environnements : HP Exstream, HP ALM 12.2, Mantis, JIRA, SQL
+
+Juillet 2010 à Septembre 2013 : BNP PARIBAS Leasing Solutions
+Responsable de la cellule de tests Intégration (MOE)
+Contexte : 
+Dans le cadre du projet Lease Offers (Extranet européen pour la saisie des deals de leasing) :
+Taches : 
+Conception et Pilotage des campagnes de tests MOE
+Organisation des tests sous HP ALM avec 2500 exigences et structuration en bibliothèques de tests
+Automatisation des tests de non-régression sous Sélénium et Quick Test Pro
+Rapports d’exécution et états d’avancements
+Comités de recette en Call conférence en anglais avec les 6 pays utilisateurs
+Environnements : JAVA/J2EE & Oracle 9i, MQ & PICO/TIBCO, PLSQL, AS400, Unix
+Outils Test : HP ALM (ex Quality center) tous modules, Eclipse Sélénium puis HP QuickTestPro pour les Tests Automatisés, IBM RAD (pour la revue de code J2EE), IBM RSM pour la modélisation des spécifications, SOAPUI pour les tests WebServices
+
+Septembre 2007 à Juin 2010 : HSBC ASSURANCES
+Ingénieur Tests/ Recette
+Contextes : Dans le cadre du projet PMS (gestion des contrats d'assurance vie multi-supports) :
+Taches : 
+Préparation des environnements de test (DUMP/LOAD, intégration de correctifs, vidage de base)
+Choix des scenarii appropriés aux évolutions techniques ou fonctionnelles
+Exécution et automatisation des tests
+Rédaction de fiches anomalies et suivi des anomalies
+Amélioration des programmes du robot et des outils de tests associés
+Environnements : Powerbuilder 10.5, Sybase, DollarUniverse, QARun, Unix, scripts VBS  
+Outils de comparaison Beyond Compare, Cast Release et SQLBuilder, Telelogic. QuickTestPro/Quality Center
+
+Mai 2004 à Septembre 2007 : SOCIETE GENERALE
+Ingénieur Qualité
+Contexte : Dans le cadre du projet GRC (Gestion de la Relation Client) cœur du SI de la banque de détail :
+Taches : 
+Qualification et Intégration des versions successives du CRM Contact et TLC Contact (SIEBEL Financial Service + CRCM) utilisé par les 22000 Conseillers de Clientèles et Téléconseillers.
+Migrations techniques (Siebel 7.0 vers 7.5 + patchs, XP SP1 vers 2, NT4 vers 20003, DB8.1 vers 8.2)
+Rédaction et déroulement des cahiers de tests dans TestDirector, Programmation du robot de test Quicktest
+Suivi des livraisons et Intégration des composants techniques, compilation dans Siebel Tools, contrôles des normes de programmation et paramétrage Siebel
+Tests de montée en charge, Bench
+Expert technique et fonctionnel SIEBEL, Téléconseillers, Débranchements vers les applications du poste Conseiller (Architecture MAIA)
+Support aux équipes de développement, validation fonctionnelle, homologation bancaire, performances réseaux et Production
+Réunions Comité de pilotage
+Formations
+Participation à la rédaction de la Stratégie et du Plan général de Qualification
+Environnement : SIEBEL 7.0/7.5 sous IBM DB2, Emulateur TSO (MVS 3270), Clearcase (Gestion de Configuration), Outils Mercury : TestDirector (gestion anomalies, cas de tests), Quicktest/Winrunner (robots de test)
+
+Avril 2001 à Avril 2004 : BOUYGUES TELECOM
+Ingénieur Qualité et Intégration puis Ingénieur Concepteur/chef de projet
+Contexte : 
+Recette de CRM Siebel (Diamant, Service Clientèle distributeur)
+Taches :
+Développement de scripts Korn Shell dans le cadre du projet Référentiel des offres 2G/3G
+Environnement : Korn Shell, PL/SQL, Oracle, Continuus (Gestion de Configuration)
+
+Janvier 1997 à Mars 2001 : CENERGYS / ADECCO
+Contexte:
+Pour les clients : Groupe ACCOR, SNCF, PROTEG
+Taches : 
+3 interventions en tant qu’Ingénieur Qualité et Intégration et Ingénieur d’Études
+
+Janvier 1995 à Janvier 1997 : ADN Informatique
+Développeur sur VisualFoxPro sur des logiciels d’hôtellerie pour notamment le client CE du Groupe CASINO

@@ -1,0 +1,159 @@
+
+Data Engineer / Talend + 6 ans d’expérience
+
+Competences Techniques :
+Business Intelligence : Talend, Power BI, Azure Storage, Azure Synapse, Azure Devops
+Bases de données : SQL Server, Oracle, PostgreSQL
+Format d’échange : JSON, XML,CSV, XLSX,TXT
+ETL complexes : optimisation de flux, supervision, reprise sur incident
+Reporting : Power BI
+Cloud : Azure
+Gestion de projets : Git, Confluence, Jira
+Méthodologies : Agile Scrum, Cycle en V
+Management de projet :
+Recueil et cadrage des besoins Métier
+Rédaction d’expressions de besoin Métier
+Rédaction de spécifications techniques et fonctionnelles
+Coordination et collaboration des projets entre les différents départements
+Rédaction de la documentation technique (manuels utilisateurs, dossier d’exploitation, suivi de production)
+Langages : SQL, Java, Python
+Intégration des données : TALEND V5, TALEND V7, TALEND V8, TALEND Cloud, TMC
+
+Compétences fonctionnelles :
+Planification des Projets
+Découpage des projets
+Coordinations entre les parties intervenantes du projet
+
+Diplômes :
+2018 : Mastère 2 en gestion hôtelière et technologies de l’information.
+2016 : Licence en informatique de gestion
+
+Certifications :
+2023 : Certificat Talend Data Integration Certified Developer.
+2020 : Certificat FULL STACK JS: GO MY CODE
+2014 : Certificat en anglais d’affaires (Level 1: Business English)
+
+Langue :
+Anglais : Professionnel
+
+Expériences professionnelles
+Data Engineer / Support TMA
+Depuis février 2025
+Savencia
+Contexte : Mission réalisée dans le secteur agroalimentaire, dans un contexte de gestion et valorisation de la donnée, avec un double enjeu de maintenance applicative (TMA) et de développement (Build) autour de l’écosystème Talend Cloud et Azure.
+Équipe : 4 développeurs, 1 Tech Lead, 2 supports, 1 Manager
+Tâches :
+Recueil du besoin métier
+Création des tickets via Azure Devops pour gérer les incidents.
+Prise en compte et analyse des demandes utilisateurs (tickets de support, évolution)
+Priorisation des incidents.
+Analyse et résolution des incidents du projet.
+Communiquer au métier la cause de l’incident
+Utilisation des fichiers (.csv, .txt, .XML, .Json, .xlsx)
+Réalisation de tests unitaires.
+Supervision des appels API dans la TMC (gestion des erreurs, timeouts, relances)
+Collaboration avec les équipes métier et partenaires pour garantir l’intégrité des échanges de données Intégration de données provenant de services externes via tRESTClient, tRESTRequest, tJSONParse, etc.
+Conception, développement et maintenance de flux Talend consommant ou exposant des API REST
+Mise en place de flux d’API sécurisés (gestion des en-têtes, authentification par token ou clé API)
+Qualification et reproduction des incidents.
+Préparer des rapports sur les activités de support, les incidents résolus et les problèmes récurrents.
+Planification des jobs Talend à travers un ordonnanceur externe (De la rue)
+Gestion du support de niveau 2 sur les flux de données (interactions avec les métiers)
+Suivi et respect des SLA (Service Level Agreements) :1 jour pour les incidents 4 jours pour les demandes d’évolutions de support utilisateur
+Participation aux réunions de suivi avec les équipes métier et techniques
+Contribution à l’amélioration continue des processus de traitement de la donnée
+Analyse, correction et maintenance des flux Talend
+Déploiement et supervision des jobs via Talend Management Console (TMC)
+Développement de nouveaux flux dans le cadre du Build
+Exploitation et interrogation de bases de données Azure SQL (écriture de requêtes SQL)
+Surveillance des exécutions, gestion des logs et gestion des erreurs
+Gestion de la configuration des environnements (DEV / TEST / PROD)
+Mise à jour de la documentation technique
+Environnement technique : Oracle, SQL Server, AskIT, TALEND CLOUD, TALEND V6, TALEND V8, API, Azure ; Azure Devops
+
+Data Engineer / Chef de projet Technique De décembre 20220 à janvier 2025
+BIAT (Banque et Assurance)
+Contexte : Dans le cadre du développement stratégique du pole Data de nos clients, j'ai pu participer à un projet BI, qui va nous permettre de construire un entrepôt de données de bonne qualité et en bonne et due forme. Le client a exprimé son besoin d’avoir un Data Warehouse fiable et opérationnel. J'ai pu participer à toutes les phases d'implémentation de ce projet
+Équipe : 3 développeurs, 2 Business Analyste, 2 Qualite Analyste, 3 Manager et 1 Tech Lead
+Tâches :
+Recueil du besoin métier (Animation des ateliers avec le client).
+Extraction de données dans des fichiers sous formats (.txt, .csv, .xlsx)
+Contrôle d’intégrité de données avec le composant tSchemaComplianceCheck
+Réalisation de pipelines ETL selon la modélisation Slowly Changing Dimensions.
+Stockage des données dans une base de données relationnelle.
+Réalisation de tests unitaires.
+Optimisation des jobs et les requêtes SQL.
+Optimiser les jobs avec une grande volumétrie de données.
+Extraction des rapports réglementaires pour la banque centrale.
+Assistance du métier à la recette.
+Support Post-production.
+Collaboration entre les différents départements de la banque.
+Respect de délais de livraisons.
+Création des datamarts pour les différents départements.
+Accompagner les équipes sur l’outil Talend et le projet risque.
+Rédaction de différentes documentations telles que les spécifications fonctionnelles et techniques et les documents d'exploitation pour le projet.
+Environnement technique : SQL, PostgreSQL, TALEND V7.3, TALEND V8, Azure, Jira, Confluence, Agile
+
+Projet 2 : Projet Migration ; migration pour améliorer l'évolutivité, la sécurité et les performances de l'infrastructure IT.
+Tâches :
+Analyse des besoins et planification de la migration en collaboration avec les équipes internes et les parties prenantes externes.
+Coordination et collaboration entre toute l’équipe
+Définir les objectifs de la migration
+Identifier les risques éventuels et préparez des plans d'atténuation.
+Adopter des normes de codage pour la consistance et la maintenabilité.
+Utilisez des contextes Talend pour gérer les environnements de développement, de test et de production.
+Optimiser les jobs Talend pour la performance en minimisant les transformations complexes et en utilisant des composants adaptés.
+Effectuer des tests unitaires sur chaque composant et transformation
+Tester l'intégration des différents composants et flux de données.
+Valider que les données migrées sont correctes et complètes en les comparant aux données sources.
+Documenter chaque job et transformation pour faciliter la maintenance et les futurs développements.
+Créer un manuel utilisateur pour expliquer comment exécuter et surveiller les jobs de migration.
+Veiller que les environnements de déploiement (développement, test, production) sont correctement configurés.
+Utiliser des outils d'automatisation pour le déploiement et l'exécution des jobs Talend.
+Former les équipes sur les outils Talend et les processus de migration.
+Gérer les attentes des parties prenantes et assurez une communication claire tout au long du projet.
+Environnement technique : SQL, TALEND V8, Oracle, Agile
+
+Projet 3 : Projet Azure ; Afin de garantir la connexion avec une application, l’équipe Data a été chargé de développer une API pour récupérer les données nécessaires depuis l’application ABIAT et de les stocker dans un conteneur dans Azure. Ces données seront utilisées ultérieurement dans un tableau de bord configuré selon le besoin du client
+Tâches :
+Analyse des besoins et planification de la migration en collaboration avec les équipes internes et les parties prenantes externes.
+Transformation des données extraites sous format JSON au besoin et chargées dans un conteneur Azure.
+Stockage des données de manière sécurisée et organisée dans Azure. Les données stockées sont utilisées pour alimenter un tableau de bord, permettant une visualisation et une analyse des données selon les spécifications du client.
+Environnement technique : Azure Storage, Python, API
+
+Data Engineer De septembre 2019 à novembre 2020
+Société KA COM
+Contexte : Dans le cadre du développement stratégique, projet BI, qui permet d'effectuer une comparaison entre deux méthodes de centralisation de données de la société dans un data warehouse et identifier ces différents indicateurs.
+Équipe : un manager, un Tech Lead, 3 développeurs, un Business Analyste et un Qualité Analyste
+Tâches :
+Recueil du besoin Métier.
+Conception et implémentation d’un modèle dimensionnel.
+Extraction de données dans des fichiers sous formats (.txt, .csv)
+Contrôle d’intégrité de données avec le composant tSchemaComplianceCheck
+Transformation et chargement de données dans PostgreSQL en utilisant des jobs Talend pour assurer l’intégrité de données.
+Alimentation de sources de données dans Azure Storage pour un stockage sécurisé et évolutif
+Migration du modèle dimensionnel vers le modèle Data Vault
+Développement des flux ETL sur Azure Synapse
+Gestion SCD Type 2.
+Etude comparative entre les 2 méthodes Azure Synapse et Talend.
+Génération des rapports à l’aide de Power BI.
+Environnement technique : TALEND V8, PostgreSQL, Azure Synapse, Azure, Scrum, Power Bi
+
+Data Engineer De janvier 2019 à aout 2019
+POLINA
+Contexte : Dans le cadre du développement stratégique, participation à la construction d'un data warehouse pour la société.
+Équipe : 2 développeurs, un Tech Lead, un manager et Scrum master
+Tâches :
+Recueil du besoin Métier.
+Extraction de données dans des fichiers sous formats (.txt, .csv)
+Contrôle d’intégrité de données avec le composant tSchemaComplianceCheck
+Conception des flux ETL via le logiciel Talend
+Préparation et alimentation de la datawarehouse via l’outil Talend.
+Transformation et chargement de données dans PostgreSQL.
+Réalisation de tests unitaires.
+Génération des rapports à l’aide de Power BI
+Rédaction de la documentation technique des jobs.
+Environnement technique : TALEND V7.2, PostgreSQL, Power BI, Méthodologie Agile SCRUM
+
+Interlocuteur : Caroline BRAVINI www.hd-info.fr
+caroline@hd-info.fr tel. 06 79 94 21 07

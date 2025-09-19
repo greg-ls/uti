@@ -1,0 +1,233 @@
+TechLead Concepteur / Développeur JAVA/ JEE
+Expérience : 26 ans
+
+C O M P É T E N C E S T E C H N I Q U E S / E X P E R T I S E S
+* Langage : Java/JEE , Spring Framework, Maven, AspectJ, Perl, Android, Ionic, JavaScript, Ajax, Typescript, Angular , Girking, C+ +, PHP, shell-script, Cisco-Sript, Fortran, Matlab, Maple, Talend
+* CI/CD : GitHub, GitLab, Gitlab pipelines, gitlab-runners, Jenkins, Ansible
+* Code Review : SonarQube
+* Web : HTML5, Jquery, Dojo, Flex Bootstrap, Less, Sass, Scss, Css3
+* Bases de données: MongoDB, Cassandra, Elasticsearch, PostgreSQL, PostGIS, MySQL.
+* Middleware: Apache Kafka, Springboot Kafka, Kafka consumer et Kafka Producer, Supabase
+* Hébergement: Apache HTTP, Nginx, Apache Tomcat, Glassfish, Jboss
+* Messagerie : Serveur Postfix, SMTP,POP,IMAP
+* Sécurisation : VPN, HAProxy, Letsencrypt
+* IDE: Eclipse, Intellij, Virtual Studio Code, Talend Big Data, Jasper Studio
+* Gestionnaire de projets: Apache Maven , Ant, Spring ROO
+* Framework : Spring, Hibernate, Junit, Mockito, Selenium, Apache Tiles, Cordova, Ionic
+* Systèmes (OS) : Windows, Linux, Hadoop Cluster, proxmox, Docker
+* Virtualisation : Linux KVM, Proxmox, VmWare, Docker, Swarm, Kubernetes
+* IA : ChatGPT et Java
+* Méthodologie : SCRUM, AGILE
+* Modélisation : UML2
+
+
+F O R M A T I O N S S I G N I F I C A T I V E S
+
+2012-2013 Formation Concepteur Développeur, AFPA Rouen
+1994-1995 DEA en Mécanique et Energétique à l’Institut National Polytechnique de Lorraine (INPL) (Nancy ,France). Université de Nancy / ENSEM
+1992-1994 Licence et Maîtrise de Mécanique Université de Nancy / ENSEM
+1990-1992 DEUG Sciences – Université Nancy Point Carré (France)
+
+L A N G U E S
+Anglais Courant
+Français Natif
+
+
+EXPERIENCES PROFESSIONNELLES
+
+Projet Personnel
+Mise en place d’une portail multi-services et multilingue avec Angular 17 en frontend et Java Spring en microservices cloud pour l’API Backend
+Développement :
+Création avec Maven et Spring d’un projet microservices en cloud:
+* Module Utilisateurs (Inscription, compte personnel) : Sous Mysql avec API Spring Security, Kafka, Hadoop.
+* Module Api Resource server pour la gestion des Tokens.
+* Module Langues avec Spring MongoDB
+* Module Categories avec Spring MongoDB
+* Module de Messagerie JavaMail.
+* Module News Flux RSS avec Spring, MongoDb, ElasticSearch
+* Module Sites Web avec Spring, MongoDb, ElasticSearch, Jsoup, Kafka, Hadoop, Avro.
+Modules géo localisation sur serveur propre OpenGIS, OpenStreetMap, Api Leaflet
+Frontend Angular ( 17 à 20 )
+Création de plusieurs composants, services , pipes, directives , menu dynamique selon role de l’utilisateur
+Gestion de la sécurité et login avec Web Token
+Migration vers plus de composants réactifs avec l’utilisation des Signals et de la gestion des Etats ( Stores ) avec NGRX/Redux.
+Création des options pour les plateform android (IOS non implémenté) avec Ionic 6 et android desktop. Génération de l’APK pour utilisateur Android
+
+Environnement Technique : Java/JEE, linux, environnement cloud / microservices, plusieurs Dockers en grappe, load balancing apache proxy, Spring, Hibernate, Junit, Angular, TypeScript, Ionic, HTML, CSS, XML, MongoDb, MySQL, Apache HTTP, Elasticsearch, Apache Maven,Jenkins, Redis pour la gestion des sessions d’applications distribuées sur plusieurs docker, Apache Kafka, Hadoop, Avro. Déploiement pipeline gitlab-ci. Tests sur Gitlab runne et SonarQube. Mise en place d’une solution Kubernetes avec écriture de manifests.
+
+Du 04/07/2021 au 12/04/2023 : Geolane - Paris
+Responsable Technique, TechLead, Concepteur, développeur, hébergeur 
+
+Infrastructure Serveurs:
+Locations de deux Serveurs Proxmox (1 Dédié client Eurochef et un pour l’hébergement des autres clients) chez OVH.
+Montage de 4 disques supplémentaires en RAID 0. Configuration des cartes réseaux des serveurs Proxmox avec interfaces ponts virtuelles pour chaque clients.
+Migration et sécurisation du serveur d’Eurochef ( Mysql - site Web - catalogue et PIM Profusion) sur le nouveau Proxmox dédié.
+Migration du server Numead ( application php traditionnel version 5) sous docker et proxmox.
+Création des VMs principalement Linux.
+Créations, configuration et Intégration des Dockers .
+Configuration HAProxy.
+Formation, montée en compétence de l’équipe Dev.
+Création et Installation des certificats SSL , Letsencrypt et mise à jour par cron pour les serveurs et proxy apache.
+Installation en local sur serveur Proxmox Sur NAS ( Synology ) Dev pour l’infrastructure des tests et devéloppements.
+Ecrire de scripts de configuration d’infrastructure avec Ansible
+Infrastructures de bases de données et Mail:
+Installation et configuration des bases de données Mysql, MongoDB, ElasticSearch.
+Installation du serveur docker SMTP Postfix pour la réception et l’envoie de mails. Installation opendkim. Configuration DNS nécessaires.
+
+Développement :
+Mise en place du nouveau produit de la société Elliance (PIM comme application en Backend microservices api Java/Spring ) en remplacement de l’ancien Profusion (PIM).
+Conception et réalisation de l’architecture Cloud local et l’ensemble des API Backend en une dizaines de microservices déployés sur docker :
+* Création et déploiement docker du microservice Spring Gateway (Découverte Gestion du routage).
+* Création et déploiement du microservice Spring Eureka de NetFlix (Serveur registre des microservices java).
+* Création et déploiement du microservice de l’API front Springboot : Controlleurs accessibles de l’extérieur. Gestion de la sécurité et de l’authentification. Enregistrement et lectures dans mongoDB et Elasticsearch, sauvegarde d’images et fichiers, envoi et lecture de message Kafka aux autres microservices. Traitement ( Parsing ) de gros fichiers Excel et CSV.
+* Création et déploiement d’un microservice Springboot/Kafka/Jasper pour le traitement de pdf dynamique.
+* Utilisations de Spring kafka entre les différent microservices (mise à jour de données, processing de fichier excel, création de pdf, envoi de mail)
+* Création et déploiement d’un microservice Springboot/Kafka/ImageMagick pour le traitement en temps réel d’images. Mise en place de plugins pour la composition d’images, traitement d’images Haute définition pour l’imprimerie.
+* Création et déploiement d’un microservice Springboot/Kafka/JavaMail pour l’envoi de mail.
+* Création de plusieurs microservice d’appoints
+* Développement d’un service Slideshow avec QR Code Java / Javascript / Node / Express / Springboot.
+* Début intégration Angular 16.
+* Mise en place de composants de formulaire dynamique
+* Mise en place de service de requêtes vers api
+* Utilisation de la librairie Material UI
+* Création de directives et pipes
+* Création de services spring pour l’Intégration de système expert des clients (FTP)
+* Écriture de script Adobe/Javascript pour modification des catalogues IDML/PDF de la société ( client ) Prevost.
+* Mise en place de scripts ansible pour la configurations de serveurs.
+* Formation et transfert de compétence à l’équipe DEV.
+
+Déploiement:
+Déploiement de chacun des jars des microservices, embarquant un serveur tomcat, dans un docker en réseau derrière le serveur Nginx angular proxy avec certificat letsencrypt.
+Serveur : Serveurs Proxmox, Linux avec KVM et Docker.
+Réseau : Orchestration des connexions entre la machine hôte, les dockers et les bases de données Mysql, MongoDb, Elasticsearch.
+TALEND ETL : Écriture de plusieurs Jobs Talend
+JAVA : Java 17 , Springboot, Maven
+Shell MongoDB , Mysql, Mysql/Maxwell, Elasticsearch Postman pour la maintenance des données.
+Environnement Technique
+
+
+Du 04/01/2018 au 04/04/2019 : Altimer - Toulouse
+
+Responsable pôle Informatique et développement
+
+Gérer et encadrer l’équipe de dévéloppement (3 personnes).
+Assurer la bonne marche des serveurs proxmox hébergeant les applications des clients et machines de développements.
+Assurer la maintenance réseau
+Former si nécessaire les nouveaux développeurs
+Assurer le support client avec les tickets redmine.
+Migration des vers Gmail et Ovh de certains service clients et d’Altimer.
+Rédaction de propositions technique de contrats
+Interview pour le recrutement de développeurs Java.
+
+Serveur : Serveurs Proxmox, Linux avec KVM
+Réseau : Assurer la mise à jour et configuration du réseau d’entreprise par configuration des switchs ou routeur
+IDE : Dévéloppement sous IDE Eclipse et postes multi écrans sous centos 7
+Wordpress : Refonte du site de la société sous wordpress
+PHP : Migration Php 4 vers PHP 7.1 d’application clients
+JAVA : Migration Java 7 vers Java 8
+C++ : Mise à jour application C++ et base de donnée windev.
+Informatique
+Outils
+
+
+01/04/2016 : Echotri Le Mans
+
+Consultant développeur
+
+Migration et refonte du site Web 
+
+Récupération de la base de donnée Mysql (avec mot de pass admin perdu),
+Redisigne du site sous wordpress et hébergement chez OVH.
+Configuration serveur linux chez OVH et déploiement wordpress puis réalisation de l’interface du site de la société.
+Informatique, Outils : Serveur OVH sous Centos, Wordpress et Mysql
+
+2013-2016 : Université Méthodiste de Côte d’Ivoire
+
+Consultant / développeur
+
+Informatisation de l’Université Méthodiste de Côte D’Ivoire(Abidjan, Cocody). 
+
+Mise en place d'un hub technologique (portail web, infrastructure réseau et telecom)
+Conception, Réalisation et Hébergement sur serveur dédié Linux au USA d'un portail pour l'Université Méthodiste de Côte d'Ivoire.
+Installation sur le serveur dédié CentOS 6 de JAVA 7, Glassfish, Serveur Vidéo RED5, Solution Streaming Video et télésurveillance
+Installation, Configuration et maintenance du CMS MOODLE pour Université
+Analyse, conception et implémentation d'un réseau de 5 VLANs avec points d'accès wifi pour l'Université Méthodiste de Côte d'Ivoire. Configuration d'un routeur CISCO et de deux switchs manageables Cisco.
+Mise en place de la solution Telecom ELASTIX sur virtualbox Linux en local.
+
+Environnement technique : JAVA, Glassfish, Red5, Openmeeting, Perl, Glinks, PHP, MOODLE, Javascript, AJAX, JSON, CSS3, Mysql, Linux Centos 6, OPENX Ads Serveur, Cisco IOS, Switchs manageables Cisco, Router Cisco
+
+
+2003-2013 : Direction des marchés public de Côte d’Ivoire (DMP) – Abidjan (Côte d’Ivoire)
+
+Consultant Concepteur / Développeur
+
+Site Web et Portail du Système de Passation des marchés publics de Cote d’Ivoire
+
+
+6 mois pour la livraison et hébergement + maintenance 10 ans
+Projet banque mondiale , union Européenne et Gouvernement de Côte d’Ivoire pour la mise en place d’un portail de suivi des marchés publics. (livré)
+Réalisation d’un Portail internet des marchés publics de cote d'Ivoire
+Conception, réalisation, hébergement et maintenance sur serveur dédié chez Xlhost.com aux USA.
+Mise en place d'un réseau virtuel sécurisé entre les infrastructures de l 'Etat de Côte d'Ivoire, un serveur dédié à la Direction des Marchés Publics et du serveur dédié aux Etats-unis ouvert au public.
+Analyse et modélisation des états du système de passation des marchés.
+Extraction journalière, sous format XML, des données des marchés par Cron linux et transfert des fichiers XML par une architecture client/serveur SOAP en Perl.
+Réalisation d'un client et d'un serveur SOAP en Perl.
+Réalisation du Portail. Création de la charte graphique, des CSS, de l'architecture du portail, des nombreux modules Perl complémentaires, scripts Javascripts.
+Configuration serveur CentOS dédié pour l'hébergement du portail (Mysql,Apache, module Linux)
+
+Environnement Technique : Perl, linux, SOAP, XML, Javascript, AJAX, CSS, Mysql, Linux.
+
+
+2008-2010 : RTI (Radio Télévision de Côte d’Ivoire)
+
+Consultant , Concepteur, Développeur et Formateur
+
+Réalisation du Portail de la Radio et Télévision Nationale de Côte d’Ivoire.
+3 mois pour le livrable et 2 ans d’hébergement
+Conception, Réalisation et Hébergement sur serveur dédié chez Xlhost.com aux USA du portail Internet de la RTI
+Conseil installation fibre optique pour la diffusion en live sur internet de la télévision et la radio nationale.
+Analyse, Collecte de données, Conception, Réalisation du Portail sur le CMS Glinks de Gossamer (http://www.gossamer-threads.com/). Création de la charte graphique, des CSS, de l’architecture du portail, des nombreux modules Perl complémentaires, scripts Javascripts.
+Configuration serveur CentOS dédié pour l'hébergement du portail (Mysql,Apache, module Linux)
+Location d'un serveur dédié de haute capacité aux USA chez Server room pour le streaming Vidéo de la télé et audio de la radio ; Intégration des modules streaming au portail internet.
+Installation sur le serveur dédié et intégration du serveur de Publicité OPENX
+Formation et prise en main du Portail et de l'encodage et streaming live de la télé et de la radio sur les serveurs aux Etats-Unis.
+
+Environnement Technique : Perl, Javascript, AJAX, JSON, CSS, Mysql, Linux Centos 6, Adobe streaming video et Shoutcast streaming audio, OPENX Ads Serveur Adobe encoder.
+
+2007 Ambassade du Liban Côte d’Ivoire 
+Consultant développeur et Hébergeur du portail Web
+
+2001 État de Côte d’Ivoire / Union Européenne 
+Consultant, Développeur et Hébergeur du portail Web du forum pour la réconciliation nationale
+
+1998 - 2000 Présidence de Côte d’Ivoire
+Consultant, Concepteur, développeur, formateur et Hébergeur du Portail Web de la présidence de Côte d’Ivoire
+
+1997-2000 Université de Coventry (Royaume-Uni) 
+Enseignant / Chercheur en Mathématiques appliquées (Numérique) à la mécanique des Fluides. Chargé des Tds de mathématiques aux classes de 1ère années jusqu’aux Masters (3 ans).
+
+1997 Woyaa.com 
+Création du moteur de recherche Woyaa en langage Perl
+
+1994-1995 LEMTA (Laboratoire de mécanique appliquée)
+Stage de DEA (6 mois ) 
+
+1988-1989 Base Aérienne 133 de Nancy-Ochey, France 
+Service militaire (1 an), Formation à la BA 200 sur le Mont Ventoux puis Aviateur à la tour de contrôle de la BA 133 de Nancy Ochey
+
+
+I N F O R M A T I Q U E E T O U T I L S
+IDE Eclipse (Compétent)
+Base de données Mysql (Compétent) , MongoDb (Compétent), Elasticsearch (Compétent), PostGreSQL(Compétent), PostGIS (Compétent)
+Modélisation UML2 (Compétent)
+Langages JAVA/J2E (Compétent) , Perl (Compétent), Javascript/Ajax/Jquery/Dojo (Compétent), Maven (Compétent)
+Spring/Springboot/Spring roo/ Spring ecosystème (Compétent)
+Fortran, Matlab (Compétent)
+Méthode AGILE/ SCRUM/Cycle V (Compétent)
+Tests et Optimisation Junit / Sélénium (Compétent) / SonarQube
+Systèmes Windows Server(Compétent), Linux Centos (Compétent), Hadoop (Compétent), HPCC Système (Compétent)
+Virtualisation et Conteneurisation KVM (Compétent), LXC (Compétent), Docker(Compétent), Proxmox(Compétent) , Ansible
+Intégration Continu Jenkins , Gitlab (Compétent), Gitlab Runner, Pipeline
+Outils Big Data Talend (Compétent)
+Outils BI Jasper (Compétent)
+Support Redmine (Compétent)

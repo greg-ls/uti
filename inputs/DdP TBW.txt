@@ -1,0 +1,205 @@
+Profil:
+Je suis passionné par la direction des projets IT transverse, gestion des ressources et la création de leurs environnements de travail collaboratifs (management des clients, des comptes et des équipes). Ma motivation : mon aisance relationnelle et ma capacité d’adaptation me permettent de prospérer dans les environnements exigeants, complexes et à haute pression. Organisé, proactif et habitué à naviguer dans les flux de travail dynamiques avec un bon sens de l'analyse et force de proposition ; j’aime relever des défis et innover pour optimiser les processus. Je suis prêt à apporter la stratégie, la gestion et la transformation numérique de vos systèmes d'information pour vous aligner sur les nouvelles technologies.
+
+Langues
+Anglais : Courant
+
+Certifications
+Microsoft Certified : Azure Fundamentals –
+Prince2 : Foundation –
+Agile : Le leader agile –
+ITIL 4 : Foundation – La sécurité informatique et cybersécurité : Niveau avancé
+
+Diplômes :
+2016 - 2018 : Master 2 MSC Expert en Système, Réseaux et Cloud Computing; Master 2 Expert en Ingénierie de l'Informatique et des Systèmes d'Information – ESGI Paris Nation
+2015 - 2016 : LICENCE LG025 INFORMATIQUE GENERALE – CNAM IDF : Site de CERGY
+2008 - 2010 : BTS - IRIS (Informatique et Réseaux pour l'Industrie et les Services techniques) - Dijon
+
+Compétences Fonctionnelles
+Maintenir et mettre en œuvre la ROADMAP des systèmes d'information en cohérence avec les enjeux de l’entreprise
+Pilotage des projets IT / Planification / Budget / PnL
+Manager et animer une équipe (planning, training, objectifs)
+Management de projet SI : Cahier des charges, risques, budget et pilotage
+Panorama des nouvelles architectures des Systèmes d'Information
+Pilotage d’infogérance SAP sur Azure
+Rédaction de documents (PV, Manuels utilisateurs)
+Suivi Qualité (PAQ), Statistique, KPI, COTECH et COPIL
+Application des processus ITIL
+Garantir la continuité de service et la gestion des crises informatiques
+Pilotage des comptes Cloud (Azure, AWS, WMWare)
+Monitoring et gestion des parcs informatique (Datacenter)
+Superviser la gestion de la cybersécurité, en garantissant la conformité aux normes et régulations du secteur (RGPD, HDS, etc.)
+Mettre en place et suivre des indicateurs de performance (KPI, Dashbord)
+
+Compétences Techniques
+Compétences principales : Microsoft Azure, Microsoft Excel, Microsoft SharePoint, PowerBI, Configuration Management Databases, Firmware, Vmware, Centreon, Jira, HPC.
+Solution Cloud : Infrastructure As A Service (IaaS), Microsoft Azure, Platform As A Service (PAAS), Software as a Service (SaaS), Migration du SAP S/4 HANA sur Azure.
+Gestion IT : Centreon, ServiceNow, Jira, Océane, Cacti, Kibana, Grafana.
+Gestion des Systèmes : Nagios, Vmware, Bastion, FortiGate, Cloud Technologies.
+Architecture et management IT
+
+Expériences Professionnelles
+Orange Business 01/2024 – En cours
+Fonction : Directeur & Chef des projets Cloud/ERP
+Contexte : Être le chef d’orchestre de plusieurs projets IT, à ce titre je suis responsable de la stratégie, de la gestion et de la transformation numérique des systèmes d'information de l'entreprise. En tant d’acteur de référence, je dois coordonner l’ensemble des acteurs sur mes projets. Cela suppose une bonne compréhension des enjeux techniques et un fort leadership. Ma responsabilité va de la reprise de la solution vendue par les équipes commerciales jusqu’au transfert vers les équipes qui opèrent la solution.
+Direction des projets
+Tâches :
+Définir et suivre les indicateurs de performance clés (KPIs) pour évaluer la performance des projets complexes
+Gérer la planification des projets, l'allocation des ressources, la budgétisation et l'établissement des calendriers
+Coordonner les responsables de projet pour assurer la conformité aux processus / normes de gestion de projets
+Gestion des projets IT/digitaux complexes :
+Animation d’ateliers, en s’assurant que les participants se focalisent sur les sujets prioritaires
+Assurer la communication des projets (reporting, comités…) en interne et auprès des clients
+Gestion d’obsolescence et de mises à jour de sécurité, de correctifs et de nouvelles fonctions
+Management de l’équipe Build (Architectes, CDP, Technical Leaders, RSSI)
+Assurer l'achèvement des projets et la livraison dans les délais et respect des paramètres financiers
+Valider la cohérence des études d’exécution pour le lot technique Sûreté / Cyber Sécurité
+Mettre en place et gérer une base de connaissances de projets pour capitaliser sur les leçons apprises et favoriser le partage des meilleures pratiques
+Animer les revues et comités de pilotage des projets
+Responsable d'Exploitation SAP :
+Piloter l’infogérance et l’application du contrat de service
+Gérer les contrats, le budget et développer les compétences de mes collaborateurs
+Piloter et industrialiser les mises en production, et les opérations récurrentes (Releases management, Tests de Non-Régression, Transports...)
+Veiller sur la rentabilité des comptes (les pertes et profits P&L)
+Diriger une équipe d’administrateurs (SAP Réseau et Système), d’experts et de chef de projet
+Suivi des systèmes SAP/non SAP en étroite collaborations avec l’hébergeur, l’éditeur SAP et les autres services
+Suivi de budget avec l’expertise FinOps des comptes SAP sur Azure
+Garantir la conformité et la stabilité des plateformes
+Respecter les contrats, les réglementations et les normes
+Animer les comités de gouvernance techniques avec les principaux acteurs (Hébergeur, Editeurs, Programme métier)
+Coordination de migration du SAP S/4 HANA
+Environnement technique : Projets, Cloud (VMWare, Azure, AWS), SAP sur Azure, méthodologie Agile, ServiceNow, MS Teams, Jira
+
+BNP PF 12/2022 – 12/2023
+Fonction : Project Manager DevOps
+Contexte : Refonte des applications et d’Infrastructures des entités BNP vers la Tool Chain Centrale BNP/PF. Dans le cadre de la refonte des applications et d’Infrastructures des entités BNP vers la Tool Chain Centrale BNP/PF, je dois gérer beaucoup d’interactions avec plusieurs contributeurs des projets SI et des applications. Le Project Manager DevOps doit mobiliser, animer et coordonner l’ensemble des équipes métiers et SI. Il doit avoir un état d’esprit constructif, la capacité à maintenir une cohésion des équipes et suivre le planning, le budget sur plusieurs projets de son portefeuille.
+Tâches :
+Project Management
+Pilotage de projets SI de grande envergure :
+Planifier, coordonner et superviser les projets, en garantissant le respect des délais, des budgets et de la qualité.
+Interface stratégique entre métiers et développement :
+Faire le lien entre les utilisateurs métiers et les équipes techniques pour traduire les besoins en solutions concrètes.
+Développer les compétences de ses collaborateurs suivant le besoin des projets
+Suivre, encadrer et valider la conception des CI / CD de la Tool Chain BNP/PF
+Veiller à la rédaction des spécifications techniques détaillées dans la CMDB
+Assurer l'atteinte des objectifs du projet (Périmètre, Coûts, Délais, Qualité)
+Assurer le pilotage et la coordination des acteurs internes et externes
+Préparer, animer les comités de pilotage et les comités projet
+Participer à la mise à jour des référentiels de sécurité informatique
+Pilotage de la migration Exchange vers Office 365
+Assurer l'interface entre les différents acteurs du projet avec les représentants Métiers, organiser et coordonner les actions d’études, de conception, de recette et de formation
+Gestion des risques et des KPIs : Vous gérez les risques des projets et suivez les KPIs pour assurer leur succès
+Environnement technique : Projets et Supports aux applications, DevOps, méthodologie Agile, ServiceNow, Office 365
+
+ENGIE IT (ITS GROUP) 01/2021 – 12/2022
+Fonction : Project Manager (move to Cloud)
+Contexte : Garant du portefeuille des services souscrits par le client et leur migration vers le cloud (Azure ou AWS) auprès de la famille Cloud Infrastructure (C.I.). A ce titre, je représentais la famille C.I. pour l'intégralité des services qui sont définis dans les conventions de service. Responsabilisé sur les phases de construction vers le cloud/évolution (Build) des services et leur maintien en condition opérationnelle (Run). Garantir le respect de la qualité (délais, SLA...), budget du projet au travers d'instances périodiques de reporting au client et relatives aux activités opérationnelles.
+Project Management
+Tâches :
+Développer les compétences de ses collaborateurs
+Affecter la bonne équipe suivant les besoins client & projet (move to cloud)
+Pilotage projet move to cloud (Azure & AWS) Planning, risques, délais, budget et réunions de suivi
+Préparation et participation aux réunions de pilotage
+Planification et coordination des ressources Business & Indicateurs
+Amélioration du niveau de satisfaction client
+Suivre les KPI régaliens fournis par l'entité Performance
+Réponses appels d'offres : Identifier les opportunités d'extensions des périmètres
+Amélioration des indicateurs globaux de suivi opérationnels
+Gestion et sécurisation du chiffre d'affaires (propositions commerciales)
+Participer à la négociation contractuelle, développer la relation client
+Assurer la rentabilité du projet (la fiabilité et la performance du résultat)
+Porter les demandes de financement des études et des projets
+Organiser, planifier, coordonner et piloter l'ensemble des ressources, processus et intervenants mobilisés sur les projets.
+Garantir la qualité des services souscrits par les clients
+Une bonne connaissance des engagements clients
+Une vision et une analyse globale des activités de son périmètre client
+Analyser les écarts (qualité et financiers) par rapport aux engagements souscrits
+Définir et garantir la tenue à jour de la convention de service (respect des SLA / OLA définis)
+Présenter l'analyse des reportings des activités et des éléments financiers des prestations fournies dans une logique FinOps.
+Assurer le pilotage du projet (définition, organisation, planification, budget...)
+Avoir une vision et une analyse globale des activités de son périmètre client
+Produire les indicateurs de performance spécifiques à son service
+Gestion d’obsolescence (préventive et évolutive) avec le support des experts techniques
+Patching (Windows & Linux) mises à jour de sécurité et de nouvelles fonctions
+Environnement technique : Cloud ENGIE IT (VMware), Cloud Azure et AWS, ServiceNow, MS Teams, Salesforce
+
+CNSA / ANTS / TOTAL (CGI) Décembre 2018 - 2020
+Fonction : PROJECT MANAGER OFFICER (PMO)
+Contexte : Accompagnement des clients en leur fournissant les services cloud (IaaS et SaaS). Pour mieux réaliser cet engagement il faut assurer l'administration et l'exploitation des systèmes IT et son environnement applicatif. Gestion de projets pour fournir un soutien stratégique et opérationnel dans la planification, l'exécution, le suivi et le pilotage financier des initiatives clés auprès du Responsable de Département.
+Tâches :
+Manager d'équipe des administrateurs système, réseaux et applicatif (25 personnes)
+Pilotage d’infogérance SAP, Patch management et migration du SAP S/4 HANA
+Garantir et suivre la qualité de service délivré (SLA)
+Assurer la gestion de la relation client (15 chefs de projet opérationnels et applicatifs)
+Préparer et animer les comités de pilotage (CR : COTEC, COPIL et CAB)
+Produire les livrables contractuels et opérationnels (tableaux de bords, reporting...)
+Participer à la définition des plans d'actions nécessaires à l'amélioration du service
+Organiser et coordonner la migration de la messagerie vers Office 365
+Coordonner l'ensemble des interventions au Datacenter ou applicatif
+Assurer le pilotage et le suivi opérationnel des collaborateurs sur un périmètre infrastructure (Datacenter) et applicatif
+Gestion et monitoring : Service Now, Cacti, Centreon, Marley, Nagios et Kibana
+Suivi de bulletin météo : état de santé du SI local et supervision applicative
+Management, gestion, pilotage et suivi des besoins métier (projet, installation, déménagement, décommissionnement)
+Approbation des MEPP/MEP (logiciel, infra, applicatif, mise à jour et plan d'action)
+Management des équipes et projets multi sites (France, Maroc, Canada et USA)
+Chiffrage, Gestion et optimisation de budget du projet
+Environnement technique : Cloud OBS, Cloud Azure, VMware, Centreon, ServiceNow, Pack Office, SharePoint, MS Project.
+
+CNRS IA (HPECDS) 01 2017 - 12 2018 Fonction : Chef de projet (Infrastructure Support spécialiste)
+Contexte : Mise en place d’un calcul haute performance (HPC) pour favoriser l'usage du calcul intensif (traiter les données et effectuer des calculs complexes à des vitesses élevées) au bénéfice des communautés scientifiques françaises au sein du CNRS.
+Tâches : 
+Vérification de la cohérence et de l'optimisation des équipes techniques
+Installation physique du calculateur HPC chez le client
+Test de performance suivant les livrables du cahier de charge
+Participation aux comités de suivi opérationnel pour garantir le délai de livraison
+Organiser les cellules de crise lors des blocages majeurs et complexes avec diverses équipes techniques.
+Suivi des différents partenaires interne et externe sur le projet
+Amélioration et respect des processus suivant l’avancement du projet
+Statistiques d’avancement, facturation et suivi de budgétaire
+Gestion de planning, d'allocation des ressources
+Réunion de GO/NO GO avec les métiers pour les MEPP/MEP
+Satisfaction client :
+Mise en place des plans d'actions de différents jalons
+Veiller à la bonne exécution des contrats clients
+Suivi des métriques et mise à jour des tableaux de bord
+Coordonner les activités de transformation au sein du Datacenter client
+Environnement technique : HPC (High Performance Computing), RedHat, Kibana, MS Project, Nagios, Pack Office, Messagerie O365, SharePoint
+
+SFR BUSINESS TEAM (HPECDS) Janvier 2013 - Décembre 2016
+Fonction : Service Delivery manager (Infrastructure Support Spécialiste)
+Contexte : Maintenir en mode opérationnel l’infrastructure client. Mise à disposition de ressources sécurisées, immédiatement disponibles et ultra connectés (PaaS, IaaS, SaaS) pour héberger les équipements informatiques de divers clients. Le parc est en grande partie composé des équipements HPE sous cloud privé (VMware) et une partie sur le cloud Azure.
+Tâches : 
+Gestion de l'entité Infrastructure
+Planifier et suivre le projet
+Conduire une analyse des risques
+Décider de l'organisation et du planning des incidents hardwares
+Communication technique avec le client SFR
+Management du compte SFR BUSINESS TEAM :
+Résoudre ou escalader les conflits et problèmes
+Maintenance active et préventive du parc informatique
+Analyse d'incidents et préconisation de solution
+Optimisation sur les solutions d'infrastructures
+Patching management, mise à jour firmwares et table de compatibilité
+Suivi technique et administratif des dossiers chez SFR Business Team
+Coordination des dossiers (liaison des calls HPE et Clarify SFR)
+Gestion des salles informatiques avec Nlyte et Centreon
+Environnement technique : HPESIM (monitoring & dispatching), OneView, VMware, Cloud Azure, Centreon, Nagios, Pack Office, Messagerie (Outlook et O365), SharePoint.
+
+ORANGE BUSINESS TEAM (UPTECK) Janvier 2010 - Décembre 2012
+Fonction : Consultant Datacenter
+Contexte : Urbanisation infrastructure Datacenter (multisites) et gestion des activités Datacenter. Analyser les plans des salles (plusieurs clients en IDF) pour les installations, maintenance hardware des serveurs ainsi que leur décommissionnement. Optimiser les activités du Datacenter et fluidifier les demandes et leurs traitements.
+Tâches : 
+Traitement des demandes de services et projets en salle (rackage, câblages, décommissionnement, évolution d'infra, déménagement, livraison et accompagnement)
+Management des sondes et gestion des seuils d'alertes
+Traitement et suivi des incidents Datacenter avec les équipes offshore
+Lancement de script de rotation de sauvegarde (robot des cassettes)
+Génération de plan d'occupation des salles
+Mise à jour des référentiels : CMDB, SharePoint, Excel
+Gestion des accès, de stock et de livraison
+Application du processus gestion d'incident et de l'amélioration continue (ITIL)
+Création de la cellule de gestion de problème
+Reporting Business Object pour suivre l'encours des demandes
+Analyser et valider la réalisation d’installation selon la demande du client
+Validation de la faisabilité du projet.
+Priorisation des incidents
+Environnement technique : Urbanisme Datacenter (Serveurs, Stockages, Baie, Switches), Pack Office, SharePoint, Dispatching.

@@ -1,0 +1,236 @@
+
+ COMPÉTENCES
+
+Compétences Techniques
+
+DevOps                                  Git, Gitlab, GitHub
+
+OS                                      Centos 7, Ubuntu, Windows ...
+
+Base de données (SQL / No SQL)          Oracle, MySQL, PostgreSQL, MongoDB
+
+Cloud                                   GCP
+
+Big Data                                Cluster Hadoop, Hdfs, Hive, MapReduce, Spark, MongoDB,
+                                        Kafka, Sqoop, Airflow, Cloudera 6.3 (distribution Hadoop)
+
+Business intelligence                   Datawarehouse (SCD), ETL, Reporting, power BI, Talend Big
+                                        Data.
+
+Programmation                           Java, Java FX, python, scala, javascript, PL/SQL
+
+Data Visualization                      Ploty, IBM COGNOS, Power BI
+
+Machine Learning                        Classification, segmentation, arbre de décision, scoring
+
+
+ Maîtrise de l'environnement Hadoop, Airflow, Spark, Hive, SQL, NoSQL, Cloudera (HDFS, Sqoop,
+ Hive, HBase, Yarn, Hue)
+
+
+
+Compétences fonctionnelles
+
+         Méthodologie Agile : Scrum
+         Cycle en V
+
+    Formations                                       
+
+                                                                                
+           2022 : The Ultimate Hands-On Hadoop : Tame your Big Data           
+           2021 : Cloudera Certified Hadoop and Spark Administrator
+           2021 : Developing with Semarchy xDM / MDM
+           2020 : Soft skills / programmation neuro linguistique : PNL / Training of Trainer
+           2020 : The Ultimate Hands-On Hadoop : Tame your Big Data
+           2019 : Fundamentals of Deep Learning for Computer Vision
+
+    Diplôme
+           2019 : Diplôme national d’ingénieur en informatique
+                                                                                 
+
+
+Langues
+       Français
+       Anglais
+     Arabe : Scolaire
+
+    Expérience Professionnelles
+
+     RÉFÉRENCES PROJETS
+
+    ENEDIS : De 07/2022 à Aujourd’hui : Data Engineer
+
+    Contexte : Extraction, transformation et chargement de données provenant de plusieurs sources
+    pour créer des vues et des tables sous Pgaas pour suivre les réclamations, les affaires, les clients
+    et les agents de différentes directions de Enedis.
+
+     Tâches :
+            Transformation de données avec Apache Spark (Spark-scala)
+            Requêtage des données avec Hive
+            Chargement les données dans pgaas
+            Création des vues dans pgaas.
+            Optimisation des requêtes sql dans pgaas.
+            Développé et optimisé des procédures stockées pour automatiser les processus de traitement
+             de données, réduisant le temps d'exécution.
+            Traitement des données en batch avec Spark
+            Collecte et ingestion de données dans le Data Lake (HDFS).
+            Création des modèles des données sous Denodo.
+            Traitement des données avec Denodo.
+            Planifier les jobs Spark Scala avec Airflow.
+
+    
+
+Environnement technique:     Hive, Spark, Scala, Python, HDFS, Cloudera, Hadoop, Denodo, Airflow, Git
+
+     Banque Internationale
+             Environnement technique:  Agile / scrum de Tunisie : De 05/2019 à 06/2022 : Data Engineer
+
+
+
+                                                                                                          2
+Projet 1 : Mise en place d’un datawarehouse pour collecter les différentes données de nature Big Data
+issues de diverses sources et sous plusieurs formes au profit de la BIAT afin de maitriser le risque.
+  Tâches:
+      Transformation de données avec Apache Spark
+          Requêtage des données avec Hive
+          Traitement des données en batch avec Spark
+          Collecte et ingestion de données dans le Datalake (HDFS).
+          Installation de Spark sur l’infrastructure Hadoop
+          Déploiement du POC sur l’infrastructure Hadoop en différents modes client et cluster afin de comparer
+           les performances.
+
+
+
+
+ 
+
+    Environnement technique:      Hive, Spark, HDFS, Cloudera, Hadoop, Talend big data, GCP Big Query, PL/SQL
+
+
+
+Projet 2 : Extraction, transformation et chargement de données provenant de plusieurs sources pour créer
+un DataWarehouse. L’objectif est d’obtenir, en une seule vue, tous les axes financiers de la banque.
+
+ Tâches:
+     Ingestion de données de différentes sources vers PostgreSQL et MongoDB
+          Data profiling : évaluation de la qualité des données selon des indicateurs de qualité
+          Stratégie fiabilisation des données
+          Mapping entre les différentes tables pour la restructuration du modèle
+          Mise à jour des données
+          Segmentation et clustering des clients
+          Développé des déclencheurs PL/SQL afin de garantir l'intégrité des données et de gérer les
+           événements au sein de la base de données.
+          Création de fonctions et de procédures stockées en PL/SQL.
+ 
+
+    Environnement technique:      Talend Big Data, PostgreSQL, Oracle PL/SQL, MongoDB, SCD, ETL, Python, PL/SQL, Méthodologie
+          Scrum
+Projet 3 : Suivi de l’application mobile MyBiat.
+
+ Tâches:
+     Création de flux des données et intégration dans BigQuery (Service GCP) à partir des applications
+        WEB/ ANDROID /IOS.
+          Manipulation des données dans BigQuery afin d'accompagner et piloter l'équipe digitale.
+
+          Création de fonctions et de procédures stockées en PL/SQL sous GCP.
+
+
+          Collecte, mesure, analyse et visualisation des données liées aux interactions de l'utilisateur avec les
+           canaux digitaux de notre site web et application mobile.
+
+
+
+                                                                                                                     3
+ 
+
+    Environnement technique:        GCP, BigQuery, Google Analytics, PL/SQL, Méthodologie Scrum
+
+
+
+
+ESPRIT : 04/2018 à 04/2019 : Data Engineer
+
+Projet 1 : Mise en place d’une solution BI pour la DSI de l’établissement d’enseignement supérieur
+
+Tâches :
+
+
+            Conception et modélisation d’un Datawarehouse
+            Collecte des données des anciens étudiants
+            Suivi des réclamations et des orientations
+            Utilisation de scripts ML pour prédire les résultats des étudiants par section
+            Formateur BD,DBA (Architecture Oracle, Tablespaces, Audit, Droits d'accès),PL/SQL
+            Formateur Data mining avec Python (Apprentissage Supervisé, Non Supervisé)
+            Conception et gestion de bases de données Oracle, comprenant le développement de fonctions, de
+             procédures stockées, de blocs anonymes et de déclencheurs (triggers).
+
+
+ 
+
+   Environnement technique:        Talend open Studio, UIpath RPA, Oracle, PostgreSQL, PowerBI, Python (Colab), PL/SQL
+
+
+Projet 2 : Suivi logistique pour une société de transport
+
+Tâches :
+
+
+            Conception et modélisation d’un Datawarehouse
+            Mise en place d’alimentation avec l’outil Talend
+            Réalisation d’un tableau de bord en suivant les indicateurs clés des clients
+            Développement backend et frontend des applications web
+
+ 
+
+   Environnement technique:        Talend open Studio, PL/SQL, Rest API, Nodejs, Angular, Oracle, PostgreSQL, PowerBI.
+
+
+ODDO BHF : De 09/2016 à 03/2018 : Data Engineer
+
+Projet 1 : Mise en Place un Datawarehouse pour obtenir en une seule vue tous les éléments financiers de
+la banque
+
+Tâches :
+
+
+
+
+                                                                                                              4
+              Conception et modélisation d’un Datawarehouse
+     Environnement technique:     Talend open Studio, Python, PL/SQL,Jupyter notebook, Rest API, Nodejs, Angular, Oracle, PostgreSQL,
+          PowerBI
+          Mise en place de l’alimentation avec l’outil Talend
+              Mise en place d’un tableau de bord afin de suivre les indicateurs clés des clients
+              Utiliser les techniques machine learning pour mettre en place un système de recommandation
+              Récupération des données depuis plusieurs sources web (web crawling)
+              Utiliser les jointures pour alimenter les datas prévenantes du web crawling dans l’architecture
+               datawarehouse.
+              Création de fonctions et de procédures stockées en PL/SQL
+
+
+              Développement backend et frontend de applications web
+
+
+
+
+
+
+
+Projet 2 : Consulter les horaires de départ de bus en temps réel, les arrêts sur GoogleMap ainsi que le trajet
+de chaque voyage
+
+Tâches :
+
+            Réaliser un tableau de bord afin de suivre les indicateurs clés des clients
+            Développement backend et frontend de applications web et mobile.
+
+
+
+
+
+     Environnement technique:        SQL, PL/SQL, Oracle, J2EE, JavaScript
+
+
+
+
+                                                                                                                 5

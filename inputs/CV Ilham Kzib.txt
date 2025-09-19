@@ -1,0 +1,60 @@
+ILHAM KZIB
+Data Analyst | Business Analyst
+Kzib.ilham@gmail.com
++(33) 667366153
+127 Avenue François Arago, 92000 Nanterre
+linkedin.com/in/ilham-kzib
+
+COMPÉTENCES
+Langages: SQL, Python
+Méthodes de conception: UML
+Bases de données: Mysql, PostgreSQL, SQL Server, MongoDB
+Informatique décisionnelle: ETL, Power BI, Tableau, Amadea
+Artificial Intelligence: Machine Learning, Deep Learning
+Big Data: Hadoop, Apache Spark
+Langages de description: Json, XML
+Cloud Computing: Google Cloud Platform (GCP)
+Bureautique: Pack Office, Outils collaboratifs
+
+LANGUES
+Arabe: Maternelle
+Français: Bilingue
+Anglais: Professionnelle
+
+EXPÉRIENCE PROFESSIONNELLE
+Data Analyst Client BPCE Payment Services, Paris
+de août 2022 à déc. 2024
+Projets Menés:
+Migration des requêtes Amadea utilisées dans les reportings (Power BI, Excel..) vers GCP Fiabilisation des requêtes SQL afin d'assurer la cohérence des données migrées et leur bon fonctionnement sur GCP Détection des anomalies avec l'IA Mise en place d'un flux automatisé garantissant une intégration rapide et fiable des sources externes dans les tables GCP
+Missions:
+Extraire les données et déterminer les variables nécessaires à l’ analyse et au pilotage de l’activité paiement. Structurer la connaissance de ces données dans le but de développer des outils de pilotage pour le suivi de l’activité. Contribuer à la démarche permanente d'amélioration des processus et à la création de valeur ajoutée décisionnelle via les rapports et les analyses. Lancer les traitements récurrents et effectuer les contrôles ad'hoc de cohérence(suivi des variations, alertes, valeurs aberrantes...) Participer à la réalisation des ciblages, à la détection d’ opportunités et aux analyses en lien avec les équipes marketing, les directions commerciales et les Business Unit. Participer aux projets transverses data de l'équipe.
+
+Data Analyst Office National des Chemins de Fer (ONCF), Rabat MAROC service Gestion & Comptabilité
+de 2016 à juil. 2022
+Projets Menés:
+Digitalisation de la collecte et la mise en place d'un système centralisé pour structurer et analyser les dépenses en carburant du parc automobile Mise en place d'alertes pour détecter automatiquement les écarts et les dépassements de budget Mise en place d'une application de suivi du parc automobile
+Missions:
+Produire les tableaux de bord à communiquer à la Direction Finances et aux différentes structures centrales et régionales du Pôle. Élaborer les états comptables et budgétaires du Pôle. Accompagner les Directions régionales dans le déploiement et l’exploitation des applications réalisées par la DSI. Tenir à jour la nomenclature des comptes du Pôle, des Directions, des Départements, des Services et des établissements.
+
+Consultante SIRH Office National des Chemins de Fer (ONCF), Rabat MAROC Service Ressources humaines
+de 2012 à 2016
+Missions:
+Concevoir, produire et analyser les tableaux de bord et indicateurs RH du Pôle Fret et Logistique: Statistiques mensuelles / Etats et reporting réguliers. Assurer à l’administration fonctionnelle du SIRH (Oracle HRMS) et l’assistance des utilisateurs :
+Assister les utilisateurs des Pôles dans l’utilisation des modules du SIRH. - Assurer l’interface avec la Direction SI pour apporter des solutions aux dysfonctionnements techniques, et veiller au déploiement efficient des nouveaux modules du SIRH.
+
+FORMATION
+Master Business Analytics & Big Data FST Settat
+de 2020 à 2022
+Licence Management des Organisations & Entrepreneuriat CNAM
+de 2018 à 2019
+IFF Formation Ferroviaire
+2012
+CPGE Math SUP/ Math SPE
+2010
+
+CERTIFICATS
+Big Data Engineer IBM
+
+CENTRES D'INTÉRÊT
+Natation
+Voyage

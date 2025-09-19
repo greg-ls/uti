@@ -1,0 +1,145 @@
+DATA ANALYST / BUSINESS ANALYST DATA & IA
+
+CONNAISSANCES TECHNIQUES
+Cloud : AWS, GCP, Azure Databricks, Salesforce
+Business Intelligence : Power BI, Google looker studio, (Data studio), Data Preparation / ETL : AWS Glue, Alteryx
+Programming language :SQL, Python, Scala, R, HTML, PHP, CSS, JavaScript
+Project Management : Méthodes agiles, JIRA, Confluence
+CRM : Salesforce, Hubspot, Microsoft Dynamics 365
+Environnement : Windows, Azure, Databricks
+
+DIPLOMES
+2022 Mastère Spécialisé® - SKEMA Paris (Data Analytics & Digital Marketing)
+2021 BAC+5 Diplôme de grande école - Iscid-co - ENCG LILLE – France (Statistics, Computer Science, Finance, Management, Marketing)
+
+LANGUES
+Français : courant
+Anglais : courant
+Espagnol : intermédiaire
+
+EXPERIENCES PROFESSIONNELLES
+
+L’Oréal (Depuis Mars 2025)
+Business Analyst orientée Data & IA
+Contexte
+Projet : Participation à des projets digitaux et d’Intelligence Artificielle pour les marques Kérastase et Lancôme.
+Activités principales :
+Analyse fonctionnelle & coordination technique :
+Rédaction de tickets techniques et suivi des intégrations entre Salesforce Commerce Cloud, GCP, SAP et autres systèmes internes.
+Participation aux phases de test et de validation via Postman et MongoDB, en lien avec les équipes techniques pour garantir la qualité des livrables.
+Documentation & modélisation :
+Formalisation des flux API et des processus d’intégration.
+Documentation fonctionnelle et technique des solutions mises en place.
+Agilité & gestion de backlog :
+Collaboration en mode agile avec les équipes produit et techniques.
+Suivi des US, gestion du backlog via JIRA.
+Recette fonctionnelle & qualité :
+Définition de la stratégie de test, rédaction des plans de tests fonctionnels.
+Réalisation des tests et consolidation des résultats pour validation métier.
+Data & IA :
+Analyse de données via Looker pour alimenter des agents IA dans un projet GenAI multi-agents.
+Appui au développement d’une solution basée sur LangGraph et VertexAI, intégrant des sources variées (CloudSQL, BigQuery, Looker).
+Environnement technique : GCP, Looker, VertexAI, LangGraph, BigQuery, Looker, Postman, MongoDB, Salesforce Commerce Cloud
+
+ENGIE IT/ ENGIE FINANCE (Septembre 2024 - Février 2025)
+Business Analyst Data/ Generative AI
+Contexte
+Projet : Prévision et Gestion des Encaissements et Décaissements
+Activités :
+Analyse des flux de trésorerie sur 10 ans pour prédire la liquidité et fournir des insights pour le calcul du Free Cash-Flow
+Participation au Développement de modèles prédictifs en Python et Scala avec Spark, déployés sur Azure Databricks
+Création de dashboards Power BI en exploitant Databricks pour préparer et visualiser les données financières clés
+Exploitation des résultats pour anticiper l’impact d’événements globaux sur les finances et proposer des recommandations stratégiques pour orienter les investissements
+Environnement technique : Python, Scala, Spark, Azure, Databricks, Power BI
+
+ENGIE IT (Janvier 2023 - Août 2024)
+Data Analyst
+Contexte
+Projet : Automatisation des Processus d'Ingestion de Données et Reporting Power BI sur Environnement Cloud
+Activités :
+Automatisation des pipelines de données avec AWS Glue pour la préparation et l'ingestion des données (ETL)
+Utilisation des services AWS (S3 et SQL Athena) pour l'intégration de données dans Power BI et pour la gestion de la base données
+Création des dataset Power BI ET des Dashboards (utilisant le langage M et DAX.)
+Gestion des accès et des droits dans Power BI (tout en assurant la sécurité des données)
+Optimisation des mesures DAX et des performances dans Power BI (Tabular editor 3)
+Rédaction de spécifications technico fonctionnelles
+Chiffrage de projets Power BI
+Les données présentées : Finops, DataQuality, organisation ENGIE
+Environnement technique : PowerBI, AWS cloud, SQL, Python, Agile
+
+ENGIE (Septembre 2021 - Novembre 2022)
+Data Analyst
+Contexte
+Projet : Offre électricité/gaz adaptée aux jeunes consommateurs
+Activités :
+Extraction, Transformation et Chargement (ETL)
+L'utilisation de Google BigQuery pour l'analyse de données avancée, l'interrogation de grands ensembles de données et l'extraction d'informations stratégiques
+Création des Dashboard interactifs pour suivre la performance du projet (looker studio)
+Elaboration et diffusion des analyses, reportings / tableaux de bords destinés aux équipes de Pilotage et à la direction marketing ou générale
+Assurance de la remontée des anomalies, l'Analyse des écarts et la proposition des actions d’amélioration en conséquence. L'alerte aux utilisateurs concernant les résultats de ces études
+Accompagnement des équipes d’animation sur leur appropriation des reportings / tableaux de bord (interprétation des données, définition des KPI, …), et participation dans la prise de décision
+Environnement Technique : GCP (BigQuery), Looker studio, CRM table, Salesforce cloud
+
+Enitium (Septembre 2020 - Août 2021)
+Data Analyst
+Contexte
+Projet : Offre numérique de services -BI ET BPM- (conseil et formation) auprès des acteurs de la Santé en France
+Activités :
+Recueil des besoins des responsables
+Gestion des Campagnes Publicitaires : Planification et optimisation des campagnes publicitaires sur Google Ads et réseaux sociaux
+Analyse et Reporting : Préparation et présentation de rapports de performance mensuels aux clients (Google Data Studio)
+Formations et accompagnement après-vente (training)
+Environnement technique : Power BI, Microsoft SQL Server, SSMS
+
+i-Oasis (Janvier 2020 - Août 2020)
+Business Analyst Data
+Contexte
+Projet : Optimisation des Processus de Formation en Réalité Virtuelle
+Activités :
+Analyse des performances d'apprentissage pour améliorer les modules de réalité virtuelle (Python, SQL)
+Suivre la création de modèles prédictifs pour ajuster les parcours de formation en réalité virtuelle selon les besoins des utilisateurs
+Création de rapports d'analyse détaillés pour évaluer l'efficacité des sessions de formation et recommander des améliorations
+Travail en collaboration avec les équipes de développement VR pour intégrer les insights analytiques et améliorer l'expérience utilisateur (JIRA)
+Environnement technique : Google Analytics (Python), Google data studio, Google BigQuery (SQL)
+
+ENERGIEDIN (Mai 2019 - Août 2019)
+Assistante Responsable stratégie digitale
+Contexte
+Projet : Gestion Complète de la Stratégie Digitale des Clients (France, Inde, Maroc)
+Activités :
+Elaboration de la Stratégie Digitale : Analyse des besoins clients et création de stratégies digitales personnalisées
+Gestion des Réseaux Sociaux : Création et gestion de calendriers éditoriaux pour animer et engager les communautés en ligne
+Coordination avec les Équipes Techniques et Créatives : Collaboration avec les développeurs et designers pour assurer la qualité des livrables
+L'utilisation de Google BigQuery pour l'analyse de données avancée, l'interrogation de grands ensembles de données et l'extraction d'informations stratégiques
+Création des Dashboard interactifs pour suivre la performance du projet (Looker Studio)
+Optimisation SEO des Sites Clients : Réalisation d'audits SEO et mise en œuvre de techniques d'optimisation pour améliorer le classement
+Veille Stratégique et Benchmarking : Surveillance des tendances du marché et proposition de nouvelles approches digitales
+Environnement technique : Google Data Studio, Google ads, SEMrush
+
+AIESEC (Mai 2018 à Août 2019)
+Project manager en bénévolat
+Contexte : AIESEC est une organisation internationale dirigée par des jeunes, dont la mission est de développer le leadership chez les jeunes à travers des expériences pratiques dans un environnement global (100% Anglais)
+Activités :
+Gestion des échanges internationaux : Organiser et superviser l'envoi et l'accueil des membres à travers le monde pour des stages et des expériences professionnelles et des missions de bénévolat
+Support aux participants : Accompagner les participants avant, pendant et après leur échange, en offrant un soutien logistique, administratif et culturel
+Coordination de projets : Planifier, organiser et assurer le bon déroulement des programmes d'échange, en respectant les délais et les objectifs fixés
+Développement de partenariats avec des institutions éducatives et des associations.
+Partenariats et réseaux : Développer et entretenir des relations avec les entreprises, universités et autres partenaires pour faciliter les échanges et enrichir l'expérience des participants
+Suivi et évaluation : Suivre les progrès des participants, évaluer l'impact des échanges et proposer des améliorations pour les futurs programmes.
+Projet EDUSIGNS : Plateforme éducative pour l'apprentissage de la langue des signes
+Support à la création de contenus adaptés aux besoins des utilisateurs
+Participation à la conception et à la mise en place de la plateforme
+Promotion et recrutement : Promouvoir les programmes d'échange d'AIESEC et recruter des participants intéressés par ces opportunités internationales
+Environnement technique : Expa (pour la gestion des échanges), Podio (outil de gestion de projet), Mailchimp (outil de gestion et du marketing par courriel), Google Suite, Slack, Skype, zoom.
+
+ENACTUS (Septembre 2016 - Août 2019)
+Business developement en bénévolat
+Contexte : Participation à des projets d'entrepreneuriat social, en tant que bénévole responsable du développement d'affaires
+Activités :
+Analyse des opportunités de marché pour le produit innovant (barre énergétique, produits sans Gluten, produits sans sucre)
+Participation à la stratégie de vente et de marketing du produit
+Développement d’un modèle d’affaires centré sur les produits bio et durables.
+Élaboration de stratégies de marketing digital et gestion de la communauté en ligne.
+Projet TIKIDA : Produit alimentaire à base de caroube
+Sourcing et négociation avec les fournisseurs locaux
+

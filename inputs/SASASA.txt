@@ -1,0 +1,107 @@
+Samira Amer
+Saint-Maur-des-Fossés 06 63 44 58 78 amerlucie@gmail.com
+linkedin.com/in/samira-lucie-amer-
+
+Compétences
+Ü Réactivité Ü Autonomie Ü Adaptabilité Ü Organisation Ü Aisance relationnelle Ü Éthique professionnelle et rigueur
+
+Compétences techniques
+Asset Management : Ü Stratégies de gestion Ü Passage d’ordres Ü Exécutions des ordres Middle & Back
+Office
+Ü Règlement /Livraison Ü Suivi et validation des opérations Ü Rapprochement des positions Front/Back Ü Matching Brokers
+Gestion de projet : Ü Piloter la formalisation des besoins clients Ü Rédiger et challenger les cahiers de
+charges
+Ü Participer au choix des solutions Ü Préparer et gérer le planning, les
+ressources, les risques et le budget
+Ü Animer les comités de pilotage Ü Coordonner les parties prenantes Ü Accompagner la conduite du changement
+Informatique Ü MS Office Ü Minerva Ü Sophis Risk & Value
+Thinkfolio
+Ü Ü Bloomberg Ü Myconf
+
+Langues Ü Anglais : Avancé (C1)
+
+Chef de Projet
+Plus de 10 années d’expérience en gestion de projets sur plusieurs missions significatives dans les plus grandes banques d’Asset Management, de financement et d’investissement m’ont permis d’acquérir et de développer de solides compétences fonctionnelles et techniques du milieu de la finance. Autonome et fortement orientée résultat, je suis en quête d’une nouvelle aventure professionnelle.
+
+Expériences professionnelles
+Business Relationship Manager Aviva Investors France – Asset Management
+Paris
+Depuis 2020
+Mission : en tant que Business Relationship Manager, je suis intervenue sur les projets des différents métiers : Middle, Back, Legal, Compliance et Client Solution.
+§ Prise en charge des projets et suivi métier
+Conduite des projets informatiques - Définition des priorités et des plans de charge - Organisation et planification des lancements des différents projets - Mise en place d’un outil de suivi et de reporting de l’activité́ IT - Participation aux comités informatiques trimestriels
+Principaux projets gérés :
+§
+Implémentation d’un outil de workflow et de signature électronique – DocuSign - pour toutes les équipes AIF
+§ Mise en place du reporting réglementaire MMFR § Revue et automatisation du process Middle/Back - Flux de données,
+génération de reporting, contrôles automatiques, traitements divers
+§ Revue et automatisation de l’ensemble des flux AIF § Mise en place d’une base de calcul de performance des fonds et mandats § Participation à la préparation du plan de sortie du Royaume Uni § Workshop avec les différents intervenants pour la migration de l’ensemble
+des applications
+§ Participation au RFP de remplacement de Salesforce
+
+Senior Business Analyst Natixis CIB
+Paris
+2018 – 2019
+Mission : en tant que Senior Business Analyst, je suis intervenue auprès du Back Office Commodities sur les problématiques de génération et d’automatisation des confirmations sur le progiciel Sophis.
+§ Réunion hebdomadaire avec le BO pour l’analyse des besoins, la priorisation des lots et planification des différentes livraisons... § Adaptation des confirmations aux nouveaux templates du légal § Coordination avec les différentes équipes IT pour les livraisons § Recette et validation fonctionnelle avec le BO
+
+Chef de Projet MOA Candriam Asset Management
+Paris
+2018
+Mission : en tant que chef de projet MOA, je suis intervenue sur le projet réglementaire MIFID II & PRIIPS sur le volet « Automatisation de l’envoi des fichiers EPT & EMT ».
+Détails du projet :
+§
+Intégration des données nécessaires à l’envoi des EPT & EMT dans l’infocentre Candriam
+§ Détermination du process dissémination/ réception des fichiers vers KNEIP § Détermination du process du contrôle des fichiers disséminés par KNEIP
+vers les clients
+Gestion du projet :
+§ Animation des réunions quotidiennes avec les différents métiers (Risk,
+product, ALM)
+§ Participation à l’animation des steering committees MIFID II & PRIIPS en
+interne et avec le sous-traitant KNEIP
+§ Participation aux meetings avec les responsables IT et les développeurs § Chiffrage, définition des budgets et gestion des ressources § Rédaction des spécifications fonctionnelles, des cahiers de tests et des
+rapports de comités, planification des tests
+
+Senior Business Analyst / Chef de projet Caisse des Dépôts et Consignation - CDC
+Paris
+2014 – 2017
+Mission : en tant que Senior Business Analyst et chef de projet, je suis intervenue sur les problématiques d’amélioration du process de passage d’ordre au sein de la table de négociation (Front Office).
+§
+Amélioration des workflows existants autour des différents produits traités - Déploiement des plateformes électroniques de négociation Bloomberg (TSO et VCON) Déploiement de la plateforme de réconciliation pour les actions et obligations : CTM
+: TradeWeb,
+§ Mise en place d’un lien fixe sur le périmètre actions afin de standardiser les données
+entre les OMS : négociateurs et brokers -
+Pilotage du programme, réunion avec l’éditeur, suivi des évolutions et du planning des livraisons Animation du comité utilisateurs : présentation de l’évolution du projet Animation des points MOA et MOE Participation à l’étude d’une nouvelle solution de connectivité
+- - - Workshop avec les différents intervenants pour la migration de l’ensemble des applications applicatifs ainsi que les risques éventuels
+
+Senior Business Analyst BNP Paribas Security Services – BPSS
+Paris
+2012 – 2014
+Mission : pilotage de l’outsourcing de la comptabilité du CDC chez BPSS.
+
+Senior Business Analyst Lyxor Asset Management
+Paris
+2011 – 2012
+Mission : en tant que Senior Business Analyst, j’ai co-conduit l’implémentation de l’outil Sophis Value au sein du stream referentiel.
+§ § Modélisation fonctionnelle des évolutions requises (référentiel MO (tiers, instruments) § § §
+Scoping et modélisation des portfolios LNS & Dreams
+Analyse et Cartographie des modèles de données (référentiel marché et historique) Co-Pilotage du programme, animation du comité́ projet, comité utilisateurs Suivi des livrables auprès de la MOE
+
+Business Analyst BNP Paribas Asset Management
+Paris
+2008 – 2011
+Mission : en tant que consultante MOA/Support Front Office et assistante de gestion Fixed Income, j’ai assuré le maintien évolutif de Sophis Value ainsi que la mise en place de THINKFOLIO.
+§ § § § § § §
+Paramétrage des produits dans l’outil de gestion Front Office (Sophis) Vérification des données et de la remontée des opérations de marchés Rapprochement Front Office / Middle Office. Expression des besoins à destination des chefs de projets IT Rédaction de spécifications fonctionnelles à destination des MOE Validation fonctionnelle avant diffusion auprès des utilisateurs finaux Réalisation des plans de tests et des mises en production des différents développements
+§ Mise en place de la conduite du changement
+
+Formation
+Master en finance Internationale, Trading et marchés des capitaux Institut Supérieure de Gestion - ISG
+Paris
+2008
+
+Centres d’intérêt
+Ü
+Sport : pratique de l’équitation et du fitness
+Ü
+Cuisine

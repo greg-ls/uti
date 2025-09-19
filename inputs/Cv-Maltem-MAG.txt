@@ -1,0 +1,152 @@
+MAG SUPPORT ET MOA Expérience : 15 ans
+
+Consultante avec 15 ans d'expérience, spécialisée dans la gestion d'applications fonctionnelles monétiques cartes. Expertise reconnue en recette et support utilisateur, combinant compétences techniques et capacité à résoudre efficacement les problèmes rencontrés. A démontré une capacité exceptionnelle à garantir le bon fonctionnement des systèmes tout en fournissant un soutien de haute qualité aux utilisateurs.
+
+Skills
+EMISSION
+ACQUISITION
+SUPPORT
+RECETTE
+SUPERVISION
+INCIDENT
+
+COMPÉTENCES MÉTIER
+Suivi et gestion des anomalies et des incidents
+Paramétrage (Cartes / TPE)
+Recette et homologation
+Supervision des flux monétiques
+Gestion des migrations techniques et/ou fonctionnelles
+Gestion et pilotage de la production carte (prévision, contrôle et suivi des flux cartes, des stocks cartes atelier, des rejets, relation ateliers)
+Authentification contrôle et sécurité
+
+COMPÉTENCES TECHNIQUES
+AS400, 3270, TSO
+Clarity
+Visa / CB / Mastercard
+Smart porteur, smart vigie
+Proxya
+
+FORMATION
+2002 - BTS ACTION COMMERCIALE
+
+Expériences clés :
+Février 2014 – septembre 2015 SG Gestionnaires d’application
+Mai 2016 – Avril 2018 NATIXIS Support monétique commerçant
+Juin 2018 – septembre 2021 BNP BDDF MOA et support
+Janvier 2022 – Janvier 2024 BPCE MOA et Support
+
+janvier 2022 – à aujourd’hui
+BPCE
+Cadre de la mission : MOA / SUPPORT ET SUPERVISION MONÉTIQUE
+Réalisations :
+Projet :
+Gestion des demandes de déclaratifs BIN des schemesVISA / CB / Mastercard
+Mise en place de nouveau ou produit existant (Demande de BIN, modification et activation des plages)
+Fusion, arrivé et sortie de banque (Demande de BIN, restitutions de BIN)
+Coordination et suivie des projets (déclaratif interbancaire, paramétrage interne, assistance, recette)
+
+Production :
+Recette et homologation
+Support et assistance (fonctionnelle/métier)
+Gestion des incidents de niveau 2 sur le domaine monétiques (fiche d’incident)
+Supervision des flux monétiques
+Contrôles et suivi des mises en production (correctifs, évolutions, nouveaux services),
+Gestion des migrations techniques et/ou fonctionnelles sur nos systèmes d'informations,
+Coordination et gestion des changements opérationnels
+
+juin 2018 - septembre 2021
+BNP BDDF
+Cadre de la mission : SUPPORTS MONÉTIQUE BANQUE CLIENTES / AMOA MONÉTIQUE ÉMISSION
+Réalisations :
+Assistance pour les MOA banque clientes BDDF (Expertise, coordination, supports, conduite du changement)
+Gestions des habilitations des BO (K2 PARTECIS et ACS)
+Assistance et analyse des demandes (paiements, retraits, SAE, cartes, extractions)
+Gestion et pilotage de la production carte (prévision, contrôle et suivi des flux cartes, des stocks cartes atelier, des rejets, relation ateliers)
+Coordination et gestion des incidents (émission, acquisition)
+Gestion de la boite générique (prise en charge des demandes des sites et des différents services internes, coordination et suivi)
+Assistante Projet : Contribution des projets impactant les banque clientes (ACS, migration référentiel porteur, paramétrage, recette)
+
+mai 2016 - avril 2018
+Natixis
+Cadre de la mission : CHARGÉE D’ASSISTANCE MONÉTIQUE COMMERÇANT
+Réalisations :
+Support monétique aux agences
+Aide et conseil sur les différents types de TPE
+Assistance aux utilisateurs sur application interne
+Informations sur différentes demandes (offres, conditions, procédures...)
+Traitement et analyse des réclamations commerçants (télécollecte, options des contrats, problème TPE…)
+Suivie des différentes demandes
+Analyse des dysfonctionnements liés au TPE
+Remontées des anomalies aux services concernés
+Assistance niveau 2 sur TPE
+
+février 2014 - septembre 2015
+SG
+Cadre de la mission : GESTIONNAIRE D’APPLICATIONS DES PAIEMENTS DOMESTIQUES ET INTERNATIONAUX
+Réalisations :
+Support banque
+Suivi des applications de traitement des moyens de paiements internationaux
+Surveillance des traitements- Suivi des flux bancaires
+Détection des anomalies et déclenchement des alertes
+Analyse des alertes et escalade à ma hiérarchie
+Remontées des anomalies aux services concernés (Back Office, MOA/MOE)
+Assistance aux utilisateurs
+Rédaction et mises à jour des procédures fonctionnelles
+
+avril 2012 - juillet 2013
+Natixis
+Cadre de la mission : SUPPORT MONETIQUE
+Réalisations :
+Analyse et résolution des demandes des banques porteur et commerçant
+
+Commerçants
+Les problèmes techniques de l’application
+Paramétrage technique de l’application
+Prise en charges des demandes spécifiques
+Assistance aux utilisateurs
+Mise en place de nouveaux produits bancaires au catalogue
+
+Réalisations (suite):
+Porteurs
+Analyse et résolution des demandes des banques concernant les incidents porteurs :
+Activation carte
+Code erroné
+Paiement refusé
+Authentification sécurisée
+Carte capturée
+Retrait refusé
+
+Projets
+Migration des Cartes porteurs CAISSE D’EPARGNE
+Arrivée de nouvelles banques.
+
+janvier 2012 - décembre 2012
+CE
+Cadre de la mission : GESTIONNAIRE BACK OFFICE MONÉTIQUE / SERVICES COMPTES MOYENS DE PAIEMENT BDR PRO
+Réalisations :
+Réception et contrôle des contrats monétique et location TPE
+Création des contrats
+Gestion et modification des contrats
+Mise en place des virements et prélèvements
+Prélèvements des indemnités ou frais (rupture ou clôture)
+Analyse et suivi des impayés (Recours ou sans recours)
+Traitement des réclamations sur impayés
+Traitement et analyse des réclamations commerçants (télécollecte, options des contrats, problème TPE…)
+
+décembre 2009 - décembre 2011
+BPCE / NATIXIS
+Cadre de la mission : GESTIONNAIRE BACK OFFICE MONÉTIQUE / SERVICE CARTES CAPTURÉES
+Réalisations :
+Réception et contrôle
+Traitement des cartes selon type de capture (GAB, commerçants, Visa, particuliers)
+Renvoi des cartes CE et banques confrères
+Destruction des cartes CE selon le code de capture
+Analyse et suivi des impayés
+Demande de régularisation à l’amiable et suivie
+Facturation des caisses CE
+Virements et prélèvements des CE et Confrères
+Ajustement comptable
+Service réclamations porteurs France (création et suivie des dossiers)
+Analyse et création dossiers
+Virement CE et Porteur
+Courriers porteurs

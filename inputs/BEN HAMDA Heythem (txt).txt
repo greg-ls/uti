@@ -1,0 +1,127 @@
+HEYTHEM BEN HAMDAD
+DÉVELOPPEUR SENIOR (15 ANS) JAVA J2EE ANGULAR KAFKA
+heythem.bhamda@gmail.com
+
+COORDONNÉES
+123 rue de la reine blanche carriére sous Poissy, 78500, FRANCE
+0785864734
+
+COMPÉTENCES
+Langages de programmation : Java 17 , Javascript, Typescript
+Développeur expérimenté, je suis capable de concevoir et améliorer des programmes informatiques. Force de proposition avec un bon esprit d'analyse, je partage mon expertise technique et apporte des solutions efficaces. De plus, je sais rédiger des notices techniques et des guides pour les utilisateurs.
+Opérationnel
+
+LANGUES
+Anglais
+
+Frameworks & technologies:
+ Backend : Spring (MVC, AOP, Boot, Data, Security, Batch, WebFlux), Hibernate
+ Frontend : Angular 14, Angular 16 JSF
+ Spécifications Angular : Ngx-Bootstrap, Angular , RxJS,
+Bases de données & Caching : PostgreSQL, MySQL, MariaDB, Oracle, MongoDB
+Méthodologies et approches : Scrum, TDD, BDD, SAFE, clean code, DevOps & GitOps
+Sécurité & Observabilité: OAuth2, Jwt, SonarQube, Prometheus + Grafana (Logstash, Kibana)
+Tests & Qualité du Code: Junit /Mockito, Testcontainers , Jasmine, Karma , Jest, Cypress.
+Webservices : Rest, Soap
+Intégration et Déploiement Continu (CI/CD) : Jenkins, Gitlab CI/CD, Nexus / Artifac.
+Conteneurisation & Orchestration : Docker , Kubernetes, Helm
+Messaging : Apache kafka, Amazon SQS
+Environnement de développement : Intellij, VScode, Eclipse
+Outils et services : Jira, Confluence, Swagger / OpenAPI
+
+CENTRES D'INTÉRÊT
+Musique
+Lecture
+
+EXPÉRIENCES
+Septembre 2024 - Juin 2025 Développeur Java/JEE - DEFI, Bordeaux - CDD
+Analyste développeur Java JEE au sein de l'équipe back office pour la migration d'une application basé sur java 1.5vers une application basé sur Spring boot et java 17
+- Mise en place et configuration d'une aspect transactionnelle avec ATOMIKOS
+- Configuration des multi data source avec XA
+- Mise en place du test du charge
+- création des procédures stockées
+- création des curseurs et des trigers
+- Création des curseurs et plsql
+- Mise place des tests unitaires et d'intégration
+- Correction du bugs et anomalies après la recette avec open Rewrite
+- Mise en place des web services SOAP et REST
+-migration des formulaires jsp vers Angular 16
+Environnement technique : Java 17, Spring Boot, Hibernate, Spring Batch, Spring, Maven, Jenkins, Sonar, Lombok,Mockito, Docker,Git,Mongo DB
+Methodologie: Scrum Agile :équipe 6 personnes
+Juin 2022 - Août 2024 Développeur Java/JEE - Fnac Darty, Ivry sur seine - CDI
+Analyste développeur Java JEE au sein de l'équipe back office Ordre Management Darty, en charge de la gestion du cycle de vie des commandes web, de la création jusqu'au paiement et
+Décommissionnent du back office basé surles EJB 2 vers spring Hibernate
+- Conception, chiffrage et développements
+- Intégration du nouveau partenaire de scoring des commandes
+- Décommissionnement du back Office basé sur les ejb2 vers apllication spring boot hibernate
+- Correction des bugs
+- Implémentation de module Kafka consumer depuis un topic externe
+- Implémentation du module Kafka Producer pour publier les ordres d'achats
+- Mise en place d'un Kafka Stream pour calculer les couts de chaque ordre par utilisateur.
+-implémentation des formulaires Angular 14
+Environnement fonctionnel : Gestion des commandes et achats en ligne
+Environnement technique : Java 17, Spring Boot, Hibernate, Spring Batch, Spring, Maven, Jenkins, Sonar, DB2,Angular 14 PrimengLombok, Mockito, Docker, Kubernates Git,Kafka
+Pair Programming et revue de code
+Methodologie: Scrum Agile : équipe 6 personnes sprint de 2 à 3 semaine
+Février 2021 - Juin 2022 Développeur Java/JEE expérimenté - Enedis, Nanterre - CDI
+Développement « from Scratch » d'une application « SYSPO » pour
+le compte du client Enedis pourla gestion des ouvrages et des dossiers et de tableau de charge
+- Participation au développement du module de gestion tableau de charge
+- Correction des quelques bugs des cartographies avec géo server
+- Participation au développement du module de gestion des FCM (Fiche Chronologique demanœuvre).
+Creation des procédures st
+- Développement des formulaires en Angular 10 pour la gestion des ouvrages et dosssiers
+- Réalisation des tests unitaires Mockito et Junit
+- Correction des bugs
+- Mise en place de Kafka Producer pour publier les ouvrages
+- Mise place de Kafka Stream pour afficher les nombres d'intervention par ouvrage
+Environnement fonctionnel : Creation D'un erp pour la gestion asssisté par ordinateur
+Environnement technique: Spring, Hibernate, spring boot, java 17, Angular 10, Jasper Report, Jenkins, Git, Geoserver, Kafka, Mango DB,Docker Kubernates
+Pair Programming et revue de code
+Architecture: Microservice aspect DDD
+Methodologie: Scrum Agile : équipe 6 personnes
+sprint de 2 à 3 semaine
+Novembre 2017 - Février 2021 Developpeur Java J2EE - Centre National des ordres des pharmaciens, Paris - CDI
+Développement « from Scratch » d'une application « DIGITOP » pour le compte du client Ordrenational des pharmaciens
+- Mise en place de l'architecture de l'application
+- Développement et conception du module de gestion des pharmaciens
+- Développement du module de gestion des entreprises
+- Développement du module de gestion des établissements.
+- Réalisation des tests unitaires Mockito et des tests d'intégration avec JUnit
+- Correction des bug
+Environnements techniques : Oracle 10, spring boot 2.0, Java 8, web service Rest, Hibernate 5.0, Git, Sawger,Tomcat8, Maven3, Jenkins, Sonar, Mango DB
+Pair programming et revue de code
+Architecture: Microservice
+Methodologie: Scrum Agile : équipe 6 personnes sprint de 2 à 3 semaine
+Septembre 2015 - Octobre 2017 Développeur Java J2EE - Mutex, Châtillon - CDI
+Développement « from Scratch » d'une application espace employeur « Selfcare » pour le comptedu client Carel, Mutex,
+HARMONIE MUTUELLE et ADREA
+- Mise en place de l'architecture de l'application
+- Développement et conception du module de gestion des employés
+- Développement du module de gestion des salaries
+- Développement du module de gestion des contrats
+- Développement du module gestion des déclarations des arrêts du travail pour les salariés
+- Développement du module Support Utilisateur
+- Installation des serveurs Dev et serveur ITG
+- Réalisation des tests unitaires Mockito et des tests d'intégration avec JUnit
+Pair Programming
+Cycle en V
+Equipe de 6 perosnne
+Environnements techniques : MySQL 5, spring 4.0, wsdl, web services SOAP, Spring-ws, web service Rest, Hibernate4.0, Tortoise SVN, Tomcat, Maven3, Jenkins, Sonar, Xsd.
+Janvier 2011 - Septembre 2015 developpeur Java J2EE - Municipalité du Milan, Tunis - CDI
+Développement « from Scratch » d'une application de gestion de temps pour le compte du clientCommune de Milan – Méthodologie Agile
+- Choix des technologies lors de la phase de conception et de spécification
+- Développements en méthodologie Scrum Agile
+Développement et conception du module de gestion des présences avec jsf2
+- Développement du module de gestion des communes avec jsf2
+- Développement du module de gestion des entrées et sorties
+- Création des procédures stockées
+- Développement de tableaux de bord avec jsf2
+- Rédaction de documents de spécification technique, du manuel utilisateur et du manueld'exploitation
+- Réalisation des tests unitaires et des tests d'integration
+Equipe de 6 personne
+Methodologie cycle en V
+Environnements techniques : Oracle 10g, Spring 3.0, wsdl, Angular JS, web services SOAP, Hibernate, SVN, GWT,Jsf2GXT, Tomcat, Jasper Report, Maven3.Web Logic
+
+FORMATION
+Septembre 2007 - Septembre 2010 Diplôme d'ingénieur génie LogicielEsprit, Tunis - Trés bien

@@ -1,0 +1,171 @@
+
+Release Manager
+ 2023 Certification RTE (Release Train Engineer) ONGOING
+2023 Certification SAFE 6.0
+2020 Certified Jenkins Engineer (CJE)
+2013 Certification ISTQB Test Manager
+2011 Mastère Spécialisé Management des Systèmes d’Information – ESSEC Business School
+2010 Diplôme d’Ingénieur – INSA Toulouse
+Domaine de compétences :
+ Mise en place des process de Release Management et organisation des trains de releases
+ Organisation des PIs, pilotage des Trains de release, gestion des dépendances, traçabilité...
+ Bonne connaissance des API et de technique de routage
+ Bonne connaissance en e-Commerce ‘supply chain et logistique
+ Mise en place des standards en termes de développement (langages, Framework, IDE, etc.)implémentation de SONAR QUBE:/ (CheckMarx)et suivi des règles avec les équipes
+ Gérer et opérationnaliser les applications/outils et infrastructures du pipeline de livraison continue, tels que Jenkins, Nexus/Atrifactory, SonarQube
+ Forte concentration sur la qualité du code, les outils d'analyse associés et l'intégration avec Sonar
+ Coordination des équipes, Build, intégration, Testing, déploiement entre environnements
+ Facilitateur entre les squads, fournisseurs externes et le product management
+ Garant de l'application des pratiques RTE, de la qualité du delivery et la stabilité de la prod
+ Mise en place du Kit Release Management (Deployment plan, Scope, dependances, support de Go no Go, CUT Over )
+ Mise en place de KPIs, Risk management, Alerte et corn autours des Releases
+ Préparation et animation de CAB, Rétrospective, pré-release et autres
+ Industrialisation, automatisation des Releases (Process, Cl/CD, Pipeline déploiement, interfaçage, Traçabilité...)
+ Mise en place de Monitoring et déploiement sur les environnements jusqu'en prod
+ Très bon communicant, force de proposition, très bonne connaissance des process RM, Build et run, et de leur mise en place dans des organisations complexes
+ Très bonne connaissance des outils de release, Devops, Atlassian /Snow, CMS, GIT, GIT-FLOW, Cloud Azure, Monitoring
+ Anglais :Courant
+Euronext: Depuis Juin 2024
+Release Manager
+Contexte :Release tain sur les trains de releases ainsi que le développement externalisé des applications bancaires
+Missions :
+ Planification des Pis, et des train de releases
+ Coordination des Releases, Comités de release, Mep et Post Mep
+ Organisation des déploiement et coordination du Dev à la production
+ Forte concentration sur la qualité du code, les outils d'analyse associés et l'intégration avec Sonar
+ Coordination des tests avec le test manager et coordination des déploiement dans les environnement de releases
+ Mise en place de train de releases et de déploiement automatique
+ Mise en place des KPIs, Monitoring depuis le dev a la prod
+Environnement technique :Méthode Agile (Safe),Azure Devops, ServiceNow, JIRA, Confluence
+Crédit Agricole CIB: Depuis Avril 2023 à Mai 2024
+Release Manager & Tech Lead
+Contexte :Global Release Manager Front/Back infra flux Swift/SEPA, projet international avec Singapoure coordination du délivery entre les trains en France et en Asie 12 Features teams / PM.
+Missions :
+ Planification des Pis, et des trains de release et mise en place de kit de release management
+ Coordination des Releases, Comités de release, Mep et Post Mep
+ Organisation des déploiement et coordination du Dev à la production
+ Implémentation de Sonar QUBE , suivi des règles pour les tests unitaires avec les techs leads
+ Gérer et opérationnaliser les applications/outils et infrastructures du pipeline de livraison continue tels que Jenkins, Nexus/Atrifactory, SonarQube.
+ Forte concentration sur la qualité du code, les outils d'analyse associés et l'intégration avec Sonar
+ Coordination des tests avec le test manager et coordination des déploiement dans les environnement de releases
+ Mise en place de train de releases et de déploiement automatique
+ Mise en place des KPIs, Monitoring depuis le dev a la prod
+Environnement technique :Méthode Agile (Safe),Azure Devops, ServiceNow, JIRA, Confluence, GIT , SONAR QUBE, NEXUS.
+Christian Louboutin:Décembre 2021 A avril 2023
+Global Release Manager
+Contexte :Global Release Manager Front/Back infra (mobile, web), et RTE Back et revamping (12 Squads, 2 trains Safe par release majeurs / 3 Types de changes / 3 plaques Azure (Asie / US / EU)
+Missions :
+ Facilitateur et coordination entre les équipes et les trains Safe et support des équipes pour la livraison des features
+ Mise en place du planning globale de releases majeurs selon la Roadmap
+ Planification des PIs, des trains de release et mise en place de kits de release management
+ Coordination des RCs (Release candidate), remontée des KPIs gestion des dépendances et de la traçabilité
+ Gestion et planification des déploiements en Non-prod env pour le testing
+ Pilotage des instances de release management et Safe (Synchro (ART), Scrum of Sceum...)
+ Gestion de la publication et de la communication autour des releases
+Environnement technique :Agile (Safe), Azure Devops, ServiceNow, JIRA, Confluence, GIT, Magento, OMS
+Clear Stream Luxembourg :Janvier2020– Décembre 2021
+Global Release Manager
+Contexte :Planification, Coordination et traçabilité des releases de la plateforme de compensationbancaire (Back, Front, infra). Projet international, 7 squads , 1train par major release.
+Missions :
+ Mise en place du process Release management (Release, HF, Conf...)
+ Implémentation du workflow dans Jira, (règles, Ecrans, Champs rôle...) et mise en place d’un KIT de traçabilité et d’industrialisation des Releases
+ Mise en place des indicateurs pour le release management, reporting et alertes
+ Implémentation de Sonar QUBE , suivi des règles pour les tests unitaires avec les tech leads
+ Gérer et opérationnaliser les applications/outils et infrastructures du pipeline de livraison continue. tels que Jenkins, Nexus/Atrifactory, SonarQube
+ Coordination des releases (Instances, deployments, Go no go, KPIs, Mep)
+ Organisation des livraisons en environnement non-prod et prod, pilotage des RCs
+ Revue des process ITSMs (Change, Incident, problem...) et traçabilité des releases dans le CMS
+Environnement technique :Agile (Safe et Kanban), Java, AZURE DEVOPS, ServiceNow, JIRA, Confluence, GIT
+Renault Nissan Mitsubishi : Septembre 2018 – Janvier 2020
+Global Release Manager
+Contexte :Pilotage des releases majeures, Weekly et HF, 20 squads, 5 Systemes (Onboard, Off Board), 4 voitures releasées.
+Missions :
+ Mise en place du process Release Mangement (Release, HF, Conf..)
+ Planification des releases, de la Road Map et mise en place du kit Release Management
+ Organisation des projets JIRA, règles, Ecrans, Champs par rôle (PM, PO, Dev, Testing, DevOps, Delivery...)
+ Pilotage des comités de release, Testing, Intégrationsystèmes avec les Fournisseurs)
+ Organisation des Go no Go, CAB, plan de deploiement, Cut Over, Mep et Post Mep.
+ Garant de la qualité du build, du respect des commitments business
+ Mise en place des KPIs autour du RM, matrice des risques, alertes, gestion des dépendances
+ Automatisation du process et du pipeline de déploiement
+ Mise en place de monitoring du scope de release et déploiement jusqu'en prod
+ Mise en place de Process de Run (Workflow, Tooling, Gateway), configuration et customisation du CMS
+ Mise en place des processus globaux ITSM (incident, demandes de service, problème, changement, portail utilisateur, CMDB )
+ Configuration des workflows, Business rules, UI actions, UI policies, Data Policies, Script Includes, Ulportails, Champs .... Dans le CMS.
+ Mise en place des KPIs, reporting et intégration avec les outils de développement
+Environnement technique :Agile (Safe et Kanban), Azure Devops, GIT, Java, GIT, Confluence, Service Now, JIRA, App Dynamics
+Louis Vuitton: Avril 2018 – Septembre 2018
+Release Manager
+Contexte :Planification et coordination des Trains de Release, automatisation du pipeline de Release et de déploiement. Supply chain et logistic
+Missions :
+ Mise en place de process de release management pour la partie supply chain et logistique
+ Planification des Pis, et des trains de release et mise en place de kit de release management
+ Coordination des Releases, comité de release, Mep et Post Mep
+ Organisation des déploiement et coordination du Dev a la production
+ Garant de la gestion des risques, les dépendances et la levée des alertes
+ Mise en place de chaine de release et de déploiement automatique
+ Mise en place des KPIs, Monitoring depuis le dev a la prod
+ Mise en place de la Knowledge Management, livrables pour le Run et garant de la stabilité de la prod
+Environnement technique :Safe, Azure Devops, GIT, Java, GIT, Confluence, Service Now , JIRA, Grafana , sap
+ING: Août 2016 – Avril2018
+Release Manager
+Contexte :Coordination des releases et des phases de tests autour des RCs du domaine banking (Majeur, Maintenance, HF...) 4 Tribes, 11 Squads, agile way of working
+Missions :
+ Coordination des releases, gestion du planning, traçabilité, définition des scopes des Releases , communication, diffusion des KPIs
+ Coordination des releases candidate (Dev, Testing, Mep... )
+ Installation sur les environnements Release, Pre-prod et Prod, coordination des phases de validations
+ Pilotage des releases meeting, retrospectives, Go / No Go, Go Live, Post mep...
+ Remonte des alertes autours des releases, Incidents .......
+Environnement technique :Agile way of working, Bitbucket, Jenkins, Maven, BrowserStack, Cucumber, JIRA, Confluence, Snow, ACTIVE DIRECTORY
+HSBC Wealth Management:Janvier 2015 – Août 2016
+Test Manager
+Contexte :Responsable de la qualité de produit logiciel, de tout le processus de qualification depuis les tests unitaires jusqu'a la Mes / VSR sur un projet de transformation complexe (18 applicationsinterconnectes)
+Missions :
+ Mise en place et animations d'atelier (Métier, architectes, analystes et N2 production, MOE.)
+ Production de la stratégie de test globale (TU, Fonctionnel, Intégration, transverse, métier, Performance, Exploitabilité, Mep, Mes et VSR)
+ Mise en place des critères de Go No Go et garant de leur respect (Non reg. Projet et produit/ Test/Perf/Exploitabilité/Sécurité/ Incidents production)
+ Pilotage des tests utilisateurs sur les pilotes, VSR, et mise en place des indicateurs de surveillance en production.
+ Estimation des charges, planification et pilotage des phases de tests et des intervenants (Internes, CDS, fournisseur.)
+ Mise en place des critères d'entrée et de sortie de chaque phase et garant des qualitédes livraisons
+ Gestion des risques (Projet et produit), Gestion des adhérences entre projet (prérequis/post-requis/ Sécurisation des planning)
+ Interlocuteur pour la gestion des incidents et des problèmes sur son périmètre. Plan de communication pour les résolutions et tableaux de bord. Pilotage des phases d'exécutions, priorisation des anomalies, incident, gestion des dashboards
+Environnement technique :ALM 11 (Quality Center, QTP), UFT 11, HP agile manager, LoadRunner, Git, Jenkins, Jim,Confluence. Méthode : Scrum
+Société Générale: Janvier 2012 – Décembre2014
+Test Manager
+Contexte :Test Manager sur plusieurs évolutions (migration SWIFT/ SEPA) autour d'une application de cash management
+Missions :
+ Recueil des besoins du métier
+ Rédaction de la stratégie de test (Macro-chiffrage, campagnes de tests, jeux de test)
+ Planification, suivi du développement et de la recette
+ Intégration et pilotage de développement des scripts automatises, Macro de découpage des extractions
+ Suivi et pilotage de la résolution des anomalies et reporting sur les risques identifies et les alertes.
+ Mise a jour des règles de gestion, règles extraction et des documents d'interface
+ Coordination Projet : interface métier, recette et DBA
+ Mise en place de méthodologie, optimisation et standardisation du processus
+Environnement technique : ALM 10 (Quality Center, QTP UFT 10 VBs), SOAPUI, PL/SQL, Excel, SAS.
+Méthode : Agile /Scrum/ CMMI
+PSA: Janvier 2010 –Décembre2011
+Chef de Projet Test
+Contexte :Pilotage, organisation et suivi sur le développement et qualification sur un lot de fonctions du calculateur moteur
+Missions :
+ Recueil des besoins du métier
+ Rédaction des stratégies de Test
+ Rédaction du plan d'organisation développement / Qualification
+ Pilotage opérationnel des pilote,développement et Validation (Codage, Test unitaire, compagne de test)
+ Pilotage de la résolution d'anomalies (Pre-Prod, Recette), mise a jour des spécifications, Règles de gestions
+ Participation aux réunions (Comite ano, Avancement projet)
+ Reporting au pres du test manager en charge
+ Préparation du plan d'atterrissage (Pv de recette, Ano, Go NoGo)
+ Maintenance des rapports Excel (Fonctions et Macro)
+Environnement technique :Excel (VB SCRIPT), TFS, MTM
+Méthode: Cycle en V
+AEROFLEX: Avril 2008 – Septembre2009
+Ingénieur d'Application en Solution de Test
+Contexte :Application de commercialisation des produits pharmaceutique.
+Missions :
+ Interface entre le client, l'équipe R&D à Stevenage UK
+ Etude des cahiers des charges, développement de banc de test et d’outils de validation.
+ Validation unitaire
+ Support technique utilisateur et formation des clients
+ Rédaction et mise a jour des documents utilisateur
+Environnement technique :Visual Studio, Visual Studio Team test

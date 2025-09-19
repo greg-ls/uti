@@ -1,0 +1,182 @@
+Data Engineer Senior
+
+
+FORMATION
+2015 Université Paris 1 Sorbonne Panthéon - Master 2 en SID (Système d’informations et
+Décisionnelles)
+
+EXPÉRIENCES PROFESSIONNELLES
+SACEM Depuis Juin 2024
+Data Architech / Data Engineer
+Contexte : Dans le cadre de la mise en place d’un data factory et la migration des données dans snowflake .
+Tâches : 
+ Définir les architectures cibles : Data Lake, Data Warehouse. 
+ Choisir entre les solutions Cloud Azure, Aws, GCP. 
+ Structurer d’architecture en layers, raw, bronze, silver, gold 
+ Définir les zones fonctionnelles : ingestion, stockage, triatement, exposition. 
+ Rédaction de documents d’architecture technique 
+ Création de page détaillant les flux de données, les pipelines, les layers 
+ Développement d’architectures de data pour faciliter la collecte, le stockage et l’analyse des données 
+ Mise en place de pipelines de données automatisés utilisant des outils tels que Apache Airflow, DBT Core et
+automatiser les flux de données Planification et exécution de migrations de données massives vers Snowflake, en assurant la minimisation des temps d'arrêt et la préservation de l'intégrité des données. Optimisation des performances des requêtes et gestion des coûts associés à l'utilisation de Snowflake. Implémentation de solutions d'intégration de données en temps réel pour supporter les prises de décision basées sur des données actualisées. Utilisation de technologies de streaming comme Apache Kafka pour capturer et traiter les flux de données. Écriture et optimisation de scripts SQL complexes pour l'extraction, la transformation et le chargement (ETL) des données. Automatisation des routines de maintenance de base de données et des tâches d'audit de sécurité. Collaboration avec les équipes de développement de logiciels et d'analyse pour assurer l'alignement des objectifs et l'intégration efficace des solutions de données. Formation des équipes non techniques sur les meilleures pratiques de gestion des données et l'utilisation des outils Snowflake.
+Environnement technique :
+Snowflake, PySpark, Python, Airflow, DBT Core(ELT), Bucket S3, SQL, Modélisation, GitLab, Shell, Bash, CI/CD, Jira, Méthode Agile, Draw.io, IntelliJ IDE, Lambda Aws, RDS, Sream Snowflake, SnowPipe, Task, Procedures Stockées, Tableau Software, Confluence
+
+MSO-SOFT Décembre 2023 – Juillet 2024
+Data Architect /Data Engineer
+Contexte : Mise en place d’une solution BI et DataLake dans Minio ( bucket S3) dans le cadre de l’amélioration des performances de la société MSO-SOFT sur la gestion locative.
+Tâches : 
+ Mise en place de l’image postgres dans docker et les volumes 
+ Définir les architectures cibles : Data Lake, Data Warehouse. 
+ Choisir entre les solutions On-prime, Cloud(Azure, Aws, GCP) ou Hybrides. 
+ Structurer d’architecture en layers, raw, bronze, silver, gold 
+ Définir les zones fonctionnelles : ingestion, stockage, triatement, exposition. 
+ Utilisation de Confluence pour partager la vision d’architecture avec les équipes Data, DevOps, Sécurité, BI, Métier Intégration avec Jira : liens entre les tâches (tickets d’implémentation) et les spécifications Création d’un espace projet collaboratif : wiki de référence pour tout le cycle de vie data
+ Mise en place de l’image Airflow et Minio dans docker et les volumes 
+ Mise en place de l’image Apache Superset 
+Ingestion de données depuis différentes sources vers S3 : Postgres Automatisation des extractions des données dépuis le crm vers le répertoire de travail avec python Chargement des fichiers jsons et csv dans le Datalake sur le bucket S3 avec l’miage Minio Transformation et le chargement des données avec DBT-core avec les différents layers (Bronse, silver et Gold) Définition et mise en place des pratiques, des standards, des guidelines de l’ETL, des patterns de développement et de l’initialisation du catalogue de composants réutilisables sur étagère Définition de la stratégie de logging Création des tests et les documentations sur dbt-core Création des scripts d’historisation SCD en utilisant dijan dans dbt Implémentation d’un pipeline CICD via GitLab
+ Mise en place du tableau de bord sur Apache Superset 
+ Mise en place du modèle multidimensionnel sur le schéma étoile 
+Orchestration des flux d’alimentation et transformations sur Airflow POC de faisabilité et de performance entre Tableau et power BI, Metabase et Apache Superset sur la base target.
+Environnement technique :
+Docker, Image Postgres, Power BI, Api Currency, JIRA, DBT-Core (ELT), Visual-code, Postgresql, Airflow, CRM GIPS, Python, Bash, GIT, AWS S3, GitLab CICD, Minio, Draw.io, Jira, RLS, Confluence
+
+Thales Group Octobre 2022 – Décembre 2023
+Data Architect - Data Engineer & Consultant BI Sénior
+Contexte : Mise en place, l’évolution et la maintenance d’une solution BI et DataLake de la Squad Sales and Marketing pour toutes les Entitys. Le Build de la solution ETL from scratch pour le groupe Thales à L’international
+Tâches
+Mise en place de l’alimentation via Talend le modèle étoile du DWH SMA sur la MS SQL Serveur 
+ Définir les architectures cibles : Data Lake, Data Warehouse. Choisir entre les solutions On-prime, Cloud(Azure, Aws, GCP) ou Hybrides. Structurer d’architecture en layers, raw, bronze, silver, gold Définir les zones fonctionnelles : ingestion, stockage, triatement, exposition. Ingestion de données depuis différentes sources vers GCP : Storage/BigQuery Définition et mise en place des pratiques, des standards, des guidelines de l’ETL, des patterns de développement et de l’initialisation du catalogue de composants réutilisables sur étagère Développement des use-cases à l’aide de Python (PySpark) Définition de la stratégie de logging Code Review des Builds de tous les data Engineers avant le déploiement Implémentation d’un pipeline CICD via GitLab Support au déploiement de la solution Talend et Gestion des utilisateurs Validation des pipelines de la CI/CD Étude de l’existant et gap analysis de migration vers Talend Réalisation d’une migration legacy database d’Azure SQLDB vers AWS RDS Conception des connecteurs/jobs
+ Mise en place des jobs Template sur les APIs (Get, Post, Delete et la Pagination des données sur les Apis) Réalisation du Poc et la présentation du SAP Hana
+ Mise en place de quelques KPI sur tableau 
+ Mise en place du poc sur dbt et snowflake avec tableau en respectant le principe ELT qui s’appuie sur la capacité de la base Création des requêtes sql avancées et les procédures stockées
+ Mise en place d’un POC Dataiku pour valider l’industrialisation des flux de données sur la plateforme 
+ Création de scénarios automatisés avec recettes visuelles, enrichissements, contrôles qualité 
+ Intégration de sources hétérogènes (CSV, API, PostgreSQL) dans des pipelines reproductibles 
+ Formation de l’équipe data à l’usage avancé de Dataiku (Dashboards, Plugins, Scénarios)
+Environnement technique : Talend Data Management, Talend for BIG DATA, SQL SERVER, GCP, SAP BW, Code quality, Azure ADLS GEN2, Api Dynamics, JIRA, API MANAGER, GCP(BigQuery), Python, PySpark , Data Factory, Bash, AWS S3,GitLab CICD, Dataiku
+
+Accor Novembre 2021 – Octobre 2022
+Consultant Data Engineer / BI
+Contexte : Création d’un Data Warehouse sur Snowflake et la migration des données vers snowflake pour la team Sales BI de toutes les entités du groupe Accor.
+Tâches
+ Organisation d’ateliers concernant la création du modèle étoile 
+ Cadrage /Conception /Développement des flux 
+ Code review et organise de pair programming entre les data Eng 
+ Mise en place des flux d’alimentions avec Terraform sur Snowflake 
+ Transformation des données avec DBT Core sur les différents Layer
+Migration des jobs Talend OnPrimes 7.3 vers Talend Cloud 8 for Big Data 
+ Faire les demandes de mise ne Production après la recette des QAs 
+ Build et Run des pipelines d’alimentation sur terraform 
+ Mise en place des plans d’exécutions sur la TAC 
+ Mise en place du Tableau de Bord métier 
+ POC de présentation DBT et mise en place des flux de transformation.
+Migration des jobs Talend OnPrimes 7.3 vers Talend Cloud 8 for Big Data 
+ Faire les demandes de mise ne Production après la recette des QAs 
+ Build et Run des pipelines d’alimentation sur terraform 
+ Mise en place des plans d’exécutions sur la TAC 
+ Mise en place du Tableau de Bord métier 
+ POC de présentation DBT et mise en place des flux de transformation.
+Environnement technique: Python (Pyspark), Talend for Big Data, Talend Cloud, DBT Core, Snowflake, Dbt, AWS/Glue, Azure, Oracle, Sybase IQ, Terraform, MS-SQL, Shell, Java, GitLab, Bucket S3, Streams, Tasks, Agile, Teams, DBT-Core
+
+ARCADE (Keyrus)
+Février 2021 – Octobre 2021
+Tech Lead BI / Data Engineer
+Contexte : Dans le cadre de la consolidation des données de plusieurs sociétés dans une solution DWH enfin d’uniformiser et optimiser les traitements des indicateurs de performance : 
+Tâches
+ Mise en place des environnements Azure DevOps 
+ Mise en place des Data Lake sur Azure Storage 
+ Mise en place d’un job Template sur l’ingestion des données 
+ Mise en place des Environnement 
+ Automatisation des jobs sur la TMC 
+ Mise en place des vues matérialisées pour la création des sources de données Power BI pour les différentes
+Contrôle de surface sur les structures des fichiers dans le data lake Contrôle de surface et la qualité des données
+Création des flux d’alimentation de la DWH
+équipes (Pour les différentes Sociétés) source Snowflake
+Environnement technique : Talend 7.3.1, Snowflake, Azure Storage, Azure DevOps, GIT, TMC Talend Cloud, Data StewardShip Talend, Data Préparation, Agile, Teams
+
+Préfecture de Police de Paris Octobre 2020 – Janvier 2021
+Tech Lead BI / Data Engineer
+Contexte : Dans le cadre de la mise en place d’une solution BI DWH SIRH de la préfecture de Police
+Tâches
+Recueil du besoin 
+ Organisation d’ateliers concernant la création du modèle étoile 
+ Mise en place des flux d’alimentions 
+ Maintenance évolutive et corrective 
+ Mise en place des flux de chargement des fichiers depuis un serveur distant
+Cadrage /Conception /Développement des flux
+Automatisation de l’exécution des jobs sur Windows avec le planificateur de tâche 
+ Mise en place d’une politique d’alimentation (Full et Delta)
+Environnement technique : Talend Open Studio 7, PostgreSQL, FTP, SVN, VM-SQL SERVEUR 2012, SAP BO.
+
+Projet Interne Mai 2020 – Septembre 2021
+Consultant BI
+Contexte : Dans le cadre migration du CRM Dynamics vers de la Salesforce
+Tâches
+ Mise en place des jobs d’alimentations 
+ Mise en place des règles de gestion 
+Recueil du besoin
+Organisation d’ateliers concernant la création des tableaux de bord sur Salesforce Recette des données sur Salesforce Application de la même solution sur les autres BU de Keyrus dans le monde
+Environnement technique : Talend 7, SQL Serveur 2008, SalesForce, Teams
+
+KILOUTOU
+Octobre 2019 – Avril 2020
+Consultant BI Mission
+Contexte : Dans le cadre de la migration des données d’oracle vers Snowflake et les Dashboard Sap BO vers Tableau 
+Tâches
+Recueil du besoin
+Analyse de faisabilité pour migration vers Snowflake de la base de données 
+ Mise en place des jobs des scénarios d’injection de données dans les tables 
+ Rédaction de spectres concernant les bests practices de migration 
+ Organisation d’ateliers concernant la création de rapports liés à l’analyse 
+ Réalisation d’un POC et présentation des différentes fonctionnalités de Tableau Desktop et Tableau ONLINE 
+ Maintenance évolutive et corrective 
+ Développements évolutifs et curatifs 
+ Résolution d’incidents 
+ Automatisation des jobs sur TAC pour la mise à jour des données source Snowflake et Oracle 
+ Mise en place des vues matérialisées pour la création des sources de données tableau pour les différentes équipes (Direction commerciale, Revenue Management, Markéting) source Snowflake
+Présentations des différents modes d’accès aux données et de la stratégie de partage de données. Cadrage /Conception /Développement des rapports Formation Tableau Desktop des utilisateurs métier.
+Mise en place des champs calculés 
+ Bascule des tableaux de bord et rapports de BO vers Tableau Desktop 2019.3
+Environnement technique : Talend 7, Snowflake, Oracle 11g, BO, Tableau Desktop 2019.3, 2019.4, Tableau Prep, Tableau ONLINE
+
+ORANO (AREVA)
+Avril 2019 – Septembre 2019
+Consultant BI Mission
+Contexte : Dans le cadre de la migration des tableaux de bord, formation des utilisateurs pour prendre la main sur Power BI et la mise en place des Kpis de performance.
+Tâches
+Organisation d’ateliers concernant la création de rapports liés à l’analyse. 
+ Réalisation d’un POC et présentation des différentes fonctionnalités de Power BI 
+ Maintenance évolutive et corrective 
+ Sécurité : Implémentation la restriction de données au niveau lignes selon Login 
+ Adaptation du modèle SSAS tabulaire existant afin de satisfaire le besoin (KPI, Axes) 
+ Mettre en place les formules DAX 
+ Résolution d’incidents 
+ Contrôles d’exploitation
+Présentations des différents modes d’accès aux données et de la stratégie de partage de données Cadrage /Conception /Développement des rapports Formation d’un développeur power BI et des utilisateurs métier.
+Environnement technique : Microsoft SQL Server 2012, SAP, ERP, Fichiers plats, Office 2013, Power BI Desktop.
+
+DPD FRANCE
+Juin 2016 – Mars 2019
+Consultant BI Mission
+Contexte : Dans le cadre de la migration et la mise en place d’une solution décisionnel 
+Tâches
+Analyser des spécifications fonctionnelles fournies par la MOA 
+ Rédiger les spécifications techniques détaillées 
+ Développer les flux d'alimentation avec un ETL 
+ Réaliser des rapports 
+ Bâtir les stratégies de recette, mener les tests d'intégration technique et fonctionnelle ainsi que leur validation
+Concevoir la solution technique Enrichir le modèle de données
+par les référents métiers Spécifications fonctionnelles et techniques
+ Recette technique et fonctionnelle 
+ Réalisation et tests unitaires, Recette de pré-production 
+ Mise en production et accompagnement 
+ Mise en place des Structure 
+ Mise en place de l’alimentation via Talend et procédures SQL 
+ Reporting au sein du data warehouse 
+ Mise en place des documentations techniques et fonctionnelles 
+ Répondre aux questions des équipes métiers sur l'utilisation des applications 
+ Administration base de données SQL Serveur 2014
+Conception, Optimisation des bases de données SQL Server
+Environnement technique : Talend, Informix, Tableau, WinSCP, Web Service, Oracle 12, PostgreSQL, MySQL, Cargo Soft, CONNECT, SQL Serveur 2014, Informix, PostgreSQL, DBVisualizer, Tableau, Oracle, MS Visio, Redmine, Office 2013
+

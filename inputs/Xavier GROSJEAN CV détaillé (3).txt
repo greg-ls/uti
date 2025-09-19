@@ -1,0 +1,55 @@
+ANALYSTE-PROGRAMMEUR ET COMPTABLE -ASSISTANT
+Xavier GROSJEAN
+99 rue Jean-Pierre Timbaud
+92 400 COURBEVOIE
+Téléphone portable : 06 80 17 74 57
+Adresse mail : xavier.grosjean.555@gmail.com
+
+Reconversion vers le métier d’assistant-comptable. Formation GRETA (titre professionnel comptable-assistant) (11-2021--06-2022) comprenant :
+comptabilité générale écritures concernant factures, avoirs, lettres de change, billets à ordre, encaissements, décaissements et écritures de fin d’exercice (amortissements, provisions, régularisations) conduisant au compte de résultat et au bilan - gestion prévisionnelle de trésorerie (encaissements, décaissements, fonds de roulement, besoin en fonds de roulement), soldes intermédiaires de gestion et bilan fonctionnel - gestion de la paie et écritures correspondantes - stage pratique de 2 mois (cabinet expertise-comptable EXALFI)
+
+POINTS FORTS
+Bonnes connaissances des concepts et de la structure de la programmation en général (Analyse logique (organique) et programmation structurée)
+Compétences 'métiers des entreprises' et de divers systèmes d'informations
+A même de prendre en charge de la réalisation complexe
+
+Compétences techniques
+Méthodes
+MERISE
+Produits et logiciels Matériels : IBM, DIGITAL, BULL
+Systèmes : MVS, VAX/VMS et OPENVMS, UNIX, GCOS7 Moniteurs Transactionnels : IBM CICS, IBM IMS, VAX FMS Réseaux : ETHERNET, TCP/IP, NFS, NIS, DNS, DHCP
+Bases de données Bases de Données : IBM DB2, IBM DL1,
+VAX RDB, VAX DBMS, VAX DATATRIEVE, ORACLE
+Environnements
+Langages COBOL, C, BASIC, PASCAL, UNIBASIC
+Outils : IBM FILEAID, IBM TSO
+Gestion des fichiers : IBM VSAM, VAX RMS
+
+EXPERIENCES PROFESSIONNELLES
+04/2010-09/2019 DGDDI (direction générale des douanes et des droits indirects) Maintenance application gestion RH - carrières et mutations - SIGRID (système d'information pour une gestion rationnelle interne des douanes). Développement et maintenance de programmes gérant les grades et échelons, la notation (nombre de mois de réduction d’ancienneté nécessaire pour le passage à l’échelon suivant), le reclassement, les mutations des fonctionnaires de la fonction publique d’état, avec des spécificités liées au domaine douanier, en particulier celles des agents de la branche surveillance (agents portant l’uniforme). Environnement-->GCOS7, COBOL.
+03/2008-12/2008 INFORMATIX & PARTENOR CNAM (caisse nationale assurance-maladie) Développements concernant la version carte vitale 2 (avec photo). Ajout de fonctionnalités demandées pour le passage à cette nouvelle version. Environnement-->UNIX, COBOL, éditeur VI, également éditeur ULTRAEDIT sur micro-ordinateur.
+09/2007-01/2008 GRAS SAVOVE Maintenance ponctuelle de programmes sur la gestion des sinistres, et également de ceux gérant la mise en place de nouvelles garanties. Environnement--> VAX VMS, COBOL, transactions et éditions APTOOLS.
+03/2004-05/2007 EDF-GDF Domaine SICGP (système d’information clientèle grand public) de la DIT (direction informatique et télécommunications). Application QENAT (quittancement élaboré national) au niveau national. Application QE (quittancement élaboré) au niveau centre. Maintenance de programmes traitant en particulier de la restitution d’informations liées aux consommations effectives d’électricité et de gaz, également de programmes statistiques visant à estimer l’évolution prévisionnelle de ces consommations. Environnement--> IBM MVS, JCL, COBOL, VSAM.
+12/2002-08/2003 PECHINEY Réécriture en programmation structurée d’une partie de l’application, celle relative à la gestion des ordres de fabrication. Environnement-->IBM MVS, COBOL, DB2, JCL.
+08/2001-11/2002 CIC Développements concernant les opérations internationales de masse (OIM). Réécriture d’une ancienne application (mal programmée) gérant les mouvements de rétrocession de paiement des pensions de retraites après décès des retraités. Ajout de quelques nouvelles fonctionnalités lors de cette réécriture. Environnement--> IBM MVS, COBOL, DB2, IMS, JCL.
+05/2001-07/2001 STERIA Interventions ponctuelles de reprises d’anomalies et, si possible, de corrections des programmes associés, dans une application de gestion des ressources humaines. Environnement-->UNIX, COBOL.
+01/2001-05/2001 NATEXIS BANQUES POPULAIRES Maintenance application TIPA (transferts internationaux paiements automatisés). Développement de quelques nouveaux programmes d’extractions ou de suppressions de certains mouvements, connexes à cette application. Environnement--- IBM MVS, COBOL, IMS, DL1.
+07/2000-12/2000 PARELI Maintenance système SLAB (système livraison avec accord bilatéral) dans domaine bourse. Modification de programmes batch liés au règlement et à la livraison de titres (RELIT) dans cette application. Environnement--> VAX VMS, COBOL, RDB, FMS.
+07/1999-06/2000 COFIROUTE Participation passage année 2000 du système d’information. Implémentation du nouveau format et des valeurs correspondantes des dates dans application gestion autoroutes. Environnement--> VAX VMS, COBOL, C, RDB.
+01/1999-06/1999 UNIVERSAL MUSIC (anciennement POLYGRAM) Mise à jour de programmes pour évolution version base de données. Environnement--.>IBM MVS, COBOL, DB2, CICS.
+07/1998-12/1999 EXPECTRA EXPERIAN (anciennement SG2) Ajout traitements chèques EUROS dans application plans de tri BANTEC. Inclusion dans les programmes du traitement des chèques en euros, à mettre en exploitation le 01/01/2000. Environnement--> Iangage spécifique aux plans de tri BANTEC.
+04/1996-05/1998 ARTUS MATRA MARCONI SPACE FRANCE Maintenance application approvisionnement et contrôle composants aéronautiques et spatiaux. Maintenance programmes existants, inclusion de quelques nouvelles fonctionnalités, et beaucoup d’interventions ponctuelles de corrections et de reprises suite à anomalies de fonctionnement. Programmes extractions pour migration des données de cette application. Environnement--> VAX VMS, DATATRIEVE.
+01/1996-03/1996 GSI Maintenance ponctuelle programmes application PICARD. En particulier, ajout de champs de saisie dans certaines transactions avec contrôles d’entrée associés, et de même en sortie dans certaines éditions. Environnement--> VAX VMS, COBOL, RMS, FMS.
+09/1989-04/1995 ARTUS (départements électroniques et électromécaniques issus de THOMSON) Développement et maintenance gestion de fabrication (nomenclatures, coûts, gammes, opérations). En particulier, développement d’un module de calcul des coûts prévisionnels de production (multi-niveaux) et d’une gestion spécifique des articles manquants. Programmes migration données GPAO (gestion de production assistée par ordinateur) du VAX MORANGIS dans application PICS ANGERS. Environnement--> VAX VMS — DBMS — COBOL — Transactions FMS VAX VMS — PICS— UNIDATA —UNIBASIC (Structure PICS).
+
+FORMATIONS
+1984 Baccalauréat série C
+1985 Première année de Pharmacie (Université Paris XI)
+1987 niveau lUT Statistiques (lUT RENE DESCARTES — PARIS)
+1988-1989 Formation Analyste Programmeur— langages BASIC—COBOL — PASCAL (GRETA) ---------------Stage pratique COBOL sous MVS (société BAIL-EQUIPEMENT)
+1995 Formation développeur C avec ORACLE sous UNIX (GRETA tertiaire sud 93)
+1998/05-1998/06 Formation grands systèmes IBM (MVS — CICS — DB2 – COBOL – JCL)
+2009 Formation administration système : WINDOWS SERVER 2003 — LINUX - CITRIX - VMWARE
+
+DIVERS
+Anglais lu, écrit, parlé.

@@ -1,0 +1,79 @@
+Disponible ASAP pour une mission en tant que Consultant Data
+EXPÉRIENCE PROFESSIONNELLE
+Janvier 2024 Février 2025 Consultant Lead data analyst Power BI , BPCE, Paris
+Contexte :
+Au sein de l’organe centrale BPCE SA, l’objectif est d’accompagner les métiers dans leurs projets Power BI et administrer la plateforme power BI
+Tâches:
+Migration des cubes de Azure Analysis services vers des datasets Power BI
+Créations des tableaux de bords power BI pour automatiser les tâches des banquiers
+Optimisation des process de mises en production avec SSMS, tabular editor, ALM toolkit et visual studio sachant qu’on gère des datasets pouvant atteindre 500 millions de lignes
+Surveillance de la plateforme power BI.
+En cas de pic de charge causé par un utilisateur, l’alerter et faire des points avec eux pour optimiser leurs rapports et éviter de futures surcharges.
+Création des groupes AD pour optimiser les habilitations.
+Gestion des incidents et formation des nouveaux membres de l’équipes
+Environnement technique: Power BI Power query Dax SQL Python ALM toolkit - tabular editor - SSMS - Visual studio Azure Analysis services -GCP -Big query -Oracle
+Septembre 2023 Decembre 2023 Consultant Lead data analyst/scientist Power BI, AXA, Paris
+Contexte :
+Après avoir réglé les problématiques de volumétrie, l’objectif est d’aider les collègues juniors à monter en compétence
+Tâches:
+Se charger des missions complexes Power BI et machine learning
+Former l’équipe à monter en compétence avec 2h de séances de formation par mois sur Power BI / environnement technique: Power Apps / Power Automate pour faciliter le binomage sur les sujets complexes en cas d’absences
+Septembre 2022 Août 2023 Consultant Sénior data analyst/scientist Power BI, AXA, Paris
+Contexte :
+Il existe plusieurs bases de données rattachées à chaque produit et une base de données comptable qui centralise ces données.
+L’objectif est d’aider les comptables à justifier que les chiffres dans leurs comptes correspondent aux chiffres dans les différentes base de données et en cas de décalage, voir les causes.
+Aussi, il faut régler le problème de volumétrie sur les rapports power BI (4 milliard de lignes comptables par année à gérer)
+Tâches:
+Rapprochement entre les données des systèmes de gestion et la base de données de la comptabilité pour la justification des comptes avec Power BI renforcé par power Apps et power Automate et forma- tion de l’équipe dans un rôle de lead -> automatiser les process au lieu de passer par des RechercheV sur Excell
+Conception d’algorithme de machine learning pour détecter automatiquement les causes de non lettrage des lignes comptables avec Databricks machine learning -> gains énormes de temps pour l’équipe Comptabilité qui le faisait à la main en regardant ligne après ligne
+Création d’un outil de suivi de production pour tous nos traitements (Azure et Power BI) pour nous assurer de détecter très tôt les incidents de production (avant les clients) et y apporter les correctifs nécessaires avant les échéances -> augmentation de notre qualité de production et amélioration de la satisfaction client.
+L’outil sera vendu à d’autres équipe courant 2024
+environnement technique: Power BI - Power Apps - Power Automate - Dax - Azure Databricks - SQL - Pyspark - Python - Machine learning
+Septembre 2021 Août 2022 Consultant Data analyst/scientist, CRÉDIT AGRICOLE SUD MÉDITERRANNÉE, Perpignan
+Contexte :
+Aider l’équipe Marketing a mieux vendre les produits bancaires en améliorant la connais- sance client.
+Aider l’équipe facturation à suivre l’évolution de leur chiffre d’affaire/nombre de client via des tableaux de bord
+Tâches:
+Détection automatisée des clients multi bancarisés gardant des fonds considérables chez la concur- rence afin de les convaincre de les rapatrier et confection d’un tableau de bord avec R pour faciliter l’utilisation aux conseillers bancaires⇒ 2 millions d’euros rapatriés sur un échantillon de 400 clients en 2 mois
+Détection automatisée des anomalies de facturation, création d’un tableau de bord avec Python et mise en production du modèle d’IA sur un site web hébergé par notre serveur windows -> 4 millions d’euros d’anomalies découvert sur un code de facturation
+Détection automatisée des clients sur-sollicités durant nos campagnes de marketing et visualisation avec Plotly
+Création de datamarts pour mettre automatiquement les données des tableaux de bord à jour sur SAS
+Environnement technique:Tableau de bord - SAS - SQL - Python - R - Machine learning - Dash - Plotly - Bash - Hadoop - Serveur windows
+Septembre 2020 Août 2021 Consultant Data analyst Power BI, MALAKOFF-HUMANIS, Paris
+Contexte :
+Malakoff est un organisme d’assurance complémentaire.
+L’objectif est d’étudier l’absen- téisme des salariés dans les branches professionnelles afin de détetcer les secteurs où on versait le plus de prestation et proposer des solutions adéquates pour réduire cet absenteisme (ce qui réduira les prestations versées)
+Tâches:
+Création de tableau de bord Power BI pour faciliter l’aide à la décision et automatiser les les mises à jour de données
+Confection de datamarts avec SAS pour alimenter le Power BI
+Formation des 50 membres de la direction à l’utilisation du tableau de bord et à l’interprétation des résultats
+Evironnement technique: Power BI - Power Query - Dax - Power Pivot - SAS - SQL
+Septembre 2020 Août 2021 Consultant Data analyst/scientist, ONAOS SANTÉ, Montpelier
+Contexte :
+Confection de tableau de bord avec Dash(Python) pour faciliter aux medecins de visualiser plus facilement les fichiers des patients
+Annotation automatiquement des fichiers des patients par NLP pour faciliter la détection des infor- mations clés sur les fichiers des patients
+Déploiement de la solution sur site web avec Flask (Python)
+Environnement technique: Tableau de bord - NLP - Spacy - Python - flask - plotly - Dash - MySql - Bootstrap - HTML5 - Jquery - Ajax
+Décembre 2019 Janvier 2020 Consultant data scientist, AIRBUS, Toulouse
+Contexte :
+Détecter le type d’avion Airbus/Boeing à partir d’images postées sur instagram afin d’étudier la positivité/négativité des commentaires associés au modèle de l’avion.
+L’idée est de se positionner par rapport à la concurrence sur la qualité des vols.
+Préprocessing sur les images scrappées et celles fournies par AIRBUS avec python
+Conception des algorithmes de Deep Learning avec l’outil scikit-learn pour reconnaitre les différents types d’avions (A320, A330, A350, A380, Boeing)
+Environnement technique: Computer Vision -Scikit learn - Deep learning - Python
+Diplome Master Data science, Paris-Saclay, Paris
+COMPÉTENCES
+Techniques
+Business Intelligence Power BI, Dax, Power Query, Power Apps, Power automate, Shyni, Dash, Plotly
+Langages data Python, Pysparck, R, SQL, Git, C++,Bash
+IA Machine learning, Deep learning, NLP, Computer Vision, Scikit-learn, Pytorch, Tensorflow
+Base de données SAS, Azure, Databricks, MySQL, PostgreSQL, GCP, Big query, Oracle
+Langages web Flask, JavaScript, Jquery, Ajax, HTML5, CSS
+Gestion de projet JIRA, Méthode Agile
+Soft skills Bon relationnel, Travail en équipe, Autonomie, Créativité
+LANGUES
+Français courant
+Anglais professionnel
+Espagnol scolaire
+Formations
+2023 Microsoft Certified : Power BI Data Analyst Associate ( PL-300 )

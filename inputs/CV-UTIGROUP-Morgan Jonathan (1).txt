@@ -1,0 +1,187 @@
+Jonathan Morgan
+
+DÉVELOPPEUR MAINFRAME COBOL
+
+DOMAINES D’INTERVENTION
+Banques, Assurance.
+
+CONNAISSANCES FONCTIONNELLES
+Banque de détail.
+
+CONNAISSANCES TECHNIQUES
+Mainframe IBM Mainframe, Z/OS MVS, CICS, COBOL, JCL, DB2, SQL, TSO/ISPF, VSAM.
+Outils de développement XML, IMS, FILE AID, SPUFI, RDZ, SDSF, xpeditor, Eclipse, Dbeaver, Service Now, JMR, JIRA, Confluence, IDZ (IBM Developer for Zos), API, GitHub, Jenkins Pipeline, Anypoint Platform for APIs, Postman, Splunk.
+Gestion de la qualité et du changement QUALITY CENTER, ENDEVOR, CA-7, SERENA, LCM, CHANGEMAN, UTRANS, SPITAB, OPTIM.
+Langages de programmation Python, NumPy, Pandas, SciPy, Matplotlib, MySQL, MongoDB, Java, C.
+Bureautique et collaboration WINDOWS, Pack Office (Word, Excel, PowerPoint, Outlook, Teams), Lotus Notes, Clarity, Zoom.
+Langues:
+Anglais: Courant
+
+DIPLOMES
+2010 Faculté des Sciences et Technologies, Nancy – Master Mécanique Énergie Procédés Produits
+2004 Lycée Saint Thomas d'Aquin Veritas, Oullins (69) – Baccalauréat Scientifique, spécialité « Physique et Chimie »
+
+CERTIFICATIONS
+2022 W3Schools.com – Certificat de complétion en Python
+2011 INTI Formation (Institut des Nouvelles Technologies de l'Information), Paris, France – Certificat de Formation Professionnelle en Ingénierie d'études Informatiques
+
+EXPERIENCES PROFESSIONNELLES
+HSBC Depuis Juillet 2022
+Développeur Mainframe Cobol
+Contexte : Dans l'équipe Core Banking de HSBC Retail Processing System UK dans l'équipe paiement (30 personnes) à Sheffield (Royaume-Uni). Travaux sur les fichiers de crédit et de débit, des transactions, des paiements internationaux, des fichiers contenants des informations sur les clients, les cartes bancaires, les déposants et les bénéficiaires, et des processus de mises à jour de bases de données à partir de fichiers. First Direct.
+Taches :
+Maintenance applicative (Batch et Transaction): Analyse, Développement, Tests unitaires, Rédaction de la documentation technique, Déploiement en environnement de test.
+Rédaction et mise à jour de spécifications fonctionnelles et techniques
+Lecture de diagrammes système
+Création et test d'API
+Environnement TECHNIQUE:
+Z/OS MVS, COBOL, CICS, DB2, SQL, TSO/ISPF, JCL, Spufi, ENDEVOR, Xpeditor, Postman, IDZ (IBM Developer for Zos), Splunk, ServiceNow, SPITAB, VSAM, Jira, GitHub, Jenkins Pipeline, Anypoint Platform for APIs, Zoom, FileNet, Clarity, PACK OFFICE
+
+BRED Juin 2019 - Janvier 2022
+Analyste Développeur Mainframe Cobol
+Contexte : Dans les locaux du client BRED, dans l'équipe Support (20 personnes) de la banque de détail. 100 % Run. Travaux sur les contrats de produits bancaires, les comptes bancaires, les dossiers clients, les représentants légaux et les mandats, les assurances de biens et de dommages, les moyens de paiement, la banque en ligne (Bredconnect, Bredsecure).
+Taches :
+Maintenance applicative (Batch et Transactionnel): Analyse, Développement, Tests, Rédaction de la documentation technique, Déploiement en UAT et en Production.
+Support en Production, Résolution d'Incidents
+Diverses Tâches Récurrentes de Maintenance Applicative.
+Assistance aux Agents Bancaires pour la Résolution des Problèmes Informatiques liés aux Logiciels de la Banque (VISION)
+Communication avec les Prestataires de Services pour la Résolution des Problèmes Applicatifs (Vialink, Natixis)
+Communication avec les Ingénieurs Logiciels Java et les Ingénieurs Production Mainframe
+Création et Modification de Jobs Batch
+Environnement technique :
+Z/OS MVS, COBOL, CICS, DB2, SQL, TSO/ISPF, JMR, JCL, Spufi, PACK OFFICE, Xpeditor, Postman, Dbeaver, Eclipse, Splunk, ServiceNow, SPITAB, VSAM, Jira, Clarity
+
+PACIFICA Janvier 2019 - Avril 2019
+Ingénieur Réalisation
+Contexte : Dans les locaux de Aubay, en centre de service pour le client Pacifica, dans le cadre d'une ATG Assurances dommages, domaine EPIC (Etude Produit IARD et Cotisations). En renfort pour le projet Partenariat NEXECUR (assurance sécurité habitation).
+Taches :
+Maintenances évolutive (TP)
+Tests unitaires
+Rédaction des dossiers d'exploitation
+Environnement technique :
+Z/OS MVS, COBOL, CICS, DB2, SQL, TSO/ISPF, SDSF, JCL, File Manager, Spufi, PACK OFFICE, ALEX, Simul TP.
+
+LCL Septembre 2017 - Décembre 2018
+Ingénieur Réalisation
+Contexte : En régie, domaine des Produits et Services Bancaires, dans l'équipe MOE Epargne, Gestion des PEL, CEL et CSL. Loi de finance 2018.
+Taches :
+Analyse d'impact
+Assistance à la Recette
+Maintenances évolutive (TP et Batch)
+Tests unitaires et d'intégration
+Environnement technique :
+Z/OS MVS, COBOL, CICS, DB2, SQL, TSO/ISPF, SDSF, JCL, File Manager, Spufi, PACK OFFICE, RDZ, SERENA, CHANGEMAN, Jira
+
+PACIFICA Juin 2017 - Septembre 2017
+Ingénieur Realisation
+Contexte : Dans les locaux de Aubay, en centre de service pour le client Pacifica, dans le cadre d'une ATG Assurances dommages, domaine EPIC (Etude Produit IARD et Cotisations) et produits applicatifs particulier. En renfort pour le projet A2 – Moto (2 roues).
+Taches :
+Maintenances évolutive (TP)
+Tests unitaires
+Rédaction des dossiers d'exploitation
+Environnement technique :
+Z/OS MVS, COBOL, CICS, DB2, SQL, TSO/ISPF, SDSF, JCL, File Manager, PACK OFFICE
+
+SOCIETE GENERALE Janvier 2017 - Juin 2017
+Ingénieur Réalisation
+Contexte : Dans les locaux de la Société Générale, dans le cadre d'une ATG BDDF, domaine du TRADE, application PETRA: Concerne la gestion des produits qu'offre la Société Générale au client pour l'Import/export.
+Taches :
+Maintenances évolutive (Batch)
+Tests unitaires
+Rédaction des dossiers d'exploitation
+Rédaction de spécifications techniques
+Créations/Modifications de procédures
+RUN (Résolution incidents et réalisations de travaux ponctuels)
+Environnement technique :
+Z/OS MVS, COBOL, CICS, DB2, SQL, TSO/ISPF, JCL, SDSF, LCM, File-Aid, Spufi, PACK OFFICE.
+
+BNP PARIBAS Novembre 2016 - Janvier 2017
+Ingénieur Réalisation
+Contexte : Dans les locaux de Aubay, en centre de service pour le client BNP Paribas, dans le cadre de la TMA SSMRIS qui gère la description des Tiers en relation clientèle avec la banque.
+Taches :
+Etudes d'impacts
+Maintenances évolutive (Batch)
+Tests unitaires
+Rédaction des dossiers d'exploitation
+Rédaction de spécifications techniques
+Environnement technique :
+Z/OS MVS, COBOL, CICS, IDMS, SQL, XML, SDSF, TSO/ISPF, JCL, ENDEVOR, SPITAB, PACK OFFICE, LOTUS NOTES
+
+BNP PARIBAS Août 2016 - Novembre 2016
+Ingenieur Realisation
+Contexte : En régie, dans le cadre de l'application SIBES (Système interface entre les applications BNP Paribas et les réseaux messagerie bancaire : SWIFT et Interne), au sein de l'équipe Support.
+Taches :
+Coordination des demandes de mise en place de nouveaux transferts CFT :
+Remplissage des bordereaux de transferts,
+Emission de la demande auprès des équipes techniques,
+Suivi de la mise en place des transferts.
+Résolutions d'incidents sur Flux CFT et MQ
+Environnement technique :
+Z/OS MVS, COBOL, CICS, DB2, SQL, XML, TSO/ISPF, JCL, SDSF, ENDEVOR, SPITAB, PACK OFFICE, LOTUS NOTES, MQ
+
+BNP PARIBAS Juin 2016 - Août 2016
+Ingenieur Realisation
+Contexte : Dans les locaux de Aubay, en centre de service pour le client BNP Paribas, dans le cadre de la TMA RIAU - GESTION RISQUE CREDITS.
+Taches :
+Maintenances évolutive (Batch)
+Tests unitaires
+Rédaction des dossiers d'exploitation
+Rédaction de spécifications techniques
+Environnement TECHNIQUE:
+Z/OS MVS, COBOL, CICS, DB2, SQL, XML, TSO/ISPF, JCL, SDSF, ENDEVOR, PACK OFFICE, LOTUS NOTES
+
+CARREFOUR Juillet 2014 - Novembre 2014
+Ingenieur Technologies De L'information
+Contexte : Dans les locaux de CGI, en centre de service pour CARREFOUR, dans le cadre de la TMA Base Commerciale Centralisée.
+Taches :
+Maintenances évolutive (Batch)
+Tests unitaires
+Rédaction des dossiers d'exploitation
+Environnement TECHNIQUE:
+Z/OS MVS, COBOL, PACBASE, IMS, DB2, SQL, XML, TSO/ISPF, JCL, QUALITY CENTER, PACK OFFICE
+
+BNP PARIBAS Juin 2013 - Février 2014
+Ingenieur Etudes Et Developpement
+Contexte : Dans les locaux d'INFOTEL, en centre de service pour le client BNP Paribas, dans le cadre de la TMA BDDF (Banque de Détail) qui gère les batchs télématiques, le service de gestion télématique et le noyau comptable.
+Taches :
+Maintenance corrective et évolutive
+Tests unitaires
+Tests d'intégration
+Rédaction des dossiers d'exploitation
+Suivi de production
+Environnement TECHNIQUE:
+Z/OS MVS, COBOL, IMS, DB2, SQL, XML, TSO/ISPF, JCL, SPITAB, SDSF, ENDEVOR, PACK OFFICE, LOTUS NOTES
+
+KLESIA Décembre 2012 - Juin 2013
+Ingenieur Etudes Et Developpement
+Contexte : Dans les locaux d'INFOTEL, en centre de service pour le client KLESIA, dans le cadre de la TMA Gestion des contrats prévoyance et retraite.
+Taches :
+Maintenance évolutive (Batch)
+Tests unitaires
+Rédaction des dossiers d'exploitation
+Environnement technique :
+Z/OS MVS, COBOL, DB2, SQL, TSO/ISPF, JCL, PACK OFFICE
+
+BNP PARIBAS Mars 2012 - Décembre 2012
+Ingenieur Etudes Et Developpement
+Contexte : Dans les locaux d'INFOTEL, en centre de service pour le client BNP Paribas, dans le cadre de la TMA BDDF (Banque de Détail) qui gère les Contrats Télématiques, les Batchs Télématiques et le Service de Gestion Télématique.
+Taches :
+Maintenance corrective et évolutive (Batch)
+Tests unitaires
+Tests d'intégration
+Rédaction des dossiers d'exploitation
+Suivi de production
+Environnement technique :
+Z/OS MVS, COBOL, IMS, DB2, SQL, XML, TSO/ISPF, JCL, SPITAB, SDSF, ENDEVOR, CA-7, PACK OFFICE, LOTUS NOTES
+
+NATIXIS Novembre 2011 - Février 2012
+Programmeur Mainframe Cobol
+Contexte : Chez Natixis, dans le cadre de la Tierce Maintenance Applicative qui gère les applications de Moyens de Paiements notamment les chèques et les virements internationaux pour les entreprises.
+Taches :
+Maintenance corrective et évolutive (batch)
+Tests unitaires
+Tests d'intégration
+Rédaction des dossiers d'exploitation
+Suivi de production
+Environnement technique :
+Z/OS MVS, COBOL, PACBASE, IMS, DB2, SQL, XML, TSO/ISPF, JCL, PACK OFFICE

@@ -1,0 +1,186 @@
+AME CHEF DE PROJET SENIOR Expérience : 19 ans
+Intéressée par de nouveaux défis, ma motivation et mon esprit d’analyse seront un atout pour mener avec succès vos projets
+
+SkillsIdentification et correction des erreurs et incidents
+
+Expériences clés :
+Août 2015 – Février 2019 LE CREDIT LYONNAIS – SNI/DCF/REF Chef de Projet
+Mars 2019 – Juin 2019 BNP PARIBAS – BDDF DPO Chef de Projet
+Sept 2019 – Sept 2020 LE CREDIT LYONNAIS – SNI/PSB/GCR Chef de Projet
+Août 2021 – Août 2024 FRANFINANCE– CSE/FAP FAE Chef de Projet
+
+PILOTAGE DE PROJET
+ Synthèse et suivi des actions
+ Mise à disposition des livrables
+ Rédaction de support comité (pilotage ou projet)
+ Animation de réunion et comité
+ Analyse des risques (anticipation des problèmes)
+ Suivi des sujets
+
+ASSISTANCE À MAÎTRISE D’OUVRAGE
+ Recueil des besoins
+ Rédaction de spécifications fonctionnelles
+ Recette fonctionnelle
+ Suivi des anomalies
+ Mise en production
+
+Domaine d’interventions
+COMPÉTENCES FONCTIONNELLES – BANQUE DE DÉTAIL
+ Entrée en Relation
+ Compte courant / Epargne classique
+ Crédit aux Particuliers et Entreprises
+ Moyens de paiement (chéquier, carte bancaire, automate…)
+ Monétique
+
+Compétences techniques
+ Bureautique : Word, Excel, PowerPoint
+ Outils : ALM 11, MS Project,, MySQL, Postman
+ Langage: SQL
+ Système d’exploitation : Unix, Windows
+
+Études et formations
+ 2014: Formation Pilotage de projets (MS Project / AGILE) – IEF2I
+ 2010: Formation « Gestion d’un projet SI » (8h) – MALTEM Training Center
+ 2008: Formation « Recette Fonctionnelle / QualityCenter » (5 jours) – ATOS Formation
+SkillsIdentification et correction des erreurs et incidents
+ 2000: Maitrise de Ressources Humaines Université paris XII
+ 1999: Maîtrise de Psychologie Sociale Université Paris V
+
+Langue
+ Anglais - B1
+
+Août 2023 – Août 2024 FRANFINANCE
+Cadre de la mission : chef de projet MOA
+Contexte :
+Accompagnement du développement de l'activité Servicing au sein de la direction de financement aux Entreprises
+Réalisations :
+ Répondre aux sollicitations de support des partenaires
+ Gérer les projets d'évolutions
+ Pilotage des demandes émises par les partenaires bancaires de Franfinance
+ Assistance utilisateurs et maintenance corrective des outils front office
+
+Août 2021 – Juin 2023 FRANFINANCE
+Cadre de la mission : chef de projet MOA
+Contexte :
+Dans le cadre du projet YOGA (migration informatique du Crédit du Nord vers Société Générale), intervenue en tant que chef deprojet MOA pour la reprise des crédits à la consommation amortissables et renouvelables.
+Réalisations :
+ Rédaction des spécifications fonctionnelles,
+ Préparation des stratégies de recette, des plans de tests et des jeux de données,
+ Supervision et exécution des phases de recette (certifications statiques et dynamiques),
+ Rédaction des procès-verbaux,
+ Analyse des anomalies et des demandes d’évolutions,
+ Animation d’ateliers IT et métiers (cadrage, kickoff, conduite du changement…)
+ Contribution aux comités de chantier,
+ Préparation des actions manuelles post-migration de données, suivi et accompagnement des métiers.
+
+Septembre 2019 – Septembre 2020 LE CREDIT LYONNAIS – SNI/PSB/GCR
+Cadre de la mission : Business Analyste/Recette
+Contexte :
+Projet Trade, simplification du processus de traitement avec la mise en place d’un outil unique pour le Back Office Projet DIGICONSO renfort recette sur le parcours client
+Réalisations :
+ Prise en charge de différents chantiers
+ Point d’avancement des chantiers
+ Animation et participation aux ateliers avec le métier
+ Analyse des flux et recette
+
+Mars 2019 – Juin 2019 BNP PARIBAS – BDDF DPO
+Cadre de la mission : AMOA Gestion de projet
+Contexte :
+Projet de refonte du parcours client PRO
+Réalisations :
+ Participation à la présentation du nouvel outil de montage OMNIPRO
+ Modélisation du processus, rédaction de fiche météo et de support
+ Participation et animation des points d’avancement
+
+Août 2015 – Février 2019 LE CREDIT LYONNAIS – SNI/DCF/REF
+Cadre de la mission : Chef de Projet / Support au métier
+Contexte :
+Projet de refonte des Coffres avec prise en charge de la recette de la nouvelle application. Projet de dématérialisation des actes de procédures civiles d’exécution (projet réglementaire).
+Réalisations :
+ Etude et élaboration de la stratégie de tests et du plan de test
+ Mise en œuvre et organisation de réunion de revues de spécificités fonctionnelles (rédaction des supports et des comptes rendus)
+ Pilotage de la recette : suivi de l’exécution de la recette, synthèse des tableaux de bords, reportingsur l’avancement des travaux, animation de réunion de projet
+ Conduite du changement
+ Support au métier sur les applications Coffre et PCE
+
+Juin 2014 – Février 2015 SOCIETE GENERALE
+Cadre de la mission : AMOA
+Contexte :
+Projet Convergence de fusion du SI du Crédit du Nord avec la banque de détail de la SG. Prise en charge de la recette de la migration des sujets épargnes
+Réalisations :
+ Définition et élaboration de la stratégie de tests et du plan de test
+ Analyse des processus métier et conception de cahiers de recette
+ Mise en œuvre et organisation de réunion de revues de spécificités fonctionnelles (rédaction des supports et des comptes rendus)
+ Pilotage de la recette : suivi de l’exécution de la recette, synthèse des tableaux de bords, reportingsur l’avancement des travaux, animation de réunion de projet
+
+Juillet 2013 – Octobre 2013 BNP PARIBAS – MOA BDDF – Crédit
+Cadre de la mission : Pilote de Recette
+Contexte :
+Intervention en support sur les projets et tâches en cours au sein de la MOA Crédits Conso, sur le domaine des crédits amortissables dans le respect des procédures en vigueur
+Réalisations :
+ Refonte de l’organisation de la recette et de ses processus
+ Mise en place de l’outil QualityCenter et des process
+ Pilotage de la recette : suivi de l’exécution de la recette, synthèse des tableaux de bords, reportingsur l’avancement des travaux
+ Intervention en support de l’équipe
+
+Octobre 2012 – Juin 2013 BNP PARIBAS – FDG
+Cadre de la mission : Responsable de patrimoine
+Contexte :
+Assurer le suivi de production de la plateforme de Pilotage fonctionnel
+Réalisations :
+ Processus de maintien des différentes applications des plateformes comptables
+ Priorisation des incidents
+ Suivi des résolutions et des livraisons
+ Réalisation et communication des tableaux de bord (incidents de production, évolutions techniques, mise en production, communications transverses…)
+
+Juin 2010 – Mars 2012 NATIXIS PAIEMENT/GCE PAIEMENT – Production Monétique
+Cadre de la mission : MOA Monétique
+Contexte :
+Au sein du département support production, Gestion des différents tableaux de bord émetteurs / acquéreurs mis à disposition aux services internes et établissements externes (caisses).
+Réalisations :
+ Etablissement et diffusion des reportingsde suivi des appels du centre de relation client, des dossiers de prestations, des activités du BO…
+ Mise à disposition de données (dossiers de réclamation, appels traités, les flux monétiques…) à la facturation et au contrôle de gestion
+ Conduite du changement : mise en place de réunions, de présentation du changement, diffusion de document utilisateurs
+ Rédaction des modes opératoires
+
+Cadre de la mission : Pilotage de la migration
+Contexte :
+Coordination au projet de désimbrication du système GCE Paiement vers Natixis Paiement dans le cadre de leur fusion
+Réalisations :
+ Pilotage de la migration et reprise de données dans le SI Natixis Paiement
+ Rédaction de procédures métier pour les nouvelles activités Back Office
+ Conduite du changement : mise en place de réunion et organisation d’ateliers aux utilisateurs du Back office
+
+Juin 2009 – Mars 2010 LA BANQUE POSTALE – Direction de l’Organisation
+Cadre de la mission : Consultante MOA
+Contexte :
+Projet SAFIR de mise en place d’un nouveau poste de travail pour les conseillers financiers, afin de faciliter l’information entre les bureaux de poste et les centres financiers lors d’ouverture de compte dépôt ou épargne
+Réalisations :
+ Recueil et expressions de besoins pour la création de l’IHM
+ Rédaction des spécifications fonctionnelles
+ Mise à jour des cahiers de recette des évolutions mises en œuvre
+ Rédaction des cas de test
+ Déroulement des cas de tests
+ Suivi des anomalies et des demandes d’évolutions du site pilote
+ Rédaction du manuel utilisateur
+
+Novembre 2006 – Décembre 2008 Ministère de l’Agriculture – MOA Transverse
+Cadre de la mission : Consultante AMOA
+Contexte :
+Mise en place d’évolutions de l’application pour le suivi de la réglementation communautaire, ainsi que la gestion des dossiers de demande d’aides pour les exploitants agricoles (projet PACAGE).
+Réalisations :
+ Construction et qualification du plan de test ; mise en place des scenarii et des jeux d’essai
+ Réalisation de la recette des nouvelles fonctionnalités ; campagne de non-régression et de montée en version
+ Qualification des anomalies avec l’équipe de développement et recette des corrections
+ Mise à jour de la documentation fonctionnelle de l’application
+ Fusion des spécifications fonctionnelles au référentiel
+
+Janvier 2004 – Octobre 2006 ANPE – Direction
+Cadre de la mission : AMOA
+Contexte :
+Homologation de la nouvelle IHM dans le cadre de l’implémentation d’un nouvel outil de gestion des dossiers de demandeurs d’emploi (projet GEODE).
+Réalisations :
+ Participation à l’analyse de la complexité et des impacts des nouveaux besoins fonctionnels avec les agents en contact avec les demandeurs d’emplois
+ Réalisation de la recette des nouvelles fonctionnalités de l’applicatif ; rédaction des anomalies et des évolutions avec Service Center
+ Participation à la phase de déploiement de l’application dans les sites pilotes ; interface avec les utilisateurs des sites
+ Assurer le suivi de la maîtrise en condition opérationnelle avec le site de production

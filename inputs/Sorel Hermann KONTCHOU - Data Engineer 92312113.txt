@@ -1,0 +1,54 @@
+Sorel Hermann KONTCHOU +33786447766 hkontchou@yahoo.fr 5 rue des gémeaux, 95800, Cergy
+
+FORMATIONS
+2019 – 2020 ENSAI , Bruz
+2013 – 2017 Ingénieur de l’ENSTA Bretagne (Ecole Nationale Supérieure des Techniques Avancées)
+2010 – 2013 Licence en Sciences et techniques option Physique de l’université du Maine.
+
+COMPETENCES
+Linguistique : Français (langue maternelle), Anglais (805 au TOIEC), Allemand (notions)
+Techniques: Big data: DataBricks, HDFS, Hadoop MapReduce, Airflow, SPARK, Cloud: GCP, Big Query, power BI
+Développement: Python/ Java /C++/Scala/ Scilab SGBD (SQL: Mysql), HQL, Impala, bash, Sqoop , Oozie
+Suivi de projet : Git , Jira , Bitbucket , Gitlab , Newport , Jenkins
+
+EXPERIENCES
+Depuis Juin 2024 : SOCIETE GENERALE Domaine applicatif : Projet ABA : Mise en place d’un outil TMS (transaction Monitoring System) Afin d’ingerer différentes sources de données Alltra , montran, Filae (xml, json, csv) dans LUCID afin de jouer différents scénarios afin de remonter des alertes (AGP)
+
+ Mettre en place des pipelines d’acquisition de données d’une base depuis l’API EFICAAS vers LUCID 
+ Mise en place des ingestions des fichiers presents dans la raw vers la SRV 
+
+Implémentation des mapping entre la SRV et la SUV et scenario AGP ( Pyspark )
+Janvier 2024-Avril 2024 : DGFIP : Direction générale des Finances publiques Domaine applicatif : POC pour la mise en place de routine bash et postgre pour le calcul des indicateurs des différents référentiels d’applications afin de réduire la dette technique.
+
+ Analyse de la documentation et des spécifications techniques 
+ Développement de script de calcul de recouvrement et des écarts entre les référentiels 
+ Recommandation de solutions pour l’amélioration des traitements
+Juin 2022-decembre 2024 : Data Engineer / chef de projet adjoint au CDS de Banque de France Domaine applicatif : décisionnel, lutte contre le blanchiment, priorisation des modèles d’alertes , pilotage de projet
+
+ 
+
+Ingestion de données via Sqoop depuis une base miroir (Oracle ou Postgre) Participation à la maintenance applicative (HQ, au suivi de production et au développement de features
+
+ Mise en place de nouvelles normes Gitflow au sein de l’équipe, 
+ Animation des réunions Daily, de réunions de Cosuivi avec le client, de retrospectives
+Juin 2021-Juin 2022 : Data Engineer au Groupe Caisse des Dépôts / BD6 Domaine applicatif : décisionnel
+
+ Ingestion de données via Sqoop depuis une base miroir (Oracle ou Postgre) 
+ Maintenance applicative ( gestion et correction d’incidents de production) 
+ Mise en place de règles de gestions HQL ou java spark selon la demande du métier. 
+ Mise en place de job bash pour automatisation de tâches quotidiennes (déplacement de flux vers
+des répertoires HDFS, séquencement de job HQL )
+Juillet 2020 - Mars 2021 : Ingénieur Associé chez SmartDrive / startup Domaine applicatif : service
+
+ Rédaction des Jira 
+ 
+ Mise en place du Gitflow
+Travaux de maintenance : Monté de schéma de tables (HQL, Json )
+2018-2019 [20 mois] Projet de recherche en collaboration avec CIDCO Canada et l’université Laval, Quebec, Canada : Domaine applicatif : Recherche et developpement
+ Modélisation et mise en place de tests unitaires  Analyse prédictive
+Conception d’un dashboard en C++ d’aide à la décision de données issues de différents organismes
+2017-2018 [5 mois] Ingénieur de recherche et développement CIDCO France : Analyse des données et prédiction Domaine applicatif : Recherche et developpement
+Mise en place de méthode sélection des données sensibles aux erreurs à détecter.
+
+CENTRES D’INTERETS ET LOISIRS : Entreprenariat, musique (guitare), football, innovation, business, marketing.
+Permis B Permis côtier

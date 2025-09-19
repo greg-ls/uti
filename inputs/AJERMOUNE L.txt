@@ -1,0 +1,160 @@
+AJERMOUNE Lahcen
+Product MANAGER | PRODUCT OWNER | PROXY-PO
+eXPERT MULTI MEDIAS | APP MOBILES
+SYNTHESE DES COMPETENCES
+Compétences fonctionnelles :
+Animation des ateliers, Recueil des besoins, Rédaction des spécifications, Rédaction des Users Stories en mode BDD,
+Chiffrage des Users Stories avec l’équipe, Suivi et priorisation du backlog avec l’équipe, Manipulation des API Rest /
+GraphQL / SOAP, Suivi des développements, Webperfs Core Web Vitals (SEO), Assistance fonctionnelle des développeurs, Participation aux cérémonies agiles (DSM, sprint planning, grooming, rétrospectives de sprint),
+Coordination avec les SI transverses, Démonstration des évolutions, Appui fonctionnel de l’équipe recette,
+Préparation des jeux de tests (JDD), Validation PO/technique des développements, Remontée des anomalies et adaptations, Suivi des correctifs, Analyse des bugs (logs, tests…), Assistance métier, Suivi des MEP et post-MEP,
+Stratégie de test, Rédaction du cahier de recette, Exécution de tests fonctionnels, Reporting, Animation des cérémonies agiles, Calcul de la vélocité, Suivi des livraisons, Développement de tâches mineures, Administration QC
+ALM, Squash, Jira, SRE, Monitoring et alerting (NewRelic, Kibana).
+Domaines fonctionnels :
+Parcours vie du client, prospect, abonné, Commentaires, Login, Utilisateurs, Actualités, CMS, Flux et replays vidéos,
+Commandes, Souscription, Adhésion, Abonnement, Contrat, Normes SEPA (prélèvements, impayés, domiciliation, contestation), Communications et éditique (courriers entrants et sortants), Réseaux bancaires (CB, 3DS, SystemPay, moyens de paiement), Gestion des équipements, Logistique, Actualités, Infographies, Dépêches, IA et résumés,
+Vidéos, Transcriptions, Webperf : Core Web Vitals, temps de réponse, FAI, Gestion des distributeurs, Gestion des rendez-vous, Emailing, Référencement, SEO, Adwords, Core Web Vitals.
+Compétences techniques :
+Jira, Charbeat, Airship, Varnish, Akamai, Oncrawl, Github, Gitlab, Bitbucket, Git, Jenkins, Webstorm, VScode,
+Wampserver, Putty, Mobaxterm, Filezilla, Winscp, IA : Claude, Llama, ChatGPT, Websequencediagrams, Gliffy,
+PowerPoint, Kibana, Dynatrace, NewRelic, Grafana, Jmeter, Browserstack, SoapUI, Postman, Swagger, PL/SQL
+Developer, SQL Developer, DBeaver, Squirrel, MySQL, MongoDB, Photoshop, Excel, Word, OneNote, Teams, Yammer,
+Slack, Confluence, SharePoint, Prestashop, Drupal, Magento, Joomla, WordPress, Cpanel, Webmin, Plesk, ISPConfig,
+AWS (utilisation basique), OVH, EAI, BUS, AIS, Elasticsearch, RabitMQ, QC ALM, Mantis, Squash, Trello, SolidWorks,
+AutoCAD, Fusion 360, Whisper, Trint, Strapi, Coda, Notion, Monday, Salesforce (notions et formation : administration et utilisation).
+FORMATIONS
+01/2013 à ce jour : Formations diverses : ISTQB, Scrum Master, Product Owner, Salesforce, UX Design, ITIL… Diverses Île-De-France
+09/2007 – 06/2009 : Master I & II Réseaux et Télécoms - E.S.G.I Paris
+09/2006 – 06/2007 : Bachelor of Science en Technologies du Web - E.S.G.I Paris
+09/2002 – 09/2004 : BTS Génie Civil, option Travaux Publics - Lycée Les Pannevelles Provins
+09/2001 – 06/2002 : Baccalauréat sciences expérimentales (S) - Lycée Youssef Ben Tachafine
+EXPERIENCE PROFESSIONNELLE
+04/2025 à ce jour : UP COOP
+Product Manager / Product Owner sur l’app mobile et l’espace web UpCoop
+Projet / Contexte :
+Rattaché à l’équipe de gestion de la cible Bénéficiaire UP COOP, l’activité du PM / PO porte sur l’app Android/I Phone mise à disposition.
+Réalisation / Mission :
+Gestion du backlog
+Construction, alimentation et priorisation des user stories.
+Traduction des besoins métiers/design en spécifications actionnables pour les développeurs.
+Animation de la squad
+Animation des cérémonies agiles : refinements, sprint planning, poker planning, ateliers « trois amigos ».
+Interlocuteur direct des développeurs et testeurs pour clarifier et prioriser les besoins.
+Suivi des développements
+Animation des sprint reviews, collecte des feedbacks des parties prenantes et des utilisateurs (tests, interviews).
+Garantir la mise en production : planification, tests, release notes, documentation.
+Pilotage produit
+Suivi de la performance via des KPIs et proposition des évolutions.
+Gestion du run & incidents
+Suivi et coordination de la résolution des anomalies de production.
+Assure la continuité du service et le suivi opérationnel.
+Environnement technique / Outils : Scrum, App Mobiles, AzurDevOps…
+04/2021 à ce jour : France Télévisions | franceinfo Paris
+Chef de projet technique transverse IT
+Projet / Contexte :
+Au sein du département technique de francetvinfo.fr, composé de plusieurs features teams, je suis chargé de contribuer aux cadrages des évolutions et adaptations, de monitorer les performances techniques et SEO des plateformes de francetvinfo.fr, ainsi que de fournir un support à la rédaction et aux différents utilisateurs de ces plateformes.
+Réalisation / Mission :
+Participation aux cadrages des évolutions de www.francetvinfo.fr (Élections, Login, Commentaires,
+Taxonomies, SEO, Cache...)
+Mise en place des dashboards sur New Relic, Kibana et debugbear (France3-régions, la1ere, franceInfo, jeux et météo) et suivi des indicateurs techniques des plateformes (Erreurs 5XX, 404,...).
+Mise en place de l’alerting sur New Relic et debugbear et Slack (nodejs, python ou Selenium)
+Suivi des indicateurs techniques SEO (Temps de réponse, TTFB, CWV...)
+Gestion du backlog SEO (CWV) en collaboration avec les PO.
+Recettes des tickets techniques et fonctionnels
+Support technique : Analyses des incidents de production remontés par les différents interlocuteurs
+Préparation des requêtes SQL Preprod et Production (MariaDB).
+Participation aux différents appels d’offres et au cadrage techniques de la nouvelle plateforme
+meteo.francetvinfo.fr et wordpress VIP
+Mise à jour technique de la grille des programmes (Vidéos et Audios).
+Participation aux POCs autour de l’IA, résumés, vidéos, transcriptions (Llama, Chatgpt, Trint, Whisper).
+Développement des taches mineurs sous Symfony et développement des outils fonctionnels interne.
+Environnement technique / Outils : Scrum, Atlassian (Jira, confluence), Symfony, Newrelic, Kibana, Grafana, Rest, Git, Gitlab, Airship, Vidéos, Audio, Varnish, Akamai, Cache, Coral, Foreca, php, typescript, nodejs, jenkins, MariaDB, phpmyadmin, RabitMQ, Google search console, Oncrawl, Debugbear, Dareboost, Trint, Pluremédia, Coda, Strapi, Figma, Firebase...
+05/2019 – 11/2019 : Canal+ Issy-les-Moulineaux
+Product Owner technique "Vie du client" backend
+Projet / Contexte :
+En tant que Product Owner au sein d’une feature team composée d’un tech lead, d’un valideur et de quatre développeurs, j’étais responsable de la gestion et du suivi du backlog produit backend pour le CRM interne Canal+, ainsi que du cadrage des évolutions et adaptations (IHM, base de données, API…). Mon objectif principal était d’aligner les priorités avec les besoins métier et d’optimiser l’expérience client.
+Réalisation / Mission :
+Cadrage des offres Canal+ Séries dans le SI Canal+, en partenariat avec Free, Orange et Bouygues Télécom,
+Rebranding du CRM : passage de "CANAL" à "CANAL+",
+Assistance fonctionnelle : analyse des bugs remontés par les différents interlocuteurs,
+Validation des évolutions : réalisation de tests sur les branches de développement ou sur les environnements de recette, d’intégration et de pré-production,
+Animation de cérémonies agiles,
+Autres missions diverses liées au parcours client.
+Environnement technique :
+Outils : Jira, Confluence, Glilify, SQL, DBeaver, WebSequenceDiagrams, Postman, SoapUI, API REST, Dynatrace, Kibana…
+04/2016 – 04/2019 : CANAL+ Issy-les-Moulineaux
+Product Owner / PPO Digital de l’Espace Client Canal+
+Projet/Contexte :
+Au sein d’une feature team composée d’un manager, d’un tech lead, d’un valideur et de quatre développeurs, j’étais chargé de cadrer toutes les évolutions et adaptations de l’Espace Client Canal+, impactant directement l’expérience client.
+Réalisation / Mission :
+Cadrage de plus de 15 parcours liés à la vie du client, notamment : Changement de coordonnées,
+Modification du mode et du moyen de paiement (IBAN, CB, date de prélèvement), Modification de civilité avec gestion des pièces jointes, Gestion des préférences de communication, Signature électronique en partenariat avec Docapost et Contralia, Parcours "Contactez-nous" : gestion des rendez-vous et click to call,
+Régularisation des impayés, Réactivation de contrat, Demande et annulation de résiliation, Changement d’équipement des partenaires FAI (Free, Orange, Bouygues Télécom, SFR), Changement de box, Autres parcours similaires liés à l’amélioration continue de l’Espace Client.
+Développement : prise en charge de certaines évolutions et corrections mineures,
+Assistance fonctionnelle :
+Analyse et résolution des bugs remontés par les différents interlocuteurs,
+Aide au cadrage des évolutions impactant d’autres applications gérées par la team (backend, middle, ou frontend).
+Validation des évolutions :
+Préparation des jeux de tests,
+Réalisation de tests fonctionnels sur les branches de développement et sur les environnements de recette, d’intégration ou de pré-production (PP).
+Animation de cérémonies agiles : participation active aux groomings, sprint plannings, démos, et rétrospectives.
+Études d’impact pour anticiper les risques liés aux nouvelles fonctionnalités ou corrections
+04/2013 – 03/2016 : CANAL+
+Ingénieur Validation et Qualité
+Projet / Contexte :
+Au sein d’une équipe chargée d’automatiser et de valider l’ensemble des évolutions du système d’information, j’étais responsable de valider toutes les évolutions et corrections impactant plusieurs applications ou systèmes techniques.
+Réalisation / Mission :
+Validation de la refonte de l’Espace Client Canal+, incluant tous les parcours selfcare client (PHP),
+Validation de MyCanal.fr, plateforme de replay et de live du groupe Canal+,
+Validation de la mise en place des normes SEPA (scripts Bash, IHM, prélèvements, gestion des impayés, etc.),
+Validation des courriers entrants en partenariat avec Docapost,
+Développement d’une interface IHM de suivi des versions des différentes applications déployées sur chaque environnement,
+Validation des commandes distributeurs en collaboration avec Bouygues Télécom et Orange,
+Pilotage de projets transverses, impliquant plusieurs équipes et applications,
+Assistance fonctionnelle :
+Analyse des bugs remontés par les différents interlocuteurs,
+Tests de charge à l’aide de JMeter,
+Automatisation de cas de test avec SoapUI.
+Support technique : accompagnement des équipes métier, chefs de projet et développeurs.
+Environnement technique / Outils : Jira, QC ALM, SoapUI, Postman, SQL, DBeaver, API REST, PHP/HTML/CSS,
+MobaXterm…
+04/2012 – 03/2013 : Bouygues Télécom - ALTEN Meudon
+Ingénieur Analyste Transverse
+Projet / Contexte :
+Au sein d’une équipe de validation transverse des systèmes techniques, j’étais chargé de valider les évolutions impactant plusieurs systèmes techniques interconnectés.
+Réalisation / Mission :
+Analyse des exigences fournies par la MOE (Maîtrise d’OEuvre),
+Élaboration de la stratégie de tests transverse, alignée avec les objectifs techniques et fonctionnels,
+Rédaction des plans de tests (cahiers de tests métier) et validation des spécifications fonctionnelles,
+Conception des cas de tests (use cases) et fiches de tests sur HP Quality Center,
+Exécution des tests et validation des résultats,
+Préparation et gestion des jeux de données nécessaires aux campagnes de tests,
+Création, aide à la correction et validation des anomalies logicielles.
+Environnement technique / Outils : HP ALM, SoapUI, SQL, PL/SQL Developer, Putty, MO...
+02/2011 – 11/2011 : Orange Labs Issy-les-Moulineaux
+Administrateur HP Quality Center
+Projet / Contexte :
+Migration de Quality Center HP 9.2 vers la version 11 au sein d’Orange Labs à Issy-les-Moulineaux.
+Réalisation / Mission :
+Migration des projets Quality Center de la version 9.2 à la version 11,
+Administration des comptes utilisateurs et des projets, Personnalisation du workflow, Conception et exécution de scénarios de retour arrière en cas de problème, Extraction et suivi des anomalies (liste des anomalies par statut), Supervision des scénarios et cas de test en cours de validation ou nécessitant correction, Rédaction des plans de tests (cahiers de tests métier) et validation des spécifications, Rédaction de la documentation associée : procédures, fiches incidents, guides utilisateurs, Gestion des tests à effectuer et des problèmes à résoudre avec HP QC, Création, suivi et validation des anomalies logicielles.
+Environnement technique / Outils : HP Quality Center 9.2 & 11, Microsoft Office, SQL…
+01/2007 – 01/2011 : Lafarge, Colas, Ajerdev, Batcolor Île-De-France
+Projet / Contexte :
+Développement web et gestion des serveurs
+Réalisation / Mission :
+Développement, réalisation et référencement de sites internet pour PME/TPE et associations, incluant :
+Sites e-commerce, sites vitrines, et sites basés sur des CMS (WordPress, Drupal, Magento, Joomla…).
+Migration et administration de serveurs :
+Migration des serveurs web, bases de données et serveurs d’emailing,
+Installation, configuration et optimisation de serveurs sous Linux CentOS avec Plesk,
+Configuration et optimisation de HTTPD et MYSQLD,
+Migration des bases de données MySQL vers de nouveaux serveurs,
+Optimisation de l’affichage du site intranet de l’entreprise.
+Développement d’un outil de gestion :
+Création d’un outil de gestion des commandes clients et des livraisons de matériaux de construction,
+Technologies utilisées : PHP, CSS, HTML, et SQL.
+UTIGROUP
+SA au capital de 1 791 747.20 €
+68, rue de Villiers Levallois-Perret Cedex
+www.uti-group.com

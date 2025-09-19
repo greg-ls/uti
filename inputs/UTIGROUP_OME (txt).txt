@@ -1,0 +1,102 @@
+Business Analyst
+
+SYNTHESE PROFIL
+
+Connaissances fonctionnelles :
+Banque de Détail
+Banque d’investissement et de financement
+Moyens de paiement
+Commerce International
+Cadrage de besoins avec le Métier
+Etude de faisabilité
+Estimation des charges
+Spécifications
+Recette
+Participation aux différentes Releases et préparation des contrôles post mise en production
+Analyses et résolutions des incidents de production et d’homologation
+Coordination et management de projet
+Système d’information et schéma directeur (existant, cible, planning, budget)
+
+Qualités :
+Adaptabilité, Sens de l’organisation et de la planification, Orienté Delivery et satisfaction client, Qualités rédactionnelles, Détermination et autonomie, Aptitude à gérer les conflits, Engagement, Bon relationnel et sens de la communication, Esprit d’analyse et de synthèse, Esprit d’équipe
+
+Connaissances techniques :
+LANGAGES : COBOL MVS - MICROFOCUS - JAVA - XML - SQL - DB2 - IA LISP
+OUTILS : Quality Center - Altova - JIRA - ITSM
+MÉTHODES : AGILE - Cycle en V
+BUREAUTIQUE : Word - Excel - PowerPoint - Notepad++ - PSPAD
+API : Webservices REST - POSTMAN
+
+DIPLOMES
+2010-2013 : Ingénieur d'État en Informatique
+2007-2010 : CPGE Math SUP/Math SPE
+
+LANGUES
+Anglais :     courant
+Espagnol :     notions
+
+EXPERIENCES PROFESSIONNELLES
+
+Société Générale / Transactis (Depuis 09/2018)
+Business Analyst Virements Internationaux
+Contexte
+Développement et accompagnement sur le projet consolidation T2 T2S-migration XML ISO 20022
+Réalisation de mappings MX <> MT, pour T2 et CBPR+
+Enrichissement des modèles de données MT et MX
+Conformité « nom et adresse » des transferts pour les virements internationaux dans le cadre du règlement européen UE 2015/847
+Mise en place de l’évolution SWIFT GPII (Suivi en temps réel des flux Swift échangés)
+Mise en place de la nouvelle version du Progiciel EVOLAN Payment Engine V3
+Contributeur dans le cadre du projet VAN : Virtual Account Number pour les clients corporates VIP de la Société Générale
+Participation au projet fusion de la BP et la SG
+
+Détail des tâches :
+Cadrage des besoins avec les équipes métier
+Assurer le bon niveau de service des filières d’émissions et réceptions des virements internationaux
+Animation et pilotage des réunions d’étude de faisabilité avec les parties prenantes
+Élaboration des estimations de la charge consolidée (Analyse, Design, Réalisation, Recette)
+Responsable de la maintenance des applications historiques
+Participe au cadrage des sujets avec le responsable ME et la maîtrise d’ouvrage
+Participation aux différentes Releases et préparation des contrôles post mise en production
+Analyses et résolutions des incidents de production et d’homologation
+Participation aux comités filières avec la maîtrise d’ouvrage fonctionnelle, l’équipe d’homologation, les équipes ME/MO des applications connexes (le cas échéant)
+
+Environnement : Webservices REST, Postman, COBOL, MQSeries, CICS, DB2, JCL, SQL, JIRA, ALM, Agile Scrum
+
+BNP Paribas / DSI RA (08/2015 - 09/2018)
+Gestionnaire d'applications Moyens de Paiement
+Contexte
+En tant que responsable de la partie Moyens de Paiement de la DSI RA
+ORION : Moteur de paiement de la DSI RA
+Mpayment : Paiement Mobile
+SEPA : Virements européens SEPA SCT
+IVISION : Finance Trade – Commerce International
+
+Détail des tâches :
+Chiffrage et planification
+Analyse et conception
+Recettes et correction d’anomalies
+Mise en production
+Maintenance applicative / évolutive d’Atlas2 (ERP interne du groupe BNP Paribas) et des systèmes de paiement de 16 banques et prise en charge des incidents techniques et fonctionnelles.
+
+Environnement technique : COBOL MVS, UNIX, SHELL AIX, Agile Scrum
+
+Capgemini / CSB BNP Paribas (09/2013 - 08/2015)
+Ingénieur Études et Développements
+Contexte
+En tant qu’analyste Développeur en COBOL Mainframe
+Migration des données des produits vers un nouveau référentiel OPRA
+PCEx : Produits charge exploitation
+
+Détail des tâches :
+Gestion des requêtes et des incidents sur toute la plateforme de contrôle de gestion
+Analyse et Conception Technique
+Coding
+Recette
+Mise en Production
+
+Environnement technique : Mainframe, MVS, Cobol, MQSeries, CICS, DB2, JCL
+
+UTI GROUP        Contact commercial : Claire DESCHARREAUX
+SA au capital de 638 350,68 €         06 63 64 33 06
+68, rue de Villiers Levallois-Perret Cedex         claire.descharreaux@uti-group.com
+www.uti-group.com    1/1

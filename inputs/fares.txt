@@ -1,0 +1,195 @@
+Pilotage Recette/Consultant Etudes / Test Lead
+
+SYNTHESE DES COMPETENCES
+
+Management et gestion des ressources :
+Dispatcher des tâches aux différents membres de l'équipe (ordonnancement, priorisation)
+Transmettre des informations essentielles aux missions de chacun
+Superviser et suivi des performances individuelles et collectives en relation avec l’activité en cours et futur
+Améliorations des processus et des outils
+Suivi de la résolution des blocages techniques
+Prise de décision
+Gestion des absences (congés, arrêts maladie, etc.)
+Daily meeting : Organisation et animation : échanger autour des avancements des tâches, des objectifs et des difficultés
+Management de direction :
+Comité de pilotage avec la direction
+Planning des versions et arbitrage
+Reporting hebdomadaire sur l’activité, avancement et contraintes
+Réunions de coordination avec les autres services adhérents
+Remplacement de manger en période de vacances
+Coordination entre les parties prenantes (MOA, MOE, DEV, intégration, briques adhérentes), avec l’équipe de préprod et de production
+Elaborer la stratégie de recette, mise en place de la matrice et de campagne de recette
+Présentation de bilan et suivi d’avancement
+Identification et mise en place des prérequis à la recette : environnement de recette, JDD, les adhérences applicatives
+Suivi des versions, des livraisons et des déploiements sur les environnements de tests et de recettes
+Test en mode Agile ou classique
+Préparation des jeux de données (besoin et identification)
+Rédaction de PV de recette
+Mise en place d’ALM, UFT, SYCNHRONIZER et Octane de bout en bout
+Mise en Place d’une PIC (ALM-UFT-Lab Management)
+Administration et customisation ALM
+Gestion des incidents et changements & mise en place d’un plan de continuité du service
+Communication utilisateurs
+Suivi et résolution
+Génération des statistiques mensuelles
+Migration de versions (version majeure et patch correctif)
+Mise en place d’une méthodologie d’automatisation de tests
+Conduite du changement
+Formation utilisateurs
+Support utilisateurs niveau 1, 2, 3
+Transfert de compétences
+Rédaction de documents et guide utilisateurs
+Proposition d’amélioration des services.
+
+Compétences techniques
+Langages :        Shell, batch, VBA, VBS, SQL, PL/SQL, debutant Python
+Outils : 	ALM/ SQUASH/ UFT/ SYNCHRONIZER / JIRA/ CONFLUENCE/ OCTANE/ FileZilla/ Soap UI/ Clearquest/ Kibana/ PUTTY/ Cyberark / Suite Office/ ITSM/ SharePoint/ Autopass/ARIS/ GDI/Transfertpro
+Réseaux: 	DHCP/ DNS/ VPN/ IP-COP/ UltraVNC/ HTTP/HTTPS
+SGBD : 	Oracle/ MySQL/ MS SQL/pgAdmin/DBEAVER/ SQuirrL
+Méthodes : 	Agile/ Cycle en V
+Anglais avancé
+
+Compétences Métier
+Retraite
+Santé et Assurance
+E-commerce
+Gestion et management
+formation
+2016 : Formation Automatisation des tests avec UFT (BNP PARIBAS)
+2014 : Formation qualification logicielles et administration QC-ALM (Clichey)
+2013 : BTS Informatique de Gestion option Administrateur réseaux et systèmes (ICOGES Paris)
+2010 : Master 2 gestion des entreprises (I.A.E Bordeaux)
+
+EXPERIENCE PROFESSIONNELLE
+10/2022 au 30/09/2025 	AGIRC-ARRCO
+Pilote équipe SCL au CNRI (Centre national de recette et d’intégration) : Recette et intégration
+Projets :
+Migration - refonte :  liquidation des dossiers de réversions actif et allocataire
+Evolution fonctionnelle- correctif : coordination européenne
+Evolution : Proactivité sortante AA
+Evolution : réforme des retraites
+Migration -Refonte : Automatisation de la liquidation des dossiers CNIEG (ind. Gaz et Eletriq)
+Migration -Technique :  WS RNGD IRCANTEC (CDC : Caisse des dépôts et consignations)
+Gestion des adhérence SCL (liquidation retraite) - CELIA (prestation retraite)
+Refonte : DUIRRL RP (retraite progressive des demande inter-régime)
+Evolution fonctionnelle : PSAA : Parcours simplifié des demandes de liquidation
+Evolution fonctionnelle : CER : Cumul Emploi Retraite
+Refonte : automatisation des demandes de liquidation droite de réversion
+Interventions :
+Pilotage équipe de 4 ressources (Affectation des tâches, supervision de l’activité, suivi des actions, gestion des vacances...)
+Chiffrage et estimation des différentes actions en relation avec l’équipe
+Rédaction de PQTL : plan de qualité tests et logiciel par version
+Coordinateur CNRI avec les partenaires extérieurs sur le périmètre liquidation : CNAV, CDC, DPR, IEG
+Coordinateur des équipes : intégration -qualification -recette -PREX
+Rédaction de Reporting, stratégie de recette, matrice des tests, bilan, PV de recette, mode opératoire
+Gestion complète d’une campagne de recette (Conception, valorisation des données, exécutions, bilan et PV),
+Recette de bout en bout du processus de liquidation depuis le portail inter régime (PCI)
+Création, gestion, priorisation des JIRA avec l’équipe métier (MOA)
+Suivi des versions SCL (système de liquidation) et ESAA (Espace sécurisé AA) et des livraisons
+Planifié les déploiements et préparation des environnements de qualification et de recette
+Identification des adhérences des autres briques (RNI, RNGD, GDC, …) avec la brique SCL
+Traitements techniques (Batch et shell, Web service...), analyse des rejets, logs
+Veille sur le bon fonctionnement des briques :
+Analyse des incidents
+Déclaration d’incident au support niveau supérieur
+Suivi de traitement
+Support sur le périmètre SCL aux autres équipes de recettes (équipe prestation, RNGD, RNI, …) :
+Création des demandes de retraite (PCI) et demande de retraite complémentaire (AA)
+Gestion des demandes de liquidation retraite (RDV, mailing, relance, PJ, données signalétiques, données d’interlocution)
+Suivi des demandes (ESAA : Espace sécurisé AA)
+Demande de paiement (MEP : paiement des retraites)
+Proposition de réorganisation et de gestion documentaire (unicité des modèles, consolidation des répertoires, page confluence, …)
+Référent sur la mise en place de l’automatisation des tests :
+Identification des cas à automatiser,
+Exécution sous squash TM
+Analyse des résultats
+Environnement technique : shell, batch, SQuash, JIRA, Confluence, FileZilla, Soap UI, Suite Office, SharePoint, Oracle, SQL, pgAdmin, DBeaver, SQuirrL,  splunk
+02/2019 au 30/09/2022 MGEN Technologie (Groupe VYV)
+Consultant Technico-Fonctionnel, Recette Santé – Tests d’intégrations (TAT)
+Projets :
+ORION (cœur métier santé) refonte et évolutions fonctionnelle
+Projet Kalixia : Délégation de paiement
+Portage GCOS/Linux
+Migration technique du socle AFJ vers JBL
+LRRP (Aide des Professionnels de Santé délivrant de l’optique ou de l’audio à respecter les délais de renouvellement).
+Interventions :
+Gestion complète d’une campagne de recette (Conception, préparation des données, exécutions, bilan et PV),
+Chiffrage des différentes actions,
+Liquidation manuelle et automatique des prestations du régime obligatoire (RO) et du régime complémentaire (RC) : B2, NOEMIE, DRE, FR@PEC …)
+Contrôle des transferts de flux vers CHA (chaine de paiement) et lancement des traitements, Retour CHA
+Test des traitements techniques (Batch et shell, Web service,..), analyse des logs et proposition de solutions
+Supervision des tests unitaires et d’intégrations (tests techniques)
+Saisie, et suivi des dossiers médicaux IJ Maladie, IJ Maternité, IJ Paternité, IJ Adoption
+(Prestations Espèce), des dossiers de consultation Médecin pour prestation Nature
+Saisie des devis et PEC optique, audio et dentaire
+Support ALM pour l’équipe de recette
+Référent projet socle JBL et portage technique : estimation des charges, reporting, gestion des testeurs, bilan PV de test et de recette
+Garant de la qualité des livrables.
+Environnement technique : shell, batch, ALM, JIRA, FileZilla, Soap UI, ClearQuest, Kibana, Suite Office, SharePoint, Oracle, SQL, pgAdmin, Web service
+12/2015 à 12/2018 BNP PARIBAS
+Responsable Assistance et Support/ Consultant Test – Automatisation des tests avec UFT
+Mission : Cellule transverse, administration, migration, recette et support utilisateurs (1400 projets)
+Projet :   Refonte technico-fonctionnelle portail interne. Migrations ALM (plus de 2000 projets), mise en place HP Octane (Unix), Packaging outils (ALM, UFT, Sprinter, Lab service), Mise en place Autopass, Migration Synchronizer,
+Préparation de l’environnement, les prérequis, et dossier d’installation des outils ; ALM, Octane, Synchronizer, Lab management et proposition de service.
+Migration de version ALM
+Expertise fonctionnelle et technique sur les outils (ALM, Synchronizer, Octane, Sprinter)
+Gestion de la relation avec l’éditeur
+Génération des statistiques mensuelles et reportings
+Kick-off de lancement des outils avec les nouveaux clients
+Responsable de l’équipe d’assistance et de support utilisateurs (ALM, Octane, UFT,  Synchronizer et ARIS) :
+Management de 4 ressources
+Gestion et suivi du traitement des demandes (par mail, JIRA, ITSM, ...)
+Point équipe de suivi mensuel et reporting au responsable
+Gestion de la continuité du service (gestion des incidents et des changements)
+Product Owner sur Features ‘’Indicateurs de service et statistiques’’ (Nouveau portail)
+Rédactions des spécifications
+Construction du backlog
+Identification des user stories
+Daily meeting
+Test et validation des corrections
+Suivi et reporting.
+Recettes fonctionnelles, de migration et d’évolutions
+Automatisation des TNRs projet nouveau portail
+Suivi de Mise en production
+Conduite du changement
+Conception et réalisation des supports de communication
+Elaborer un planning de communication
+Transfert de compétences.
+Environnement technique : AGILE SCRUM, Windows 7 et 10, WS 2008 R2, WS 2012, VBA, VBS, SQL, Oracle 11g, Oracle 12g, ALM, Octane, UFT, JIRA, Synchronizer, Sprinter, Pack office, ITSM, ARIS
+03/2014 – 11/2015 VENTE PRIVEE
+Administrateur QC
+Projet : Projet d’optimisation du portail web des produits de partenaires, et la gestion de la distribution des produits vendus.
+Sur portail web des ventes : optimiser le front-office et ajouter de nouvelles fonctionnalités (offrir une carte cadeau, choisir un point de livraison différent de l’adresse de résidence principale, …).
+Sur le back-office : améliorer la qualité de gestion des commandes, des livraisons, ajouter de nouvelles fonctionnalités pour la gestion du catalogue :
+Administration de la plate-forme QC :
+Suivi de la continuité du service
+Gestion des projets QC « Création, Renommage, Restauration, Désactivation »
+Gestion des habilitations
+Intervention sur les bases de données (schémas)
+Customisation de l’outil
+Mise en place du workflow des anomalies selon le besoin.
+Fourniture d’une Méthodologie de tests (documentée) :
+Référentiel de définition des exigences et des plans de tests
+Pilotage des tests : execution, reporting
+Support technique pour les utilisateurs
+Rédaction des différents documents.
+Environnement technique : 	Windows 7, Windows Server 2003, VB, SQL, VBS, SQL Server, Quality Center10.0, QTP, Suite Office (Excel, Word, PPT)
+03/2013 à 12/2013 CNP Assurance
+Consultant Test Recette
+Projet : Maintenance évolutive et corrective, application de gestion des contrats d’assurance Vie
+Rédaction des plans de tests.
+Rédaction et saisie des exigences et des cas de test sous Test Plan de Quality Center
+Préparation de l’environnement test et des jeux de données
+Déroulement des scénarios
+Gestion des anomalies
+Validation des corrections
+Reporting sous QC
+Rédaction du PV de recette
+Mise en place de la conduite du changement pour utilisateurs
+Transfert de compétences.
+Environnement technique : Windows, serveur 2003, SQL, Shell, Oracle 9g, Quality Center10, Suite Microsoft
+
+UTIGROUP		BLUMENTAL Nathalie
+SA au capital de 1791747, 20 €		06 80 74 05 37
+68, rue de Villiers Levallois-Perret Cedex 		nathalie.blumental@uti-group.com
+Tel: 01 41 49 05 10 		www.uti-group.com

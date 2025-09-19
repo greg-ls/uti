@@ -1,0 +1,115 @@
+Ingénieur d’Etude et Développement COBOL Mainframe
+ 9 ans d’expérience
+
+Formations et Diplômes:
+
+2013-2016 : Ingénieur d'Etat en IT, Institut National des Postes et Télécommunications (INPT), Rabat.
+2011-2013 : Classes préparatoires aux grandes écoles: PSI.
+Juin 2011 : Baccalauréat Sciences physiques, lycée Youssef Ben Tachefine, Agadir.
+
+Expériences Professionnelles :
+
+Juillet 2022-Juin 2025 Tech Lead expérimenté COBOL (CA-CIB) 3 ans.
+
+Mode Projet Cycle en V
+Contexte
+Banque: Migration d'une application Legacy vers une solution Cloud nouvelles technos
+Gestion de la messagerie SWIFT - EBA - TGT
+Mise en place de nouvelles règles de routage CBK
+Migration des comptes Fl
+Mise en place des alertes mail
+Migration CBPR+ SWIFT norme 15022 et 20022 (MX/MT)
+Mise en place de la validation renforcée des messages bloqués FIRCOSOFT
+Elaboration de l'écran de recherche d'une transaction via UETR
+Correction des différents bugs trouvés dans les programmes (ex: passage année 2000, gestion de la relance des pgms)
+Tâches
+Proposition et Conception de solution technique,
+Respect des critères fonctionnels et budgétaires,
+Estimation globale et détaillée de couts/charges des différentes parties techniques d'application,
+Coordination et contrôle lors de la phase de développement.
+Elaboration de la stratégie du test du périmètre technique,
+Mise en place des tests unitaires,
+Réalisation des études d'impact
+Réactivité aux incidents d'homologation et production,
+Maintenance applicative des solutions existantes,
+Documentation et capitalisation du processus.
+Monter en compétence, accompagnement et intégration des nouveaux membres dans l'équipe du support.
+
+Environnement technique: COBOL, IMS, JCL, MQ SERIES, CFT, XML, JSON, OCAPI, JIRA, SQL DB2, VBA, Oracle, DB Visualiser.
+
+Février 2020--Juin 2022 Développeur expérimenté COBOL (La banque Postale) 2 ans 4 mois.
+
+Mode Projet Agile
+Contexte
+Banque: Modernisation du mainframe et mise en place de ZConnect
+Evolution du Référentiel (mise en place du RCT référentiel client consolidé)
+Service de consultation et MAJ des coordonnées professionnels d'un tiers
+Tâches
+Analyse des besoins métier
+Création des spécifications techniques et fonctionnelles
+Conception des solutions techniques
+Développement et tests
+Recette d'intégration
+Maintenance des applications
+Suivi de la Production
+
+Environnement technique: COBOL, CICS, RTC RPP/RDZ, Oracle, Pacbase, AS400, Java, ZConnect, JCL, HTML5, CSS3, XML, JSON, EGEN, JIRA, SQL DB2, VBA, Postman, DB Visualiser, TortoiseSVN, SoapUI.
+
+Mars 2019-Février 2020 Analyste / Concepteur COBOL - Mainframe (Client LCL) 1 an.
+Contexte
+Mode Projet Cycle en V
+Banque: Refonte de l'application: Gestion des Autorisations Crédit
+Mise en place du RECALL virement instantané
+Projet Relevé Annuel de Frais
+Suivi des contrats crédit
+Projet lutte contre la discrimination IBAN
+Tâches
+Analyse des besoins utilisateurs et MOA
+Elaboration des devis
+Création des spécifications techniques et fonctionnelles
+Conception des solutions techniques
+Maintenance des applications et Assistance MOA
+Suivi de la Production
+
+Environnement technique: NATURAL, COBOL, CICS, MVS, Z/Os, JCL, IMS, SQL DB2, TSO, ISPF, Optim, Eclipse, File-AID.
+
+Juillet 2016--Mars 2019 Ingénieur d'étude et développement COBOL - Mainframe (Client BNP Paribas) 2 an 6 mois.
+Contexte
+Mode TMA Cycle en V
+Banque: Génération des Reporting banque - client privé (Flux MT940-MT942)
+Refonte des applications opposition cheque
+Participation à l'Intégration de la solution Paylib
+Participation à la création de la solution Connexis
+Migration COBOL V4 en V6
+Conversion assembleur en COBOL
+POC de montée en version Z/Os Z14
+Tâches
+Analyse de la demande (RSM-SO).
+Développement du code.
+Test unitaire et rédaction des fiches detest.
+Test d'intégration technique.
+
+Environnement technique: COBOL, MVS, Z/Os, JCL, REXX, VSAM, IMS, DL1, SQL DB2, TSO, ISPF, Endevor, Optim, File-Manager.
+
+Février 2016-Juin 2016 Stage PFE: (Client Carrefour)  6 mois.
+contexte : Intervention sur une TMA évolutive en MVS/COBOL 
+Tâches 
+Correction des dysfonctionnements.
+Analyse des programmes et batchs existants.
+Traitement des incidents N2.
+Analyse des problèmes remontés et prise en charge des correctifs.
+Analyse des demandes client et proposition des solutions fonctionnelles et techniques.
+Réalisation des scripts de mise à jour des tables DB2.
+
+Environnement technique: COBOL, MVS, Z/Os, JCL, VSAM, IMS, SQL DB2, TSO, ISPF, Endevor, Optim, File-Manager.
+
+Compétences Fonctionnelles :
+
+Banque - Assurance: Virements Swift, Flux et moyens de paiement, Epargne, Monétique, Assurance-Crédit, IFRS9, Prêt consommation, LLD, Paylib, Virement instantané.
+Développement informatique: COBOL, JAVA, C#.ASP, NATURAL, CICS,,DB2, RACF, Pacbase, MVS, Z/Os, UNIX/AIX, JCL, REXX, VSAM, IMS, SQL DB2, DL/I, AS400, C++.
+
+Compétences technique: Visual Studio, TSO, ISPF, Endevor, ChangeMan, Rdz, Optim, PowerBuilder, Eclipse, File-AID.
+
+Langues: Français: Bonne maîtrise, Anglais: Bonne maîtrise.
+
+Certifications: TOEIC (Score 910/990), Certificat Scrum Master (SFPC)

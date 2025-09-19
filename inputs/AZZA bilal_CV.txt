@@ -1,0 +1,81 @@
+QA / AUTOMATION ENGINEER
+
+Profil
+
+Ingénieur en Automatisation QA avec environ 6 ans d’expérience en développement logiciel et automatisation de tests pour les systèmes de paiement. Expertise avérée dans la conception de frameworks de tests automatisés en Java, Selenium, Cypress et Playwright pour garantir des versions de haute qualité.
+
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Expended Payment International (XPI)  
+Ingénieur QA | 2022-2025  
+Tâches
+- Élaboration de cahiers des charges et gestion des nouvelles demandes clients.  
+- Tests de charge, endurance et non-régression sur une application pilotant l’impression de cartes bancaires.  
+- Mise en place du plan d’automatisation, définition des processus de travail, sélection et déploiement des outils adaptés (Playwright, Selenium, Cypress), avec intégration dans une approche CI/CD (Jenkins).  
+- Card Management System : Framework E2E Playwright pour valider les parcours de cycle de vie des cartes EMV.  
+- Traitement des dysfonctionnements signalés par les clients et support pour les environnements de production.  
+- Organisation du travail en sprints, amélioration continue, implication forte dans les rituels agiles et la livraison fréquente de valeur.  
+- Instant Card Issuing : Tests fonctionnels automatisés de l’émission de cartes via API REST et middleware XPIService.  
+- Fraud Monitoring : Génération de jeux de données de fraude et automatisation des règles de détection.  
+- Déploiement de la solution Card24 pour plusieurs comptes dans divers pays.  
+- Formation et accompagnement de cinq testeurs juniors, standardisation des bonnes pratiques QA, amélioration de la productivité collective.
+
+Expended Payment International (XPI
+Ingénieur Logiciel Monétique | 2018-2022  
+Tâches
+- Maintenance et développement de modules de paiement pour applications bancaires.  
+- Tests de modules critiques dans le domaine des paiements.  
+- Merchant Management : Suites de tests API avec Postman & Newman pour la configuration POS et le calcul de commissions.  
+- Élaboration et exécution de stratégies de test complètes ayant permis une réduction de 60 % des bugs en production, en collaboration avec les équipes dev et métier.  
+- Contribution aux évolutions techniques et fonctionnelles de la solution Card24.  
+- Switch ISO 8583 : Couverture complète des flux transactionnels (Visa, Mastercard) via simulateur.  
+- Développement de frameworks d’automatisation couvrant les tests UI, API et E2E sur des systèmes complexes (baisse de 70 % de l’effort manuel sur les tests de non-régression).
+
+COMPÉTENCES TECHNIQUES
+
+- Langages & Scripting : Java, JavaScript/TypeScript, Python, Shell, SQL  
+- Automatisation : Selenium, Cypress, Playwright, Newman  
+- CI/CD & Versioning : Jenkins, GitLab CI, GitHub, Git  
+- Tests API : SOAPUI, Postman, Newman  
+- Maîtrise des méthodologies de test : V-Model, Agile Testing, Risk-Based Testing, Behavior-Driven Development (BDD).  
+- Gestion de projet : Jira, Xray, Confluence  
+- Bases de données : Oracle, SQL Server, PostgreSQL, MySQL  
+
+
+COMPÉTENCES Fonctionnelles
+
+- Élaboration de stratégies de test et plan de test.  
+- Connaissance approfondie des types de tests.  
+- Bonnes pratiques de validation et de vérification logicielle.  
+- Mise en place de frameworks d’automatisation robustes et réutilisables.  
+- Conception de cas de test à partir des spécifications fonctionnelles et techniques.
+- Gestion du cycle de vie des tests : planification, conception, exécution, suivi des anomalies, clôture.
+
+MÉTHODOLOGIES
+
+- Agile (Scrum & Kanban)  
+- BDD (Cucumber, Gherkin)
+
+SOFT SKILLS
+
+- Résistance au stress  
+- Esprit d’initiative  
+- Esprit d’équipe  
+- Esprit d’analyse  
+- Curiosité et apprentissage continu  
+- Polyvalence  
+- Adaptabilité  
+- Autonomie  
+- Sens de responsabilité
+
+FORMATIONS
+
+- Master Technologies de L’Internet (Option Génie Logiciel) UNIVERSITÉ DE PAU | 2021  
+- Licence Conception et Réalisation WEB UNIVERSITÉ PARIS 13 | 2019
+
+LANGUES
+
+- Français : Courant  
+- Anglais : Professionnel  
+- Arabe : Professionnel

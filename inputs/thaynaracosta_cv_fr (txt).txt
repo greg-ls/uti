@@ -1,0 +1,49 @@
+Compétences
+Python SQL DataViz VBA Microsoft PowerBI Stata R ArcGIS
+
+Formation
+2024 Université Sorbonne Paris Nord
+Master : Monnaie, Banque, Finance, Assurance - Risque, Assurance, Décision - Mathématiques
+2020 : Universidade Federal Rural de Pernambuco | Recife, Pernambuco, Brésil
+Licence : Economie
+
+CERTIFICATS
+Data Manager
+TCF - Test de Connaissance du Français
+
+Langues
+Portugais : Bilingue
+Anglais : Bilingue
+Français : Bilingue
+
+Expérience
+Cash Management - Account Manager
+10/2024 - 07/2025 BNP Paribas | Paris, France | Intérim
+Mise en œuvre des stratégies d'acquisition
+Gestion du portefeuille clients
+Conseils aux clients sur leurs achats et offres et solutions
+Identification de nouveaux cas potentiels sur les comptes gérés
+Coordination interne avec les experts techniques, juridiques et comptables
+
+Cash Management – Business Analyst
+02/2024 - 08/2024 BNP Paribas | Paris, France | Stage
+Étude des exigences en matière de reporting fonctionnel et de statistiques d'activité pour la division PMD (équipe répondant aux appels d'offres)
+Proposer et mettre en œuvre des KPI basés sur l'application PowerBI, en utilisant des solutions qui illustrent la configuration de la gestion de trésorerie du client
+
+
+04/2023 - 09/2023 Thales | Paris 
+Projet IA Salle des Marchés - Relation Filiales
+Dans le cadre de l'équipe Salles des Marchés - Filiales, la mise en œuvre et le suivi des couvertures de change via Diapason accordées aux filiales du Groupe dans le cadre de leurs activités commerciales
+Participation à des projets transversaux avec l'équipe des Marchés Financiers (déploiement d'outils informatiques, opérations de fusions et acquisitions, etc.)
+Création de tickets JIRA pour résoudre les incidents
+
+08/2020 - 02/2023 : Safran
+
+Support niveau 1 sur ERP SAP
+- Support fonctionnel aux utilisateurs sur différents périmètres : finance, achats, planification ou exécution
+- Rédaction et mise à jour d'une base de connaissances et de procédures
+
+
+12/2018 - 12/2019 : Département Economique Banque Centrale du Brésil | Recife, Brésil | Stage
+Extraction, ajustement saisonnier et analyse des séries temporelles
+La préparation de l'Indice Économique (et de son rapport) calculé par le Département (IBCR)

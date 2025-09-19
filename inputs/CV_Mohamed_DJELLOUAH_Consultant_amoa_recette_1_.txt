@@ -1,0 +1,263 @@
+DOSSIER DE COMPETENCES
+CONSULTANT AMOA / QA ASSURANCE
+SYNTHESE
+CONSULTANT AMOA / QA ASSURANCE
+
+
+
+COMPETENCES FONCTIONNELLES
+ANALYSE DU BESOIN ET/OU ETUDES DES SPECIFICATIONS FONCTIONNELLES ET DES USERS STORIE
+PARTICIPATION A LA STRATEGIE DE RECETTE
+ORGANISATION DES CAMPAGNES DE TESTS
+CONCEPTION DES CAS DE TESTS
+PREPARATIODES JDD ET DES SCENARIOS DE TEST
+EXECUTION DES CAS DE TESTS
+DECLARATION, SUIVI ET GESTION DES ANOMALIES ET DES CORRECTIFS
+GESTION ET SUIVI DES INCIDENTS DE PRODUCTION
+COORDINATION AVEC LES EQUIPES PROJET
+PARTICIPATION AUX DIFFERENTES REUNIONS (FONCTIONNELLES, SUIVIS, COMITES)
+PARTICIPATION AUX DIFFERENTS RITUELS AGILES (PRESENTATION ET ESTIMATION, DAILY, DEMO ET RETRO)
+REDACTION DE PV /BILAN DE RECETTE
+REPORTING ET RAPPORT D’AVENCEMENT
+SUPPORT UTILISATEUR (FORMATION ET ASSISTANCE AUX UTILISATEURS )
+
+SECTEURS D’ACTIVITES ET METIER :
+ASSURANCE SANTE : REGIME OBLIGATOIRE ET COMPLEMENTAIRE, PRESTATIONS, NOEMIE, FLUX D’ECHANGE, CONTRATS, ADHESION ET GARANTIES
+ASSURANCE VIE : EPARGNE, PREVOYANCE, RETRATE
+
+COMPETENCES TECHNIQUES
+LANGAGES : SQL
+SGBD/R : SQL SERVER, ORACLE, POSTGRESQL
+METHODE : AGILE, SCRUM, CYCLE EN V
+OUTILS : JIRA,X ,CONFLUENCE,HP ALM QC,SQUASH,POSTGREE,SOAP UI, FILEZILLA, SQL,XML, PACK OFFICE, WINDOWS
+APPLICATION : GRAPH TALK/CAP SANTE/ORPER/NOEMIE/SYLVIA
+
+
+
+REFERENCES CLIENTS
+MGEN
+SPIRICA
+SYNTHESE
+AVIVA VIE
+APICIL
+
+
+
+ATOUTS MAJEURS
+PASSIONNEE PAR LES NOUVELLES TECHNOLOGIES
+RESPONSABLES, ORGANISE ET AUTONOME ET ESPRIT D’INITIATIVE
+CAPACITES D’INVESTIGATION, D’ANALYSE ET DE SYNTHESE
+PARTAGE DE SAVOIR-FAIRE ET ELABORATION DES BONNES PRATIQUES DE TEST
+EXCELLENT RELATIONNEL ET EXCELLENTE COMMUNICATION, CAPACITE A S’ADAPTER RAPIDEMENT A DE NOUVEAUX ENVIRONNEMENTS TANT SUR LE PLAN HUMAIN QUE TECHNIQUE
+
+
+
+DIPLOMES
+2017 : MANAGEMENT ET ORGANISATION MODERNE DES ENTREPRISES
+
+
+
+CERTIFICATIONS / FORMATIONS
+2021 : CERTIFICATION ISTQB, NIVEAU FOUNDATION
+2018 : FORMATION EN DEMARCHE PROJECT INFORMATIQUE ET TEST LOGICAL
+
+
+
+CONSULTANT AMOA RECETTE/QA ASSURANCE
+MGEN
+Première mutuelle de santé en France
+
+FONCTION :
+Consultant Recette Fonctionnelle
+
+PROJET :
+Maintenance évolutive et corrective du système de gestion des contrats Assurance Santé : ORPER (Santé Référentiels, Offres et Personnes)
+Maintenance évolutive et corrective du système de gestion des contrats Noémie (Flux population et acquittement)
+Mise en place d’une solution pour la gestion et le suivis des Flux d’échanges Noémie (NORME NOEMIE -FLUX POPILATIONS, Solution ARL 935).
+
+Tâches :
+Etude de l’existant ORPER
+Implémentation et mise à jour des dossiers de cadrage
+Participation aux ateliers de recueil du besoin
+Participation à la mise à jour des spécifications fonctionnelles générales
+Analyse des spécifications fonctionnelles détaillées
+Participation à l’élaboration de la stratégie de recette PRPER/NOEMIE / KPEP
+Conception et préparation des flux avec des données réels
+Conception des tests pour le passage des traitements
+Rédaction des plans de test
+Sélection d’un jeu de données approprié
+Elaboration de scénarios
+Exécution des cas de test
+Réalisation des tests avec alimentation des batchs pour les flux populations
+Déclaration et suivi des anomalies (JIRA/ ALM QC )
+Tests de non régression
+Validation des corrections et clôture des anomalies
+Réunions de suivi et mise en place de reporting
+Rédaction du PV et bilan de recette
+Participation et validation des mises en production
+Gestion d’incidents de production et test et validation des correctifs
+Support et formation des utilisateurs
+
+PROJET 2
+Mise en place d’une solution d’envoi d’éditique KPEP
+  Test Web Service
+  Génération et validation des modèles
+
+CONSULTANT AMOA RECETTE/QA ASSURANCE
+
+Tâches :
+Analyse et étude des spécifications fonctionnelles détaillées
+Rédaction des cas de test
+Déroulement des scénarios
+Test des Web services sous SoapUI
+Suivi des anomalies
+Reporting
+Rédaction de PV et bilan de recette
+
+DUREE :
+De janvier 2022 à ce jour (3 ans )
+
+ENVIRONNEMENT FONCTIONNEL :
+ASSURANCE SANTE : REGIME OBLIGATOIRE ET COMPLIMENTAIRE, PRESTATION, ADHESION, NORME ET FLUX
+
+ENVIRONNEMENT TECHNIQUE :
+WINDOWS 10, JIRA/CONFLUENCE, XRAY, CLEVA, HP ALM QC, SOAPUI, FILEZILLA, POSTMAN, SQL, POSTGREE
+
+
+
+CONSULTANT AMOA RECETTE/QA ASSURANCE
+SPIRICA
+filiale du Crédit Agricole Assurances, est spécialisée dans la conception et la gestion de solutions d’assurance vie innovantes et sur mesure
+
+FONCTION :
+Consultant AMOA et Recette
+
+PROJET :
+Evolutions fonctionnelles du système de gestion des contrats Assurance VIE (SYLVEA -VIE )
+ASSURANCE VIE, EPARGNE, PREVOYANCE, RETRAITE, CAPITAL
+
+CONSULTANT AMOA RECETTE/QA ASSURANCE
+
+TRAVAUX/TACHES :
+Au sein d’une équipe de 5 personnes responsable de la recette fonctionnelle et de la production de l’outil en charge de la gestion des contrats de la souscription jusqu’à l’indemnisation :
+  1 - Souscription (création des affaires nouvelles, souscription individuelle ou collective, clause bénéficiaire)
+  2 - Versements (initial, libres ou programmés sur les comptes : euro /unités de compte)
+  3 - Arbitrages (libre, automatique « stop loss, investissement progressif »)
+  4 - Rachats (total, partiel, programmé, rente)
+
+Recette Fonctionnelle Applicative :
+Analyse des spécifications fonctionnelles générale et détaillées
+Stratégie de tests
+Participation aux différentes réunions (fonctionnelles, suivis, comités anomalies)
+Conception des plans de tests
+Préparation des scénarios et les jeux de données nécessaires.
+Enrichissement des cahiers de recette pour améliorer l’efficacité et la couverture des tests
+Rédaction et conception des cas de test nécessaires
+Déroulement des plans de test
+Test fonctionnels, d’exploitabilité de système de gestion des contrats.
+Déclaration, gestion et suivi des anomalies
+Tests de non régression
+Homologation et mise en production
+Rédaction des PV et bilan de recette sur la version.
+Reporting (conception, exécution et anomalies)
+Support utilisateur 1/2 : formation assistance aux utilisateur
+
+Support1/2 et exploitation :
+Support et exploitation des applications métier (SYLVEA V15.5 OGDP, TRAC SYLVEA, CALEO Niveau 1/2) :
+Vérification du bon déroulement des traitements « Batchs » quotidiens et des sauvegardes des machines
+Assurer les demandes d’intervention en production (traitement des bugs et des anomalies)
+Support utilisateurs : assurer les demandes d’intervention en production et de gérer les communications auprès des différents utilisateurs via CALEO.
+Enrichissement de la base de connaissances du Support métier
+Assistances aux utilisateurs et préparation des sessions et Pol formation utilisateur en cas de la non compréhension des applications métier).
+
+CONSULTANT AMOA RECETTE/QA ASSURANCE
+Prise en charge des bugs et traitement des anomalies sur l’environnement de production et rédaction des fiches d’anomalies
+Rédaction de spécifications sur des bugs récurrents
+Proposition des évolutions / améliorations en vue d’optimiser les tâches de Support
+Amélioration de la documentation et optimisation des tâches d’exploitation
+
+DUREE :
+De juillet 2020 à décembre 2021 (1 an et 6 mois)
+
+ENVIRONNEMENT FONCTIONNEL / METIER :
+ASSURANCE VIE, EPARGNE, PREVOYANCE, RETRAITE
+
+ENVIRONNEMENT TECHNIQUE :
+SQUASH, JIRA CONFLUENCE, CALEO, OGDP, SYLVEA, TRAC SYLVEA, FILEZILLA, SOAPUI, SUITE MICROSOFT
+
+
+
+CONSULTANT AMOA RECETTE/QA ASSURANCE
+AVIVA VIE
+Groupe d'assurance présent dans 14 pays dans le monde et l'un des plus importants au Royaume-Uni
+
+FONCTION :
+Consultant AMOA et Recette
+
+PROJET :
+Evolutions fonctionnelles du système de gestion des contrats : Assurance vie (GRAPH TALK AIA)
+Dans le cadre de la mise en place du prélèvement à la source, recette fonctionnelle de l’ensemble des étapes des contrats assurance vie : de la souscription, à l’arbitrage, puis aux versements jusqu’au rachat de capital et la capitalisation
+  1 - Souscription (adhésion, souscription individuelle ou collective, clause bénéficiaire)
+  2 - Versements (initial, libres ou programmés)
+  3 - Arbitrages (libre, automatique « stop loss, investissement progressif)
+  4 - Rachats (total, partiel, programmé, rente)
+
+TRAVAUX/TACHES :
+Analyse approfondie des spécifications fonctionnelles détaillées
+Participation à la rédaction de la stratégie de tests
+Rédaction et saisie du plan de tests
+  Préparation de l’environnement de tests
+  Sélection d’un jeu de données approprié
+  Elaboration de scénarios
+Déroulement de plans de tests
+  Réalisation des tests de non régression
+  Réalisation des tests de masse
+Gestion et suivi des anomalies
+Validation des corrections
+Réunions de suivi et mise en place de reporting
+Rédaction du PV de recette
+Support et formation des utilisateurs
+
+DUREE :
+De février 2019 à juin 2020 (1 an et 5 mois)
+
+ENVIRONNEMENT FONCTIONNEL / METIER :
+ASSURANCE VIE, EPARGNE, PREVOYANCE
+
+ENVIRONNEMENT TECHNIQUE :
+JIRA/CONFLEANCE HP ALM QC, GRAPHTALK, SQL, SHELL, ORACLE, FILEZILLA, SOAPUI
+
+
+
+CONSULTANT AMOA RECETTE/QA ASSURANCE
+APICIL
+Groupe français de protection sociale complémentaire
+
+FONCTION :
+Consultant AMOA et Recette
+
+PROJET :
+Maintenance évolutive et corrective d’une application de gestion des prestations pour la complémentaire Santé (CAP SANTE )
+1 – Adhésion /contrats et (souscriptions simples et standards)
+2 - Garanties /droits et tiers payant
+3 - Noemisation (Normes, flux, solutions)
+4 - Liquidations et prestations
+
+TRAVAUX/TACHES :
+Analyse des US, estimation des deadline
+Participation aux séances de présentation et d’estimation
+Rédaction des cas de test pour les US du sprint sous Test Plan d’ALM QC
+Exécution des cas de test sous Test Lab d’ALM QC
+Coordination avec les équipes de développement
+Rédaction du PV de recette
+Participation aux différentes réunions
+  Stand up meeting, Démo, Réunion rétrospective
+
+DUREE :
+De juillet 2017 à janvier 2019 (1 ans et 7 mois)
+
+ENVIRONNEMENT FONCTIONNEL/ METIER :
+ASSURANCE SANTE, REGIME COMPLEMENTAIRE, PRESTATIONS ET LIQUIDATION
+
+ENVIRONNEMENT TECHNIQUE :
+HP QUALITY CENTER, ORACLE 10G, SOAPUI, PUTTY, PACK OFFICE, SQL SERVER POSTGRESQL

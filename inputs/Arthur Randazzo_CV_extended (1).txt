@@ -1,0 +1,94 @@
+contact Arthur RANDAZZO arthur.randazzo@gmail.com +33 6 67 11 92 57
+LinkedIn
+
+Consultant en projets digitaux 8 années d’expérience Consultant SI spécialisé en gestion de projets agiles. Mes compétences en coordination d'équipes multidisciplinaires et ma capacité d'adaptation m'ont permis de gérer efficacement des projets complexes.
+Proactif et rigoureux, je m'engage dans une démarche d'amélioration continue et d'innovation pour optimiser les processus et les résultats.
+
+expérience
+Project Manager - KERING
+Décembre 2024 - En cour›
++ Refonte et optimisation des processus de gestion budgétaire pour le département juridique EMEA´
++ Conception de tableaux de bord Power BI interactifs afin de promouvoir une prise de décision data-driven´
++ Optimisation des processus internes (Privacy, Legal Tech...) et mise en œuvre de KPIs´
++ Automatisation de la génération de fiches de poste via Power BI, Power Automate et LLM´
++ Création d'une application No Code pour mettre à jour le référentiel collaborateurs´
++ Conduite du changement afin de maximiser l’adoption des nouveaux outils dans différentes entités du département.
+Environnement technique : Power BI, Power Automate, PowerApps, Sharepoint, Monday
+
+Formateur interne en Agilité - mc2i
+Septembre 2023 - Août 202Œ
++ Formation des collaborateurs au passage de certifications PSPO I et PSM II
+
+Product Owner API/Data- GRDF - Projet MADT
+Juillet 2023 - Août 2024
+Product ownership d’une application de collecte et de diffusion à l’externe des données de gaz par API. Environnement complexe et forte visibilité de l’application à l’externe. Enjeux de gouvernance des données´
++ Analyse et rétro-documentation de l'existan#
++ Conception et implémentation de l'évolution Biométhane permettant de mettre à disposition les données d'injection (plus de 500 sites de méthanisation raccordés au réseau,
++ Implémentation de l'évolution ADEC permettant la gestion des entités morale›
++ Conception de l'évolution permettant la mise à disposition des données de consommations horaire›
++ Organisation et suivi des livraisons applicative›
++ Élaboration de la stratégie, rédaction et supervision des campagnes de tests de performancI
++ Élaboration de la stratégie d'automatisation des tests et rédaction des scénarios pour la gestion des TN@
++ Remontée et suivi des incidents de production
+Environnement technique : JIRA, Postman, ELK, API Management, Kafka, FileZilla, Squash, DataGrip (NoSQL), SQL Developer
+
+Product Owner - ENEDIS - Refonte du portail Distributeur
+Juillet 2020 - Juillet 2023
+Product Ownership en SAFe d'une application depuis la phase de discovery jusqu'à la mise en service du MVP. Environnement complexe et forte visibilité de l’application à l’externe. Collecte et analyse des besoins µ
++ Organisation et animation d'ateliers de recueil des besoins avec les parties prenantes clé›
++ Réalisation d'interviews approfondies avec les utilisateurs finauf
++ Analyse détaillée des processus existants pour identifier les opportunités d'amélioration Conception des fonctionnalités en environnement SAFE (cid:16)
++ Création de user stories détaillées et de cas d'utilisation pour guider l'équipe de développemen#
++ Priorisation d'un backlog produit structuré dans Jira, facilitant la planification et le suivi des développement›
++ Conception des écrans via Figma afin de faciliter le travail de développemen#
++ Participation aux PI Planning et collaboration étroite avec les applications partenaires en écosystème complexe Elaboration et mise en œuvre de la conduite du changement µ
++ Présentations régulières aux business owners et utilisateurs clé›
++ Sessions interactives avec les utilisateurs finaux internes et externes pour faciliter l'adoption des nouvelles fonctionnalité›
++ Collaboration étroite avec les business owners et relations fournisseurs dans la stratégie de communication externe
+Environnement technique : JIRA, Xray, Kafka, Figma, PowerPoint, PostgreSQL
+
+expérience (suite)
+Business Analyst - ENEDIS - Refonte du portail Distributeur
+Mars 2020 - Juillet 202(cid:19)
+X Recueil des besoins : Animation d'ateliers et interviews pour collecter les besoins fonctionnels et techniques auprès des parties prenantes, assurant une compréhension précise des exigences métierk
+X Analyse de l'existant : Étude approfondie des systèmes en place, identification des points de friction et des opportunités d'amélioration pour la refonte du systèmek
+X Cadrage des fonctionnalités : Rédaction du cadrage fonctionnel, spécifications détaillées et cas d’utilisation pour aligner les équipes sur les priorités et les objectifs du projetk
+X Gestion de la phase de discovery : Coordination de la phase de découverte pour évaluer la faisabilité des fonctionnalités et valider les solutions avec les parties prenantes.
+
+Product Owner - ENEDIS - Projet GRAM
+Février 2018 - Février 202(cid:19)
+X Pilotage du cycle de vie : Gestion complète du cycle de vie de l’application, de la phase de discovery à celle de delivery des fonctionnalitésk
+X Cadrage et spécifications fonctionnelles : Rédaction des user stories et des critères d’acceptation pour aligner les développement avec les besoins métieB
+X Gestion du backlog produit : Priorisation du backlog en collaboration avec les parties prenantes et les équipes, en mettant l’accent sur la valeur métier et les délais de livraiso
+X Automatisation et intégration : Conception et mise en œuvre d’une API pour l'intégration des données, optimisant ainsi le processus en réduisant de 3 jours à 10 secondes le temps de traitement, et éliminant les tâches manuellesk
+X Appui à la conduite du changement (+200 utilisateurs sur l’ensemble du territoire)
+
+Consultant AMOA - ENEDIS - Projet Ginko
+Août 2017 - Février 201(cid:7)
+X Support utilisateur de niveau 3 : Fourniture d'un support technique de dernier niveau pour résoudre les incidents complexes rencontrés par les utilisateurs de l'application de gestion des compteurs intelligentsk
+X Analyse et résolution des incidents : Identification des causes profondes des incidents, coordination avec les équipes techniques pour leur résolution, et mise en place de solutions permanentes pour éviter leur récurrencek
+X Suivi de la volumétrie des incidents : Suivi des incidents signalés, gestion des priorités en fonction de leur impact sur les utilisateurs et les opérations, et communication régulière sur l'état des résolutions.
+
+Chargé de projet international - Financement AFD
+Mai 2015 - Juillet 2016
+Appui à la gestion d’un projet de production de biométhane par gazéification de déchets agricoles:d
+X Élaboration d’une étude de coût de revien(cid:141)
+X Suivi et reporting des activité(cid:144)
+X Facilitation de la communication interne
+
+Compétences clé=
+X Stratégie et gestion de produit (Product Ownership\
+X Gestion de projets agiles (Scrum, SAFe\
+X Connaissance du secteur de l’énergie et maîtrise de ses enjeuQ
+X Parcours utilisateur (User Journey\
+X Business Intelligence (Power BI, Power Automate, PowerApps\
+X Gestion de données et APK
+X Conception de maquettes d’écran(cid:144)
+X Gestion du changemen(cid:141)
+X Formation et coaching agily
+X Communication et vulgarisation
+
+fORMATION
+Université Paris Dauphine 2017
+Master Affaires Internationales et Développement Parcours Développement Durable et Responsabilité des Organisations
+certifications

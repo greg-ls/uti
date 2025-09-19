@@ -1,0 +1,160 @@
+FTA Consultante BI SAS certifiée SAS Base
+Experience : 16 ans
+Skills Murex
+SAS 9.2
+Excel
+VBA
+AMADEA
+Skills
+Dataiku
+SQL
+
+COMPETENCES
+Domaines d’intervention
+ Banque de Détail
+ Direction commerciale
+ Assurance
+Compétences métiers
+ Rédaction de spécifications techniques et fonctionnelles
+ Conduite du changement
+ Analyses statistiques
+ Participation à la conception de solutions techniques
+Compétences techniques
+ Développement SAS 9.2 (Confirmée)
+ SAS 9.2 ( Base, Macro, STAT, SAS Enterprise Guide) (Niveau confirmé)
+ Excel (Maîtrise)
+ VBA (Niveau débutant)
+ AMADEA
+ Dataiku
+ SQL
+
+ETUDES ET FORMATIONS
+2011 : Formation et Certification en SAS 9.2
+2009 : Master 2 Actuariat et Ingénierie Mathématique en Assurance et Finance
+2008 : Probabilités et Statistiques
+2007 : Mathématiques Appliquées Informatique et Finance
+
+LANGUES
+Français
+Anglais moyen
+Spanish (Elementary)
+
+Expériences clés:
+Mars 2013 - Août 2013 GROUPAMA GAN VIE Consultante BI SAS
+Août 2013 - Janvier 2015 NATIXIS PAIEMENT MOE-AMOA service LCLF
+Janvier 2015 - Février 2017 BNP PARIBAS BDDF DAC Consultante BI SAS
+De février 2021 à juin 2024 BNP BCEF Consultante DATAANALYST
+
+De février 2021 à juin 2024
+BNP BCEF,
+Cadre de mission: CONSULTANTE DATA ANALYST
+Contexte : Au sein de Monitoring et Reporting (Équipe Data et Outils commerciaux ):
+Responsabilités:
+ Mise en place d’indicateurs à destination des réseaux d'agences et des équipes (SAS,SQLA,Dataiku)
+ Réponse aux demandes ponctuelles du métier à travers des comptages et/ou des listes (SAS, SQLA)
+ Traiitement de fichiers de données de vente remontée par les différents fournisseurs de données et alimentation des bases de données Simpa
+ Analyse et correction des différentes anomalies remontées par le métier
+ Migration des programmes SAS de traitements des données et créations d’indicateurs existants vers l'outil Dataiku
+ Migration de programme SAS vers SAS SERVEUR
+ Documentation des programmes SAS et Dataiku et rédaction de document méthodologique
+
+Juillet 2017 à décembre 2020
+SGSS/TTD/CLI : Entité Transformation & Technology Delivery/ Organisation Client
+Contexte : Projet de mise en œuvre de plusieurs évolutions du socle technique et fonctionnel du service IT de la facturation de la SGSS
+Responsabilités:
+ Identification et recueil des différents besoins du métier pour contribuer aux différents projets/évolutions demandés
+ Analyse et identification des impacts techniques des évolutions et correctifs de bug
+ Développement et automatisation des Macros de traitement et d’analyse des données du référentiel, des transactions R/L et des assetsdestinées à alimenter le Datawharehouse DAMAS (MYSQL) autour des techniques SAS et SQL
+ Pilotage du suivi et résolution des problèmes de production rencontrés sur les applications du périmètre Invoicing
+ Assurance de la cohérence des données issues des flux en entrée/sortie du Datawarehouse
+ L’automatisation du support et l’évolution applicative du parc applicatif du SI facturation de SGSS
+ Produire les livrables attendus : Documents de Suivi de projet: Macro-chiffrage / Planning
+ Documentation technique et fonctionnelle sur les différents processus et projets effectués
+Environnement techniques : SAS, SQL (Mysql)
+
+Janvier 2015 - Février 2017
+BNP PARIBAS BDDF DAC (Direction Animation Commerciale) Consultante BI SAS
+Cadre de mission: CONSULTANTE BI SAS
+Contexte : Projet de mise en place et migrations des Reportingspour le compte de la DAC (Direction animation commerciale) de la BDDF pour le suivi des actions commerciales, structurelles, commissionnements et d’animations des produits de la banque de détail
+Responsabilités:
+ Réalisation des Reportings: automatisation sous SAS des tableaux de bords, reportings de suivi, calculs de primes, synthèses, ...
+ Maintenance évolutive des reportings : évolution des règles de gestion, ajout de nouveaux indicateurs clés de performance, optimisation de la performance des programmes en terme de CPU
+ Mise en place de requêtes SQL, interrogation des données sous Teradata et création de Datamart
+ Traitement des données sous SAS : Agrégation des données, calcul de statistiques par niveau de structure
+ Production (quotidienne, hebdomadaire, mensuel, trimestriel, quadrimestriel) des reportings : validation des chiffres par les animateurs, publication des Reportings et mise à disposition auprès des 10 000 conseillers de la BNP, des agences, des entités et des groupes
+ Production et maintenance de reportings développés sous Access.
+Environnement techniques : SAS, SQL Teradata
+
+Août 2013 - Janvier 2015
+NATIXIS PAIEMENT
+Cadre de mission: MOE-AMOA SERVICE LCLF (LUTTE CONTRE LA FRAUDE)
+Contexte : Au sein de l'équipe LCLF à la carte bancaire de la direction Risk & Management, mise en place des méthodes d'analyses des transactions frauduleuses et des stratégies pour une couverture maximale de la fraude par zone, type de paiement et autres critères.
+Responsabilités:
+ Etude macro de l’existant (outils internes à Natixis PRM et PRISME)
+ Exploration des données d’autorisation, de transactions frauduleuses via le logiciel AMADEA
+ Etablir une Cartographie de la fraude
+ Dégager des scenarii de fraude à partir des critères pouvant qualifier une transaction par carte bancaire
+ Segmentation des données pour identifier des similarités entre individus (transactions, commerçants, …).
+ Développement de nouveaux modules (VBA) d’une application Access permettant de traiter des données et d’envoyer des mails automatiquement
+Environnement techniques : AMADEA, SQL, VBA
+
+Mars 2013 - Août 2013
+GROUPAMA GAN VIE
+Cadre de mission: CONSULTANTE BI SAS
+Contexte : Dans le cadre d’un projet visant à apporter des évolutions sur le référentiel et l’Outil (Excel) « Etats Clients », la mission consistait entre autres à la validation avec la MOA des spécifications détaillées, au développement des requêtes et à la correction suite à la recette fonctionnelle
+Responsabilités:
+ Migration de bases de données vers Oracle
+ Suivi et validation de l’Expression de Besoin Utilisateur (Spécifications Fonctionnelles Détaillées)
+ Apporter les modifications sur les requêtes actuelles de génération et sur la structure du référentiel
+ Correction sur le calcul des Provisions et des prestations versées pour les comptes de résultats techniques par type de risque
+ Réaliser les prototypes et suivre les retours (en corrigeant les anomalies et en suivant l’avancement de la recette)
+ Mise en place d’un processus de détection des mouvements su les contrats des assurés de la mutuelle GAN
+ Mise en place de règles de détection des écarts enregistrés par les gestionnaires entre deux mises à jour de la base de données des assurés de la MUTGAN.
+Environnement techniques : SAS, SQL
+
+Juillet 2012 - Janvier 2013
+SFR/SYNERAIL CONSTRUCTION
+Cadre de mission : AMOA - MOE VBA SQL
+Contexte : La mission consistait en la mise en place d'une application sous VBA/Access permettant d’automatiser les procédures d’extraction, d’insertion et de restitution de données sous ORACLE
+Responsabilités:
+ Recueil d’informations et pré-positionnement de fichiers sources par les différents métiers,
+ Extraction depuis Oracle de données à restituer suivant différents formats de sortie,
+ Mise en place de l’outil et développement des différents modules permettant : l’automatisation des tâches (Insertions dans les bases, extractions de données), de générer des formulaires de consultation, de produire l’ensemble des documents nécessaires à l’établissement des fichiers de validation et d’injection pour l’équipe Ingénierie Radio
+ Mise en place de tests de cohérence et remontées des incohérences sur les données des différentes bases
+ Développement de macros sous Excel pour faciliter la consultation des données après restitution.
+Environnement techniques : VBA, SQL
+
+Juin 2011 - Juillet 2012
+BANQUE POSTALE CNM (Centre National de la Monétique)
+Cadre de mission: CONSULTANTE BI SAS
+Contexte : Projet de refonte du processus LCLF (Lutte Contre La Fraude) Monétique Emetteur
+Responsabilités:
+ Etude macro de l’existant (moyens humains, outil SAS, outils de détection, circuits, liens avec SAS)
+ Traitements statistiques via SAS des données d’autorisation, de transactions frauduleuses (compensation) et activité saine.
+ Synthèse détaillée de la fraude, analyse de l’évolution et des scénarii associés
+ Etude comportementale pour identifier des tendances et modes opératoires
+ Traitement des scores externes et implémentation des filtres internes déterminés via le logiciel SAS
+ Tableau de bord permettant de suivre l’efficience du dispositif (Suivi de fraude évitée grâce aux filtres de prévention, pertinence et performance des règles et filtres)
+Environnement techniques : SAS Base, SAS Macro, SAS Enterprise Guide
+
+Septembre 2010 - Novembre 2010
+DAF EISMV
+Cadre de mission: MOE SAS VBA
+Contexte : Au sein d’une équipe de 8 personnes, la mission consistait au développement de nouveaux modules sur l’outil Access permettant de produire l’ensemble des tableaux de bord nécessaires à l’établissement des documents de suivi : Rapport d’activité annuel, Comptes statistiques trimestriels et Tableaux de bord mensuels
+Responsabilités:
+ Programmation de procédures d’extraction de données de diverses sources (fichiers Excel, oracle, SAS)
+ Développement de macros pour réaliser et l’édition de tableaux de bord
+Environnement techniques : SAS, SQL, VBA
+
+Juin 2009 - Juillet 2010
+GfK RETAIL & TECHNOLOGY
+Cadre de mission: MOE
+Contexte : Assistante Encodex/chargée d’études des sinistres et des risques (IARD) au sein d’une équipe de 7 personnes.
+Responsabilités:
+ Etudes des dossiers de sinistres pour le compte de Groupama et Gan assurance
+ Etudes comparatives pour optimiser les remboursements et minimiser les risques
+ Interrogations des bases de données pour recueillir les informations techniques
+ Développement des programmes pour automatiser les traitements
+ Extraction des données relatives aux assureurs et aux biens sinistrés pour réaliser les études statistiques et créer des tables (Macro SAS)
+ Réalisation pour chaque client d’une étude statistique sur les sinistres afin de prévoir la saisonnalité en assurance IARD (Macro SAS)
+Environnement techniques : EXcel, Mysql, SAS (Base)

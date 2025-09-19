@@ -1,0 +1,76 @@
+ Ingenieur Deploiement
+GIT, Gitlab, SQL, PLSQL, Siebel, PHP
+
+ diplomes
+2018- Master Systemes, reseaux et infrastructures virtuelles a l’universite Claude Bernard Lyon 1
+
+ Competences Techniques
+Systemes: Windows, Linux (RedHat, CentOS, Debian)
+Langages: Shell, PowerShell, SQL, PLSQL, Siebel, PHP
+Base de Donnees: PostgreSQL, MySQL, SQL Server
+Outils de Tests: Postman
+Virtualisation: VMware, Hyper-V
+Outils: Kubernetes, Ansible, Jenkins, Terraform, GitLab-CI, SonarQube, Docker
+Versioning: Git
+Gestion de projet: SCRUM, Cycle en V
+
+ Langue
+ Anglais professionnel
+
+ Experiences Professionnelles
+ MAIF Depuis 05/2022
+Poste: Ingenieur Deploiement
+Realisations:
+ Configuration de Nginx comme serveur web pour heberger des sites web et des applications.
+ Garantie du maintien en condition operationnelle (MCO).
+ Redaction des scripts Shell pour automatiser des taches recurrentes.
+ Automatisation des taches avec Ansible pour la configuration systeme.
+ Ecriture de scripts SQL pour la creation et modification des schemas de base de donnees versionnes.
+ Developpement de procedures stockees PL/SQL avec gestion fine des versions.
+ Organisation des scripts PHP en modules versionnes (Git).
+ Automatisation des tests unitaires PHP avec PHPUnit pour chaque version.
+ Mise en place de scripts de deploiment SQL/PLSQL
+ Utilisation de Git pour versionner le code source PHP et les scripts SQL/PLSQL.
+ Creation de scripts de rollback pour annuler les deploiements SQL/PLSQL si besoin.
+ Mise en place d’un monitoring post-deploiement avec scripts SQL de controle des
+ Deploiement continu des versions PHP via GitLab CI/CD.
+ Integration des scripts PHP de securite (sanitization, token auth) versionnes par release.
+ Migration controlee de donnees via scripts SQL versionnes.
+ Validation manuelle des requetes SQL et procedures PL/SQL avant passage en recette.
+ Automatisation du packaging PHP pour transfert vers les environnements cibles.
+ Documentation des objets de base de donnees associes a chaque version via SQL Developer
+ Performances. Developpement de scripts Ansible pour la configuration automatisee des serveurs.
+ Developpement de pipelines CI/CD avec GitLab CI.
+ Deploiement et gestion des clusters Kubernetes pour l'orchestration de conteneurs.
+ Gestion des conteneurs Docker avec Kubernetes.
+ Ordonnancement des jobs avec Opcon
+ Creation de tableaux de bord Splunk pour la surveillance en temps reel.
+ Supervision des incidents de niveau N2 et N3.
+ Utilisation de Jira pour la gestion des rapports d'incidents.
+ Maintien en conditions operationnelles
+Environnement technique:
+Linux, Windows, GitLab CI, Terraform, SonarQube, Docker, Kubernetes, Ansible, Opcon., Agile (Scrum), Jira
+
+LeClerc 05/2019 – 04/2022
+Poste: Ingenieur Deploiement
+Realisations:
+ Garantir le maintien en condition operationnelle (MCO) des environnements de production
+ Creation des images docker via Dockerfile
+ Deploiement des images Docker avec Kubernetes
+ Creation des Pipelines d’automatisation des etapes de build, test et deploiment
+ Automatisation les taches de deploiment et de gestion.
+ Export des objets Siebel modifies vers des fichiers
+ Versionning dans un outil Git des objets Siebel
+ Validation des modifications en environnement de developpement avant migration.
+ Utilisation de Siebel Migration Application pour creer et executer des packages de migration.
+ Gerer les versions d’objets Siebel via Siebel Tools
+ Developpement et maintenances de script Java/Spring Boot
+ Versionning code avec Git/GitHub
+ Automatiser les deploiements via Siebel Migration Application
+ Deploiement et orchestration avec Kubernetes
+ Integration continue avec Jenkins
+ Scripting Shell pour l’automatisation des taches
+ Gestion et resolution d’incidents de niveaux 2
+ Redaction des documents techniques
+Environnement technique:
+Windows, Linux, Shell, Siebel, JavaScript, Java, Docker, Kubernetes, Gitlab, Shell, SQL, Jenkins, Git, GitHub

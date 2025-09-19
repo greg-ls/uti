@@ -1,0 +1,148 @@
+REF: UTIGROUP_XXX
+
+Chefferie de projet
+Expert Méthodes et Outils
+
+Ingénieur système avec 20 ans d’expérience, développeur polyvalent capable de créer des solutions sur mesure, suivant les exigences techniques et les problématiques métier de projets en milieu contraint (secteur militaire, aéronautique et spatial …).
+Chef de projet confirmé ayant piloté avec succès des migrations techniques complexes, des déploiements d'outils collaboratifs et la mise en place de méthodologies (DevSecOps...).
+Actuellement responsable d’un lab IA, qui intègre l’IA dans les processus métiers et développe des outils GenAI.
+Expert reconnu en gestion des exigences avec une maîtrise approfondie de DOORS et le développement d'outils personnalisés pour optimiser les processus d'ingénierie.
+
+COMPETENCES TECHNIQUES
+Langages & Technologies :
+Langages : Python, DXL, C, C++, Java, VBA, VB, JavaScript, HTML, SQL, C/AL, LTR3.
+Développement & Architecture : back-end, outils d’ingénierie, automatisations, applications temps réel, microservices, agents IA (RAG/CAG) et workflows automatisés.
+Frameworks : Flask, FastAPI, Streamlit, Spring.
+Bases de données :
+PostgreSQL, SQLite, ChromaDB, MySQL, MongoDB, MS Access.
+Outils :
+DOORS, Jira, Reqtify, CM Synergy, Understand for C, MS Project, Office 365, n8n.#DevSecOps / CI/CD : GitLab, Git, Jenkins, Docker, Kubernetes.
+IA & Innovation :
+Conception et intégration d’agents IA (RAG/CAG), analyse de code, automatisation de workflows (n8n).
+Veille technologique IA : API, modèles LLM, bonnes pratiques.
+Ingénierie système & Safety :
+Développement d’outils de test, qualification et validation, gestion des exigences.
+Conformité aux normes DO178, Safety.
+
+COMPETENCES FONCTIONNELLES
+Management & Méthodes :
+Chefferie de projet (MOA/MOE), cadrage, pilotage multi-sites et multi-acteurs.
+Mise en place et suivi de méthodologies : cycle en V, DO178, DevSecOps.
+Gestion des exigences, spécifications système & logicielle, qualification et validation.
+Suivi KPI, reporting, coordination multi-acteurs.
+
+DIPLOMes ET FORMATIONS
+
+Ingénieur spécialité Systèmes Électroniques et Informatiques (AFPA, 2001)
+License de Mécanique Générale (Université Pierre et Marie Curie, 1999)
+Formation à RPE par IBM (2020)
+Formation à Navision par MicroSoft (2017)
+Formation SCADE chez Esterel (2007)
+Formation DOORS chez Telelogic (2003)
+Formation Java à l’Itin (2003)
+Langues: français (natif), anglais (courant) et espagnol (opérationnel)
+
+EXPERIENCES PROFESSIONNELLES
+
+Depuis Septembre 2024 : LAB-IA UTI Group
+Responsable Lab IA
+
+Contexte
+Processus métier augmentés avec l’IA
+Analyse, spécification et déploiement de solutions IA.
+
+Tâches
+Identifier les opportunités d’intégration de l’IA dans les processus métier et construire la stack technique du Lab IA.
+Conception et spécification des outils GenAI portés par le Lab IA (formatage et évaluation de CVs avec systèmes RAG/CAG, mise en correspondance avec les offres, aide à la reprise des CVs avec l’IA…).
+Définition, développement et déploiement d’agents de recherche IA qui adressent les problématiques métier des équipes commerciales, les besoins de veille stratégique pour la direction…
+Développement et déploiement de workflows noCode (sous n8n, réponse mail, suivi de posts linkedin …) qui supportent les activités métier.
+Conception et développement d'une application d'analyse de code COBOL (analyse syntaxique, détection de code mort).
+Veille technologique IA: MCP et APIs, bonnes pratiques dans le domaine de l’IA.
+Environnement : Python (Flask, FastAPI, Streamlit, Agentic), JavaScript, HTML, ChromaDB, SQLite, PostgreSQL, COBOL
+
+Mai 2023 – Juin 2024 : Safran Electronics & Defence (Optronique – militaire)
+Expert Méthode/Outils
+
+Contexte
+Rationalisation et amélioration des processus de validation et qualification système de différents projets Optronique.
+
+Tâches
+Audit des méthodologies suivies par les différents projets
+Préconisation d’une méthodologie commune de qualification.
+Mise en place du suivi des activités et KPI, automatisation des rapports de couverture et de métriques.
+Développement d'outils de support aux activités de test et qualification (génération documentaire, fiche de test, rapports …) et d'outils de traitement de données multi-sources (Reqtify, DOORS, Excel et Word)
+Suivi et déroulement de campagnes de qualification environnementale en laboratoire.
+Environnement : Python, DXL, VBA, DOORS, Excel
+
+Avril 2022 - Avril 2023 : Sodern (filiale de Ariane – aérospatial)
+Chef de projet SI (MOA et MOE)
+
+Contexte
+Dans le cadre du développement des activités du service SI dans un environnement aérospatial et militarisé. Stratégie SI, diminution de la dette technique et innovation.
+
+Tâches
+Gestion de projets transverses et de sous-traitances avec prise en compte des contraintes de maintenance, de sécurité et de confidentialité :
+Cadrage, spécifications hardware et logicielles, pilotage des MOAs, suivi des activités.
+Déploiement de la méthodologie DevSecOps avec GitLab (dimensionnement et définition de l’architecture serveur et réseau, K8S et Dockers) en conservant Jenkins.
+Déploiement de systèmes Linux pour les équipes de développement.
+Ouverture d’internet dans un environnement militarisé.
+Environnement : JIRA, MS Project
+
+Novembre 2013 à Mars 2022 : Carmat (prothèse totale de cœur – médical)
+Expert Méthode/Outil & Chef de projet
+
+Contexte
+Au sein du SI, responsable des activités transverses.
+
+Tâches
+Responsable et référent de DOORS, Office 365 et divers outils métier
+Cadrage et suivi de sous-traitance
+MCO, développements, administration et montée de version
+Déploiement, formation et accompagnement au changement
+Développement de solutions métier avec diverses technologies pour les services «Logiciel», «Test et Validation» et«Sureté de fonctionnement»
+Suite complète d'outils de gestion documentaire, outils de gestion des vues, baselines, copie de modules, outil de recherche rapide … (Python et DXL)
+Outils d’analyse de couverture, automatisation des exports, visualisation des relations entre modules (SQL)
+Outils de production documentaire sous Navision, interface entre Navision (Microsoft Dynamics NAV) et Team Center (C/AL et python)
+Interfaces Excel-DOORS temps réel, remontée de la traçabilité (VBA et DXL)
+Outil de visualisation des données patient, portage des algorithmes de traitement des données de Matlab vers Python. (Matlab et python, rendu dans Jupyter)
+Environnement : Python, DXL, VB, VBA, C/AL, Java, SQL
+
+Janvier - Octobre 2013 : Canberra (filiale de Areva – nucléaire)
+Expert Méthode/Outil
+
+Contexte
+Mise en place de la stratégie documentaire pour réponse à appel d’offre du projet RMS pour EDF (détecteur de matériau radio actif)
+
+Tâches
+Conception et implémentation du modèle de données et du modèle documentaire projet
+Développement d'outils d'export et de suivi d'activités
+Rédaction des plans de développement système et logiciel
+Environnement : DOORS et DXL, VBA, Access, Excel
+
+Octobre 2011 – Novembre 2012 : Cassidian (filiale de Airbus Defence and Space – aéronautique)
+Expert Méthode/Outil
+
+Contexte
+Mise en place de la structure de données pour l’aide à la décision dans le cadre du projet Air Traffic Management SESAR
+
+Tâches
+Conception et développement d'une base de données d'ingénierie (Access)
+Développement d'outils de reporting automatisé (SQL, génération de graphiques Excel)
+Développement d'un outil d'analyse d'arbres d'appel et de dépendance (Java)
+Passerelles de données multi-formats (Access/Word/Excel)
+Environnement : DXL, VBA, Java, SQL, Access
+
+Expériences antérieures (2001-2011)
+Thales (EPM, TRSS, TCS, TSS)
+Ingénieur Système & Développeur
+Développement de connecteurs et outils d'intégration
+Sureté de fonctionnement, ingénierie système et des exigences
+Rédaction de spécifications systèmes et logicielles
+Diverses missions - Développement Java, C++, Python, C, LTR3
+Applications temps réel, IHM, outils de simulation
+Outils de gestion de versions et métriques
+Optimisation d'acquisition de données commerciales (C sous Unix)
+UTI GROUP
+SA au capital de 4 255 671,20€
+68, rue de Villiers Levallois-Perret Cedex
+www.uti-group.com	1/1

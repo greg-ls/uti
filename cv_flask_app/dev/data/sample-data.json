@@ -1,0 +1,56 @@
+{
+    "cvs": [
+        {
+            "id": "jean-dupont",
+            "name": "CV Jean Dupont - Développeur Full Stack",
+            "date": "01/09/2025",
+            "status": "recent"
+        }
+    ],
+    "offers": [
+        {
+            "id": "fullstack-senior",
+            "title": "Développeur Full Stack Senior",
+            "company": "TechCorp Innovation",
+            "status": "recent"
+        }
+    ],
+    "features": [
+        {
+            "icon": "✨",
+            "title": "Optimisation",
+            "description": "Réécriture automatique des paragraphes pour correspondre aux offres de mission",
+            "class": "feature-1"
+        },
+        {
+            "icon": "📊",
+            "title": "Analyse de correspondance",
+            "description": "Calcul automatique du taux de couverture entre CV et offre d'emploi",
+            "class": "feature-2"
+        },
+        {
+            "icon": "🕐",
+            "title": "Recherche dans notre CVthèque",
+            "description": "Retrouvez les CVs correspondant à vos critères",
+            "class": "feature-3"
+        },
+        {
+            "icon": "💼",
+            "title": "Argumentaire de vente",
+            "description": "Génération automatique d'arguments pour défendre le profil auprès des clients",
+            "class": "feature-4"
+        },
+        {
+            "icon": "📄",
+            "title": "Export Word",
+            "description": "Génération du document final au format Word avec toutes les améliorations",
+            "class": "feature-5"
+        },
+        {
+            "icon": "🔍",
+            "title": "Vue comparative",
+            "description": "Affichage côte à côte du CV et de l'offre avec mise en valeur des correspondances",
+            "class": "feature-6"
+        }
+    ]
+}

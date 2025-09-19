@@ -1,0 +1,114 @@
+AUBRY Stéphane
+ Ingénieur logiciel sénior devops fullstack
+
+ Avec 17 ans d'expériences en Supervision et Informatique de gestion, mes compétences techniques sont appuyées par celles en gestion de projet.
+ 
+ Langues
+ Français (natif)
+ Anglais (courant)
+ 
+ compétences techniques
+ Outils: Jira, Confluence, git, Jenkins, sonar, artifactory, VMWare, ansible, terraform, KVM, spring-boot, java, maven, svelte, angular, NodeJS, Karaf, Docker, Tomcat, WebSphere
+ base de données: OracleDB, PostgreSQL, MongoDB, ElasticSearch
+ ateliers: Eclipse, VSCode, IntelliJ
+ 
+ compétences fonctionnelles
+Management de Projet (Agile Scrum Master, Release Manager)
+Cycle de vie des applications (POO, DevOps, CICD, QA)
+Maintenance en condition opérationnelle (Admin Sys, DBA, Intégrateur)
+
+ Expériences professionnelles
+ Portfolio github
+ Ingénieur logiciel devops fullstack
+ 01/2025
+ Contexte : Aﬁn de démontrer mes capacités, je me suis lancé dans l'administration d'une pipeline DevOps
+ tâches :
+Administration KVM et docker
+Implémenter une démo Angular-SpringBoot avec Jenkinsﬁle et playbook ansible
+ Environnement technique : KVM, libvirt, terraform, cloud-init, ansible, docker, jenkins, artifactory, spring-boot, java, maven, angular, npm, junit, jest, github, npmjs
+
+ THALES
+ Release Manager (Supervision infra NXV, Backup NXS, ocs-inventory, otrs)
+ 10/2020-11/2023
+ Gennevilliers
+ Contexte : Le programme Socrate met en œuvre les communications ﬁxes inter-sites de l'armée française.
+ tâches :
+Développement, maintenance évolutive et conﬁguration logicielle de deux applications (supervision d'infrastructure réseau, bascule vers site de backup)
+Gestion de la conﬁguration logicielle pour deux autres applications (OCS- Inventory, OTRS)
+Gestion de la version et des livrables (binaires, playbook ansible et documentations)
+Administrateur plateforme de tests niveau dev (CICD)
+Lead dev d'une équipe de 7 personnes
+Support aux plateformes de qualiﬁcations
+ Environnement technique : java, karaf, ElasticSearch, PostgreSQL, kafka, camel route, gwt, svelte, jira, gitlab, jenkins, maven, sonar, vmware, ansible, yum, unix, windows
+
+Participation à trois versions système menées avec succès
+ AXA GS
+ Integration Master Procurement
+ 10/2016-02/2020
+ Paris
+ tâches :
+Recueil des besoins MOA, responsable qualité dev (outsourcing Capgemini Inde), gestion de la version
+Administrateur plateforme DEV, QA, PROD (CICD)
+Supervision run PROD
+ Environnement technique : java, javascript, Ariba on premise, Oracle, MongoDB, windows, Clearquest, svn, jenkins, ant, xslt, VBA, Soap UI
+ Résultats :
+Mise en œuvre de la chaine DevOps CI/CD
+Mise en œuvre de contrôles fonctionnels journaliers
+Déploiement en production hebdomadaire
+ BNP PF
+ Ingénieur logiciel OSGI
+ 09/2015-08/2016
+ Levallois
+ tâches :
+Maintenance évolutive de l'application.
+Investigation d'incidents en production
+ Environnement technique : java, spring, websphere, Oracle, unix, Clear Case, svn, jenkins, maven, sonar, Soap UI
+
+ MTB111
+ Ingénieur logiciel POO
+ 06/2012-08/2015
+ Clichy
+ tâches :
+Développement d'un Atelier de Génie Logiciel permettant de générer du code java et cobol.
+Edition de diagrammes de classes concrètes et d'algorithmes représentés sous forme arborescente.
+Lead dev d'une équipe de 5 personnes
+Mise en œuvre de la pipeline CI/CD
+Mise en œuvre du suivi de parcours utilisateur
+Solution hybride plugin eclipse et application web DojoJS
+ Environnement technique : java, DojoJS, antlr, REST Services (jersey), MongoDB, Eclipse RCP, Eclipse GEF, Tomcat, windows, jira, svn, jenkins, maven, sonar, SoapUI
+
+ CA CIB
+ Ingénieur logiciel C/JEE
+ 05/2011-05/2012
+ Courbevoie
+ tâches :
+Maintenance évolutive d'une application de gestion de transactions SWIFT.
+Reverse engineering du moteur de règles
+Mise en œuvre d'un outil de génération de jeux d'essais
+Investigation d'incidents en production.
+ Environnement technique : gcc, java, tomcat, websphere, oracle, Clearquest, svn, maven, jenkins, SoapUI
+ Résultats :
+
+ MAAF
+ Ingénieur logiciel supervision
+ 05/2009-04/2010
+ Niort
+ UNEDIC
+ Ingénieur logiciel supervision
+ 05/2008-04/2009
+ Lyon
+ SIBS
+ Ingénieur logiciel supervision
+ 04/2007-12/2007
+ Lisbonne
+ Contexte : Au sein de trois DSI différentes, mise en place de supervision métier.
+ tâches :
+ Recueil du besoin, animation de workshops, rédaction des spécifications.
+ Implémentation, intégration, formation des utilisateurs, documentation.
+ Suivi des performances des applications en production et homologation.
+ Environnement technique : java, c++, oracle, MQSeries, udp, Business Bridge
+
+ Formations
+ 2020 Scrum Master (Exin, Vélizy)
+ Diplômes
+ 2007 Ingénieur Logiciel (CyTech, Cergy)

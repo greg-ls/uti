@@ -1,0 +1,87 @@
+Houssem BOUALI
+
+Ingénieur CHEF DE PROJET TECHNIQUE / LEAD TECHNIQUE / Développeur PHP Paris 75012 , France
+Tel : 07 83 12 27 49 | E-mail : houssembouali2014@gmail.com LinkedIn | [https://www.linkedin.com/in/houssem-bouali-73099b110/](https://www.linkedin.com/in/houssem-bouali-73099b110/)
+
+Développeur curieux, pragmatique et passionné, j’aime écrire du code qui a du sens, résoudre des problèmes sans en créer d'autres, c’est ce que je fais de mieux et c’est ce qui me motive chaque jour.
+Discipliné, motivé et persévérant, je m’investis pleinement dans chaque projet, toujours avec le souci de bien faire et de progresser.
+Je relève les défis avec détermination, en gardant les pieds sur terre et les yeux tournés vers l’objectif.
+À moyen terme, j’aspire à évoluer vers un rôle de manager technique.
+Sans contrainte de temps, je souhaite me préparer progressivement à cette responsabilité en continuant à apprendre, à partager, et à faire grandir les projets comme les équipes.
+
+COMPÉTENCES TECHNIQUES :
+Backend : Node JS, PHP 5/7/8, Symfony 3/4/5/6/7, API Platform, Doctrine, PHPUnit, Behat, Lexik JWT
+Frontend : React 18, Redux, Hooks, Next.js, TypeScript, Bootstrap, Twig, Jquery
+Base de données : PostgreSQL, MySQL, MariaDB, Redis
+DevOps & Cloud : Docker, AWS (EC2, S3, CloudWatch, ECS, LoadBalancer), CI/CD (Jenkins, GitHub Actions)
+Outils & Gestion de projet : Git, SVN, Jira, Asana, Trello, Mantis
+Soft Skills : Esprit d'équipe, Créativité, Adaptabilité, Gestion de projet Agile
+
+EXPÉRIENCES PROFESSIONNELLES
+Uniprévoyance - Vincennes (2021 - Actuel)
+Lead technique (SOLID principles /Symfony 7 /API REST/ Swagger / React 18 / AWS / Docker/ PHPUNIT/TDD / alerting / monitoring/ RGPD/ Sécurité)
+Mise en place du portail applicatif Uniprévoyance - keycloak
+Centralisation de plusieurs services métiers sous une authentification unique, réduisant le temps de connexion des utilisateurs de 30 % et améliorant l’ergonomie.
+Développement d’un numéroteur de contrat UNIQUE pour les projets Osmose & Occéa
+Remplacement d’un système manuel par un moteur automatique, réduisant les erreurs de numérotation et en accélérant le traitement des contrats.
+Refonte du module affiliation de l’Extranet
+Migration de PHP 5 vers php 8 (symfony 6.4), avec utilisation de Redux et Docker.
+Adoption d’une architecture CQRS pour la gestion des opérations métiers et d’une architecture Hexagonale pour découpler les services API (affiliation, prestations, numérotation).
+
+CHEF DE PROJET TECHNIQUE:
+Mise en place des flux de données pour la solution d’éditique KSL
+Développement et optimisation des échanges de données pour améliorer la gestion des documents et communications.
+Maintenance corrective et évolutive
+Participation à l’amélioration continue des applications, en corrigeant les anomalies et en développant de nouvelles fonctionnalités.
+
+EN COURS : Plateforme d’Assurance ZASSUR- Gestion des Sinistres & Contrats :
+Espace Entreprise permettant la gestion des contrats, sinistres et remboursements, avec un système scalable basé sur des microservices.
+Backend (NODE JS-NestJS, PostgreSQL, Kafka, CQRS)
+Frontend (React, Vite, Zustand, Tailwind)
+Infrastructure & DevOps : Docker + Kubernetes
+CI/CD avec GitHub Actions.
+Gestion des contrats d’assurance, souscription.
+Gestion des sinistres avec CQRS, Kafka events.
+
+Sapiens - Régie publicitaire - Paris (2020 - 2021)
+Web Developer (SOLID principles / Symfony / AWS / Swagger /API REST/ElasticSearch / Bolt / PHPUNIT / MONGODB)
+Création d’une archive des Newsletters (Public.fr, Elle.fr)
+Centralisation et historisation de plusieurs milliers de newsletters, facilitant la consultation et la réutilisation par les équipes marketing.
+Optimisation du stockage et réduction de la redondance des contenus, améliorant les performances de recherche.
+Développement d’un générateur de code HTML pour les newsletters de Femina.fr
+Automatisation de la création de templates d’email 100 % conformes aux standards web et compatibles avec tous les clients mail.
+Optimisation des performances avec Symfony (Doctrine, Redis, Messenger).
+Mise en place de requêtes paginées, cache Redis et traitement asynchrone des emails via Symfony Messenger pour améliorer l’efficacité et la scalabilité des applications.
+Définir la structure des documents dans MongoDB en tenant compte des besoins.
+Mise en place d’un environnement docker pour la visualisation du log du projet elle.Fr via une stack KIBANA et Elasticsearch /Symfony, pour avoir des recherches rapide et une investigation d’erreur plus simple.
+Utilisation d’un Worker Symfony (Messenger) : envoi manuel des données dans Elasticsearch après chaque modification dans MongoDB.
+
+DigiPaye - SaaS - Paris (2018 - 2020)
+BACKEND Web Developer (SOLID principles / Symfony 3.4 / Event Dispatcher/ Bootstrap / PHP 7 / Docker / PHPUNIT / Architecture événementielle / Event Dispatcher / Sécurité)
+Développement de l’application Web Digipaye #eventDispatcher #listener
+Expérience dans la mise en place d'architectures événementielles avec Symfony, utilisant un Event Dispatcher pour gérer efficacement les événements de paie, absences et notifications en temps réel : Congé approuvé / changement de status de l’employé.
+Participation au développement de l'application de gestion de paie, utilisée par plus de 200 entreprises.
+Optimisation de la gestion des fiches de paie et des déclarations sociales.
+Conception de nouvelles fonctionnalités
+Mise en place de fonctionnalités automatisées pour réduire les erreurs humaines et accélérer les processus internes.
+Système de notification automatisé
+Automatisation des alertes et rappels pour améliorer la gestion des échéances.
+Augmentation de l'engagement utilisateur grâce à des notifications contextuelles adaptées aux besoins métiers.
+Intégration et consommation d’API externes
+Connexion à des API partenaires (banques, administrations, services tiers) pour faciliter les échanges de données.
+Mise en place d'un système sécurisé de gestion des tokens JWT pour renforcer la sécurité et la conformité de l’application.
+Gestion et optimisation de la base de données
+Gestion de la base de données avec Doctrine Migrations et PhpMyAdmin.
+Optimisation des performances SQL et automatisation des processus de migration pour réduire les erreurs.
+#MISE EN PLACE DES TEST UNITAIRE/INTEGRATION VIA PHPUNIT.
+
+DIPLOMES
+Master en Ingénierie Informatique - Université de Reims Champagne Ardennes
+Master 1 IDIAG - Institut Hautes Études de Carthage
+Licence en Informatique de Gestion - École Supérieure de Commerce de Tunis
+
+CERTIFICATION
+Symfony 6.4
+
+LANGUE
+ANGLAIS IELTS CERTIFICATION B2

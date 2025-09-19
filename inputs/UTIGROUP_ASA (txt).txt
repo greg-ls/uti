@@ -1,0 +1,243 @@
+CP Senior
+
+Gestion de projets V, Agile et Safe
+Planification, suivi et mise à jour
+Estimation de charge, planification et suivi de la réalisation
+
++15 ANNEES D’EXPERIENCE PROFESSIONNELLE
+Reporting avec météo et alertes
+Pilotage et animation d’équipes projets
+Coordination des acteurs projets internes (ex : la gestion, le juridique, ...) et externes (ex : prestataires, éditeurs, …)
+Animation de comité projet / recette
+Rédaction support et compte rendu
+
+CERTIFICATIONS
+Certification Agile Scrum PSMII 
+Certified Tester, Foundation Level
+Certified ITIL Foundation
+
+Formation & Langues
+2002 : Maitrise en informatique appliquée à la Gestion
+2003 : Master en Management
+
+LANGUES
+Anglais : courant 
+Italien : Courant
+
+
+COMPETENCES
+
+Métier : Assurance vie Assurance IARD/IRDS Santé Comptabilité des marchés et des financements Réglementaires : Solvency 3/2, IFRS 9, Mifid, Swift
+
+Technique : Progiciels : Pass Insurance,Pass Product, Soliam, Megara, Solife Oracle, MS-SQL Server, SSIS SGBD/ETL OLAP Analysis Services Reporting Méthodes Systèmes Testing Quality Center, Testlink, UFT/ QTP, ISTQB, Bug Traking, JIRA, Bugzilla, Mantis, Redmine Gestion de Projet Sciforma, MS Project, OPX2, Business Analysis Body of Knowledge
+Reporting Services, Business Objects, QlikView Agile Scrum (Daily, Sprint, User story, Demo), Cycle En (V, W, Cascade) Windows Server, UNIX
+
+
+EXPERIENCES PROFESSIONNELLES
+
+Depuis 06/2023 : HSBC 
+
+CP Senior / PO AI 
+
+Contexte
+
+PROJET Remainco : Au sein du département TSI « Technical Strategy and Innovation » a pour objectifs de piloter la stratégie pour l'ensemble des Wholesale (11 work stream ) : standards techniques, processus et outils, l'amélioration des processus, du pilotage et de la mise en œuvre du système d'information et valorisation des données informatiques.
+
+Valoriser les données de SI avec l’utilisation des outils de Data Visualisation, ML & AI
+Réalisations
+Mener des initiatives innovantes avec l’utilisation de ML/IA pour répondre aux enjeux d’efficacité
+opérationnel, réduction des risques.
+Coordonner l’ensemble des interlocuteurs afin d’assurer la cohérence des projets
+Affiner les priorités, identifier les opportunités et les risques.
+Gérer le budget et force de proposition si des arbitrages sont nécessaires dans l’affectation des
+ressources (moyens informatiques, moyens financiers, moyens humains…) Je m’associe aux parties prenantes et aux clients pour éclairer la vision, la stratégie et les fonctionnalités du produit. Identifier les risques et évaluer la criticité des ressources disponibles.
+Centraliser l’ensemble des informations dans le but de la fluidifier pour ensuite faciliter les échanges entre l’ensemble des parties prenantes
+Définir la roadmap du produit en accord avec le management.
+Déterminer les points de frictions dans l’avancement du projet et les résoudre dans le but de faciliter le déploiement du programme
+Planifier/superviser avec le dev-team les principaux jalons et les livrables associés.
+Diriger le processus de conception fonctionnelle du produit avec les utilisateurs métiers.
+Evaluer l’avancement du produit à chaque itération : développement et test. 
+Proposer des améliorations continue en fonction des performances et des usages
+
+
+01/2020- 05/2023
+
+PMO / Chef de projet Senior – BNP ITG entité transverse Comptable
+
+Contexte
+PROJET LRRS : Au sein des différentes entités BNP, LRRS est une application développée pour les rapports comptables (extraction de données utiles pour les clients, paramétrage, stockage des données, adaptation à la règlementation des banques selon les entités).
+Interlocuteurs externes : Finance locale, Business owner, équipes métiers Interlocuteurs interne : Management interne à la BNP, chef de projet
+Equipe : 100 personnes
+Volumétrie : Minimum 23 entités utilisatrice de l’application (23 entités réparties à l’international)
+Réalisations
+
+Gestion des projets :
+Industrialisation et gestion des Process pour FDSO4, de la conception à la Production, suivi du
+planning et de la qualité des livrables
+Organisation et animation des réunions de travail (en Anglais)
+Développer une vision globale dans le but d’articuler l’ensemble des projets afin d’atteindre un
+objectif précis (déploiement d’un programme de transformation)
+Cartographier les risques techniques et fonctionnels et estimer leur criticité
+Accompagnement de la réalisation de la roadmap définie par la direction
+Piloter les risques projets (qualitatifs, budgétaires, contractuels et de planning)
+Proposition des améliorations continue en fonction des performances et des usages
+Rédaction des comptes rendus
+Comités GO/NO GO avec les différentes entités BNP (différents pays)
+Présentation des projets devant le comité RIA pour valider les budgets : 12 experts (cybersécurité,
+développement, DBA, rapport bancaire…)
+Suivi de la planification des différents chantiers du projet
+Définir la roadmap du produit en accord avec la vision stratégique du pôle
+Gestion et priorisation du backlog produit au regard des objectifs.
+Evaluation de l’avancement du produit à chaque itération : développement et test
+
+
+01/2018- 12/2019 : VERMEG (éditeur)
+
+Chef de projet
+
+Contexte
+Projets menés pour les clients suivants : 
+
+NATIXIS,APICIL et ETHIAS :implémentation de Soliam.
+Il s’agit d’une solution modulaire qui permet de gérer tous les types de SWIFT ce qui laisse la possibilité aux clients d’établir des rapports réglementaires.
+
+SOCIETE GENERALE : implémentation de la solution Colline, solution spécialisée dans le collatéral Management
+
+Réalisations :
+Pré-etude
+Mise en place de workshops entre éditeurs et clients finaux
+Etudes de faisabilité
+Conception :
+Réception des fiches produit du client
+Macro-chiffrage : Estimation macro du nombre de jours de formation/nombre de jours/ hommes
+et nombre de jours de test nécessaire au projet
+Communiquer sur l'avancée du projet
+Assurer le suivi budgétaire du Projet
+Suivre les risques du projet
+Suivre et vérifier l'avancement du projet (qualité / cout / délai) et le respect du cahier des charges
+Suivi du planning et des risques
+Recette
+Rédaction du cahier de recette
+Mise en place des plans de tests en BDD
+Suivi du bon fonctionnement et déroulement des tests et correction des anomalies
+Analyse des résultats
+Remontée des anomalies rencontrées
+Validation des fonctionnalités à la suite de la campagne de tests (réponse aux attentes exprimées
+du client)
+
+Environnement technique : Jira, Confluence, HP QC, Jboss, Oracle
+
+
+01/2013 – 01/2018 : KAPIA RGI
+
+Chef de projet / PMO 
+
+Contexte
+Projet 1 : Refonte des systèmes d’information des clients CEGC, AXA BEL, STAR(GROUPAMA), AMISSIMA, AVIVA (Italie, France), LLOYD.
+
+Périmètre d’action :
+Chantier Transverse – Tiers, Réseau de vente et Sinistre
+Chantier Non vie : Contrats Individuels, Contrats Collectifs, MRP, MRH & sinistres
+Clause bénéficiaire (standard, semi-standard, texte libre)
+Mode de gestion (libre, mandat, profile…)
+Répartition des avoirs par type de fonds (Unité de comptes / Euro)
+Actes (Versements, Rachat, Réorientation, Arbitrage)
+La mise en place du back office avec préparation des fiches produits santé et prévoyance :
+cotisations / tarifications / remboursement
+Versionnig du FO : module CRM : souscriptions / garanties
+
+Réalisations :
+Gestion de projet
+Etude et cadrage des besoins
+Suivi des différentes phases du projet : Analyse, conception, recette, migration, formation client
+Estimations de charge
+Rédaction de documentations des processus métiers, Analyse de données.
+Elaboration et suivi du planning
+Recette
+Description des étapes de test sur l’outil HP ALM
+Administration de la plateforme, assurer les tests, la recette des modules, le suivi du bon
+fonctionnement et la correction des anomalies
+Analyse des incidents et suivi de leurs résolutions
+Analyse de nouveaux développements clients
+Formation client et conduite de changement
+
+
+Contexte
+Projet 2 : Projet AVIVA
+
+Réalisations
+Gestion de projet :
+Etude et cadrage des besoins
+Suivi des différentes phases du projet : Analyse, conception, recette, migration, formation client
+Estimations de charge
+Rédaction de documentations des processus métiers, Analyse de données.
+Elaboration et suivi du planning
+Ecriture des user stories
+Découpage des user
+Spécification des critères d'acceptation pour chaque user story.
+Recette :
+Ecriture des tests d'acceptation
+Planification de la release
+
+Environnement technique : Pass-insurance, Pass-product, JIRA, JAVA, Alfresco, HP ALM
+
+
+08/2008 – 11/2012 : PROTEGYS
+
+Chef de projet MOA 
+
+Contexte
+Client 1 : « Assurance MAGHREBIA » : Enrichir le système d’information par un nouveau module RH permettantde faire des calculs sur les provisions multi devises.
+
+Réalisations :
+Organisation et animation des réunions de travail (suivi des agendas, des contextes, des objectifs,
+des contraintes et des enjeux majeurs du projet Liquidité Côté DSI)
+Suivi de la planification des différents chantiers et ateliers du projet Liquidité (Macro et rétro
+planning des actions)
+Support méthodologique de suivi des éléments structurants les principaux jalons et livrables
+attendus
+Gestion et suivi des points sur les différents sujets hebdomadairement listés
+Mise en place d’une architecture applicative et fonctionnelle
+Organisation des thèmes du cadrage et du périmètre fonctionnel (périmètre produit, description
+des modélisations attendues, périmètres indicateurs pour les restitutions centrales et locales)
+Revue et organisation des blocs prioritaires (LCR, NSFR), étude des stress tests
+Échange avec les métiers, les autres pôles pour les sujets annexes
+Suivi des mises en production
+
+
+Contexte
+Client 2 : « AXA FR ». Mise en production d’une solution rachetée par Axa FR. Calcul de salaires, préparation de fichiers pour les salariés… automatisation et industrialisation du circuit paie 
+
+Equipe : 8 testeurs, dont tests techniques et manuels
+
+Réalisations
+
+Recette :
+Prise de connaissance rapide de l’expression de besoin et de la liste des exigences
+Établissement des cas d’utilisations, rédaction et finalisation de la stratégie de recette
+Modélisation du cahier de recette, rédaction des jeux d’essai et déclinaison en cas et en scénario
+de tests dans le cadre de la méthodologie MCIP, exécution et gestion des anomalies via TD
+Établissement et supervision des travaux de tests, reporting d’avancement lors des comités de
+pilotage et au responsable interne lors des points hebdomadaires
+Assistance utilisateurs, déploiements et raccordements des sites envisagés
+
+Environnement : MONTIS, HP ALM
+
+
+10/2003 – 07/2007 : Editeur Linedata
+
+Consultant MOA 
+
+Contexte
+Client : EAF (Europe Assistance France). Relai entre l’équipe de développement et l’équipe métier en interne chez Linedata. 
+Client : WST
+
+Réalisations
+Interface entre la MOA et le service OST pour l’évolution de l’outil LAC (Audit du système, recueil et
+définition des besoins utilisateurs, validation des évolutions et des spécifications, organisation des
+réunions bilan, Support utilisateurs, Recette)
+Développement du Carnet OST intranet (évolution de l’existant et rajout des menus)
+Développement des textes de bases Annonces clients et réorganisation de la pagination
+Préconisation et mise en place d’une stratégie de méthodologie de recette
+
+Environnement technique : BUGZZILA, Excel, PL/SQL

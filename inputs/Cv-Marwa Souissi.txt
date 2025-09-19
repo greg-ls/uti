@@ -1,0 +1,164 @@
+Marwa Souissi
+E-mail : marwa.souissi1@outlook.fr
+Tél : 0625419990
+
+COMPETENCES FONCTIONNELLES
+Gestion des projets SI
+-Prise en charge du projet de l'expression de besoins à banque la validation finale
+-Conception du projet (besoin client, spécification fonctionnelle, lotissements, recette, livrables, …)
+-Pilotage du projet via l’organisation et la coordination de l'équipe projet selon le cahier des charges (demande du client, budget, délais…)
+-Assistance à Maîtrise d'Ouvrage en cadrage projet
+-Gestion et anticipation des risques (qualitatifs, budgétaires, contractuels et de planning) et les aléas sur le projet
+-Communication sur l'avancée du projet (qualité / coûts / délais) lors des instances projet (comités de pilotage et de suivi...) et via un reporting hebdomadaire
+-Accompagnement des équipes métier par la conduite du changement (communication, formation...)
+-Contribution à l’amélioration continue des process
+
+EXPERIENCES 
+MOYENS DE PAIEMENT
+-SEPA SCT/SDD
+-Paiements Instantanés (SCT Inst)
+-Messages SWIFT
+-Virements Commerciaux VCOM SEPA
+-Plateforme d’échange CFONB 160/ 320
+
+BANQUE EN LIGNE
+-Protocole Ebics
+-Fichiers multi-formats (SEPA, CFONB,Relevés)
+
+REGLEMENTAIRE/ CONFORMITE
+-Déclaration CESOP
+-Déclaration OSCAMPS
+-Déclaration Relevé de paiements clientèle -RPC
+-Dispositif de gestion LAB-FT, Gestion des listes PPE (Fircosoft)
+-Conformité BALE II/ Risques Opérationnels
+-IFRS/ Comptabilité
+-RGPD
+-VUC
+
+EPARGNE
+- Epargne Réglementée
+
+RISQUES DE MARCHE
+-VaR, ES, stress test
+
+COMPETENCES TECHNIQUES
+Méthodologie Data NSE, GITHUB, VERTICA, SQL
+Recette QUASH, QUALITY CENTER, TESTLINK, MANTIS, SELENIUM
+Outils EL SQL, FLOWMIND, MQ SERIES, ROBOTFRAMEWORK
+Statistiques B, STATA, R, EVIEWS
+
+
+Diplômes 
+2021 Doctorat en Finance Internationale
+2015 Ecole d’été Université IWH - Halle Liepzig (Allemagne)
+2013 Mastère de recherche en Finance internationale
+
+
+Langue:
+ANGLAIS Courant
+
+EXPERIENCE PROFESSIONNELLE
+
+D’Août 2022 à ce jour Banque EDEL
+Chef de projet – Domaines Réglementaire/ Flux de Paiements (SEPA/ SWIFT/CB)
+
+Contexte :
+La Banque Edel est un établissement bancaire français, propriété du Groupement d'achats des centres E.Leclerc et du Crédit Coopératif.
+Au sein de l’équipe MOA, participation à l’évolution du Système d’Information :
+Tâches :
+Gestion des évolutions Release SEPA 2021 & 2023
+ Pilotage de la mise en œuvre des évolutions
+ Suivi et coordination de l’avancement des projets (COPRO/COPIL)
+ Définition des exigences recettes (unitaires, fonctionnels, homologation, TNR)
+ Assistance auprès des utilisateurs (les pôles métiers) lors de la phase d’homologation
+ Gestion du Run :
+ o Coordination des acteurs projet (Métiers, IT, production)
+ o Pilotage de la conduite du changement avant la mise en production des évolutions
+ o Support en front office pour la gestion des incidents de production
+Déclaratif CESOP
+ Collecte et analyse des besoins réglementaires
+ Analyse des données nécessaires pour satisfaire les besoins opérationnels
+ Animation des ateliers métiers
+ Participation aux ateliers d’architecture pour la conception des maquettes de la solution et des flux fonctionnels associés
+ Garant du respect des cahiers des charges durant la phase de réalisation en coordination avec l’équipe DATA dans un environnement agile
+ Analyse et conception des règles de gestion, calcul ou transformation de la donnée,
+ Rédaction des différents livrables : mapping des données, cahier des spécifications fonctionnelles, documentation
+ Rédaction des cahiers de tests et validation avec les utilisateurs (pôles métiers)
+ Gestion du Run :
+ o Suivi des livrables
+ o Support et Gestion des anomalies : analyse fonctionnelle et technique
+Environnement : QLIK-SENSE, GITHUB/ VERTICA
+
+Contexte :
+Evolution du dispositif de contrôle portant sur les domaines Conformité (LAB-FT, Filtrage…)
+Tâches :
+ Amélioration de la gestion du filtrage des opérations financières et du contrôle du Référentiel Tiers
+ Gestion des listes sanctions et de réglementation (FATCA, PPE, TERRO…)
+ Participation à la conception des rapports réglementaires au titre des examens.
+ Automatisation des processus KYB & KYC
+Environnement : Outil de filtrage FIRCOSOFT
+
+De Janvier 2019 à Juillet 2022 SOPRA BANKING SOFTWARE
+Responsable Qualité Moyens de Paiement/ Réglementaire
+Contexte :
+Au sein de l’équipe Qualité, 15 personnes, Projets Moyens de Paiements domestiques & internationaux :
+Tâches :
+ En collaboration avec l’équipe MOA, étude et mise en œuvre (analyse, conception) de la FDR pour l’intégration des nouvelles normes de règlementation de la Release SEPA 2019
+ Homologation des travaux des interfaces Moyens de paiement pour le compte de la Caisse des Dépôts, HSBC, BMCI (Groupe BNP), BEA, BDL, Fransabank Liban, Banque Française Mutualiste : gestion et suivi des anomalies des aménagements clients.
+ Certification technique - Release SEPA 2019 pour le compte de La Banque Chabrières
+ Homologation et de validation des Releases SEPA 2018/ 2019 (Caisse des Dépôts) /2020
+ En binôme avec un développeur, projet d’automatisation des tests de l’application Moyens de Paiement sous SELENIUM
+Projets Réglementaires :
+ Homologation des flux RGPD
+ Intégration des nouvelles normes de réglementation de la loi PACTE (PEA, PEA-PEA & PEA-Jeune)
+ Projet réglementaire VUC (Vue Unique Client) : définition des plans de tests, suivi des déclarations clients des fichiers VUC auprès du Fonds de Garantie des Dépôts et de Résolution (FGDR)
+ Réglementations prudentielles – Reporting (Gestion des créances douteuses et contentieuses) - la Banque Extérieure d'Algérie
+ Tests de validation des aménagements mis en place nécessaires à l’application de la loi FATCA
+ Homologation de la solution Epargne Réglementée : comptes épargne : Livret A, Livret Solidaire, Livret Jeune, Livret Développement Durable, Compte sur Livret, Plan Epargne Logement, Compte Epargne logement, Plan Epargne Actions
+o Coordination des travaux avec les équipes MOA
+o Participation aux recettes et à la rédaction des scénarii de tests ainsi que la mise à jour de la documentation
+o Coordination des exercices de Stress test
+o Exécution des tests fonctionnels et de non-régression (TNR)
+o Gestion et suivi des anomalies, remontées et vérification de leur correction
+o Reporting réglementaire
+Environnement technique: SQUASH, JENKINS, SELENIUM, FLOWMIND
+
+De Février 2017 à Novembre 2018 Banque Africaine de Développement
+Contexte
+La BAD est une institution financière multinationale de développement, établie dans le but de contribuer au développement et au progrès social des États africains
+Tâches
+Projet 1 : Consultante MOA Risk Management
+Mise en œuvre d’une application de statistiques pour le calcul des risques bancaires :
+ Rédaction des spécifications fonctionnelles détaillées
+ Définition des besoins au plus près des attendus du métier
+ Spécification des solutions à mettre en place en collaboration avec le métier
+ Suivi de la mise en œuvre du projet et contrôle de la qualité des livrables.
+Projet 2 : Consultante MOA Conformité
+En binôme avec un consultant sénior, projet de refonte de l’application SOLVENCY/ BALE II pour les calculs de fonds propres de la banque :
+ Définition des besoins métier avec les utilisateurs et rédaction des expressions des besoins.
+ Rédaction des spécifications fonctionnelles détaillées et des notes de cadrage.
+ Participation à l'élaboration des plans de qualification
+ Elaboration des plans de tests et des phases de recettes.
+ Rédaction des procès-verbaux
+
+Février 2014 à Janvier 2017 Institut Supérieur de Comptabilité & d’administration
+Contexte
+Enseignante chargée des formations en Statistiques, Econométrie, et Economie monétaire autour des normes internationales d'information financière (IFRS)
+ Normes IFRS et leur impact sur l’information financière
+ Les instruments financiers et reporting IFRS.
+
+De juin à Décembre 2013 Ernst & Young
+Stagiaire consultante en Risk Management
+Contexte
+ Assistance à la mise en place d’un cadre de gestion des risques SI et des grandes activités de contrôle associées ainsi que la revue de risques projet et la gouvernance des SI
+Têches
+ Analyse et revue critique des systèmes d'information supportant les processus métiers et financiers
+ Assistance dans le cadre des missions de conception des plans d'audit, revue de la qualité de la fonction d'audit interne, etc
+
+De Février à Juin 2012 ATTIJARI Bank
+Analyste risque opérationnel/ Conformité Bale II
+Tâches
+ Analyse des données de risque actuel et les états financiers des lignes d’affaires
+ Détermination du degré de gravité de risque
+ Elaboration des calculs et des macro-prévisions pour les risques opérationnels des plans
+ Mise en place de l’animation de la gouvernance relative aux Risques opérationnels et au contrôle interne, incluant les différents projets de transformation du Métier

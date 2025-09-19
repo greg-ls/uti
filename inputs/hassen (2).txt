@@ -1,0 +1,100 @@
+Chef de Projet Fonctionnel Monétique
+
+MES ATOUTS
+Chef de Projet Fonctionnel Monétique expérimenté (6 ans) avec une solide expertise dans la gestion des relations clients et fournisseurs, et une connaissance approfondie des systèmes de paiement (moyens de paiement, système "4 coins", points d'acceptation - 10 ans).
+Apte à traduire les besoins métiers en solutions techniques innovantes et à piloter des projets complexes dans le secteur de la monétique, y compris en contexte de crise.
+Capacité avérée à coordonner des équipes multidisciplinaires, à gérer les risques et à assurer une communication efficace avec toutes les parties prenantes, contribuant à l'atteinte des objectifs et à la satisfaction client.
+Spécialiste en gestion de crise et relation client par ma persévérance & résilience.
+Courdimanche (95)
+Permis B
+Nationalité Française
+
+Viet-Nam : Maternelle
+Anglais : Intermédiaire
+
+Formations
+• Valorisation des Acquis D’Expériences : Licence Management des Organisations (2020) Université Saint Quentin en Yvelines
+• BEP Electrotechnique (1992) Lycée Becquerel LYON
+
+Outils informatiques
+EXEL
+Power Point
+Xmind (mind maping)
+MySQL
+ACCESS
+
+Mes Motivations
+1 - Communication (formation PNL)
+2 - Challenge (compétition krav maga & CrossFit)
+3 - Comprendre (formation développement personnel)
+4 - Apprendre (formation en lecture rapide).
+
+EXPERIENCES :
+Chef de projet Industriel & fonctionnel monétique (2022- aujourd’hui : CDI)
+EDENRED France Montrouge : Groupe de 1500 collaborateurs Spécialisé dans l’émission des cartes tickets restaurant et cadeaux KADEOS.
+• Réalisations Clés & Détails de Projets :
+o Pilotage de projets d'intégration de nouvelles solutions de paiement.
+o Responsable de la communication avec les partenaires et les clients lors des phases critiques des projets, maintenant un haut niveau de transparence et de confiance.
+o Analyse des besoins des commerciaux et du marketing pour développer des fonctionnalités monétiques innovantes, contribuant à l'augmentation de l'adoption de nouvelles offres de 30%.
+o Gestion de projet complète (conception fonctionnelle et technique, déploiement, suivi des délais, qualité, budget, reporting, indicateurs).
+o Identification et gestion proactive des risques projets, coordination des actions préventives.
+o Élaboration et mise à jour de la documentation projet (spécifications fonctionnelles, normes GIE CB et Mastercard, budget).
+o Conception et élaboration des stratégies de recettes.
+o Suivi et coordination des livrables.
+o Préparation et participation aux comités (COPIL, COPROJ).
+
+Chef de projet déploiement Monétique (2018- 2022 : CDI)
+UPTO France Montigny Le Bretonneux : Groupe de 150 collaborateurs Spécialisé dans l’encaissement bancaire et Retail.
+Réalisations Clés & Détails de Projets :
+Conduite de projets de déploiement monétique pour 7 clients majeurs (BUFFALO, LEROY MERLIN, NORAUTO, PRINTEMPS, TESSI, VILLE DE LYON & VILLE DE STRASBOURG), gérant un chiffre d’affaires de 1M€ et respectant les délais de déploiement à 95%.
+Gestion des relations clients tout au long des projets de déploiement, obtenant un taux de satisfaction client de 100% (mesurable via enquêtes post- déploiement).
+Résolution efficace des problèmes techniques rencontrés sur site, minimisant les interruptions de service pour les clients.
+Réalisation d'études d’installation (Visites Techniques) garantissant la cohérence technique et le respect des coûts cibles.
+Préparation des kick-off et élaboration des livrables (environnement, distance).
+Animation des comités de suivi et de pilotage (internes, sous-traitants, clients).
+Planification, coordination et exécution des contrats.
+Interface avec la sous-traitance et suivi de la réalisation des opérations (délais, qualité, procédures).
+Pilotage de la sous-traitance (coût, délai).
+Reporting en temps réel (SI) et mise à jour des bases de données.
+Extraction de données MySQL pour les statistiques qualité et production (KPI)
+
+Responsable de Site & Technique (2014 -2018 : CDI)
+Service Plateforme Monétique Grigny : Gestion d’un site de 49 collaborateurs Spécialisé dans l’encaissement bancaire et Retail service avec un chiffre d’affaires 2M€.
+• Gestion de la Cellule SI : planification et déploiement.
+• Optimisation de la qualité et de la rentabilité de la production.
+• Membre du comité de direction et de pilotage.
+• Déploiement d’une infrastructure téléphonique IPBX (Solution MITEL - 700 000 €) pour 100 postes sur plusieurs sites.
+• Pilotage des sous-traitants téléphoniques.
+
+Responsable Des Services (2008 - 2014 : CDI)
+Service plateforme Monétique Ris Orangis : Société de 49 collaborateurs spécialisé dans l’encaissement bancaire et Retail service.
+Encadrement et animation d’une équipe de 3 superviseurs et 10 téléopérateurs.
+Préparation et présentation des reporting de performance de l’équipe (90 % de taux de décroche).
+Membre du comité de suivi des services.
+Préparation et présentation des reporting de performance et d’exploitation contractuels pour les clients.
+Organisation et planification des délais de traitement des tickets.
+
+Technicien référent itinérant & Support technique (2002 - 2008 : CDI)
+Service plateforme Monétique Ris Orangis : Société de 49 collaborateurs spécialisé dans l’encaissement bancaire et Retail service.
+PEBIX SAS Lyon : Groupe de 100 collaborateurs spécialisé dans l’encaissement bancaire et Retail service.
+Encadrement et animation de 10 techniciens itinérants (quart EST).
+Formation des téléopérateurs.
+Préparation et présentation des reporting de performance d’équipe.
+Organisation et planification des interventions des techniciens itinérants.
+Installation de baies de brassage, serveurs (IBM, SIEMENS & Dell pour INFOMIL Leclerc).
+Déploiement de réseaux et installation d'unités centrales de lignes de caisse.
+Déploiement de serveurs Catalina Marketing et imprimantes (13 Carrefour Suisse).
+
+Responsable Cellule d’expertise Monétique (2000 - 2002 : CDI)
+Société 2SL Lyon : Société de 100 collaborateurs spécialisé dans l’encaissement bancaire et Retail service.
+Management d’équipe : Encadrement et animation de 3 opérateurs de niveau 2.
+Pilotage opérationnel : Planification et suivi des activités, gestion des délais de traitement.
+Assurance qualité : Audit des prestataires externes, rédaction des procédures et supports de formation.
+Relation fournisseurs : Gestion des projets avec les constructeurs Ingenico et Verifone.
+
+Consultant Technique (1997-2000 : CDI)
+Centre Interbancaire de la Région Rhône-Alpes : Société de 100 collaborateurs spécialisé dans la collecte de transaction bancaires et monétique du secteur bancaire.
+Création de la première cellule d’expertise monétique du Crédit Agricole.
+Mise en place de procédures de qualité.
+Formation du réseau commercial sur les nouveaux terminaux de paiement.
+Gestion de projets avec les constructeurs Ingenico et Verifone.

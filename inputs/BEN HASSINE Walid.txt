@@ -1,0 +1,103 @@
+Ingénieur C# .NET / T-SQL | Expert en Développement & Solutions Cloud
+ Ingénieur en Informatique | Certifié Microsoft
+ 7+ ans d'expérience dans le développement Web & Desktop sur l'écosystème Microsoft .NET
+ Spécialiste des solutions collaboratives & du Cloud Azure
+ Méthodologie Agile SCRUM assurant performance et qualité
+Compétences Clés
+ Développement & Architecture – Concevez des applications robustes et évolutives 
+ Développement Full-Stack Haute Performance
+Expert en C#, .NET Core, .NET Framework, ASP.NET MVC, Web API, Blazor, Windows Forms, WPF et WCF
+Interfaces Modernes & Réactives
+Maîtrise des technologies front-end : JavaScript, TypeScript, Angular, Kendo UI, Syncfusion, DevExpress, Bootstrap, jQuery, SCSS,HTML, CSS
+ Gestion avancée des bases de données
+Optimisation et administration de Microsoft SQL Server, PostgreSQL, SQL ,PL/SQL, T-SQL, NoSQL, MongoDB
+Intégration & Déploiement Cloud
+Solutions Cloud sur mesure avec Azure : DevOps, Functions, Blob Storage, Key Vault, App Service, Docker, Kubernetes
+Tests & Assurance Qualité
+Validation rigoureuse avec MSTest, xUnit, Postman, Swagger
+Gestion de Projet & Collaboration
+Expertise en Agile SCRUM (Daily Meetings, Sprint Planning, Retrospectives)
+Analyse des besoins, découpage des User Stories, estimation et priorisation
+Déploiement, maintenance et optimisation des performances
+Expertise sectorielle
+Finance | Immobilier | E-Commerce | Télécommunications | Santé | RH | Comptabilité | Industrie 4.0
+Expérience Professionnelle
+Ingénieur C# / T-SQL | Options | 08/2023 - Présent
+Contexte : Solution de gestion locative (achats, stocks, facturation...)
+tâches
+Optimisation des requêtes SQL
+Développement de nouvelles interfaces utilisateur
+Conception et déploiement d'APIs REST & services backend
+Mise en œuvre des meilleures pratiques (SOLID, DRY, KISS, TDD, DDD)
+Participation active aux réunions Agile (Daily Meetings, Sprint Planning) 
+Rédaction de documentation technique
+Correction de bugs, refactoring et amélioration continue
+ Environnement Technique :
+Langages : C#, HTML5, SCSS, JavaScript, TypeScript, jQuery, T-SQL
+Frameworks & Technologies : .NET Core, .NET 7 & 8, Angular, MsTest, WEB API, TDD, DDD 
+Base de données : Microsoft SQL Server, SQL Server Profiler
+Outils & Systèmes : Visual Studio, Git, Azure DevOps CI/CD, Docker, Kubernetes, Postman, Swagger, JIRA
+ Ingénieur C# .NET | BRINKS | 04/2022 - 07/2023
+ Contexte : Gestion des commandes de liquidités & fonds
+tâches
+Migration des solutions vers .NET 7 & 8
+Implémentation de services REST et synchronisation des données 
+Revues de code et gestion des tâches via Azure DevOps
+Suivi des retours clients en production et en phase de test 
+Optimisation des performances des systèmes critiques
+Mise en place des meilleures pratiques de développement (SOLID, DRY, KISS, TDD, DDD)
+Participation active aux réunions Agile (Daily Meetings, Sprint Planning) 
+Correction de bugs, refactoring et amélioration continue
+Rédaction de documentation technique
+Environnement Technique :
+Langages : C#, HTML5, SCSS, JavaScript, jQuery, T-SQL
+Frameworks & Technologies : .NET 7 & 8, Kendo UI, xUnit, WEB API, TDD, DDD 
+Base de données : Microsoft SQL Server, SQL Server Profiler
+Outils & Systèmes : Visual Studio, Git, Azure DevOps CI/CD, Docker, Kubernetes, Postman, Swagger, JIRA
+ Ingénieur .NET | SEB | 01/2021 - 03/2022
+ Contexte : E-Commerce
+tâches
+Développement de plateformes de support client 
+Personnalisation et extension de NopCommerce
+Développement de Proof of Concept (POC) pour validation technique 
+Implémentation d'APIs REST et synchronisation des données
+Tests unitaires et fonctionnels
+Respect des meilleures pratiques de développement
+Correction de bugs, refactoring et amélioration continue 
+Rédaction de documentation technique
+Environnement Technique : Langages : C#, T-SQL
+Frameworks & Technologies : .NET Core, Blazor, xUnit, WEB API, TDD, DDD
+Base de données : Microsoft SQL Server, SQL Server Profiler, PostgreSQL, SQL ,PL/SQL 
+Outils & Systèmes : Visual Studio, Git, Azure DevOps CI/CD, Docker, Kubernetes, Postman, Swagger, JIRA
+Ingénieur Logiciel | Cardiac Science | 02/2019 - 12/2020
+ Contexte : Gestion de la maintenance des équipements médicaux
+tâches
+Conception et développement d’interfaces graphiques avec Angular 
+Modélisation UML (diagrammes de classes et de séquence)
+Développement de services backend et d'APIs REST
+Développement et intégration d'exports comptables automatisés
+Conception UI/UX et développement d’interfaces utilisateur modernes
+Maintenance du système et correction de bugs
+Optimisation des performances SQL et amélioration du backend 
+Exécution de tests unitaires et fonctionnels
+Environnement Technique :
+Langages : C#, HTML5, SCSS, JavaScript, TypeScript, jQuery, T-SQL
+Frameworks & Technologies : .NET Core, Angular, xUnit, WEB API, TDD, DDD Base de données : Microsoft SQL Server, MongoDB, SQL Server Profiler
+Outils & Systèmes : Visual Studio, Git, Azure DevOps CI/CD, Docker, Kubernetes, Postman, Swagger, JIRA
+Ingénieur Logiciel | Integration Object | 01/2018 - 01/2019
+ Contexte : Industrie 4.0, supervision de l'automatisation industrielle
+tâches
+Analyse approfondie des besoins et rédaction des spécifications techniques
+Développement et intégration de composants UI DevExpress pour une expérience utilisateur optimisée
+Optimisation des requêtes SQL et exécution de scripts T-SQL pour de meilleures performances
+Mise en place de tests unitaires et fonctionnels assurant la stabilité du produit 
+Correction de bugs, refactoring et amélioration continue
+Support technique de niveau 3 (L3) pour assurer la fiabilité des applications
+Environnement Technique : Langages : C#, T-SQL
+Frameworks & Technologies : .NET Framework, WPF, WCF, Windows Forms, DevExpress, DotNetBar, MSTest, TDD
+Base de données : Microsoft SQL Server, SQL Server Profiler Outils & Systèmes : Visual Studio, IIS, TFS
+Formations
+Certification Microsoft AZ-900 (Azure Fundamentals)
+Diplomes
+Ingénieur en Informatique – Génie Logiciel (2015 - 2018)
+Classes Préparatoires en Mathématiques & Physique (2013 - 2015)

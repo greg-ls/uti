@@ -1,0 +1,132 @@
+EL HOUCINE EL AJRAOUI Business Analyst
+129 Avenue du Général de Gaulle 92250 La Garenne-Colombes Tél : 0755170675 Permis B . 30 ans houcine.elajraoui@gmail.com
+Business Analyst, ayant travaillé sur des projets de transforma7on numériques et de déploiement d’ou7ls informa7ques, cumulant 6 années d’expérience dans le domaine. Compétences mé7er en ﬁnance d’entreprise et en ges7on des systèmes d’informa7ion. Cer7ﬁé en agilité.
+
+CERTIFICATIONS
+SCRUM : Professional Scrum Product Owner "PSPO I" – Mai 2023 Découvrir la ges/on des tâches et des événements au sein d'un Sprint, la terminologie et les rôles Scrum, les rapports Scrum et la ges/on des risques. Discuter les Story Points et les User Stories, de la mise à l'échelle de Scrum, de l'intégra/on con/nue, du développement piloté par les tests (TDD) et du développement piloté par le comportement (BDD).
+Business Analyst Global Certifications – Mai 2023 Concevoir les aFribu/ons d’un business analyst au sein d’une organisa/on et les diﬀérentes tâches qui lui sont incombées, en tant qu’intermédiaire clé entre les diﬀérentes par/es prenantes d’un projet.
+ESSEC Business School - Réussir le changement - Novembre 2021
+Présenta/on des principaux ou/ls, méthodes et théories en ges/on du changement. Descrip/on des fondamentaux de la conduite du changement.
+Euridis Business School - Le monde des Système d’Information et Méthode Agile - Novembre 2021 Apprendre plus sur le monde des systèmes d'informa/on. Découvrir les fonc/ons d'un SI au sein d'une entreprise, les diﬀérents interlocuteurs qui évoluent dans cet écosystème et les missions qui y sont raFachées. La ges/on des projets informa/ques à travers les méthodes Agile.
+Lucca - CLEEMY Gestion des notes de frais - Janvier 2020 Cleemy orchestre la ges/on des notes de frais, de leur créa/on jusqu’à leur comptabilisation.
+
+COMPÉTENCES
+❖ ERP : SAGE 100c (Comptabilité, BI Repor/ng, Ges/on Commerciale, Immobilisa/on, Moyens de paiement, Etats Comptables et Fiscaux, SageDirect et SFB) - SAP (CO et FI) – ORACLE (Hyperion) –
+Premiance (Comptabilité, Ges/on loca/ve) - Sage 1000
+❖ Logiciels : Lucca/CLEEMY (Notes de frais) - Ciel Compta – SalesLogix (CRM) – Ou?ls internes Na?xis (Ariane, Diamond, PTS, REF) - Tage?k (Consolida/on) - ISIE (Interpréteur comptable) -
+YOOZ (Dématérialisa/on des factures fournisseurs) - Expensya (Notes de frais)
+❖ Mé?er : Analyse et ges/on ﬁnancière, Comptabilité, Contrôle de ges/on et Asset Management ❖ Méthodes : Ges/on de projets (Analyse, déploiement, forma/on, suivi & receFe) - Méthode agile
+(SCRUM) – Cycle en V
+❖ Ou?ls : JIRA – Conﬂuence – Pack Oﬃce– Visual Planning - SNOW (Ticketing) - EASY VISTA (Ticketing) ❖ Bases de données/Big data : Microsoe SQL Server ❖ Langues : Anglais (Professionnel)
+
+EXPÉRIENCES
+UFF – Abeille Assurance Business Analyst (Support SI Finance) Avril - Octobre 2024
+Contexte
+Au cours de ceFe mission, j'ai eu l'opportunité de contribuer aux ac/vités du RUN tout en dirigeant des projets en CHANGE. J'ai assuré le support technique et fonc/onnel sur divers ou/ls de ﬁnance, aidant ainsi les u/lisateurs à résoudre leurs problèmes, op/miser leur u/lisa/on et améliorer l'eﬃcacité des processus ﬁnanciers.
+Actions
+➢ RUN sur les ou+ls de Finance :
+Mise en place des nouveaux budgets dans les ou/ls ﬁnanciers et accorder l'accès aux nouveaux salariés.
+Déposer des ﬁchiers comptables sur le serveur de l’interpréteur comptable ISIE.
+Importer les commandes de vente et les provisions dans Sage via des EBS.
+Paramétrer les centres de coût et centres de responsabilités dans les diﬀérents ou/ls ﬁnanciers.
+Créer les éléments comptables manquants dans les ou/ls ﬁnanciers.
+Conﬁgurer les workﬂows de valida/on pour l'intégra/on des factures fournisseurs dans Sage.
+Réaliser les contrôles nécessaires à l'aide d'une macro pour préparer le ﬁchier de paie.
+➢ Pilotage des projets :
+Par/cipa/on aux réunions de démarrage des projets avec les responsables mé/ers ainsi que la DSI.
+Planiﬁca/on du projet à travers un plan de projet détaillé, déﬁnissant les objec/fs, les livrables et les ac/vités nécessaires pour aFeindre les objec/fs ﬁxés.
+Assurer une communica/on claire et eﬃcace entre les toutes les par/es prenantes du projet.
+Suivre régulièrement l’avancement du projet, iden/ﬁer les écarts par rapport au plan ini/al et prendre les mesures correc/ves nécessaires pour respecter les délais
+Résultat
+Intégra/on des connaissances fonc/onnelles et mise en œuvre de compétences techniques nouvellement acquises.
+Améliora/on de l’eﬃcacité opéra/onnelle.
+Concep/on de solu/ons fonc/onnelles pour répondre aux besoins iden/ﬁés.
+Environnement technique
+SQL : Microsoe SQL Server
+Data : Tableau
+SoRwares : Sage, Tage/k, YOOZ, ISIE, Filezilla, Expensya.
+Planning : EASY VISTA
+
+AEW – BPCE Group Mai 2022 - Mars 2024
+Business Analyst (Finance et Asset Management)
+Contexte
+Au début de ceFe mission, j'ai été impliqué dans diverses tâches de support, ce qui m'a permis de me familiariser avec l'environnement et les ou/ls internes du client. Par la suite, j'ai apporté ma contribu/on à des projets visant à faire évoluer, meFre à niveau et migrer l'infrastructure.
+Actions
+➢ Support fonc+onnel des ou+ls internes d’AEW :
+Réalisa/on des cahiers de recette
+ReceFe MOA des fonc/onnalités dans le cadre d’une migra/on vers un nouveau serveur
+Tests des traitements SSIS et SSAS
+Suivi des anomalies auprès des développeurs
+Naviga/on dans SQL Serveur Management Studio et correc/on de certaines anomalies à travers des requêtes d’Update et Insert.
+➢ Ges+on des projets :
+Prépara/on des présenta/ons des/nées au management pour le lancement des projets
+Recueil des besoins de repor/ng et créa/on des rapports SSRS
+Connexion à Power BI via des cubes tabulaires
+Créa/on des mesures DAX pour KPI
+Rédac/on des cahiers de charges, des maqueFes et des spéciﬁca/ons fonc/onnelles détaillées
+Par/cipa/ons aux ateliers métiers (Comptables, Fund opérationnels et Juristes)
+Anima/on des ateliers MOE
+Réalisa/on des tests post-développement et suivi des anomalies
+Cadrage des receFes métiers.
+Résultat
+Consolida/on des connaissances fonc/onnelles et mise en pra/que de nouvelles compétences techniques.
+Livraison des projets dans les délais impartis.
+Réalisa/on des objec/fs et sa/sfac/on du client.
+Environnement technique
+SQL : Microsoe SQL Server
+Data : Power BI
+SoRwares : Premiance, Snow et ou/ls internes du groupe.
+Planning & Chiﬀrage : JIRA et pack office.
+
+ABSYS CYBORG Janvier 2019 – Avril 2022
+Consultant fonc?onnel ERP (Sage et Lucca)
+Contexte
+En qualité de consultant fonc/onnel, ma principale responsabilité résidait dans le déploiement des solu/ons informa/ques, tout en apportant un accompagnement à mes clients dans leurs ini/a/ves de transforma/on numérique.
+Actions
+➢ Déploiement des ou+ls informa+ques (ﬁnance) : Sage 100c
+Démonstra/ons et avant-ventes des produits en compagnie des commerciaux.
+Chiﬀrage du projet et ges/on des plannings/interventions.
+Analyse de l’existant et rédac/on d’une analyse fonctionnelle.
+Récupéra/on des ﬁchiers de sauvegarde SQL (BAK), les restaurer et exécu/on de quelques requêtes SQL.
+Assurer le schéma externe SQL : ajout des nouveaux u/lisateurs, aFribu/on des rôles et des droits d’u/lisa/on (mapping des bases de données).
+Installa/on, paramétrage des ou/ls et recette
+Forma/on, assistance et suivi des projets.
+➢ Business Process Management SoJware (BPMS) : Lucca - Cleemy
+Diagnos/c de l’organisa/on : analyse de l’existant et iden/ﬁca/on des diﬀérents intervenants (service RH et Finance).
+Rédac/on d’un cahier de charge avec l’ensemble des éléments récoltés.
+Informa/sa/on des processus SAAS : formalisa/on des recommanda/ons, enchaînement des tâches (workﬂow) et échange des données entre les systèmes d’informa/ons avec l’intégra/on d’une GED.
+Anima/on des réunions et séances de travail.
+Transfert de compétence pour la par/e conﬁgura/on et recette
+Résultat
+Montée en compétence
+Accomplissement des tâches qui me sont assignées.
+Réalisa/on des objec/fs qualita/fs et quantitatifs
+Environnement technique
+SQL : Microsoe SQL Server
+SoRwares : Sage 100c, Lucca (CLEEMY)
+Planning & Chiﬀrage : VisualPlanning
+
+ATOS Septembre 2016 - Septembre 2018
+Comptable Intercos
+Contexte
+Au cours de mon Master CCA (Comptabilité, Contrôle et Audit), j'ai réalisé mon appren/ssage au sein du groupe Atos - division AMF, où j'ai occupé le rôle de comptable Inter-compagnies.
+Actions
+Suivi de la comptabilisa/on des factures fournisseurs et traitement des factures parquées (bloquées) ou en li/ge.
+Analyse des comptes courants, réconcilia/on des comptes interco et cadrage avec les rapports de la consolidation.
+Cadrage des provisions avec les repor/ng ﬁnanciers (CCA, PCA, FNP, FAE)
+Réalisa/on des clôtures mensuelles et annuelles.
+Forma/on et management d’un collaborateur Atos Inde (transfert de compétence à la ﬁn de mon contrat)
+Résultat
+Mise en pra/que des acquis théoriques de la forma/on et une inser/on rapide dans le monde professionnel.
+Réalisa/on des objec/fs ﬁxés par mon tuteur académique et mon manager.
+Valida/on du Master avec mention.
+Environnement technique
+SAP (FI-CO) : connaissances métier
+Oracle (Hyperion) : connaissances métier
+
+FORMATIONS
+Octobre 2023 – Novembre 2023 : Formation Power BI (en ligne) – L’Ecole By Capgemini
+Septembre 2016 – Septembre 2018 : Master 2 Comptabilité Contrôle Audit – Institut National des
+Techniques Economiques et Comptable de Paris.
+Septembre 2015 – Juin 2016 : Master 1 Directions Financières Contrôle de Gestion et Audit -
+Université de Reims Champagne-Ardenne.

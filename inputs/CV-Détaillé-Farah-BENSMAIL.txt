@@ -1,0 +1,121 @@
+Farah Bensmail Business Analyste – Cheffe de Projet MOA 6,5 ans d’expérience
+Business Analyste/Cheffe de projet MOA en quête de nouveaux challenges dans le domaine Informatique.
+J'interviens sur l'ensemble des analyses stratégiques de données afin d'aider les entreprises à prendre des décisions claires et à élaborer des plans d'action efficaces.
+Dotée d’une capacité d’adaptation, je sais me montrer proactive et digne de confiance dans la réalisation de nouveaux projets en tirant parti de ma compréhension rapide et productive.
+
+FORMATIONS :
+Master en Management de Luxe et Stratégie d’Innovation – Ecole ISAL : Juin 2022
+Diplôme d’ingénieur en Management et Conseil en Système d’Information – ESGI : Décembre 2020
+Licence en Développement Informatique (Java, Python) - Université de Clermont-Ferrand : Juin 2018
+Licence en Système d’Information et Développement Informatique (C++) – Université de Tlemcen : Juin 2017
+Bac Mathématique Juin 2014
+
+LANGUES :
+Français : Professionnel
+Arabe : Langue Maternelle
+Anglais : Intermédiaire (Lu et Ecrit)
+
+COMPÉTENCES :
+Compétences Métier :
+➢ Banque de Détail, Mode, Luxe, E-commerce, Application Mobile, Gestion des Risques, Finance d’entreprise (analyse et diagnostic financier)
+Compétence Techniques :
+➢ Méthodes : Agile, Scrum
+➢ Base de données : SQL
+➢ CRM : Salesforce
+➢ JIRA, Confluence, Excel, Word, Power Point, OneNote
+➢ ERP : CEGID Y2
+➢ Gestion de Projet : Animation de cérémonies Agiles, Réunions, Coordination IT, Suivi d’avancement des projets, Compte Rendu, Rédaction des documentations IT et des formations internes, Organiser les exercices de Brain Storming, Suivre la méthode SMART, Rédaction des CDC, Rédaction des US
+➢ Notions : HTML, Java, Basware (Outils de gestion des factures fournisseurs)
+➢ JIRA
+➢ Trello
+➢ Teams
+➢ Connaissance en Power BI (support)
+Compétence de pilotage et chefferie de projet MOA:
+➢ Etablir le planning projet
+➢ Définir les ressources projet
+➢ Gestion des budgets projet
+➢ Définir le Backlog
+➢ Rédaction des spécifications fonctionnelles bien détaillées
+➢ Rédaction des User Story dans JIRA
+➢ Prioriser les US dans le Backlog
+➢ Rédaction des scénarios de tests
+➢ Coordination entre les différentes équipes IT
+➢ Assurer la correction des bugs avec les développeurs
+
+EXPÉRIENCE PROFESSIONNELLE :
+Septembre 2021 à Février 2025 Business Analyste – Déploiement d’une application Mobile de Clienteling (IOS et Android) Christian Louboutin
+Leader de la semelle rouge, souhaitait renforcer sa communication digitale et optimiser sa stratégie de ventes. J'ai fait partie de l’équipe Retail pour coordonner divers projets et notamment le déploiement d'une application mobile de Clienteling afin de booster les ventes et améliorer la relation client. J'ai travaillé en tant que Business Analyste pour accompagner la création, le déploiement et l'optimisation de l'application en assurant la mise en place, la planification, l'exécution et le suivi du projet Loubilink.
+Mes missions :
+Groupe Christian Louboutin
+Daily Meeting avec les développeurs, BA, CP, Scrum Master et le métier
+Pilotage de bout en bout de la phase d’analyse métier pour le lancement de l’application mobile interne Loubilink
+Collecte des besoins pertinents et participation aux ateliers avec le métier
+Recueil et formalisation des besoins utilisateurs en collaboration avec les équipe UX/UI et PO.
+Participation à la définition de la roadmap produit et suivi des livraisons Agile en lien avec les équipes de développement mobile
+Rédaction des CDC
+Gestion du planning projet
+Définition du Backlog
+Rédaction des User Story dans JIRA
+Animation des ateliers de cadrage pour garantir une expérience utilisateur mobile fluide et cohérente
+Evaluation des risques projet (exercice de brain storming)
+Organisation des cérémonies Agiles MOA
+Animation des réunions de sprint planning
+Animation des réunions de poker planning
+Rédaction de la stratégie recette
+Rédaction des scénarios de tests
+Réalisation des tests de non régression dans l’application Loubilink
+Pilotage des réunions de bugs avec les développeurs
+Rédaction de la documentation interne liée au support du projet
+Priorisation des tâches au sein de l’équipe en fonction des urgences utilisateurs
+Création de compte sur PowerBI (support applicatif)
+Affectation de zone géographique sur PowerBI (support applicatif)
+Affectation des product sur PowerBI (support applicatif)
+Intégration des différentes ventes CL dans l’ERP Cegid Y2.
+Taches de pilotage, suivi et coordination du projet:
+Définition avec l’équipe du projet des objectifs et des délais de réalisation des livrables
+Choix et affectation des ressources en fonction des contraintes techniques du projet
+Partage de manière régulière à l’équipe projet et le métier les tableaux de bord sur l’état d’avancement du projet
+Validation des livrables à la fin de chaque sprint
+Définition des besoins en termes de ressources humaines et technique en tenant compte du budget et des délais de livraison du produit
+
+Résultats :
+❖ Déploiement réussi de l’application Loubilink dans les délais impartis
+❖ Amélioration de la fidélisation et relation client
+❖ Optimisation de solutions omnicanales améliorant les ventes et le CA de CL
+❖ Mise en place d’ateliers utilisateurs pour affiner les besoins mobile
+
+Méthodologie de Gestion de projet : Agile scrum
+Contexte : international
+
+EXPÉRIENCE PROFESSIONNELLE :
+Septembre 2018 à Aout 2021 Business Analyste Société Générale, c'est vous l'avenir !
+Au sein du Business solution center, BSC. J'ai travaillé sur le déploiement du projet MyAPRC, une application interne qui permet de gérer le contrôle permanent. Le projet consistait à mettre en place un outil d'analyse et d'évaluation permettant une supervision fondée sur les risques bancaires..
+Mes missions :
+Groupe Société Générale
+Alimenter les epics et user story dans JIRA
+Animation d’ateliers agiles
+Conception des scénarios de tests
+Requêtes SQL pour les tests
+Rédaction des US et CDC
+Assurer le planning du projet et la planification des sprints
+Coordination et suivi des sujets en phase de développement
+Participation aux réunions du suivi opérationnel du projet
+Analyse des fonctionnalités existantes
+Gestion des habilitations et support
+Collecte des besoins et participation aux ateliers avec le métier risque
+Gestion du backlog
+Définition de la stratégie de l’homologation et la validation des développements
+Création des scénarios de tests
+Gestion de la base de données et requêtes SQL
+Mettre à jour la documentation sur Sharepoint
+Evaluation des risques bancaires et définition des KPI
+La rédaction des comptes rendu des réunions MOA
+
+Résultats
+❖ Déploiement réussi de l’application MyAPRC
+❖ Optimisation des données financières
+❖ Mise en place d'une gestion des processus, des activités et des risques en améliorant l'efficacité opérationnelle
+❖ Définition et suivi des KPI permettant de mesurer et d'ajuster la stratégie des risques bancaires
+
+Méthodologie de Gestion de projet : Agile scrum
+Contexte : international

@@ -1,0 +1,101 @@
+PROFIL
+Je suis une personne dynamique et motivée ayant suivi une formation de spécialisation en monétique à l’ENSICAEN qui me permet de rapidement comprendre les missions qui me sont confiées.
+Je sais faire preuve d’esprit d’équipe, je possède une aisance relationnelle et de l’autonomie pour mener à bien des projets et prendre le recul nécessaire pour fournir des prestations de haut niveau.
+
+LANGUES
+Français (langue maternelle)
+Anglais (intermédiaire)
+
+OUTILS
+KaNest®-File
+KaNest ICC®
+VISUCARD
+JIRA
+SQL Developer
+Dbeaver
+Putty
+WinSCP
+ALM (QC et Octane)
+Easy Vista
+Ultra edit
+
+COMPÉTENCES
+Analyse et rédaction des spécifications fonctionnelles détaillées
+Rédaction des User stories/Epics et alimentation du product Backlog de la solution
+Mise en place de la stratégie de recette
+Rédaction et exécution des plans de tests
+Préparation des environnements de tests
+Analyse et archivage de logs, PV de recette et d’homologation
+Connaissance des technologies et standards dans le domaine des transactions et du paiement : EMV, ISO 8583, ISO 7816, PCI DSS
+Mesure de performance
+Rédaction de fiche applicative
+Analyse et interprétation de données cartes
+Travaille en méthode Agile
+
+Diplômes
+Mastère Monétique et Transactions Sécurisées- ENSICAEN (2019-2020)
+Master 2 en génie électrique et informatique Industrielle (2016-2018)
+
+PARCOURS PROFESSIONNEL
+Novembre 2023 -Actuel
+Business Analyst projet EPE et Migration de VIP (LCL)
+Rôle de product owner sur le développement d’un RPA
+Création des User Story
+Rédaction de plan de test et de cahier de recette
+Création et modification des jeux de données au format Minos
+Exécution des tests
+Reporting de l’exécution des tests sur Octane ALM
+Présentation de l’évolution de la recette au métier sur une base hebdomadaire
+Remontée des anomalies et suivi de leur résolution sur easy Vista
+Participation aux rituels agile
+
+Octobre 2022 – Juin 2023 : (9 mois)
+Business Analyste projet OIJ et ARPEGE (CNAM)
+Rédaction des spécifications fonctionnelles détaillées
+Stratégie de tests
+Exécution des tests sur l’IHM de test
+Création et modification des jeux de donnés en format XML
+Rédaction et exécution des cas de tests sur Micro Focus ALM
+Exécution des tests en ligne de commande Linux
+Remontée des anomalies et suivi de leur résolution sur ALM QC
+Mobilité Ile de France
+
+Juin 2021 – Avril 2022 : (11 mois)
+QA testeur projet Instant Payment (STET)
+Rédaction, maintenance du patrimoine de tests
+Analyse fonctionnelle (de STET et ISO20022)
+Rédaction des stratégies de recette
+Création/modification/suppression/exécution des scripts de test sur KaNest
+Installation et maintenance du logiciel KaNest sur tous les postes du service
+Remontée des bugs et suivi de leur résolution
+Exécution des tests en ligne de commande Linux
+Réalisation des tests de non régressions
+Support à la production
+
+Mars 2021 – Mai 2021 :
+SEPAmail et DDT : (3 mois)
+QA Testeur contexte: test et homologation (Galitt)
+Prise en charge des banques candidates
+Accompagnement des candidats dans les différentes étapes de l’homologation
+Exécution des tests d’homologation en collaboration avec les candidats
+Support technique et fonctionnel aux candidats
+Rédaction des rapports de test
+
+Juin 2020 – septembre 2020 : (4 mois)
+Testeur au Centre de service (Galitt)
+
+projet: SEPAmail : test et homologation
+Installation et paramétrage de KaNest®
+Exécution des tests
+Création de script en XML
+Amélioration du guide utilisateur
+
+projet: Crédit Agricole : Exécution des tests ADVT (Acquirer Device Validation Toolkit)
+Raccordement des équipements
+Préparation de l’environnement de test KaNest® et implémentation des tests
+Rédaction de compte rendu
+
+projet: Argotechno : Analyse et interprétation de données cartes
+Extraction et analyse de profil carte (virtuelle ou physique)
+Comparaison du résultat de l’analyse aux spécifications
+Rédaction de compte rendu

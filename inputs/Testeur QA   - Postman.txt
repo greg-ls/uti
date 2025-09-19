@@ -1,0 +1,146 @@
+Profil Personnel
+
+Testeur QA spécialisé dans l'automatisation des tests avec des compétences avancées en Postman/Newman et Karate.
+
+Formations
+
+2016 : Master Informatique – Université de Lyon
+
+Connaissances Techniques
+
+Environnement : Windows, Unix, Site Web, Application Mobile
+Base de données : SQL Server, Oracle, PostgreSQL
+Langages : C#, HTML, CSS, Shell, Gherkin, SQL, NoSQL
+Framework : Selenium, Cypress, .NET, Blazor
+API : REST, SOAP
+Outils : Postman/Newman, Karate, NewRelic, Jira, Confluence, Jenkins, Xray
+Versioning : Git, GitHub, GitLab
+Méthode : Agile et Cycle en V
+
+Connaissances Fonctionnelles
+
+Gestion des projets Cycle en V et Méthode Agile Scrum
+Analyse et rédaction des spécifications fonctionnelles
+Analyse et chiffrage des user stories
+Gestion de versions
+Tests d’intégration et intégration continue
+Gestion des anomalies
+
+Langue
+
+Anglais
+
+Expérience Professionnelle
+
+Avril 2022 à ce jour : Ingénieur de Test QA chez Memo Bank
+
+Projet : Automatisation des tests sur la plateforme de gestion de prêts
+
+Tâches :
+
+Analyse fonctionnelle
+Définition de la stratégie de tests
+Priorisation des tests à développer
+Utilisation avancée de SSH/SFTP et compétences avancées de la console Linux
+Installation et gestion des serveurs physiques et virtuels Hyper-V
+Gestion de test avec XRAY
+Développement de requêtes SQL
+Préparation de l’environnement de test
+Réalisation des tests d’API REST avec Postman – Newman
+Préparation des données de test pour l'API
+Configuration de Postman pour le test de l'API
+Utilisation des variables pour stocker et réutiliser les réponses des requêtes
+Exécution des tests dans Postman et vérification des résultats
+Exportation des tests Postman au format JSON
+Automatisation des tests avec Selenium
+Gestion de versions avec Git – Github
+Intégration continue avec l’outil Jenkins
+Suivi des anomalies
+Création de tickets JIRA
+Association à des versions de logiciel et composants
+Suivi de l'état
+Collaboration avec les équipes de développement pour résoudre les anomalies
+Communication régulière
+Vérification des correctifs
+Mise à jour de l'état dans JIRA
+Rédaction du bilan de test
+Documentation sur Confluence
+
+Environnement technique :
+
+Environnement : Windows, Linux
+Base de données : SQL Server, PostgresSQL
+Langages : Python, Shell, SQL, HTML, CSS
+Framework : Selenium
+Webservice : REST, SOAP
+Outils : Cucumber, Jira, Confluence, Jenkins, XRAY, Postman
+Versioning : Git, Github
+Méthode : Agile SCRUM
+
+Août 2019 – Mars 2022 : Ingénieur de Test QA chez Le Printemps
+
+Projet : Maintenance évolutive et corrective d’une application de gestion de stock.
+
+Tâches :
+
+Analyse du document existant
+Analyse et gestion des données
+Participation aux différents rituels en anglais
+Développement des requêtes SQL pour analyser et extraction les données
+Rédaction du plan de test
+Mise en place de tests automatisés pour le frontend et backend
+Automatisation des tests d'infrastructure
+Développement des scripts de test automatisés avec JUnit pour des applications Java
+Conception de tests API en utilisant Karate pour valider les endpoints REST
+Création de mocks API avec Karate Mock pour simuler des services externes
+Spécification de la stratégie de test : le périmètre de test, les exigences, la criticité, et les critères d’arrêt
+Implémentation de tests d'intégration pour assurer l'interopérabilité
+Création de jeux de données spécifiques pour les tests
+Exécution de tests de non régression réguliers
+Mise en œuvre de tests d'infrastructure automatisés
+Réalisation de tests de charge pour évaluer la performance
+Création de fiches d’anomalies
+Gestion des anomalies
+Rédaction PV de recette
+Conduite de changement
+
+Environnement technique :
+
+Windows; SQL; JUnit; Karate, Jira, Postman, Virtual Box
+
+Septembre 2016 – Juillet 2019 : Testeur Technico-Fonctionnel chez Carrefour
+
+Projet : Développement d'un système intelligent de gestion des documents pour automatiser la classification
+
+Tâches :
+
+Analyse des besoins et des exigences de tests
+Support au découpage fonctionnel des User Stories
+Création d'outils de détection de bugs pour suivre les incidents techniques
+Automatisation des tests d'API REST avec Postman/Newman et intégration CI/CD
+Conception et exécution des tests unitaires en utilisant les pratiques TDD
+Définition des critères d'acceptation pour valider les livrables des sprints Agile
+Exécution des tests d'intégration pour garantir l'interopérabilité des modules
+Analyse des résultats des tests afin de détecter les régressions et anomalies
+Rédaction de rapports de bugs détaillés et leur documentation sur Jira
+Suivi des indicateurs de qualité à l'aide de tableaux de bord sur Confluence
+Implémentation des correctifs de sécurité conformément aux normes RGPD
+Surveillance des performances applicatives en utilisant NewRelic
+Suivi des incidents de production et gestion des demandes d’assistance
+Conception d'un baromètre de satisfaction client pour mesurer la qualité des livrables
+Automatisation des tests récurrents pour optimiser les délais de livraison
+Mise à jour des bases de données de test en SQL Oracle et PostgreSQL
+Exécution des post-mortems pour identifier les points d’amélioration des processus QA
+Intégration des tests automatisés dans la chaîne CI/CD avec Jenkins
+Suivi des tests automatisés et gestion avec Xray
+Génération de rapports de tests automatisés avec Newman
+Rédaction de la documentation technique des tests automatisés
+Bilan de tests avec analyse des résultats et suggestions d'amélioration
+Mise à jour de la documentation sur Confluence
+
+Environnement technique :
+
+Langages : C#, JS, HTML, CSS, Shell, SQL
+Framework : Selenium, .NET, Blazor
+Outils : Postman/Newman, NewRelic, Karate, Jira, Xray, Confluence, Jenkins
+Méthode : Agile SCRUM

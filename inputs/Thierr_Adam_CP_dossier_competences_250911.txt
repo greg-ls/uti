@@ -1,0 +1,208 @@
+TAM est consultant spécialisé dans le pilotage de projets, couvrant une large gamme d'environnements IT et SI dans des secteurs variés tels que les projets SaaS, les plateformes web, la gestion électronique des documents (GED), la data et l’intelligence artificielle (IA). Son expérience dans la conduite de projets informatiques et d’innovation, depuis la spécification technique jusqu'à la gestion des relations avec les fournisseurs de services et les directions des systèmes d'information (DSI), lui permet de se distinguer dans la gestion de projets de transformation et d'évolution des systèmes d'information impliquant une diversité d'intervenants. Sa compétence à forger et maintenir des relations solides tant avec les prestataires externes qu'avec les équipes internes est renforcée par un engagement indéfectible pour l'excellence opérationnelle, garantissant le respect des échéances et des budgets tout en mettant en avant l'importance de la collaboration d'équipe.
+
+Compétences Clés
+
+PRODUCT MANAGEMENT, AGILE PRODUCT OWNER
+Ateliers de Recueil des Besoins Utilisateurs, Design Thinking, User Stories,
+Animation Sprint/Daily/Rétro, Suivi backlog.
+Recueils des besoins, animation d’ateliers clients, élaboration de cahier des charges, roadmap et planification.
+Co-construction, découpe et priorisation du backlog, animation Scrum.
+Gestion du planning, du budget, suivi/reporting.
+Établissement des spécifications fonctionnelles.
+Effectue la recette des Réalisations et apprécie leur conformité au cahier des charges de l’ouvrage,
+Garantit le respect des délais et des coûts,
+Garant de la vision produit définie avec les parties-prenantes que j’incarne lors du sprint planning.
+Veille technologique - concurrentielle, segmentation, élaboration d’offres produits / services.
+Relation clients / sprint review.
+Garant de la satisfaction client.
+
+PILOTAGE ET DIRECTION DE PROJETS
+Pilotage de projets, approche agile orientée user et produit favorisant la collaboration, UX-UI-Infra.
+Animation d’ateliers de co-construction pour faire émerger le besoin métier et le traduire en spécification et user stories
+Suivi de programme, jalons, objectifs SMART, comités de pilotage, définition des KPI, coordination transverse.
+Sélection, suivi et encadrement des équipes, sous-traitants, prestataires et parties prenantes.
+Performance des processus de traitement des demandes, gestion de projet, reporting.
+Relation client / relation équipe de développement back et front-office, infra pour transmettre la vision produit
+Animation d’instances et reporting de la vie du projet, gestion budgétaire, plannings, gestion des risques, analyse des KPI.
+
+TRANSFORMATION NUMÉRIQUE
+Diagnostics (audits, entretiens d’analyse, persona), évaluation et optimisation des processus dans le cadre des spécifications techniques que je contribue à faire émerger.
+Priorisation des projets (aide à la décision, Business Model Canvas, approches ‘Data Driven’).
+Évaluation, sélection, customisation d’outils numériques (Gestion de projet, BI, outils collaboratifs).
+Accompagnement du changement (co-construction, facilitation, communication, animation d’espaces de coopération).
+Compréhension des enjeux clients.
+Coordination des équipes (communication, modes opératoires, ingénierie de formation et documentation de la méthodologie).
+
+MANAGER DATA / MACHINE LEARNING, SYSTÈME D’INFORMATION, GED
+Conseil et accompagnement de la gouvernance Data et des approches décisionnelles.
+Conception et mise en œuvre d’architectures et pipelines (collecte, modélisation, traitement, valorisation).
+Data Analyse, augmentation, choix et entraînement des modèles ML (ML Ops).
+Business Intelligence (Dashboard python, Power BI, Data Mining, Data Visualisation).
+Méthodes : Agile (Scrum / Kanban) / cycle en V, design thinking, Lean.
+Diagrammes BPMN, modèles d’organisations, Business Model Canvas, UML, Gantt, (connaissance de la méthode Prince 2)
+Outils gestion de projet : JIRA/Confluence, Asana, Trello, Slack…
+Versionning : Git, Docker/Kubernetes.
+Méthodes de coordination. Méthodes de coopération et convergence (Matrices efforts/impacts, SWOT, SOAR…).
+Cloud - Data : Certification Azure / Microsoft 365 (SharePoint, power apps, Teams ...), Active Directory, Power BI.
+Connaissances de AWS et GCP (vertex, Workbench…).
+Bases de données : MYSQL, PostgreSQL, MS SQL Server, NoSQL, MongoDB, Cassandra (méthode distribuée)…
+Langages informatiques : PHP, Javascript (Vue JS, Node JS), HTLM/CSS, LESS, Bootstrap…
+Python (Librairies machine learning: Numpy, Pandas, Pytorch, scikitLearn, TensorFlow, Keras, Matplotlib… )
+Analytics, API, Web Services, tests.
+Système d’information (CRM - ERP - SIRH – SIG – CMS – SAAS) :
+CRM Vtiger, Sage, KiwiHR, SIG (QGis), Google Earth Engine.
+CMS : Wordpress, Drupal, MediaWiki, Joomla, SPIP…
+Open Journal System (OJS), Open Conference System (OCS)
+LimeSurvey : Enquêtes clients, études de marché, statistiques, BI.
+INFRA : Gestion de parc informatique, maintenance hardware/software
+Paramétrage réseau (LAN)
+SYSTÈME D’EXPLOITATION : Windows, Linux
+
+Principales expériences professionnelles
+Juillet 2024 à Juin 2025 SYTRAL Mobilités (réseau TCL) Chef de projet fonctionnel – Responsable des applications Data et GED
+Contexte : Transformation du SI dans le cadre d’un transfert de technologie inter-opérateurs. Création d’un Data Lake. Déploiements de GED spécifiques.
+Missions :
+Pilote les activités de mise en œuvre, de maintenance et d’évolution des systèmes de collecte et d’exploitation des données des réseaux de transport (outil de Gestion Electronique Documentaire contractuelle, puits de données, indicateurs et reporting, outils d'analyse et de visualisation des données).
+Anime les instances de direction du projet, COPIL, CODIR, CR.
+Monitoring des outils mis à disposition des utilisateurs SYTRAL Mobilités, opérateurs et partenaires, ainsi que du suivi des usages de la plateforme Cloud hébergeant les données
+Référent technique sur les projets data et documentation en lien avec les métiers
+1. Mise en œuvre des solutions Data et Documentation
+Piloter la mise en œuvre des projets sur son périmètre : cadrage des besoins, chiffrage, rédaction des cahiers des charges, pilotage des prestations, suivi des risques, validation des livrables et recettes en lien avec les acteurs métier.
+Veiller au respect des règles d’urbanisation et de sécurité SI sur les solutions mises en place
+Garantir la qualité de la documentation des solutions et assurer la mise à jour de la cartographie des données et des flux d’alimentation sur son périmètre
+Garantir le respect du budget des solutions Cloud par une surveillance régulière des consommations et le suivi d’alertes
+2. Fonctionnement quotidien des outils mis à disposition
+Assurer la gestion des contrats de maintenance des applications du périmètre
+Être l’interface avec les éditeurs, intégrateurs, prestataires et toute équipe en charge d’une tierce maintenance applicative (TMA)
+Gérer les authentifications et droits sur les données et sur les infrastructures de la plateforme data (création de ressources, stockages, machines...)
+Gérer l'administration fonctionnelle et la maintenance évolutive des outils de restitution (PowerBi, BO etc…)
+Suivre les anomalies et prendre en charge des adaptations sur les applications du périmètre
+Animer un plan d’amélioration continue et identifier des pistes d'optimisation
+Suivre la qualité de service
+Rédiger des procédures et animer les communautés d’utilisateurs
+3. Contact technique sur les projets Data en lien avec les métiers
+Contribuer aux études sur les nouvelles données à collecter, en lien avec les opérateurs et les partenaires
+Environnements :
+TECHNOLOGIES DATA : AZURE CLOUD, Microsoft Fabric (Datalake, BI), VM, flux de données, Oracle, postgreSQL…
+TECHNOLOGIES GED : Entra ID (AAD), MS365, Sharepoint, Sharegate, PowerAutomate…
+QUESTIONNAIRES EN LIGNE, MAILINGS, REUNIONS COLLECTIVES, ENTRETIENS INDIVIDUELS, RESTITUTIONS ECRITES (CR, RAPPORTS, DIAGRAMMES DE PROCESSUS).
+
+Juillet 2022 à décembre 2023 CAPGEMINI Consultant Fonctionnel - Data IA / PPO
+Contexte : Audit projets clients sur les potentiels de l’iA en vue de compléter l’offre de services.
+Missions :
+Élaboration d’une grille d’analyse de projets clients du site de Brest en termes de potentiel IA (Diffusion auprès des 12 chefs de projets du Pôle d’Expertise Régionale Capgemini).
+Analyse et compréhension du besoin
+Rédaction des cas d’usages, découpage et priorisation des user stories.
+Préconisations customer centric, transcription des demandes chiffrées.
+Interlocuteur transverse
+Accompagnement des chefs de projets.
+Animation des instances de direction du projet, COPIL, CODIR, CR.
+Être force de proposition en réunions de conception, ou de décision.
+Gestion budgétaire, plannings, gestion des risques.
+Suivre et faciliter les problèmes organisationnels, organiser des points spécifiques
+Garant du respect des productions, délais, qualité et des actions menées en équipe.
+Veille sectorielle, état de l’art IA des différents secteurs concernés (hôtellerie (chambre intelligente, nouvelle relation client), RH (GPEC), secteur bancaire… Domaines : RPA/IPA, iA, offre produits).
+Reporting de l’activité
+En parallèle : PPO/ScrumMaster sur un projet de Data Science pour l’IGN (outil de télédétection santé des forêts) : 6 data-scientists (Rennes, Toulouse), 1 PO (Toulouse). Réalisation de Data Mining et classification non supervisée données météorologiques.
+Environnements :
+OUTILS : QUESTIONNAIRES EN LIGNE, MAILINGS, REUNIONS COLLECTIVES, ENTRETIENS INDIVIDUELS, RESTITUTIONS ECRITES (CR, RAPPORTS).
+OUTILS : JIRA / CONFLUENCE (SPRINT PLANNING – DAILY - SPRINT REVIEW). VS CODE, QGIS, GIT, DOCKER
+TECHNOLOGIES DEPLOYEES : GOOGLE EARTH ENGINE (JAVASCRIPT), PYTHON ET LIBRAIRIES, DATAVIZ DASHBOARDS, TELEDETECTION, DONNEES METEOROLOGIQUES ERA5, DB SQL IGN.
+
+De Octobre 2021 à Juin 2022 Master « développeur Data-IA » Ecole d’ingénieur ISEN - Brest - 2022
+
+De Juillet 2020 à Juillet 2021 CAP EMPLOI 35 - ADIPH35 REPOSITORY, DEPLOYMENT MANAGER, PRODUCT OWNER
+Contexte : Décommissionnement des anciennes infra - Accompagnement des équipes métier, bascule du patrimoine existant vers le cloud AZURE Projet GED pour migration des documents de la structure. Diagnostic global et spécifications, Migration des données sur SharePoint, Gestions des droits, Accompagnement des processus métiers, Encadrement des équipes internes / externes (prestataires).
+Missions :
+Interlocuteur transverse entre Métier, Exploration et équipe Réalisation. Organiser, synthétiser, retranscrire, suivre.
+Coordination, suivi des équipes de développement, communication régulière vers toute la structure et formation des équipes métier.
+Animation d’instances, gestion budgétaire, plannings, gestion des risques.
+Analyse des spécifications fonctionnelles détaillées, diagnostic auprès des équipes.
+Rédaction du cahier des charges, sélection des prestataires.
+Sécurité des données, architecture et gestion des droits, conformité RGPD
+Suivi et faciliter les problèmes organisationnels, organiser des points spécifiques
+Coordination/coopération équipe dirigeante / chefs d’équipes / prestataires.
+60 conseillers emploi (6 équipes), équipe de direction (4 personnes), réseau des CAP EMPLOI nationaux (réseau CHEOPS).
+Adaptation des processus des 6 équipes et accompagnement des conseillers (co-construction).
+Pilotage du déploiement des outils nécessaires et intégration des fonctionnalités : Helpdesk, réservation des salles et matériels, calendriers…
+Réunions de coopération : redéfinition de l’arborescence, modification des processus.
+Garant du respect des productions, délais, qualité et des actions menées en équipe.
+Suivi des équipes de développement, tests de non régression post migration.
+Gestion du Backlog et priorisation des tâches.
+Rédaction des modes opératoires et supports techniques.
+Formation du référent interne en vue d’autonomie de la structure.
+Suivre et faciliter les problèmes organisationnels, organiser des points spécifiques
+Garant du respect des productions, délais, qualité et des actions menées en équipe.
+Accompagnement au changement.
+Veille technologique
+Reporting vers le comité de direction.
+Environnement :
+OUTIL DE GESTION DE PROJET : ASANA, JIRA
+ADAPTATION DES PROCESSUS AUX NOUVEAUX OUTILS DEPLOYES (SHAREPOINT, HELPDESK AVEC POWER APPS, ACTIVE DIRECTORY, MICROSOFT 365.
+
+De 2013 à 2020 LABOCOMMUNICANT Chef de Projet clients / Product Owner
+Contexte : relation client sur les projets de l’entreprise, coordination des projets avec les ressources DSI clients et prestataires. Étude et analyse des spécifications fonctionnelles, déploiement de solutions en mode SaaS.
+Missions :
+Interlocuteur transverse entre Métier, Exploration et équipe Réalisation. Organiser, synthétiser, retranscrire, suivre.
+Conduite de projet, accompagnement au changement (interne-externe).
+Relation clients/prospect, évaluation économique en avant-vente.
+Accompagnement, développement et déploiement de solutions internet à forte valeur ajoutée pour les laboratoires de recherche puis pour les clients privés, entreprises et associations.
+Product Owner, animation des équipes projet, relation clients, relation DSI (CODIR, COPIL, CR).
+Analyse des besoins, définition des périmètres d’intervention, chiffrage, devis, cahier des charges, négociation des contrats.
+Gestion du Backlog, rédaction des Tickets à traiter, Supervision du Cahier des charges Fonctionnalités.
+Priorisation des taches de l’équipe.
+Analytics, reporting, définition d’offre de formation.
+Administration facturation, marchés publics.
+Gestion budgétaire des projets et de l’entreprise, plannings, gestion des risques.
+Suivre et faciliter les problèmes organisationnels, organiser des points spécifiques
+Garant du respect des productions, délais, qualité et des actions menées en équipe.
+En parallèle : Ingénierie de formation pour un module universitaire : déploiement et programmation de systèmes de gestion de contenus (CMS).
+Environnement :
+ÉQUIPES CLIENT (DIRIGEANTS, DSI, COMMUNICATION), DEVELOPPEURS JUNIORS, PRESTATAIRES.
+OUTIL DE GESTION DE PROJET : JIRA, ASANA, TRELLO, SLACK.
+TECHNOLOGIES : HEBERGEMENT SERVEURS MUTUALISES OU DEDIES CLOUD OVH, POLITIQUE DE SAUVEGARDES, GESTION DNS, DEVELOPPEMENT DE LOGICIELS SAAS, SITES, WEB APP (PHP, SQL, JAVASCRIPT)
+
+De 2005 à 2013 IMT Atlantique (Institut Mines Telecom - Telecom-Bretagne) Responsable Système d’Information
+Contexte : Gestion du système d’information du groupement de recherche et de l’observatoire statistique régional. Développement de solutions collaboratives. Encadrement de projets (pôle image et réseau, projets de recherche).
+Missions :
+Conduite de projet et encadrement d’équipes (Allant de 5 à 10 personnes) issues des DSI des structures adhérentes, CNRS, MSH, IMT Atlantique, pôle de compétitivité image & réseaux, sous-traitants, prestataires.
+Accompagnement au changement des laboratoires et partenaires institutionnels en appui aux DSI des structures (ressource transverse).
+Responsable du système d’information et de tous les outils connectés et dépendants, responsable des montées de version et de la disponibilité des services (mail, stockage data, sites projets applicatifs, intranets).
+Analyse des besoins, spécification fonctionnelle, analytics, reporting, formation équipes.
+Suivre et faciliter les problèmes organisationnels, organiser des points spécifiques
+Garant du respect des productions, délais, qualité et des actions menées en équipe.
+Développement et déploiement sur différents projets : Solutions Saas à forte valeur ajoutée pour les laboratoires de recherche. Systèmes collaboratifs complexes (revues à comité de lecture, conférences scientifiques). Plateforme chercheurs, testeurs, systèmes d’inscription, gestion de calendriers d’équipes. Systèmes de gestion de contenus (CMS).
+Animation d’instances, gestion budgétaire, plannings, gestion des risques.
+Environnement :
+OUTILS DE GESTION DE PROJET : ASANA, TRELLO, SLACK.
+TECHNOLOGIES DEPLOYEES : HEBERGEMENT DSI, SAUVEGARDES, DNS, DEVELOPPEMENT DE LOGICIELS, SITES, WEB APP (PHP, SQL, JAVASCRIPT, RSS), ACTIVE DIRECTORY. WIKI, LISTES DE DIFFUSION, FORUMS, NEWSLETTERS, SITES DE GESTION DOCUMENTAIRE ET D’INFORMATION. LIMESURVEY, OPEN JOURNAL SYSTEM, OPEN CONFERENCE SYSTEM, WORDPRESS ET AUTRES CMS OPEN SOURCE.
+
+De 2000 à 2005 CONSEIL RÉGIONAL DE BRETAGNE Responsable de structure ressource d’accès au multimédia
+Contexte : Encadrement de ressources publiques pour le programme centre de ressources régional du numérique.
+Missions :
+Conduite de projet. Equipe 8 personnes : Collectivités locales, prestataires SSII, associations (salariés, stagiaire, bénévoles, matériel, salles).
+Formateur multimédia, bureautique et Internet pour les lieux ressource (programme centre de ressource du numérique).
+Webmaster pour différentes structures (collectivités locales, associations, comité d’entreprises).
+Responsabilité et gestion des hébergements web, sauvegardes, développement de sites web.
+Maintenance hardware et réseau des espaces publics multimédia, relations prestataires.
+Encadrement, planning d’interventions et sessions de formation.
+Suivre et faciliter les problèmes organisationnels, organiser des points spécifiques
+Garant du respect des délais, qualité et des actions menées en équipe.
+Animation d’instances, gestion budgétaire, plannings, gestion des risques.
+Environnement :
+OUTILS DE GESTION DE PROJET : GANTT, PLANNINGS MICROSOFT OUTLOOK, INGENIERIE DE FORMATION.
+TECHNOLOGIES DEPLOYEES : WEB DNS ET RESEAU (LAN), PHP, SQL, JAVASCRIPT.
+
+Formations et diplômes
+Master « Développeur Data - iA ». Ecole d’ingénieur ISEN - Brest - 2022
+Master « Chef de projet transformation digitale ». Voyelle Formation, Cesson-Sévigné - Rennes - 2020
+Diplôme universitaire « DEUST TMIC ». (Médias, Informatique, Communication) UBO - Brest - 2013
+Formations internes Télécom Bretagne. (Javascript, PHP/SQL, XML, serveur web sous Debian) - Brest 2005 - 2012
+Diplôme « Formateur Informatique / Multimédia ». Alternance - AFPA - Brest - 2003
+Formation « Webmaster, Webdesign & PAO ». Centre de Ressources Informatiques, CRI - Nantes - 2000
+Certifications Azure AZ900 (Microsoft)
+Azure AI900 (Microsoft)
+MéthodeSCRUM / Agile (Simplon)
+
+Langues
+Anglais : Confirmé (courantr et technique)

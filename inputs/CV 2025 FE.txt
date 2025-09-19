@@ -1,0 +1,52 @@
+EXPERTISE
+Transformation et analyse de données.
+Profil
+Plus de 15 ans d'expérience dans le développement d'outils d'analyse décisionnel et d'optimisation notamment en retail et e-commerce
+COMPETENCES TECHNIQUES
+Business Intelligence
+Power BI, Power App, Tableau, Microstrategy, R Shiny and QGIS
+Data eng/architecture
+Cloud services including Storage, ETL, servers, VM and distributed computing on AWS, Azure, GCP, snowflake and Databricks
+Data Science
+R, Python, SAS and SQL
+Outils E-commerce
+Salesforce Marketing Cloud, Bronto
+Project management
+Agile, Jira/Confluence, ADO Git or Bitbucket
+Microsoft Office
+Outlook, Word, Excel, PowerPoint, Power Automate, Sharepoint
+LANGUES
+French: Natif
+English: Bilingue
+EXPERIENCE
+StromAI, France — Consultant Senior Data Analyst
+JUIN 2022 - PRÉSENT
+Contexte: 
+Développement d'outils d'analyse de données avancées utilisant la suite Microsoft (Power BI, Power Apps, Power Automate, SharePoint) et divers outils cloud (snowflake, databricks, dbt) pour divers clients, notamment :
+Tâches :
+Pernod Ricard (Outils Power BI finance, vente et S&OP)
+Mars Wrigley Confectionery (Outils Power BI force de vente France)
+Castrol (Reporting Power BI de stratégie globale)
+
+Pitcher Partners (ex-KPMG), Australie — Senior Manager - Data & Analytics
+AOÛT 2018 - SEPTEMBRE 2022
+
+Tâches : 
+Développement d’une équipe et de l'offre Data & Analytics notamment en E-commerce développement d'outils d'analyse des ventes en ligne et de personnalisation/segmentations pour Hairhouse Warehouse (leader australien dans les produits de beauté) (Power BI / Databricks)
+
+Quantium, Australie — Senior Consultant / Data Scientist
+JANVIER 2015 - OCTOBRE 2018
+contexte : 
+Modélisation des risques et du comportement client à l'aide de techniques d'apprentissage automatique.
+Tâches
+Notamment en E-commerce, modélisation des taux de conversions et de la customer lifetime value et création d’un outil de pilotage et optimisation pour Suncorp (assurance) (Tableau / SQL server)
+
+PwC, Belgique — Senior Associate - Actuarial Services
+AOÛT 2012 - OCTOBRE 2014
+Tâches: 
+Soutien à l'audit actuariel et conseil en assurance et avantages sociaux.
+
+DIPLÔMES
+Solvay Business School, Belgique— MBA 2012-2014
+ULB, Belgique — Master en Sciences Actuarielles 2009 - 2012
+Université de Strasbourg, France - Licence Maths/Eco 2006 - 2009

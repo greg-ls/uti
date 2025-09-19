@@ -1,0 +1,215 @@
+**Data Engineer**  
+14 ans d’expériences  
+
+**Compétences techniques :**  
+
+**Business Intelligence & Data Visualization (7 ans d'expériences) :**  
+Talend Studio 8, Talend ESB, Talend Big Data, Talend Data Quality  
+Power BI, DigDash  
+Data Warehouse, Data Lake  
+
+**Langages de Programmation :**  
+Java, Script Shell, Spark, SCALA  
+Python (PySpark, Pandas, Numpy, Matplotlib, Flask)  
+
+**Web & Framework (7 ans d'expériences) :**  
+Apache, PHP 5 & 7 & 8, HTTP / HTTPS  
+Symfony 7, Drupal 7 & 10, CodeIgniter 3  
+HTML 5, Bootstrap 5, CSS  
+JavaScript, JQuery, TypeScript, Angular 18  
+WampServer, Photoshop  
+
+**Bases de Données & Big Data :**  
+SQL, PostgreSQL, Oracle, MySQL, Microsoft SQL Server, Snowflake  
+NoSQL, MongoDB  
+Hadoop, Kafka  
+
+**DevOps & CI/CD :**  
+Git, GitLab, Jenkins, Docker, Kubernetes, Ansible  
+
+**API :**  
+API REST, Postman  
+
+**Cloud :**  
+AWS (IAM, EC2, EBS, ECS, EKS, ECR, S3, Glue, Athena, Lambda, EFS, FSX, SQS, SNS ...)  
+Google Cloud Platform (GCP)  
+
+**Système d'exploitation :**  
+Windows, Linux, CentOS, Ubuntu, Debian  
+
+**Outils :**  
+RUBRIC, Dynatrace, FTP, MFT, VMware, GoAnyWhere, Visual Studio Code, NetBeans, PUTTY, Bureau à distance, MongoDBCompass, pgAdmin, snowsql  
+Google Colab, Jupyter Notebook, Kaggle, Minikube  
+
+**Schéduleur :**  
+Automic, OPC  
+
+**Diplômes et Formations :**  
+2011 : Maîtrise en Informatique Système et Multimédia, Institut Supérieur Informatique et Multimédia Sfax, Tunisie  
+2007 : Diplôme de Baccalauréat (Mathématique), Lycée Majida Boulila Sfax, Tunisie  
+
+**Compétences fonctionnelles :**  
+Agile (Scrum), Mantis, PISE, OASIS  
+
+**Langues :**  
+Anglais : professionnel 
+
+**Parcours Professionnel :**  
+
+**SONASO INFORMATIQUE**  
+Depuis 02/25  
+**Data Engineer**  
+Projet et contexte : Migration et synchronisation de données on-premise vers AWS :  
+Création de la clé d'accès via IAM.  
+Charger les données depuis S3 vers la BDD PostgreSQL via des jobs AWS Glue.  
+Implémentation des jobs ETL vers S3 pour le stockage intermédiaire.  
+Implémentation des pipelines d’automatisation des Jobs à partir de la BDD on-premise via Talend Management Console.  
+Implémentation des applications Lambda pour lancer les jobs AWS Glue lors de la mise à jour de la source dans S3.  
+Environnement technique : AWS (RDS, S3, Lambda, Glue, IAM), Talend 8.0.1, TMC, SQL, Data Center, GitLab.  
+
+**Groupement Les Mousquetaires**  
+12/22 – 01/25  
+**Data Engineer & Analyste d’exploitation**  
+Projet et contexte : NOSICA : Projet financier du groupement Les Mousquetaires :  
+Analyser les pivots et mapping d’interfaces.  
+Implémentation et mise à jour des jobs ETL.  
+Implémentation des jobs avec Kafka.  
+Création des dossiers sous MFT via AWX.  
+Transférer les fichiers à MFT.  
+Recette avec les métiers.  
+Vérifications sur PeopleSoft avec les métiers.  
+Suivi de monitoring sur OPC/TSO Etudes et Automic.  
+Suivi de déploiement en recette et en production via GitLab.  
+Environnement technique : Talend 8, Kafka, PeopleSoft, Script Shell, Oracle 19c, SQL Developer, OPC, Automic, Windows, AWX, PuTTY, Git, GitLab, OPC, Automic, MFT, GoAnyWhere, OASIS.  
+
+**Conseil Départemental de l’Essonne 91**  
+09/18 – 10/22  
+**Data Engineer**  
+Projet et contexte : Data Warehouse : Intégration des données dans l’entrepôt de données (DWH) :  
+Extraction et ingestion des différentes sources de données : SAP BO, Excel, CSV, API REST, …  
+Intégration et filtrage de données dans l’entrepôt de données (DWH).  
+Implémentation des vues dans DATAMART.  
+Création de comptes en lecture seule pour les métiers.  
+Implémentation des pipelines d’automatisation des Jobs via Jenkins.  
+Implémentation d’une interface web en Symfony, pour avoir une visibilité sur DATAMART.  
+Mise à jour de la base de données de la version 9.6 à la version 14.1.  
+Mise à jour de la version de Talend de la version 6.2.1 vers la version 7.3.1.  
+Exposition des API REST pour les applications tierces.  
+Implémentation des rapports sur Power BI.  
+Suivi des rapports sur DigDash.  
+Environnement technique : Talend 7.3.1, PostgreSQL 14, Jenkins, PHP 7, Symfony 6, Bootstrap 5, XML, JavaScript, HTML5, Apache 2, DigDash, Power BI, Agile Scrum, PISE.  
+
+Projet et contexte : Référentiel usagers uniques : C’est un projet qui permet de créer un référentiel des usagers uniques :  
+Récupération, filtrage et homogénéisation des données de différentes bases de données Oracle.  
+Formatage et filtrage des données.  
+Analyser les listes récupérées dans Talend Data Quality.  
+Extraction des uniques et des doublons en des vues.  
+Dédoublonnage des usagers dans le référentiel des usagers uniques.  
+Implémentation d'une interface web en Symfony, pour avoir une visibilité sur les usagers en doublons et uniques, et sur la liste du référentiel des usagers uniques.  
+Intégrer les données dans une base de données MongoDB via Talend Big Data.  
+Environnement technique : PostgreSQL 14, Talend 7.3.1, Talend Big Data, MongoDB, MongoDBCompass, PHP 7, Symfony 6, Bootstrap 5, JavaScript, HTML5, Apache 2, PISE.  
+
+**Administrateur d’application**  
+Projet et contexte : Installation et mise à jour de DigDash :  
+Installation et configuration, mise à jour DigDash sur le serveur  
+Configuration serveur LDAP  
+Passage en HTTPS  
+Lancer service Tomcat au redémarrage du serveur  
+Environnement technique : DigDash, CentOS, PuTTY, PISE.  
+
+Projet et contexte : Installation et mise à jour de Géoclip :  
+Installation, Configuration, MAJ et paramétrage Géoclip  
+Passage en HTTPS  
+Installation de la connexion à LDAP  
+Création des groupes d'utilisateurs.  
+Environnement technique : Géoclip, CentOS, MySQL, PHP 5, PuTTY, PISE.  
+
+**Assistance Publique Hôpitaux de Paris (AP-HP)**  
+10/17 – 09/18  
+**Développeur PHP Symfony**  
+Projet et contexte : AGHATE : Application web pour agenda des programmations d’hospitalisations :  
+Implémentation des nouvelles interfaces basées sur Bootstrap et jQuery.  
+Implémentation des nouvelles fonctionnalités en collaboration avec le PO.  
+Mise en place d’un batch pour la synchronisation de données entre la base AGHATE et la base SIRIUS.  
+Réfactoring du code source en suivant les principes SOLID.  
+Résolution des incidents de production  
+Environnement technique : Symfony 3.4, PHP 5, CSS 3, Bootstrap, JavaScript, JQuery, Ajax, HTML5, Apache 2, MySQL 5.5, SVN, Eclipse, Scrum, Mantis.  
+
+**Groupe I-WAY**  
+09/15 – 09/17  
+**Développeur PHP**  
+Projet et contexte : ESPOIR DE DEMAIN : Site web en multilingue pour l’association ESPOIR DE DEMAIN :  
+Communication avec le client sur la conception du projet  
+Planification des tâches  
+Développement :  
+  Intégration de la maquette PSD en des pages HTML  
+  Création du nouveau thème  
+  Création de nouveau rôle et affectation des droits spécifiques  
+  Création du module de chat entre les membres de rôle rédacteur.  
+  Formation des clients  
+Environnement technique : Drupal 8, PHP 5, Twig, CSS 3, Bootstrap 3, jQuery, HTML 5, WampServer 3, Apache 2, MySQL 5.5, SVN, Scrum, Mantis, NetBeans.  
+
+Projet et contexte : Tunisia Trading : C’est un projet pour Chambre de commerce et d'industrie de Tunis (CCIT). Ce site a été développé sur trois parties : partie visiteur, espace utilisateur et espace pour les administrateurs :  
+Corrections des bugs bloquants  
+Ajouter des modifications et des améliorations  
+Intégration d’un nouveau thème (Responsive Design)  
+Développement de nouveaux plugins  
+Environnement technique : Symfony 2, PHP 5, Apache 2, MySQL 5.5.49, Ajax, JavaScript, JQuery, CSS 3, Bootstrap 3, HTML 5, SVN, Scrum, Mantis, NetBeans, MVC.  
+
+Projet et contexte : Assurance SALIM Extranet : Partie d’administration du site officiel de l’assurance SALIM :  
+Chercher et corriger les problèmes de lenteurs.  
+Ajouter des modifications et améliorations.  
+Création du module gestionnaire.  
+Environnement technique : Drupal 7, PHP 5, JQuery, HTML 5, Bootstrap 3, Apache 2, MySQL 5.5, SVN, NetBeans, Scrum, Mantis.  
+
+Projet et contexte : Économie Verte : C’est un projet pour ministère des Affaires locales et de l’environnement. Site web pour la gestion du contenu :  
+Planification des tâches  
+Intégration de la maquette PSD en des pages HTML  
+Création du nouveau thème  
+Création de nouveau rôle et affectation des droits spécifiques  
+Déploiement et mise en production  
+Préparation de manuel d’utilisation  
+Formation des clients  
+Environnement technique : Drupal 7, PHP 5, CSS 3, JavaScript, JQuery, Ajax, HTML5, Apache 2, MySQL 5.5, SVN, NetBeans, Scrum, Mantis.  
+
+**Media Center**  
+07/11 – 08/15  
+**Développeur PHP**  
+Projet et contexte : Ordre National des Avocats de Tunisie (ONAT) : Site web avec une partie pour la gestion du contenu et la gestion des avocats :  
+Planification des tâches  
+Intégration de la maquette PSD en des pages HTML  
+Développer les plugins : Gestion de contenu, Réécriture d’URL, Média, Gestion des avocats, Intégrer un plugin de chat, ...  
+Déploiement et mise en production  
+Formation des clients  
+
+Projet et contexte : SOCIOS CSS : Site web pour le réseau des supporters "SOCIOS CSS" pour Club Sportif Sfaxien (CSS) :  
+Intégration de la nouvelle maquette PSD en des pages HTML  
+Développer les plugins de gestion : de contenu, Réécriture d’URL, Authentification par la session du Facebook, de médias, Services d’abonnement.  
+Déploiement et mise en production  
+Formation des clients  
+
+Projet et contexte : GROUPE MATEM : Site web pour le GROUPE MATEM :  
+Intégration de la maquette PSD en des pages HTML  
+Développer les plugins : Espace clients, Espace fournisseurs, Partie admin pour la gestion de contenus  
+Déploiement et mise en production  
+Formation des clients  
+
+Projet et contexte : ABRACADABRA : Site web pour la boutique de jouets ABRACADABRA :  
+Intégration de la maquette PSD en des pages HTML  
+Développer les plugins de gestion de : contenu, des utilisateurs et leurs enfants, des produits, Panier, des commandes, ...  
+Déploiement et mise en production  
+Formation des clients  
+Environnement technique de travail : CodeIgniter 2, PHP 5, CSS, JavaScript, JQuery, Ajax, WampServer 2.2, Apache 2, MySQL 5.5, SVN, NetBeans.  
+
+**Projet de fin d’étude**  
+01/11 – 06/11  
+**Développeur ANDROID**  
+Projet et contexte : Projet Budget Personnel : Projet de fin d’étude, une application pour la gestion du budget personnel.  
+Auto-formation en Android  
+Création des interfaces  
+Ajouter les actions sur les éléments  
+Communiquer à la base de données MySQL  
+Importer les informations en format JSON  
+Préparer le rapport du projet  
+Soutenance  
+Environnement technique : Android, Java, XML, PHP 4, SQL, WampServer 2, Apache 2, MySQL 5.5, Eclipse.

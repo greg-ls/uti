@@ -1,0 +1,236 @@
+Olivier COELHO
+ANALYSTE DEVELOPPEUR MAINFRAME IBM
+MVS COBOL DB2 SQL IDZ
+
+DOMAINES D’INTERVENTION
+Analyse de besoins
+Estimation de charges
+Rédaction de documentations
+Développement
+Tests et Recette fonctionnelle
+Mise en production et suivi
+
+CONNAISSANCES TECHNIQUES
+Langages : COBOL
+Outils : IDZ - TSO - JCL - JIRA - Confluence - E-GEN - CICS - File-AID - SPITAB - ChangeMan - CCC/LCM - MS Office - Visio
+Méthodologies : Agile/ SCRUM - Cycle en V - Merise
+
+DIPLOMES
+1989 : D.U.T. Informatique - I.U.T. d’Orsay (PARIS XI)
+1987 : D.E.U.G. B option Chimie/Biologie - Université d'Orléans La Source
+1984 : Baccalauréat série D
+
+EXPERIENCES PROFESSIONNELLES
+LCL (Depuis 07/2023)
+Monétique Commerçants - PAY MON
+Contexte/Projets
+Etude détaillée, réalisation, tests, recette, mise en production et suivi des opérations de maintenances évolutives : Mise en place (TP et Batch) de la Surveillance des Sites pour les contrats VADS (Vente à distance sécurisée) par intégration des URL dans le SI puis envoi vers l'outil de criblage G2 du Groupe Crédit Agricole.
+Détail des tâches :
+Release réglementaire CBAE 5.04 (Cafte Bancaire Acquéreur Emetteur - Protocole d'échange)
+- Ajout et modification de règles de valorisation des données restituées aux réseaux CB, VISA et MASTERCARD.
+- Création et rédaction de documentation technique pour faciliter les releases ultérieures.
+Création d'un état "Rentabilité Monétique" directement accessible en ligne par les conseillers - Analyse fonctionnelle et technique, paramétrage, propositions de maquettes.
+Release réglementaire CBAE 5.05 (Cafte Bancaire Acquéreur Emetteur - Protocole d'échange)
+- Ajout de nouvelles données dans les flux restitués aux réseaux CB, VISA et MASTERCARD.
+- Contrainte forte : agrandissement des fichiers (étude d'impact, réalisation, tests, recette, mise en production).
+- Allègement et optimisation des traitements par suppression physique de procédures et ressources non utilisées.
+Environnement technique :
+ZOS · MVS · COBOL · DB2 · IDZ · TSO · JCL · File Manager · SPITAB · JIRA
+Confluence · ChangeMan · MS Office · Visio
+
+SOCIETE GENERALE (07/2019 - 06/2023)
+Déclaration fiscale internationale - FATCA/ CRS
+Contexte/Projets
+Régimes de déclaration fiscale internationale visant à lutter contre l'évasion fiscale et à promouvoir la transparence financière entre les pays.
+Détail des tâches :
+Projet Création de la banque SDBM (Société De Banque Monaco) :
+- Responsable de l'étude d'intégration des nouveaux Tiers SDBM issus de 4 agences Crédit Du Nord présentes à Monaco.
+- Conception des tables de transcodification entre les 2 banques.
+- Analyse, développement et tests des traitements de duplication et d'intégration des nouveaux Tiers SDBM.
+Mise en Production et suivi.
+Reporting FATCA/CRS :
+- Responsable du déroulement des traitements, de leur suivi et des évolutions.
+- Responsable du projet d'automatisation et d'optimisation (gain de 90%).
+- Fiabilisation des traitements (propositions et mise en place). - Assistance à Maitrise d'Ouvrage et Métier.
+- Création de documentations et d'un mode opératoire détaillé et paramétrable.
+Divers :
+- Résolution de problèmes de transfert de fichiers entre Z/OS et Poste local, création d'un mode opératoire.
+- Création et maintenance des composants de Production (Jobs) via l'outil E-GEN (ISC)
+Environnement technique :
+Z-OS · COBOL · DB2 · TSO · JCL · SPITAB · E-GEN · File-Aid · JIRA · LCM
+MS Office · Visio
+
+BNP PARIBAS (07/2017 - 03/2019)
+Système d'Analyses des Résultats - SAR
+Contexte/Projets
+Système d'Analyses des Résultats (Comptabilité analytique)
+Prise en compte des Expressions de Besoins MOA via ASAP (Application de Suivi des Activités Patrimoine).
+Détail des tâches :
+Responsable du projet transverse "Transformation de I 'Enseigne de Recrutement en axe de gestion ".
+- Conception, analyse fonctionnelle,
+- Suivi des développements (TMA), Recette.
+Maintenances corrective et évolutive (ajout de données dans la Base DB2)
+- Conception, analyse fonctionnelle,
+- Suivi des développements (TMA), Recette,
+- Mise en production.
+Environnement technique :
+Z-OS · COBOL · DB2 · TSO · JCL · SPITAB · ENDEVOR · File Manager
+ASAP · MS Office
+
+LCL (07/2014 - 06/2017)
+Comptabilité et Risques - RECOR
+Contexte/Projets
+Comptabilité et Risques
+Projet RECOR (Réforme REglementaire COmptable et Risques) - Refonte de la collecte standard.
+Détail des tâches :
+Conception, étude détaillée, réalisation, tests unitaires, recette, mise en production et suivi des opérations suivantes :
+OAR : Constitution de DDCRE à destination de RDJ
+ARPEGE Risques : En renfort pour recette d'évolutions fonctionnelles
+BFC-AG : Déclaration de créances douteuses pour IEDOM
+POLE FINANCES : Crédits renégociés (règlementaire)
+Etats INTNOUA / CONTRAN Extraction sélective de contrats renégociés à destination de la BdF et de la BCE
+TITRISATION True Sale - Constitution de Description Détaillée des CRE à destination de RDJ :
+- Rédaction des Dossiers de Conception Applicative et Détaillée
+- Réception et tests des livrables fournis par le Centre De Services
+Environnement technique :
+Z-OS · COBOL · DB2 · IDZ · TSO · JCL · HP ALM QC · File Aid · SPITAB · JIRA
+ChangeMan · Lotus Notes · MS Office · Visio
+
+SOCIETE GENERALE (04/2011 - 06/2014)
+Gestion de la Tenue de Compte - GTC
+Contexte/Projets
+Conception, étude détaillée, réalisation, tests unitaires, recette, mise en production et suivi des opérations
+Détail des tâches :
+Création d’un environnement d'homologation bancaire à partir de l'environnement d'exploitation
+Installation des traitements batch les jours fériés français ouverts TARGET
+Mise en place de services métier pour restitution d’informations à destination des IHM PUMA
+Mise en place de services métier pour restitution d’informations à destination de la Banque à distance
+Maintenance évolutive et corrective
+Environnement technique :
+Z-OS · COBOL · DB2 · TSO · JCL · SPITAB · File-Aid · LCM · MS Office
+
+LCL (03/2008 - 03/2011)
+Banque En Ligne - BEL
+Contexte/Projets
+Vente en ligne de produits bancaires avec certification par signature électronique - Analyse fonctionnelle et technique - Rédaction des Rapports de Conception Générale et de Conception Détaillée - Réalisation, Tests, Suivi de recette et de mise en production - Mise en place d’options (contrôles d'éligibilité, mode STP, ...)
+Détail des tâches :
+Analyse, Rédaction, Réalisation, Tests, Suivi de recette et de mise en production
+Environnement technique :
+Z-OS · COBOL · DB2 · TSO · JCL · File Aid · SPITAB · ChangeMan · Lotus Notes · MS Office
+
+SOCIETE GENERALE (01/2005 - 12/2007)
+Effets de Commerce - LCR / AEC
+Contexte/Projets
+Conception, étude détaillée, réalisation, tests unitaires, recette, mise en production et suivi des opérations
+Détail des tâches :
+Routage des écritures comptables
+Refonte des contrôles d'habilitation des accès utilisateurs (TP)
+Migration de la gestion des commissions de EAE dans FDS
+Sous-traitance dans LCR-Tiré des flux de la Banque suédoise SEB
+Neutralité des Transferts de Comptes (NDT) - Lot 1
+Responsable de la mise en place d'un second environnement de test
+Mise aux normes de l'environnement de test existant
+Environnement technique :
+Z-OS · COBOL · TSO · JCL · LCM · File Aid · SPITAB · MS Office
+
+GENERALI (03/2004 - 12/2004)
+Incendie, Accidents et Risques Divers - IARD
+Contexte/Projets
+Intégration des compagnies CONTINENT et ZURICH Assurances
+Détail des tâches :
+Développement d'applications CICS pour prise en compte de nouveaux produits d'assurances.
+Environnement technique :
+Z-OS · COBOL · TSO · JCL · LCM · File Aid · SPITAB · MS Office
+
+SOCIETE GENERALE (02/2001 - 12/2003)
+Centralisation des Traitements des Virements Etrangers - CTVE
+Contexte/Projets
+Responsable de la migration de la base de données DLI vers DB2
+Détail des tâches :
+Etude d'impact, analyse technique, réalisation, tests, mise en production et suivi,
+Maintenance évolutive et corrective
+Environnement technique :
+Z-OS · COBOL · IMS · DL1 · DB2 · TSO · JCL · LCM · File Aid · MS Office
+
+SOCIETE GENERALE (05/1999 - 01/2001)
+Etude de Rentabilité de la Clientèle Commerciale- ERCC
+Contexte/Projets
+Optimisation et maintenance de l'application, module Restitutions
+Détail des tâches :
+Analyse Fonctionnelle et technique, réalisation, tests, mise en production et suivi
+Environnement technique :
+Z-OS · COBOL · TSO · JCL · LCM · File Aid · MS Office
+
+SOCIETE GENERALE (09/1997 - 04/1999)
+Effets de Commerce - LCR / AEC
+Contexte/Projets
+Conception, étude détaillée, réalisation, tests unitaires, recette, mise en production et suivi des opérations
+Détail des tâches :
+Adaptation de l'application à la Monnaie Unique Européenne et à la Neutralité des Transferts.
+Responsable de la mise en place de l'application sous LCM (Gestion de Configuration Logicielle)
+Environnement technique :
+Z-OS · COBOL · TSO · JCL · LCM · File Aid · SPITAB · MS Office
+
+STIME (08/1996 - 09/1997)
+Progiciel de comptabilité - COTRE
+Contexte/Projets
+Conception, étude détaillée, réalisation, tests unitaires, recette, mise en production et suivi des opérations
+Détail des tâches :
+Évolutions standards et spécifiques du progiciel de comptabilité COTRE (Gfi)
+Mise en place d’une nouvelle version du progiciel (réception, intégration, suivi)
+Etude d'impact de la gestion de l'an 2000 dans les interfaces comptables
+Environnement technique :
+MVS · COBOL · TSO · JCL · CICS · SPITAB · MS Office
+
+LABINAL (04/1996 - 08/1996)
+Application comptable
+Contexte/Projets
+Maintenance et évolutions.
+Détail des tâches :
+Analyse d'évolutions, réalisation, tests unitaires, recette, mise en production et suivi
+Environnement technique :
+MVS · COBOL · TSO · JCL · CICS · SPITAB · MS Office
+
+SDV BOLLORE (03/1995 - 03/1996)
+Transit international à dominante maritime- MERCURE
+Contexte/Projets
+Refonte du système de traitement des opérations de transit international
+Détail des tâches :
+Analyse fonctionnelle de la gestion d’un dossier de transit
+Encadrement des réalisateurs, suivi, intégration
+Environnement technique :
+AS-400 · OS-400 · ADELIA · MS Office
+
+BOURJOIS-CHANEL (04/1992 - 02/1995)
+Progiciel de gestion commerciale multi-sociétés - DCS
+Contexte/Projets
+Mise en place du progiciel de gestion commerciale multi-sociétés DCS (Arthur Andersen)
+Détail des tâches :
+Mise en place de l'intégration automatisée des commandes des filiales européennes dans DCS
+Analyse des spécificités fonctionnelles du module Commandes
+Encadrement, intégration et suivi des applications relatives à la gestion des commandes
+Environnement technique :
+MVS · COBOL · TSO · JCL · CICS · SPITAB
+
+CRPNPAC (11/1991 - 03/1992)
+Systèmes de Retraite
+Contexte/Projets
+Caisse de Retraite du Personnel Navigant Professionnel de l'Aéronautique Civile
+Détail des tâches:
+Développements, en mode forfait, de traitement CICS et BATCH avec intégration de SPITAB.
+Environnement technique :
+MVS · COBOL · TSO · JCL · CICS · SPITAB
+
+SIGMA SERVICES (11.1989 - 10.1991)
+Contrats de services Renault
+Contexte/Projets
+Améliorations de l’existant
+Détail des tâches:
+Analyse et développement des traitements Commissions sur ventes et Intégration automatisée des contrats V.O.
+Environnement technique :
+MVS · COBOL · TSO · JCL · CICS · DB2 · SPITAB
+
+UTI GROUP Contact commercial : Fabrice BARREAU
+SA au capital de 4 255 671.20 € 06 80 81 96 23
+68, rue de Villiers Levallois-Perret Cedex fabrice.barreau@uti-group.com
+www.uti-group.com 1/8

@@ -1,0 +1,150 @@
+STARZYK Jean-Pierre
+concepteur develoPpeur mainframe IBM
+(mvs, cobol, db2, RDZ)
+
+CONNAISSANCES TECHNIQUES
+Matériels : 43XX,3090, PC, HP-UX
+Outils : CICS, ENDEVOR, FILE AID, SMARTEST, TELON
+SAP (module RM), COPICS, MEGA, AIDA, PACBASE
+Cvs, Svn, Git, MTO, Microfocus, Visual Studio, RDZ,
+CHANGEMAN, Xpediter, Clearquest, Jira, Serena Dimensions
+SNOW, ITSM, Test Director
+Systèmes : MVS, DOS/VSE, UNIX, MS/DOS, TSO, VSAM, JCL, shell
+ksh, putty, WinSCP, Filezilla
+Langages : COBOL, LTR (assem. De la poste), ADSO-ADSA, DELTA, ARIANE
+Méthode : AXIAL, MERISE
+SGBD : IDMS, DL1, DB2, SQL/DS, DATACOM, O2
+Oracle, SQL-Server
+
+DIPLOMES
+1985 : Diplôme d’Ingénieur Mécanicien Electronicien, ESME SUDRIA
+Télécommunications Traitements et Transmission du signal
+1982 : Maths Sup. Maths Spé.
+1980 : Baccalauréat C
+
+EXPERIENCES PROFESSIONNELLES
+03/2025 à 06/2025 AREAS
+Analyste Programmeur Mainframe IBM
+Dans le cadre du décommissionnement BULL, pour AGS Dommage Legacy, surveillance des traitements en exploitation sur le central. Rétro-documentation de la flotte auto.
+Environnement technique : BULL GCOS7, fichiers UFAS, COBOL, JCL, OXYJAR, Isilog, AZUR devOps VM, Powershell, SQL-server
+
+07/2021 à 02/2025 EID (CREDIT MUTUEL)
+Consultant Analyste-Développeur, Cellule Technique
+Analyse, développement : RTC (NI, QI, DB et SI) build, packaging et deploy to test
+Migration des filesystems USS de HFS vers ZFS
+Build des objets PCIDSS avec appel au service de génération d'empreinte.
+Packaging des objets PCIDSS (PCIACQUI et PCIATM) avec envoi des empreintes vers le Quai de livraison XQDL
+Sécurisation de la migration Librarian vers RTC, ainsi que de REFIMS
+EAI : Modification du script de compilation Microfocus afin de le rendre compatible avec le processus RTC-EAI
+Mise à disposition des binaires Unix EAI pour la reconstruction des paquets EAI
+Deploy To Test et Delete via la vue Tools : gestion des objets EXEB et EXEC pour les accesseurs
+Support RTC aux utilisateurs
+Gestion périodique de la boîte aux lettres de l'équipe.
+Environnement technique : ZOS, COBOL, DB2, IMS, C, JCL, RDZ, RTC, ZGEN, REXX, C++, USS, java, jenkins, Gitlab, shell unix
+
+02/2021 à 06/2021 France GALOP
+Analyste – Développeur Mainframe IBM
+Correction d’anomalies sur un programme TP et deux programmes batch.
+Rétro-documentation sur la partie comptable en TP pour passage en .NET.
+Environnement technique : MVS, DB2, CICS, COBOL, JCL, RDZ, ENDEVOR, INSTALL-1
+
+09/2019 à 01/2021 EUROPEAN SECURITIES PARTNER
+Analyste- Développeur Mainframe IBM
+Programmation : FK et RU, normalisation des accès à la SPITAB Tab154 prévue dans le lot 1 de PERI, pour les programmes en adhérence avec la Dde-011519 Loi PACTE.
+Production : Flux PA vers FK pour Dde-011519 - Loi PACTE - Chantier 5 - Retrait pour motif accident de la vie.
+Mise à niveau des ordinogrammes : xFK0JC controle des mouvements, RU1JP Passage IRS de non à oui et Changement type de revenu, xFKnJA OCD-fiscalisation des echanges-modification defe-modification de masse, xFKnJE Recalcul des MVT & Soldes, xFK0JW Automatisation des OST.
+Corton, nouveau traitement de fusion, modification et création des ordinogrammes : CPJJC_HISTO Revenus J-1, RU8DJ Création RUNATV.SP, RU8DK Fusion Année A, RU8DL Fusion Année A-1.
+Environnement technique : MVS, DB2, DATACOM, CICS, COBOL, JCL, RDZ, ENDEVOR, PACBASE, ITSM
+
+10/2017 à 08/2019 NATIXIS
+Consultant Analyste- Développeur
+Analyse, programmation : Dans le service GTB trade, release SWIFT 2018 credoc / caution, Purge des dossiers CE, traitements des dossiers du client SCHNEIDER, décompte de commission pour compte T9.
+Analyse : Pour VBANK chèques internationaux, rédaction du document patrimoine.
+Environnement technique : MVS, DB2, DL1, CICS, COBOL, TELON, JCL, SNOW, Serena Dimensions, LINUX, Oracle, microfocus COBOL, shell
+
+03/2015 à 09/2017 CYRILLUS VERT BAUDET
+Consultant Testeur -Débuggeur
+Pour Cyrillus Verbaudet Group, soumission de plans de test sur la source et la cible en batch et en tp dans le cadre de la migration de MVS vers Powershell.
+Environnement technique :
+MVS, DB2, CICS, COBOL2, JCL, LINUX, Git, Jira, VM, Powershell, SQL-server,Visual Studio, microfocus COBOL, MTO
+
+06/2014 à 02/2015 CHOREGIE
+Consultant Analyste- Développeur
+Analyse, programmation : dans le cadre de la refonte SI MCDef, certificat de radiation, traitement GRA personne physique,traitement GRA personne morale, Précomptes retour
+Environnement technique :
+UNIX, SQL, Oracle, svn, micro focus COBOL, shell, Clearquest, Jira, Noemie norme 687, MVS, DB2, COBOL, JCL
+
+10/2011 à 05/2014 CRPCEN
+Consultant Analyste- Développeur
+Analyse, programmation : correction codification assurés, codification assurés actif, assurés inactifs non radiés, assurés inactifs radiés, assurés invalides, assurés AT de longue durée, ayants droit, transcodification de RIB en IBAN-BIC, alimentation de l’IBAN-BIC, pensionnés soumis au prélèvement de la CMR, Flux retour de ZENEXITI salariés
+Environnement technique : UNIX, SQL, Oracle, CVS, COBOL, shell
+
+04/2011 à 09/2011 SODIFRANCE
+Consultant Analyste- Développeur
+Analyse, programmation : dans le cadre de la migration ARIAS de quick basic vers Dialog System, analyse et programmation de différents programmes
+Environnement technique : MS-DOS, SQL-server, Microfocus, SVN, COBOL, .bat
+
+03/2008 à 03/2011 CREDIT AGRICOLE
+Consultant Analyste- Développeur
+Analyse, programmation sur les risques financiers : contrôle bloc défaut, acquisition et contrôles des flux Positions et Agregats, monographie
+Environnement technique : MVS, DB2, CICS, COBOL, JCL
+
+10/2007 à 02/2008 LCL
+Consultant Analyste- Développeur
+Analyse, programmation sur la consultation des coffres
+Environnement technique : MVS, VSAM, CICS, COBOL, JCL
+
+06/2007 à 09/2007 UNEDIC
+Consultant Analyste- Développeur
+Analyse, programmation sur application CONTRIX
+Environnement technique : UNIX, COBOL, SQL, shell, Test Director
+
+05/2006 à 05/2007 BRED
+Consultant Analyste- Développeur
+Analyse, programmation sur projet COMETE dans le cadre de la CNS sur les applications virements, transfert de flux automatisé, les prêts, score et terminaux financiers
+Environnement technique : MVS, VSAM, CICS, DB2, DL1, COBOL, IODA, JCL
+
+08/2005 à 04/2006 CREDIT MUTUEL
+Consultant Analyste- Développeur
+Analyse et réalisation des régulations sur OPCVM au GMT (gestion des titres)
+Saisies des annulations rétroactives
+Environnement technique : MVS, TSO, GSAM, IMS, DB2, COBOL 3, JCL
+
+10/2000 à 07/2005 LA POSTE
+Consultant Analyste- Développeur
+Maintenance GEP des tables
+Entités, formations
+Gestion des effectifs
+Développement du baromètre climat social
+Normalisation des DMPs
+Développement TAGILA (tableau d’avancement de grades et liste d’aptitude)
+MVS, TSO, VSAM, LTR, CICS, DB2, JCL
+IEV Indemnités éventuelles EUROS
+Contrôle unicité devise
+Transmission devise
+Alimentation article tête
+Vérification zone de calcul, zone barème, zones restructurées (taux)
+PM Paie mensuelle comparaison de fichiers paie du mois
+La fonctionnalité générale est la comparaison de deux fichiers de même structure et plus particulièrement la comparaison des données montants sous forme d’écarts
+NPR Nouvelle politique de rémunération
+Programme d’édition permettant de lister le contenu des fichiers Pbase et situation NPR.
+Environnement de recette MOA/Sorties
+Dans le cadre de la mise en place d’une plate-forme de recette fonctionnelle de l’application SORTIE.
+Définition des grandes étapes de l’application et précision des « entrées nécessaires à l’exécution de l’étape ainsi que les « sorties » qui sont les points de
+contrôle de l’étape.
+Environnement technique :
+IBM 30XX, MVS, VSAM, SAM, COBOL, DELTA, ARIANE, CLIST, LTR, JCL.
+
+01/1999 à 09/2000 MMA
+Consultant Analyste- Développeur
+Gestion des résiliations : analyse et réalisation. Ce sont des statistiques éditées au niveau agence ou région ou national et par produit d’assurance vie ou iard.
+Environnement technique :
+IBM MVS, VSAM, COBOL, TSO, ISPF, JCL
+
+UTI GROUP
+SA au capital de 4 255 671,20€
+68, rue de Villiers Levallois-Perret Cedex
+www.uti-group.com 1/1
+Contact commercial : Fabrice BARREAU
+06 80 81 96 23
+fabrice.barreau@uti-group.com

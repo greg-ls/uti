@@ -1,0 +1,265 @@
+SYNTHESE PROFIL
+Analyste Senior et Lead Technique Mainframe 
+Expert en intégration, conception et développement d’applications sur architectures orientées services, en environnements Mainframe (COBOL, CICS, DB2) et systèmes ouverts (Java, API REST, JSP, GCP).
+Plus de 25 ans d’expérience dans les secteurs bancaire, finance, retail et asset management, sur des projets complexes en contexte agile ou cycle en V.
+
+DOMAINES D'INTERVENTION
+
+Lead technique :
+- Expertise sur les applications Core Banking
+- Développement et intégration de solutions Mainframe et Java J2EE sur architectures multi-tiers
+- Conception et exposition de services Mainframe via API REST
+- Référent technique sur l'ensemble du cycle de vie applicatif
+
+Maîtrise d'œuvre :
+- Recueil de besoins métier et études de faisabilité technique
+- Prise en charge des projets de bout en bout, de la conception au déploiement en production
+- Rédaction des spécifications fonctionnelles et techniques détaillées
+- Pilotage et exécution de la recette projet
+
+Compétences fonctionnelles :
+Bonne connaissance des domaines : 
+- Banque & Finance (Cash Management, Moyens de Paiement)
+- Epargne salariale & Entreprise
+- Retail (reportings magasins, référentiels produits)
+- Esprit de synthèse et excellent relationnel, facilitant la gestion de projets complexes
+
+Méthodologies :
+Agile, Cycle en V 
+
+
+EXPERIENCE PROFESSIONNELLE
+
+Transactis (ITIM/JVM/VDF), SG - Depuis 01/2023
+
+ME & Expert Technique – Équipe Intégration Technique NAUPLIE 
+
+Contexte du projet : 
+Mission réalisée au sein du pôle Patrimoine « Payment Engine » (usine de traitement des virements/prélèvements), sous la responsabilité de l’équipe d’intégration technique ME SG.
+
+Projet impliquant plusieurs acteurs clés :
+Éditeur SOPRA (Nantes)
+Équipes projet & maintenance ME Nauplie (Val de Fontenay)
+Équipes de production SG (BT Z O/S, Control-M, DBA)
+Équipe d’homologation SG (Val de Fontenay)
+Clients internes du groupe Société Générale
+Objectif : assurer l’intégration technique des applications de l’usine de paiement (NAUPLIE – Nouvelle Architecture Urbanisée des Paiements Logiciel Intégré et Évolutif).
+Équipe : 3 ME
+
+Activités :
+Livraisons sous LCM/ENDEVOR (SG) des composants développés par l’éditeur (SBS) et par les entités en prestation à la SG (Partie intermédiation) sur les différents environnements d’assemblage, d’intégration, d’homologation et de production
+Centralisations des changements sur ces environnements : modifications des structures et contenus des tables, modifications des procédures et des ordonnancements Control/M
+Constructions d’environnement par clonage, installation de nouvelles releases
+Supports aux entités ME (DB2, MQ Série, CICS, COBOL …)
+Contrôles du respect des normes dans le cadre des livraisons
+Analyses et réalisations d’outils et d’aménagements techniques de l’application dans le cadre d'optimisations
+
+Environnement technique : COBOL CICS, JCL, DB2, VSAM, JSON, SPARKY, TSO/SPF, FAILED, Endevor, Jenkins, GIT, Zdevops, VSCode, JBoss, Unix
+Méthodologie : JIRA, Cycle en V
+
+Epsilon France - 09/2022 à 12/2023
+
+Data Engineer Junior (Projet certifiant GCP) - Projet Référentiel d’expériences collaborateur 
+
+Contexte du projet : 
+Participation à la mise en place d’un entrepôt de données centralisant les expériences collaborateurs (CV, parcours, projets) sur Google Cloud Platform (GCP), dans le cadre d'une formation certifiante Professional
+Équipe : 1 PMO, 1 AMOA, 2 développeurs
+
+Activités :
+Formation & montée en compétence GCP :
+Conception de pipelines de données fiables via Cloud Storage, DataFusion, BigQuery
+Utilisation de DataPrep & Data Studio pour la restitution des données
+Appropriation des bonnes pratiques de sécurité, fiabilité et conformité GCP
+Déploiement de modèles ML préexistants en production (CI/CD)
+Développement du référentiel d’expériences :
+Modélisation d’une base de données pour centraliser les contenus de CV
+Ingestion automatisée de CV avec détection des erreurs de format/syntaxe
+Extraction des données pour génération automatique de gabarits (DOCX, PPTX)
+Interface web de restitution (Cloud Run + exposition API)
+Automatisation de la gestion du référentiel via workflows GCP
+
+Environnement : GCP (Cloud Storage, BigQuery, DataFusion, Cloud Functions, Workflows, Run, Scheduler), CI/CD (Cloud Build, Source Repository, Container Registry), Docker, Terraform
+Méthodologie : Jira (Agile)
+
+
+Société Générale (ITIM/CSR/REF/SER) - 11/2021 à 08/2022
+
+MOE et Lead Technique au sein de l’équipe Stream Marque 
+
+Contexte du projet : 
+Projet lié à la transformation de la Banque de Détail (Vision 2025) : mise en place d’un Référentiel Multimarques, fournissant aux applications clients les attributs des marques SG via API REST, fichiers stock & delta.
+Équipe : 1 MOA, 2 développeurs, 1 métier
+
+Activités :
+Analyse de faisabilité technique sur environnement Mainframe (DB2, CICS, COBOL, API REST)
+Lead technique sur la mise en œuvre de prototypes fonctionnels (base de données, batchs, traitements) généralisés à l’ensemble du projet
+Conception & rédaction des documents techniques (DAT, DEX, livrables de livraison)
+Réalisation de la maintenance évolutive et corrective des applications du périmètre
+Support technique transverse (Java, REST API, Mainframe) auprès de l’équipe projet
+
+Environnement technique : COBOL CICS, JCL, DB2, VSAM, JSON, SPARKY, TSO/SPF, FAILED, Endevor, Jenkins, GIT, POSTMAN, Zdevops.
+Méthodologie : Agile, JIRA, Cycle en V
+
+
+Société Générale (ITIM/MPC/APC) – 01/2018 à 10/2022
+
+MOE et Lead Technique sur l’application Produit de sortie dans le périmètre du cash management de la Société Générale 
+
+Contexte du projet : 
+Refonte technologique de l’application Produit de Sortie (PDS) dans le cadre d’un projet de migration Legacy (Adabas/Natural/Cobol) vers un environnement ouvert (DB2, CICS, COBOL, Java, Angular, API REST).
+Équipe : 4 opérationnels, 1 responsable applicatif
+
+Activités :
+Analyse de l’existant & définition de la solution cible (fonctionnelle & technique)
+Réalisation de prototypes généralisés (base de données, batchs, traitements, IHM)
+Collaboration avec l’équipe IHM (Java/Angular) pour une gestion dynamique des écrans
+Rédaction des livrables projets : DCO, DSF, documents de livraison
+Accompagnement à l’industrialisation de la solution auprès d’équipes externes
+Migration de composants (I1) de WAS 7.5 vers WAS 8.5 (Webservices SOAP)
+Maintenance évolutive & corrective, support aux gestionnaires et MOE tierces
+Expertise technique (Java, Webservices SOAP/REST, Mainframe)
+Prise en charge des incidents de production et astreintes (nuits et jours fériés)
+
+Environnement technique : Cash Managment, COBOL, Java, DB2, VSAM, CICS, Jenkins, JIRA, GIT, Zgit, TSO/SPF, FAILED, LCM, POSTMAN, SOAPUI, SPARKY, Zdevops
+Méthodologie : Agile, cycle en V
+
+
+FNAC-DARTY (DOSI MARCHANDISES & FONCTIONS SUPPORT/ BACK OFFICE) – 05/2014 à 12/2017
+
+Support Technique et Intégration ZOS
+
+Contexte du projet : Mission rattachée au responsable applicatif du Back Office, sur les périmètres GUPT (Produits Techniques), GUDL (Disques & Livres) et traitement global des ventes.
+Équipe : 4 opérationnels, 1 métier, 1 responsable applicatif, 1 RDA
+
+Activités :
+Participation aux études de faisabilité et comités COAE
+Études de cadrage fonctionnel & technique (impacts, macro-chiffrages)
+Conception de solutions techniques : web services, procédures stockées, flux inter-applicatifs
+Évolutions & créations de composants dans une architecture multi-applications
+Rédaction de SFD pour le CSP, validation des charges & spécifications détaillées
+Intégration technique des livraisons : pilotage, validation, migration DB2 & CICS
+Participation à la recette fonctionnelle & livraison en production
+Prise en charge du support applicatif (CSP, magasins, partenaires, applications tierces)
+Administration & paramétrage applicatif
+Développements & maintenance autour du progiciel Actuate (états métiers)
+Maintenance corrective & évolutive du périmètre
+
+Environnement technique : Cash Management, COBOL, Java, DB2, VSAM, CICS, Jenkins, JIRA, GIT, Zgit, TSO/SPF, FAILED, LCM, POSTMAN, SOAPUI, SPARKY, Zdevops
+Méthodologie : cycle en V
+
+
+Société Générale (BDDF/DSI/PFI/FLU) – 11/2012 à 05/2014
+
+MOE - Application APEC – Cash Management 
+
+Contexte du projet :
+Maintenance et évolutions des applications d’acquisition de flux de paiement domestiques et internationaux, au format SG ou normé (MT101, MT104, CFONB320) :
+PECCMI : virements MT101/MT104
+REVE : virements internationaux (CFONB320)
+PEC5 : remises de masse (virements, prélèvements, etc.)
+GDMBASE : référentiel transverse de contrôle (signataires, plafonds, comptes)
+Équipe : 3 opérationnels, 1 métier, 1 responsable applicatif, 1 RDA
+
+Activités :
+Rédaction des documents de conception, fabrication et livraison (DCO, DSF)
+Maintenance corrective & évolutive des applications du périmètre
+Implémentation de nouvelles fonctionnalités sur l’IHM GDMBASE (Java/Cobol/CICS/DB2)
+Support technique sur les environnements Java & Mainframe
+
+Environnement technique : Cash Management, COBOL, Java, DB2, VSAM, CICS, JSP, JSF, WebSphere, JavaScript, TSO/SPF, FAILED, LCM, Test Director, MEGA, CLEARCASE
+Méthodologie : cycle en V
+
+
+Société Générale (BDDF/DSI/PFI/FLU) - 01/2010 à 10/2012
+
+MOE et Lead Technique
+
+Application Produit de Sortie – Cash Management 
+
+Contexte du projet : 
+Mission menée dans le cadre d’une ATG Softcomputing/SG, sur les applications de Cash Management de la BDDF, avec un rôle de référent technique et fonctionnel sur l’application PDS/PHARE.
+Équipe : 23 opérationnels, 1 responsable domaine applicatif, 1 DOMA
+
+Activités :
+Adjoint DOMA : coordination et reporting hebdomadaire au comité de pilotage
+Garant de la qualité des livrables et du respect des délais contractuels
+Suivi des environnements homologation & production
+Interlocuteur privilégié de l’ESN auprès du client Société Générale
+Maintenance corrective & évolutive de l’application PDS/PHARE
+Mise en place d’une base de données CLOB pour l’historisation des restitutions
+Développement d’une IHM de gestion & consultation des historiques (Java / COBOL / IMS)
+
+Environnement technique : Cash Management, COBOL, Java, DB2, VSAM, CICS, JSP, JSF, WSDL, WebSphere, JavaScript, TSO/SPF, FAILED, LCM, Test Director, MEGA, CLEARCASE, API SOAP
+Méthodologie : cycle en V
+
+
+LINEDATA SERVICES (Asset Management) – 04/2000 à 12/2009
+
+Analyste confirmé & Support applicatif
+Épargne Salariale
+
+Mission 1 : Analyste confirmé – Progiciel ORYAL (Mainframe)
+Contexte du projet : Développements transversaux sur le progiciel de gestion de l'Épargne Salariale (ORYAL)
+Équipe : 8 opérationnels, 1 responsable domaine applicatif, 2 métiers
+
+Activités :
+Développement d’évolutions réglementaires (fiscalité, législation)
+Refonte des fonctions clés : calcul d’abondement, arbitrages groupe
+Pilotage d’une équipe de 2 développeurs
+Prise en charge de développements transverses sur >10 produits (TP & batch)
+Mise en place de transactions Web & Minitel (TP)
+Assistance à la MOA et aux équipes de recette
+Maintenance corrective & évolutive (analyse des anomalies, suivi des correctifs jusqu’en production)
+
+Environnement technique : COBOL · Adabas · VSAM · Test Director, NATURAL.
+Méthodologie : cycle en V
+
+Mission 2 : Support applicatif – Progiciel NOEE (Java J2EE / SIEBEL)
+Contexte du projet :  Accompagnement des clients (SG, BNP, AXA, CDN, HSBC) lors de la migration technologique du progiciel ORYAL vers la nouvelle plateforme NOEE (Java/Siebel)
+Équipe : 8 opérationnels, 1 responsable domaine applicatif, 2 métiers
+
+Activités :
+Analyse fonctionnelle et diagnostic des anomalies (utilisateurs finaux, back-office, exploitants)
+Support utilisateurs (correspondants entreprises, salariés)
+Suivi des traitements critiques : campagnes de facturation, opérations spéciales, relevés annuels
+Mise en place de solutions palliatives aux défaillances du progiciel NOEE
+
+Environnement technique : Epargne Salariale et Entreprise, COBOL, Adabas, VSAM, TEST DIRECTOR
+Méthodologie : cycle en V
+
+
+Groupe André - 06/1999 à 03/2000
+
+Ingénieur études et Développements
+
+Activités :
+Maintenance de programmes BATCH et TP pour le domaine logistique,
+Développement de chaînes « Edition Facture Export » dans le cadre du projet « Douane »
+Développement des transactions TP pour les utilisateurs dans le cadre du nouveau projet « International »
+Assistance aux utilisateurs.
+
+Environnement technique : Distribution, COBOL, DB2, VSAM
+Méthodologie : cycle en V
+
+
+Axa Assurance (Assurance Vie) - 09/1998 à 05/1999
+
+Ingénieur études et Développements
+
+Activités :
+Développement d’applications sur la partie Assurance vie collectives
+Modification des sources et des JCL
+
+Environnement technique : Assurance vie, COBOL, Adabas, VSAM, TEST DIRECTOR
+Méthodologie : cycle en V
+
+
+PHILIPS (Industrie) - 11/1997 à 08/1998
+Ingénieur études et Développements
+
+Activités :
+Développement d’applications sur la partie COPICS
+Modification des sources et des JCL
+
+Environnement technique : Industrie, COBOL, Adabas, VSAM, TEST DIRECTOR
+Méthodologie : cycle en V

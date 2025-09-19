@@ -1,0 +1,230 @@
+Hicham Sassa
+
+E-mail: sass.hicham@gmail.com Tél: 0751898099 Ville: Courbevoie 92400
+
+Développeur Full-Stack Java | VueJs | Micro-services
+
+Formation
+2011: Master universitaire spécialisé en systèmes d'information, Business Intelligence
+2009: Concepteur en Systèmes d'information, de l'université de limoge
+
+Langue
+Anglais: opérationnel
+
+Localisation
+Ile de France
+
+Compétences techniques
+Languages & Frameworks:
+Front-end: VueJs, Angular, Javascript ES5/ES6Typescript, HTML5, JQuery, CSS/Bootstrap, Sass, Stylus
+Back-end: Java/jee, Spring, Spring boot, JPA/Hibernate, php, Scala
+Big Data: Sparck, Elasticsearch, KIBANA
+Tests unitaires: JUnit, Jest, e2e
+Tests fonctionnels: Selenium
+Architectures: Microservices, JEE, Design patterns, Web Services en Rest et SOAP
+SGBD: Oracle, DB2, MySQL, PostgreSQL, Hbase
+ETL: Talend Data Integration
+Serveurs: Apache, Tomcat, Jboss, Websphere
+Outils de développement: Intellij, Eclipse, Visual StudiCode
+Intégration continue et DevOps: Maven, Jenkins, Sonar, Docker, kubernetes, Nexus, Git, GitLab.
+Méthodologies et pratiques de dev: Scrum, Test driven development, Agile software development.
+Outil Jira, Confluence
+
+Expériences professionnelles
+
+Poledata
+Depuis Juillet 2024 au Janvier 2025
+Fonction: Développeur Fullstack Java & Vue.js sur un projet Shopify
+Projet(s): Développement d'une application personnalisée pour Shopify permettant d'améliorer l'expérience utilisateur et d'ajouter des fonctionnalités spécifiques de gestion des commandes et des produits.
+Mission(s) et réalisations:
+Compréhension des besoins métiers et rédaction des spécifications techniques
+Conception de l'architecture logicielle en respectant les bonnes pratiques de Shopify
+Mise en place d'une base de données relationnelle (PostgreSQL)
+Création d'API REST sécurisées pour gérer les produits, commandes et utilisateurs
+Intégration avec l'API GraphQL et REST de Shopify
+Gestion de l'authentification OAuth pour Shopify
+Mise en place des Webhooks Shopify pour synchroniser les données en temps réel
+Création d'une interface utilisateur réactive et ergonomique
+Intégration de Tailwind CSS et Vuex pour la gestion d'état
+Communication avec les API via Axios
+Développement de composants réutilisables pour la gestion des produits et commandes
+Environnement:
+Back-end: Java 17, Spring Boot, Hibernate, PostgreSQL, Shopify API (REST/GraphQL)
+Front-end: Vue.js 3, Vuex, Tailwind CSS, Axios
+SGBD/NoSql: Postgres
+Dev/Ops: GitHub
+Outils de gestion: Jira, Slack
+
+Assiya Transport
+Depuis Janvier 2024 au Mai 2024
+Fonction: Développeur Full-Stack JAVA Micro-Services / Vuejs
+Projet(s): Pour le compte de Assiya Transport, j'ai participé à la Conception, mise en place d'une architecture microservices et le développement des IHM. Développement et intégration d'un système de Géolocalisation pour la localisation des chauffeurs
+Mission(s) et réalisations:
+Référent technique
+Assurer le support technique de développement
+Développement et mise en place des Micro-Services
+Développement des Microservice avec sprint boot
+Intégration de spring-security
+Dockeriser des micro-services
+Création et déploiements des micro-service
+Création de la chaine CI/CD Gitlab
+Participation à l'estimation des différentes tâches de développement.
+Amélioration continue du socle technique.
+Tests et recette
+Contrôle de l'intégrité des données
+Environnement:
+Back-end: Java, Web services API Restful, SpringBoot, SpringMVC, Spring Security, SpringData
+Front-end: Vuejs, Typescript, HTML, scss/bootstrap
+SGBD: Postgres
+Dev/Ops: Docker, Jenkins, Git.
+
+Enedis
+Depuis Octobre 2020 au Novembre 2023
+Fonction: Développeur Full-Stack JAVA Micro-Services
+Projet(s): Pour le compte de Enedis, j'ai participé à la Conception et mise en place d'une architecture microservices. Développement d'un système de monitoring des Jobs et supervision des activités des utilisateurs avec une architecture microservices (springboot-/ VueJs) Création des Batch d'ingestion des données dans un environnement Hadoop
+Mission(s) et réalisations:
+Référent technique, pilotage et encadrement de l'équipe
+Participation aux comités techniques et architectures
+Accompagnement et coaching des membres de l'équipe sur les bonnes pratiques techniques
+Assurer le support technique de développement
+Développement et mise en place des Micro-Services
+Développement des Microservice avec sprint boot
+Intégration de spring-security
+Optimisation de micro-service existants
+Dockeriser des micro-services
+Création et déploiements des micro-service sur kubernetes
+Raccordement de l'application Robot-Réclamation au service GARDIAN-WebSSvia des micro-services
+Backend: Spring boot
+Frontend: VueJs
+Création de la chaine CI/CD Gitlab
+Génération des Jars avec Maven
+Création et déploiement des images docker
+Déploiement des images docker sur kubernetes
+Ingestion des différents flux de données flux Batchs dans le HDFS du Datalake en format Parquet, Avro, csv,json avec Spark Scala.
+Garant de la migration vers une nouvel environnement (ZCI)
+Migration des données de l'ancien environnement vers le nouvel environnement
+Migration des Batchs vers le nouvel environnement
+Migration des Micro-services vers le nouvel environnement
+Montée en version des projets
+Création des tests de non régression
+Migration des crontab vers Airflow
+Consolidation Normalisation et agrégation des données avec Spark Scala
+Participation à l'estimation des différentes tâches de développement.
+Suivi du développement et revue de code.
+Amélioration continue du socle technique.
+Tests et recette
+Contrôle de l'intégrité des données
+Veille technologique
+Participation aux cérémonies Agile Scrum
+Environnement:
+Back-end: Java, Scala Web services API Restful, Spring Boot, SpringMVC, SpringSecurity, SpringBatch, SpringData
+Front-end: Vuejs, VueJs, Typescript, HTML, scss/bootstrap
+SGBD/NoSql: Postgres, Teradata, Hbase
+Dev/Ops: Docker, kubernetes, Jenkins, Git, Airflow.
+Big Data: Spark-scala, Hdoop, Hdfs, Avro, parquet
+
+Groupe SUEZ
+Depuis Novembre 2019
+Fonction: Consultant Full-Stack JAVA Micro-Services
+Projet(s): GAIA, Pour le compte du groupe Suez, j'ai participé au développement du portail Contrôle de Conformité.
+Mission(s) et réalisations:
+Participation à la définition de l'architecture de l'application
+Participation à l'implémentation des différentes briques applicatives front et back
+Participation à l'estimation des différentes tâches de développement.
+Suivi du développement et revue de code.
+Développement et mise en place des Micro-Services
+Développement et accompagnement dans le développement des US.
+Amélioration continue du socle technique.
+Contribution aux différents développements et à l'extension des applications de l'entreprise.
+Tests et recette
+Contrôle de l'intégrité des données
+Veille technologique
+Participation aux cérémonies Agile Scrum
+Environnement:
+Back-end: Java, Web services API Restful, SpringBoot, SpringMVC, Spring Security, Spring Batch, SpringData,
+Front-end: VUEJS, Typescript, HTML, scss/bootstrap
+SGBD/NoSql: Mysql, Mongodb
+Dev/Ops: Docker, kubernetes, Jenkins, Git.
+Big Data: ELK (Elasticsearch)
+
+GROUPE QUALITEL
+D'Août 2018 à Septembre 2019
+Fonction: Consultant Full-Stack JAVA Micro-Services
+Projet(s): Pour le compte du groupe Qualitel, j'ai participé au développement et à la maintenance de l'application Calyx et de ces portails (intranet/ extranet). Il s'agit d'une application de gestion des processus métier pour la certification de la qualité de l'habitat.
+Mission(s) et réalisations:
+Participation à la définition de l'architecture du back-end et le front-end
+Participation à l'implémentation et le développement des différentes micro-services
+Participation aux cadrages et chiffrages des différents US.
+Suivi du développement, support technique et revue de code aux équipes de DEV.
+Support métier lors des phases de recette
+Amélioration continue du socle technique.
+Contribution aux différents développements et à l'extension des applications de l'entreprise.
+Tests et recette
+Contrôle de l'intégrité des données
+Traitement des demandes d'anomalies et suivi de production
+Veille technologique.
+Participation aux cérémonies Scrum
+Environnement:
+Front-end: Typescript, VueJs, Redux, css/bootstrap.
+Back-end: Java 8, Spring Boot, Spring Batch, JPA/Hibernate, Web services API Restful
+Dev/Ops: Maven, Jenkins, Git, Sonar.
+
+MINISTERE DE L'ECONOMIE ET DES FINANCES
+De Novembre 2015 à Juillet 2018
+Fonction: Développeur Full-Stack JAVA | VueJs Micro-Services
+Projet(s): Simpl-TVA, Simpl-IS, Simpl-IR, Participation à la mise en place d'applications de gestion et d'automatisation des déclarations.
+Mission(s) et réalisations:
+Participation aux ateliers pour la définition du besoin et le cadrage;
+Développement des services métiers et des apis Rest coté back-end;
+Développement des Template et des vues front;
+Intégration de la notion de sécurité avec Access Level Control;
+Amélioration des performances en utilisant le store de vue js;
+Optimisation des temps de réponse des batchs EDI (Electronic Data Interchange) pour les déclarations en ligne de la TVA et IS;
+Optimisation des requêtes Hibernate;
+Propositions des solutions et améliorations des services proposés aux clients;
+Assistance et résolution des problématiques liées à l'environnement de Pré/production;
+Assistance et encadrement technique;
+Réalisation des revues de code et de la documentation;
+Conception et réalisation des scénarios des tests de charges et des tests de non-régressions;
+Environnement:
+Java/J2ee, VueJs, Spring, Maven, Jenkins, Talend, Scrum.
+Architectures: JEE, Web Services en Rest et SOAP.
+Serveur: Websphere application server.
+
+GROUPE CDG
+De Septembre 2012 à Octobre 2015
+Fonction: Développeur JAVA/JEE
+Projet(s): FINEA, Il s'agit d'une application de calcul des risques des crédits consentis aux entreprises.
+Mission(s) et réalisations:
+Intervention aux différentes phases de réalisation du projet.
+Initialisation du socle technique de l'application.
+Développement des services métier de l'application
+Spécification et développement des écrans.
+Mise en place des tests unitaires et rédaction des fiches de tests.
+Préparation des releases et suivi des livraisons et des tests de recette.
+Environnement:
+Spring mvc, Spring security, thymeleaf, hibernate, AJAX, Java Script, THEMLEAF, XHTML, JQuery, Bootstrap js, postgrsql, jboss 7.
+
+MINISTERE DE L'EDUCATION NATIONALE
+D'Avril 2011 à Septembre 2012
+Fonction: Développeur JAVA/JEE
+Projet(s): Mise à niveau d'un système de gestion de ressources humaine.
+Mission(s) et réalisations:
+Développement des processus métier de l'application,
+Spécification et développement des écrans et les services métier,
+Suivi de production, des évolutions et des incidents.
+Environnement:
+Java 6, ZK, Spring, Hibernate, Postgrsql, SVN, Jboss, JBPM, ESB Mule, Drools, Pentaho.
+
+ECG ASSURANCES
+De Janvier 2010 à Janvier 2011
+Fonction: Développeur PHP
+Projet(s): Assurnet santé et auto: développement d'une application de gestion des assurances (Santé/Automobile).
+Mission(s) et réalisations:
+Création des sites web de collecte des demandes de souscription.
+Réalisation d'un système de gestion de contenu.
+Automatisation de la génération des reportings compagnies d'assurances.
+Intégration des moyens de paiement en ligne (SMS-téléphone, porte-monnaie électronique),
+Travaux de SEM (Référencement payant; Google adwords) et SE(Référencement naturel).
+Environnement:
+PHP5, JS, JQuery, XHTML, CSS, Flash, Action Script, Mysql.

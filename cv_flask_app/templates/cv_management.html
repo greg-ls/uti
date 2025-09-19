@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-lang-en="CV Management - Professional Document Processing" data-lang-fr="Gestion de CV - Traitement de Documents Professionnels">CV Management - Professional Document Processing</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <!-- Header/Navigation -->
+    <header class="gradient-bg text-white">
+        <div class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-4">
+                    <i class="fas fa-file-alt text-2xl"></i>
+                    <h1 class="text-2xl font-bold">CV Format</h1>
+                </div>
+                <div class="flex items-center">
+                    <nav>
+                        <ul class="flex space-x-8">
+                            <li><a href="/" class="hover:underline" data-lang-en="Home" data-lang-fr="Accueil">Home</a></li>
+                            <li><a href="#tools" class="hover:underline" data-lang-en="Tools" data-lang-fr="Outils">Tools</a></li>
+                            <li><a href="#about" class="hover:underline" data-lang-en="About" data-lang-fr="À propos">About</a></li>
+                            <li><a href="#contact" class="hover:underline" data-lang-en="Contact" data-lang-fr="Contact">Contact</a></li>
+                            <li><a href="/cv_manage" class="hover:underline" data-lang-en="Manage CVs" data-lang-fr="Gérer les CVs">Manage CVs</a></li>
+                        </ul>
+                    </nav>
+                    <!-- Language switcher -->
+                    <div class="ml-8 text-sm">
+                        <a href="#" id="lang-en" class="hover:underline">EN</a>
+                        <span class="mx-1">|</span>
+                        <a href="#" id="lang-fr" class="hover:underline">FR</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="gradient-bg text-white py-20">
+        <div class="container mx-auto px-6 text-center">
+            <h2 class="text-4xl font-bold mb-6">Manage Your CVs</h2>
+            <p class="text-xl mb-8 max-w-2xl mx-auto">Add, search, update, and delete CVs in your database.</p>
+        </div>
+    </section>
+
+    <!-- CV Management Section -->
+    <section id="cv-management" class="py-16 bg-white">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">CV Management Tools</h2>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+                <!-- Tool 3: Capture Word Document (DOCX) & Add to Database -->
+                <div class="tool-card bg-gray-50 p-8 rounded-lg shadow-md border border-gray-200">
+                    <div class="flex items-center mb-6">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-file-word text-blue-600 text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold text-gray-800">Capture Word Document</h3>
+                    </div>
+                    <p class="text-gray-600 mb-6">Upload a DOCX file to extract content and add it to the CV database.</p>
+
+                    <div id="tool3-container">
+                        <form id="uploadFormTool3" enctype="multipart/form-data">
+                            <div class="file-input-wrapper">
+                                <label class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-md cursor-pointer transition duration-300 flex flex-col items-center justify-center">
+                                    <i class="fas fa-cloud-upload-alt mr-2"></i>
+                                    <span>Choose a DOCX file</span>
+                                    <input type="file" name="file" accept=".docx" required class="file-input" />
+                                    
+                                </label>
+                                <button type="submit" class="mt-4 w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-md transition duration-300">Upload & Add CV</button>
+                            </div>
+                            <div id="tool3Status" class="status-message"></div>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Tool 4: Search CVs -->
+                <div class="tool-card bg-gray-50 p-8 rounded-lg shadow-md border border-gray-200">
+                    <div class="flex items-center mb-6">
+                        <div class="bg-green-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-search text-green-600 text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold text-gray-800">Search CVs</h3>
+                    </div>
+                    <p class="text-gray-600 mb-6">Search for relevant CVs based on keywords and skills.</p>
+
+                    <div id="tool4-container">
+                        <form id="searchForm">
+                            <input type="text" id="searchQuery" placeholder="Enter search query" required class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+                            <button type="submit" class="mt-4 w-full bg-green-600 hover:bg-green-700 text-white font-medium py-3 px-4 rounded-md transition duration-300">Search CVs</button>
+                        </form>
+                        <div id="searchResults" class="status-message"></div>
+                    </div>
+                </div>
+            </div>
+
+            <section class="tool-section mt-8">
+                <h2>Manage Existing CVs</h2>
+                <div id="cvListStatus" class="status-message"></div>
+                <table id="allCvTable" class="min-w-full leading-normal">
+                    <thead>
+                        <tr>
+                            <th class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">ID</th>
+                            <th class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Original DOCX</th>
+                            <th class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Markdown File</th>
+                            <th class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Availability</th>
+                            <th class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Wishes</th>
+                            <th class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- All CVs will be loaded here via JavaScript -->
+                    </tbody>
+                </table>
+            </section>
+        </div>
+    </section>
+
+    <script>
+        // Translations
+        const translations = {
+            en: {
+                uploadButton: "Upload & Add CV",
+                searchButton: "Search CVs",
+                loading: "Loading...",
+                noResults: "No CVs found.",
+                searchPlaceholder: "Enter search query",
+                updateButton: "Update",
+                deleteButton: "Delete",
+                confirmDelete: "Are you sure you want to delete CV ID {0}?",
+                success: "Success: {0}",
+                error: "Error: {0}",
+                networkError: "Network error: {0}"
+            },
+            fr: {
+                uploadButton: "Télécharger & Ajouter CV",
+                searchButton: "Rechercher CVs",
+                loading: "Chargement...",
+                noResults: "Aucun CV trouvé.",
+                searchPlaceholder: "Entrez votre recherche",
+                updateButton: "Mettre à jour",
+                deleteButton: "Supprimer",
+                confirmDelete: "Êtes-vous sûr de vouloir supprimer le CV ID {0} ?",
+                success: "Succès : {0}",
+                error: "Erreur : {0}",
+                networkError: "Erreur réseau : {0}"
+            }
+        };
+
+        // Language functions
+        function setLanguage(lang) {
+            localStorage.setItem('language', lang);
+            document.documentElement.lang = lang;
+            document.querySelectorAll('[data-lang-en]').forEach(el => {
+                el.textContent = el.getAttribute(`data-lang-${lang}`);
+            });
+        }
+
+        function getLang() {
+            return localStorage.getItem('language') || 'en';
+        }
+
+        function getText(key, lang = getLang()) {
+            return translations[lang][key] || key;
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Language switcher event listeners
+            document.getElementById('lang-en').addEventListener('click', (e) => {
+                e.preventDefault();
+                setLanguage('en');
+            });
+            document.getElementById('lang-fr').addEventListener('click', (e) => {
+                e.preventDefault();
+                setLanguage('fr');
+            });
+
+            // Set initial language
+            setLanguage(getLang());
+            const uploadFormTool3 = document.getElementById('uploadFormTool3');
+            const tool3Status = document.getElementById('tool3Status');
+            const searchForm = document.getElementById('searchForm');
+            const searchQueryInput = document.getElementById('searchQuery');
+            const searchResultsDiv = document.getElementById('searchResults');
+            const cvTableBody = document.querySelector('#cvTable tbody');
+            const allCvTableBody = document.querySelector('#allCvTable tbody');
+            const cvListStatus = document.getElementById('cvListStatus');
+
+            // Function to fetch and display all CVs
+            async function fetchAllCVs() {
+                cvListStatus.textContent = 'Loading CVs...';
+                try {
+                    const response = await fetch('/api/cv/list');
+                    const data = await response.json();
+                    if (response.ok) {
+                        renderCVs(data.cvs, allCvTableBody);
+                        cvListStatus.textContent = '';
+                    } else {
+                        cvListStatus.textContent = `Error: ${data.error}`;
+                    }
+                } catch (error) {
+                    cvListStatus.textContent = `Network error: ${error.message}`;
+                    console.error('Error fetching all CVs:', error);
+                }
+            }
+
+            // Function to render CVs into a table body
+            function renderCVs(cvs, tableBody) {
+                tableBody.innerHTML = ''; // Clear existing rows
+                if (cvs.length === 0) {
+                    tableBody.innerHTML = '<tr><td colspan="6">No CVs found.</td></tr>';
+                    return;
+                }
+                cvs.forEach(cv => {
+                    const row = tableBody.insertRow();
+                    row.insertCell().textContent = cv.id;
+                    row.insertCell().textContent = cv.original_docx_path.split('/').pop();
+                    row.insertCell().textContent = cv.markdown_path.split('/').pop();
+                    
+                    // Availability and Wishes as editable fields
+                    const availabilityCell = row.insertCell();
+                    const availabilityInput = document.createElement('input');
+                    availabilityInput.type = 'text';
+                    availabilityInput.value = cv.availability_date || '';
+                    availabilityInput.dataset.cvId = cv.id;
+                    availabilityInput.dataset.field = 'availability_date';
+                    availabilityCell.appendChild(availabilityInput);
+
+                    const wishesCell = row.insertCell();
+                    const wishesInput = document.createElement('input');
+                    wishesInput.type = 'text';
+                    wishesInput.value = cv.collaborator_wishes || '';
+                    wishesInput.dataset.cvId = cv.id;
+                    wishesInput.dataset.field = 'collaborator_wishes';
+                    wishesCell.appendChild(wishesInput);
+
+                    const actionsCell = row.insertCell();
+                    const updateButton = document.createElement('button');
+                    updateButton.textContent = 'Update';
+                    updateButton.onclick = () => updateCV(cv.id, availabilityInput.value, wishesInput.value);
+                    actionsCell.appendChild(updateButton);
+
+                    const deleteButton = document.createElement('button');
+                    deleteButton.textContent = 'Delete';
+                    deleteButton.onclick = () => deleteCV(cv.id);
+                    actionsCell.appendChild(deleteButton);
+                });
+            }
+
+            // Handle Tool 3 upload
+            uploadFormTool3.addEventListener('submit', async function(event) {
+                event.preventDefault();
+                tool3Status.textContent = 'Uploading...';
+                const formData = new FormData(uploadFormTool3);
+
+                try {
+                    const response = await fetch('/upload/tool3', {
+                        method: 'POST',
+                        body: formData
+                    });
+                    const data = await response.json();
+                    if (response.ok) {
+                        tool3Status.textContent = `Success: ${data.message} (CV ID: ${data.cv_id})`;
+                        uploadFormTool3.reset();
+                        fetchAllCVs(); // Refresh the list of CVs
+                    } else {
+                        tool3Status.textContent = `Error: ${data.error}`;
+                    }
+                } catch (error) {
+                    tool3Status.textContent = `Network error: ${error.message}`;
+                    console.error('Error uploading file for Tool 3:', error);
+                }
+            });
+
+            // Handle CV search
+            searchForm.addEventListener('submit', async function(event) {
+                event.preventDefault();
+                searchResultsDiv.textContent = 'Searching...';
+                const query = searchQueryInput.value;
+
+                try {
+                    const response = await fetch(`/api/cv/search?query=${encodeURIComponent(query)}`);
+                    const data = await response.json();
+                    if (response.ok) {
+                        if (data.length > 0) {
+                            searchResultsDiv.textContent = `Found ${data.length} relevant CVs.`;
+                            renderCVs(data, cvTableBody);
+                        } else {
+                            searchResultsDiv.textContent = 'No relevant CVs found.';
+                            cvTableBody.innerHTML = '<tr><td colspan="6">No relevant CVs found.</td></tr>';
+                        }
+                    } else {
+                        searchResultsDiv.textContent = `Error: ${data.error}`;
+                        cvTableBody.innerHTML = '<tr><td colspan="6">Error during search.</td></tr>';
+                    }
+                } catch (error) {
+                    searchResultsDiv.textContent = `Network error: ${error.message}`;
+                    console.error('Error searching CVs:', error);
+                }
+            });
+
+            // Handle CV update
+            async function updateCV(cvId, availabilityDate, collaboratorWishes) {
+                try {
+                    const response = await fetch(`/api/cv/update/${cvId}`, {
+                        method: 'PUT',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            availability_date: availabilityDate,
+                            collaborator_wishes: collaboratorWishes
+                        })
+                    });
+                    const data = await response.json();
+                    if (response.ok) {
+                        alert(`CV ID ${cvId} updated successfully: ${data.message}`);
+                        fetchAllCVs(); // Refresh the list
+                    } else {
+                        alert(`Error updating CV ID ${cvId}: ${data.error}`);
+                    }
+                } catch (error) {
+                    alert(`Network error updating CV ID ${cvId}: ${error.message}`);
+                    console.error('Error updating CV:', error);
+                }
+            }
+
+            // Handle CV delete
+            async function deleteCV(cvId) {
+                if (confirm(`Are you sure you want to delete CV ID ${cvId}?`)) {
+                    try {
+                        const response = await fetch(`/api/cv/delete/${cvId}`, {
+                            method: 'DELETE'
+                        });
+                        const data = await response.json();
+                        if (response.ok) {
+                            alert(`CV ID ${cvId} deleted successfully: ${data.message}`);
+                            fetchAllCVs(); // Refresh the list
+                        } else {
+                            alert(`Error deleting CV ID ${cvId}: ${data.error}`);
+                        }
+                    } catch (error) {
+                        alert(`Network error deleting CV ID ${cvId}: ${error.message}`);
+                        console.error('Error deleting CV:', error);
+                    }
+                }
+            }
+
+            // Initial load of all CVs when the page loads
+            fetchAllCVs();
+        });
+    </script>
+</body>
+</html>

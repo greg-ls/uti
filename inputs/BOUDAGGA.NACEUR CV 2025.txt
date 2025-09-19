@@ -1,0 +1,281 @@
+                            CONSULTANT DATA/BI/
+                            ORACLE FORMS/REPORTS/JAVA/SQL/PL-SQL/Python
+                            17 ans d’expérience
+
+
+Fort de mes 17 années d’expérience dans le secteur de la Data et BI, et plus particulièrement l’utilisation des solutions
+Talend, java et SQL\PLSQL. Les différents clients avec lesquels j’ai coopéré durant mes missions m’ont permis d’acquérir
+un sens du relationnel et une solide expérience dans différents domaines. Je possède une double compétence en
+développement data (Talend & Microsoft SSIS, SSRS et SSAS) et développement java, oracle Forms, reports, SQL, PLSQL…
+
+
+
+
+
+Compétences techniques
+
+Snowflake\ BigQuery\AWS\ Talend Cloud
+
+Oracle Forms & reports
+
+Java, SQL\PLSQL, Python
+
+Talend DI\ Talend ESB\ Microsoft SSIS, SSRS, SSAS, SSMS\ Power BI
+
+Compétences Fonctionnelles
+
+Capacité à s'adapter
+
+Autonomie & créativité
+Flexibilité
+
+Java, SQL\PLSQL, Python
+
+          Synthèse des compétences
+Expertise métier
+        Expertise en outils collaboratifs et intégration de données.
+        Coordination des équipes techniques etmétiers.
+        Maîtrise des solutions CRM et Microsoft.
+        Déploiement de solutions Data & IT.
+        Data Gouvernance & Data Management.
+        Expertise fonctionnelle
+        Marketing
+        Grande distribution
+        Logistique
+        Mutuelle / Assurance
+         Industrie textile
+         Santé
+
+
+
+  Méthodologies / outils
+      Agile : Scrum
+
+
+Compétences clés / Technique
+  HTML, PLSQL, SQL, REST, XML, JSON, ORACLE Forms, Reports,BIRT
+
+      Microsoft BI\ SSIS, SSRS, SSAS
+
+      API REST/SOAP
+
+      POWER BI …
+
+      Bases de données (Oracle, SQL Server, Teradata, MariaDB, DB2, PostgreSQL, MySQL)
+
+      Big Data (BigQuery, Snowflake)
+
+      Talend DI\Talend ESB
+
+      Scripting Python
+
+
+
+
+                                                                                           
+                Expériences professionnelles
+sept. 24 – mars 25 (6 mois)
+
+       GRDF                Rôle : Consultant Data
+contexte: Développements de flux Talend au de service Data Management.
+
+taches:
+
+       Coordination avec les équipes de développement pour la réalisation des APIs.
+       Collecte et mise en qualité des données applications internes, API INSEE, API PAPPERS (mise à jour des donnéeségales, juridiques et financières sur les entreprises).
+       Gestion des flux d’alimentation des sources entrantes et sortantes vers et depuis les bases de données
+       Concevoir des flux de données en respectant les règles métiers, la sécurité et la conformité
+       Contribuer activement à la mise en place et au développement du projet Filière, en centralisant les donnéesprovenant de diverses sources (défi, association PG, influenceurs, pyramide, INSEE, BAN, etc.) dans une base de données référentiel, tout en intégrant des flux automatisés pour l'importation, la gestion, et l'exploitation des données à des fins d'analyse et de ciblage.
+       Automatisation des processus de QDD (qualité de données), réalisation des scripts SQL afin d’appliquer des corrections de données.
+       Documentation des travaux réalisés, Superviser et gérer les flux de données
+Environnement technique :
+       SQL, Talend, Java, Git, Mysql et Postgre, REST.
+
+
+
+    mai 24 - août 24 (4 mois)
+
+     DimoTrans (Logistique)               Rôle : Consultant Data
+
+contexte: Migration Talend V6.4 vers Talend V8 Cloud.
+
+taches:
+
+       Migration Talend V6.4 vers Talend V8 Cloud., Modélisation et alimentation et Mise à jour de la base de données
+         DWH par les données INSEE à travers le web service Rest.
+
+       Audit et analyse des impacts sur le périmètre de la Data, conseil en architecture, optimisation des performances.
+       Développement des Jobs d'intégration Talend (ETL).
+       Intégration de solutions avec Talend dans un contexte Cloud.
+       Mise en place des bonnes pratiques Talend
+Environnement technique :
+       SQL, Talend, Java, Git, Mysql et Postgresql, AWS
+
+
+
+
+janv. 20 - mai 24 (4 ans et 6 mois)
+   ASI-CASINO (Grande distribution)                Rôle : Consultant Data
+
+contexte: Développements de flux Talend, java, Microsoft BI (SSIS, SSAS, SSRS & des reporting au
+sein du pôle Data.
+
+taches:
+
+       Participation à la migration de la base de données Teradata vers BigQuery (GCP)
+       Création de buckets GCP pour le stockage intermédiaire
+       Extraction des données via OpenQuery et intégration dans BigQuery Migration des flux d'intégrations Talend\teradata vers Talend\bigquery.
+       Développement des flux d'intégrations avec Talend (Teradata, SQL server, oracle, MySQL, AS400, csv, Excel).
+       Création d’une application mload dynamique (import-export) de données vers depuis Teradata ou sql server.
+       Migration et automatisation des calendriers fournisseurs Et l’insérer dans AS400 avec SQL Server et Talend
+       Participation à la migration des bases de données, package et cubes de la version SQL server version 12 à la version SQL server 16 au sein du service easydis.
+       Création d’une application web IPS.04 pour le paramétrage &l’Exécution des Traitements et des fréquences IPS & exécution des jobs SQL serveur (java et SQL serveur en utilisant la Framework VAADIN).
+       Développement des flux Suivi Promo (export excel dynamique qui contient des liens hypertexte avec Talend open source & Bteq en SQL).
+       Développement un module de purge.
+       Création des reportings Dynamiques (tableaux avec Birt) et l’envoyer par mail chaque matin.
+       Migration de package IPS SQL Server Intégration Service (SSIS) vers Talend v7.
+       Migration du module cout de transport d’Access vers IPS.4
+       Mise en place de git pour visionner les sources de service Référentiel et Données Mettre en place les différentes tâches planifiées sur IPS.4 avec la création d’un job talend qui assure l’extraction csv des fichiers volumineux.
+       Réalisation de flux d’intégration et d'export en Talend V7.
+       Migration & Création des reporting services vers le générateur graphiques BIRT (The Business Intelligence and Reporting Tool)
+       Participation, développement et maintenance de l’existant (développement bteq, fastexport, mload sur teradata)
+Environnement technique :
+       SQL, PL/SQL, Tomcat, Talend, Sql Serveur, Teradata, Java, Eclipse birt, Windows, Microsoft SQL Server, Microsoft BI (SSIS, SSAS), Netbeans, HyperQ, bigquery
+
+
+
+
+nov. 17 - janv. 20 (3 ans)
+
+    GROUPE IKKS, GZ (Industrie textile) France                     Rôle : Développeur Data
+
+Titre & Objectif(s) de la mission: Développement et maintenance du progiciel CEXPERT (ERP qui gère les étapes de
+création des échantillons et des articles) et ORLIWEB (produit CEGID ERP qui gère la partie production et distribution) &
+Talend DWH et sas BI.
+
+taches:
+
+       Conception et développement de nouveaux modules SQL, PL/SQL, Forms et Reports sous Orliweb et CEXPERT, incluant la création de procédures distribuées, fonctions, triggers, packages, tables et vues, ainsi que l'administration des bases.
+       Conception et développement de jobs Talend ESB pour l'intégration et l'échange de données entre applications.
+       Maintenance et optimisation des flux existants pour améliorer la performance et la stabilité des échanges.
+       Déploiement et supervision des services via Talend Administration Center (TAC).
+       Gestion des API REST/SOAP et orchestration des services.
+       Installation du serveur Apach Karaf.
+       Migration des protocoles de sécurité TLS (TLS1.0 au 1.2) FTP pour UPS
+       Pilotage et Migration Talend V6 entreprise vers Talend V6 open sources
+       Migration Talend V5 vers Talend V6 et l'intégration de données de données avec Talend TOS et TIS,
+       Refonte de projet Talend Migration de données entre différentes entités, synchronisation de données avec Salesforce.
+       Participation au développement et maintenance des jobs Talend DWH et sas BI.
+       Développement et réalisation du module UPS_Manifest – Summary Section.
+       Développement et réalisation d’un service java Editions documents qui permet de lancer des éditions PDF Logtex.
+       Participation au développement et maintenance Radio Portable.
+       Participation au développement et maintenance de l’application LOGTEX.
+       Participation au développement et maintenance l’application POCA PHP central d’achat.
+       Création de nouvelles fonctions Orliweb.
+       Création de nouveaux modules Forms et reports (Orliweb et CEXPERT).
+       Participation au développement et évolutions des flux Talend.
+       Oracle 10g Administration et installation du serveur d’application OAS (Oracle Enterprise Manager 10g Application Server Control).
+       Assistance technique et fonctionnelle.
+Environnement technique :
+       T SQL, PL/SQL, Tomcat, Forms Tool, JDeveloper , Talend, ORACLE FORMS, REPORTS, Java, VAADIN, Hibernate, JSP, frmjdapi.jar, SERVLET, Delphi, Intégration Continue, CVS, Batch Déploiement, BUGZILLA, NETBEANS, linux, Windows
+
+
+
+
+mai 17 - oct. 17(6 mois)
+
+   Talan        Rôle : Développeur ORACLE FORMS, REPORTS
+
+contexte: Maintenance corrective et évolutive des programmes oracle Forms Reports.
+
+taches:
+
+       Analyste et programmeur du progiciel CIRIS et LIRIS (SQL\PLSQL)
+       Maintenance corrective et évolutive des programmes oracle Reports.
+         Environnement technique :
+       SQL, PL/SQL, ORACLE FORMS, REPORTS, Windows
+
+
+
+mars 09 - avr. 17(8 ans)
+
+   GROUPE ZANNIER, GROUPE IKKS(Tunisie) Rôle : Développeur ORACLE FORMS, REPORTS, JAVA, TALEND
+
+
+contexte: Développements PLSQL\SQL, java, Développements de flux Talend, java & Développement et maintenance du Projets « PDM C-EXPERT (Product Data Management) & ERP Orliweb (Cegid) & Logtex ».
+
+taches:
+        Développement et maintenance du progiciel CEXPERT (ERP qui gère les étapes de création des échantillons et des articles) et ORLIWEB (produit CEGID ERP qui gère la partie production et distribution)
+        Création de reportings RH et financiers avec le générateur de rapports (oracle reports).
+        Développement d’une application de suivi RH en environnement Java / Oracle en utilisant le Framework  Vaadin.
+        Maintenance des modules existants (Prévision vente, commande client, préparation, colisage, expédition,  facturation, Calcul du besoin, calcul de prix (pr231), Ordre de fabrication, prix négoce, commande fournisseur).
+        Création de nouvelles fonctions Orliweb & Création de nouveaux modules Forms, reports et HRP (Orliweb et  CEXPERT).
+        Participation à la migration des programmes réalisés en Forms 6i vers Forms 10g puis 10g vers Forms 11g &  Maintenance corrective et évolutive des traitements en batch (Shell script, SQL/OLSQL).
+        Participation au développement d’une application INTFM création d'une application qui permet de consulter et créer des jobs & Participation au développement d’une application radio portable (Oracle et JAVA SERVLET).
+        Participation au développement et évolutions des flux Talend.
+        Oracle 10g Administration et installation du serveur d’application OAS (Oracle Enterprise Manager 10g Application Server Control).
+          Environnement technique :
+        Tomcat, Forms Tool, Talend, ORACLE FORMS, REPORTS, Java, VAADIN, Hibernate, JSP, SERVLET, Delphi,  Intégration Continue, CVS, Batch Déploiement, BUGZILLA, NETBEANS. Linux, Windows
+
+
+
+
+nov. 07 - févr. 09 (1 an et 3 mois)
+
+   CTAMA Rôle : Développeur ORACLE FORMS, REPORTS
+contexte: Développement oracle forms \reports.
+
+taches:
+
+        Mise en place de l’application de la gestion ressource humaine, de l’application financière au sein de la société d’assurance CTAMA,
+        Création de reportings RH et financiers avec le générateur de rapports BIRT (oracle reports).
+        Conception, développement et déploiement de l’application “Déclaration CNSS et gestion des avances”.
+        Participation à la mise en place d’une application de gestion des ressources humaines.
+        Contribution au développement d’une application financière, incluant les modules encaissement et  placement.
+        Développement du module encaissement et placement, application d’assurance maladie complément  CNAM, de l’application « INCAPACITE, INVALIDITE ET CAPITALE DECES » au sein de la société d’assurance  CTAMA et de l’application DECLARATION CNSS ET GESTION DES AVANCES.
+        Participation au développement et mise en place de l’application d’assurance grêles (ORACLE 6i FORMS REPORTS).
+        Assistance technique et fonctionnelle, & Maintenance des modules existants. 
+
+        Environnement technique : SQL, PL/SQL, ORACLE FORMS, REPORTS, Windows
+
+
+
+
+juil. 07 - nov. 07(4 mois)
+
+   ITIC         Rôle : Développeur ORACLE FORMS, REPORTS
+
+contexte: Maintenance corrective et évolutive des programmes oracle Forms Reports.
+
+taches:
+
+       Coordination Formation oracle Forms et reports.
+        Participation au développement mise en œuvre de l’application « Contrôle économique et le module de facturation » au sein de la société ITIC (REPORTS).
+       Formation programmation orientée objet et java.
+       Maintenance corrective et évolutive des programmes oracle Reports.
+        Environnement technique :
+       SQL, PL/SQL, ORACLE FORMS, REPORTS, Windows
+
+
+
+
+DIPLOMES
+
+2002 – 2007 | ISSAT Sousse Tunisie | Diplôme National d’Ingénieur en Informatique.
+
+2001 – 2001 | LYCEE JEMEL Tunisie | Baccalauréat Technique.
+
+Formations :
+
+2025 | Oresys | Snowflake.
+
+2025 | Udemy | Python pour la DATA SCIENCE.
+
+2007 | Oradist Tunisie |Oracle Forms, SQL\PLSQL.
+
+2015 | Keyrus | Talend.
+
+2020 | Udemy | Microsoft SSIS\ SSRS\ SSAS.
+
+2022 | Microsoft| POWER BI /Azur az-900.
+

@@ -1,0 +1,158 @@
+Ingénieur d’étude et développement Oracle PL/SQL
+
+ENVIRONNEMENTS TECHNIQUES
+Langages : PL/SQL, Java, JQuery, JavaScript, Spring Framework, XML, HTML, CSS, C++
+IDE / Outils : SQL Developer, Eclipse, IntelliJ Idea, COVAST, ASiS, CRM, pgp, Autosys
+Bases de données : Oracle 8i, 9i, 10g, 11g RAC, 12c, 19c, SQL Server, MySQL, MongoDB
+Logiciels : Redmine, JIRA, Jenkins, Confluence, Bitbucket, Crystal Reports, Discoverer (Oracle Reports), WebSphere, SAP Business Object, Subversion, Git, Tortoise, SVN
+Réseaux : mRemoteNG, Putty, WinSCP, VNC, VPN, CFT
+Systèmes : Windows/Unix/Linux
+
+DOMAINES DE COMPETENCES
+♦ Conception, Développement, Test & Qualification, Déploiement, Planification
+♦ Progiciel (ERP/CRM), Système d'exploitation, Web, Bases de données/SGBD, Réseau
+
+SECTEURS D'ACTIVITE
+♦ Commerce 
+♦ Media / Telecom /Réseau de télévision 
+♦ Aéronautique 
+♦ Banque / Finance Paie & RH 
+♦ Assurance
+
+
+EXPERIENCE PROFESSIONNELLE
+
+2024 (8 mois): COFACE Ingénieur Développeur Oracle – PL/SQL
+Domaine d’activités : Assurance Crédit
+L'expertise technico-fonctionnelle pour l’application COFANET utilisée dans la déclaration des sinistres.
+Missions :
+ Clarification du besoin avec les business analystes
+ Estimation technique des user stories (Agile)
+ Définir/valider le design avec les développeurs
+ Création du besoin dans Confluence
+ Assurer le support entre les key-users et les développeurs
+ Assurer la qualité du livrable
+Environnement technique: Oracle 19c, Java, PL/SQL, Eclipse, Confluence, Git, JIRA.
+
+2022 - 2024 (16 mois): BNP Paribas Securities Services Ingénieur Développeur Oracle – PL/SQL
+Domaine d’activités : La sécurisation des flux financiers
+L'expertise et l'optimisation des bases des données pendant la migration des applications Cash Claim Management, Base Contingency Management et Money Transfer System.
+Missions :
+ Développement et mise en place de l'envoi des e-mails en utilisant des packages
+Oracle
+ Adaptation, optimisation et migration des packages et procédures Oracle liés aux
+Automatic Queries vers MQ Séries
+ Optimisation des scripts Oracle pour les branches Jersey, Espagne et Italie
+ Rédaction de documentations techniques : dossier d’exploitation, mode opératoire
+Environnement technique: Oracle 19c, PL/SQL, XML, Jenkins, SQL Developer, GIT, JIRA
+
+2018 - 2022 (51 mois): NIBELIS Ingénieur Développeur Oracle – PL/SQL
+Domaine d’activités : Logiciel Paie & SIRH en Cloud.
+Ce logiciel représente une solution informatique de gestion en Cloud intégrant une suite des logiciels de paie et plusieurs modules RH qui permettent une gestion performante d’une société.
+Missions :
+ Réalisation des spécifications techniques et cahiers des charges pour les nouveaux
+projets.
+ Créations ou mise à jour des nouveaux paquets, des procédures stockées, triggers
+pour réaliser les nouvelles fonctionnalités
+ Réalisation des rapports/interfaces spécifiques à la demande du client
+ Optimisation du code, réduction de temps d’exécution
+ Tester toutes les corrections/évolutions tout en respectant le workflow de validation
+avant leur mise en production
+ Maintenance des différents modules de paie de la solution
+Environnement technique: PL/SQL, HTML, XML, Java, JavaScript, VueJs, Cypress, Amazon Web Services (AWS), SQL Developer, Git, Visual Studio Code, UltraEdit, Docker Desktop
+
+2017 - 2018 (15 mois): BNP Paribas CIB Développeur Oracle – PL/SQL
+Domaine d’activités : Banque / Finance
+Responsable Technique d'Application DRACONIS ("D"eposits "R"evenus "A"nalytical "CON"sol"I"dation "S"ystem) qui était l'outil local de collecte des revenus et dépôts du contrôle de gestion CIB Finance.
+Missions :
+ Pilotage d'un projet de migration technique de l’application bancaire (Draconis)
+Co-élaboration du planning et suivi des actions  Vérification de la qualité du livrable
+ Migration technique
+BI 4.1 - générer et installer le shared secret sur la console BO  L’import / l’export des objets BO (BIAR)  L’installation des certificats SSL pour IHM et BO  L’import des données par datapump sur l'instance oracle applicative  La préparation de l'environnement sur GIT puis le lancement du déploiement sur Jenkins
+ Support - Analyste technique Niveau 2 sur l'application bancaire pour la partie Run
+Animation d'un point quotidien avec statuts/incidents/évolutions
+Animation d'un point quotidien avec statuts/incidents/évolutions
+la MOA Madrid
+sur
+ Rédaction de documentations techniques :
+Dossier d’Exploitation, Dossier d’Installation, Mode Opératoire
+Environnement technique: Oracle 12c, Websphere, SAP Business Object, mRemoteNG, Jenkins, SQL Developer, GIT, JIRA, CFT, Autosys, pgp, PL/SQL, Linux, Unix.
+
+2014 – 2017 (26 mois) – 4SH France Ingénieur Développeur Oracle – PL/SQL
+Domaine d’activités : Editeur de logiciel.
+Ce projet représente une plateforme informatique en liaison directe avec les systèmes informatiques de la douane française, habilitée à effectuer des échanges des messages, concernant l’import et/ou l’export de la marchandise, entre les adhérents et la douane. Ses adhérents s’acquittent de toutes leurs obligations douanières concernant la traçabilité de la marchandise, sa prise en charge et ses certifications de sûreté/sécurité.
+Missions :
+ L’évolution de la base de données : structurer les messages dans une forme compréhensible pour leur intégration dans la base de données en conformité avec les spécifications du standard IATA
+ Créations des nouveaux paquets et des procédures stockées pour intégrer les
+nouveaux messages
+ Réalisation des rapports concernant la marchandise
+ Création des requêtes pour récupérer les données utilisées dans la facturation
+ Tester toutes les corrections/évolutions avant leur mise en production avec les
+utilisateurs
+ Les évolutions du site web pour donner suite aux demandes des clients et de la
+douane
+Environnement technique: Oracle 11g RAC, SQL Developer, MongoDB, PL/SQL, IntelliJ, Git, Java, XML, JavaScript, JQuery, Spring, COVAST, TortoiseSVN, Bitbucket, Confluence, Redmine;
+
+2010 - 2013 (36 mois): S.C. Fluid Group Hagen S.R.L Responsable d’agence
+Domaine d’activités : Fabricant et distributeur de compteurs d'eau.
+Missions :
+ Responsable de toutes les activités de la succursale de Craiova
+ Suivi de compte clients actuels et ouverture de nouveaux comptes
+ Surveillance des projets, des ventes aux enchères en ligne et rédaction des
+documents requis
+Environnement technique: CRM et ASiS (ERP – SQL Server); Microsoft Office Outils.
+
+2008 - 2009 (15 mois): S.C. Sintec Media S.R.L Développeur PL/SQL
+Domaine d’activités : Développement de logiciels et support technique pour une société qui gère les réseaux de télévision (OnAir)
+Missions :
+ Développement de produits logiciels (paquets, fonctions et déclencheurs en Pl SQL et
+de rapports avec Crystal Reports)
+ Configuration et paramétrage de la base de données: création, enregistrement et la
+restauration
+ Responsable de l'estimation du niveau de difficulté et de l'achèvement des projets
+dans les délais imposés – gestion de projets
+Environnement technique: PLSQL, C++, Oracle 9i/10g, Crystal Reports, Windows XP/Vista
+
+2007 (9 mois): S.C. Sintec Media S.R.L Administrateur de Systèmes et Réseaux
+Domaine d’activités : Développement de logiciels et support technique pour une société qui gère les réseaux de télévision (OnAir)
+Missions :
+ Installation de produits logiciels sur les serveurs et les sites Web des clients
+ Support technique
+ Installation de Windows XP/Vista, maintenance de réseaux et gestion de systèmes
+Environnement technique : PLSQL; Windows XP/Vista, Workflow, VPN.
+
+2005 – 2007 (22 mois): S.C. METRO CASH & CARRY S.R.L Assistant réseaux
+Domaine d’activités : Commerce Hypermarché
+Missions :
+ Supervision des systèmes et des services de réseau et des inventaires de la société
+ Mise à jour des prix quotidienne et réalisation des rapports pour la direction
+ Assurer le bon fonctionnement de l'ensemble des caisses enregistreuses et du
+traitement des factures
+ Maintenance des imprimantes, des scanners et des ordinateurs du magasin
+Environnement technique : Oracle 9i, SQL, Oracle Discoverer, VNC Viewer, IntraNET.
+
+DIPLOMES - FORMATIONS
+2008 - 2010 : Université de Craiova - Master dans l’ingénierie et le management de la qualité de l’environnement
+2002 - 2007 : Université de Craiova - Faculté d'automatisation, informatique et électronique - Ingénieur Robotique (Mécatronique - Robots mobiles).
+ Programmation orientée objet
+ Systèmes d'exploitation et langages en temps réel
+ Systèmes hydrauliques et pneumatiques
+ Systèmes d'acquisition et de traitement des interfaces
+ Transmission de données et les contrôleurs logiques programmables
+PFE – L’automatisation des fours de brique de S.C. MACOFIL S.A. Réalisation de panneau de commande et logiciel de visualisation graphiques VISU ASPIC v3.3.
+
+1998 - 2002 : Ecole nationale supérieure “Fratii Buzesti”, Craiova - BAC Informatique – Junior Développeur.
+
+Autres projets :
+Conduite PD5NT robot pneumatique pour déplacer des objets en utilisant le langage
+FA1J pour les automates
+Conduite ARM TRAINER 007 robot avec l'aide de la console Java (Eclipse)
+Projets en Matlab Simulink et Labview pour les activités de laboratoire
+Sintec Media Formation C++ en Jérusalem, Israël
+4SH France – Formation MongoDB
+
+
+LANGUES
+Roumain : Langue maternelle
+Français : C2 (Bilingue/Maîtrise)
+Anglais : C1 (Courant/Autonome)

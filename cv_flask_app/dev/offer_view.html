@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualisation de l'Offre - Éditeur de CV par UTI</title>
+    <link rel="stylesheet" href="css/offers.css">
+    <link rel="stylesheet" href="css/offer-view.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo" onclick="goBack()">Éditeur de CV par UTI</div>
+        <div class="user-badge">ST</div>
+    </header>
+
+    <div class="container">
+        <div class="page-header">
+            <button class="back-btn" onclick="goBack()">← Retour aux offres</button>
+            <h1 id="offerTitle">Chargement...</h1>
+            <div class="offer-meta">
+                <span class="company" id="offerCompany">-</span>
+                <span class="location" id="offerLocation">-</span>
+                <span class="contract-type" id="contractType">-</span>
+            </div>
+        </div>
+
+        <div class="offer-view-content">
+            <!-- Offer Details Section -->
+            <div class="offer-details-section">
+                <div class="section-header">
+                    <h2>📋 Détails de l'offre</h2>
+                </div>
+                
+                <div class="offer-summary">
+                    <div class="summary-item">
+                        <label>Entreprise :</label>
+                        <span id="detailCompany">-</span>
+                    </div>
+                    <div class="summary-item">
+                        <label>Poste :</label>
+                        <span id="detailTitle">-</span>
+                    </div>
+                    <div class="summary-item">
+                        <label>Localisation :</label>
+                        <span id="detailLocation">-</span>
+                    </div>
+                    <div class="summary-item">
+                        <label>Type de contrat :</label>
+                        <span id="detailContract">-</span>
+                    </div>
+                    <div class="summary-item">
+                        <label>Durée :</label>
+                        <span id="detailDuration">-</span>
+                    </div>
+                </div>
+
+                <div class="offer-description">
+                    <h3>Description du poste</h3>
+                    <div id="offerDescription">
+                        <p>Chargement de la description...</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Skills Analysis Section -->
+            <div class="skills-analysis-section">
+                <div class="section-header">
+                    <h2>🎯 Analyse des compétences</h2>
+                </div>
+
+                <div class="skills-categories">
+                    <div class="skill-category">
+                        <h3>Compétences techniques requises</h3>
+                        <div class="skills-list" id="technicalSkills">
+                            <!-- Skills will be populated by JavaScript -->
+                        </div>
+                    </div>
+
+                    <div class="skill-category">
+                        <h3>Compétences souhaitées</h3>
+                        <div class="skills-list" id="desiredSkills">
+                            <!-- Skills will be populated by JavaScript -->
+                        </div>
+                    </div>
+
+                    <div class="skill-category">
+                        <h3>Soft skills</h3>
+                        <div class="skills-list" id="softSkills">
+                            <!-- Skills will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Requirements Section -->
+            <div class="requirements-section">
+                <div class="section-header">
+                    <h2>📝 Exigences</h2>
+                </div>
+
+                <div class="requirements-content">
+                    <div class="requirement-category">
+                        <h3>Formation</h3>
+                        <ul id="educationRequirements">
+                            <!-- Requirements will be populated by JavaScript -->
+                        </ul>
+                    </div>
+
+                    <div class="requirement-category">
+                        <h3>Expérience</h3>
+                        <ul id="experienceRequirements">
+                            <!-- Requirements will be populated by JavaScript -->
+                        </ul>
+                    </div>
+
+                    <div class="requirement-category">
+                        <h3>Langues</h3>
+                        <ul id="languageRequirements">
+                            <!-- Requirements will be populated by JavaScript -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Actions Section -->
+            <div class="actions-section">
+                <button class="btn btn-secondary" onclick="duplicateOffer()">
+                    📋 Dupliquer
+                </button>
+                <button class="btn btn-danger" onclick="deleteOffer()">
+                    🗑️ Supprimer
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/offer-view.js"></script>
+</body>
+</html>
