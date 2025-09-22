@@ -1,0 +1,103 @@
+Utilisateur
+- Utilisateur_id
+- nom
+- prénom
+- téléphone
+- mail
+- role - liste [ collaborateur / commercial / responsable / administrateur ] one2n
+- login
+- mot de passe
+
+La liste des collaborateurs 
+- utilisateur_id
+- created_by
+- statut (dispo / non dispo)
+- CV -> id
+
+La liste des commerciaux
+- utilisateur_id
+- responsable_id
+
+La liste des CV 
+- CV_id
+- nom (affiché dans l'interface)
+- path (avec le vrai nom du fichier)
+- collaborateur
+- JSON (sert à faire l'affichage WEB + générer le CV)
+
+La liste des Offres
+- offre_id
+- intitulé (affiché dans l'interface == intitulé)
+- path (le chemin+nom de fichier sur le serveur)
+- version
+- collaborateur
+- date
+- commercial 
+- client
+- début attendu 
+- fin attendue
+- JSON (sert à déterminer l'affichage)
+- active -> true / false
+- contact_id
+
+client
+- client_id
+- commercial
+- nom
+- contacts (liste)
+
+contact
+- contact_id
+- client_id
+- nom
+- prénom
+- téléphone
+- mail
+
+partenaire
+- partenaire_id
+- commercial
+- nom
+- contacts (liste)
+
+contact_partenaire
+- contact_partenaire_id
+- partenaire_id
+- nom
+- prénom
+- téléphone
+- mail
+
+Liste des missions
+- mission_id
+- offre
+- collaborateur
+- date début (démarrage réel)
+- date fin (fin réelle)
+- commercial
+- responsable
+- JSON (sert à déterminer l'affichage)
+
+Liste des comptes rendus
+- CR_id
+- intitulé
+- document associé
+- JSON (sert à déterminer l'affichage)
+- date
+
+Liste des vecteurs
+- chunk (experience1, 2, ..., compétences) (donnée vectorisée)
+- texte correspondant
+- document_id (offre ou CV)
+
+Liste des versions des CVs
+- version_id
+- description
+- default -> yes / no
+- nom du document / intitulé (affichage)
+- CV_id
+- indice version
+- path (document réel sur le serveur)
+- date
+- analyse des compétences (JSON)
+

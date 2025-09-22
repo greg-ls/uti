@@ -1,0 +1,503 @@
+@app.route('/dev/auth/login', methods=['POST'])
+def login():
+    logger.info("Authentification")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/auth/logout', methods=['POST'])
+def logout():
+    logger.info("Déconnexion")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/auth/check', methods=['GET'])
+def check_auth():
+    logger.info("Check authentification")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# PAGES PRINCIPALES (RENDU HTML)
+# =============================================================================
+
+@app.route('/dev/', methods=['GET'])
+def home():
+    logger.info("Accès à la page d'accueil")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/administration', methods=['GET'])
+def administration():
+    logger.info("Accès à la page d'administration")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/collaborateurs/creer', methods=['GET'])
+def create_collaborator_page():
+    logger.info("Accès à la page de création d'un collaborateurs")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/collaborateurs/liste', methods=['GET'])
+def list_collaborators_page():
+    logger.info("Accès à la page des collaborateurs")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/collaborateurs/<int:collaborator_id>', methods=['GET'])
+def collaborator_profile_page(collaborator_id):
+    logger.info("Accès à la page d'un collaborateurs")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/missions/creer', methods=['GET'])
+def create_mission_page():
+    logger.info("Accès à la page de création d'une missions")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/missions/liste', methods=['GET'])
+def list_missions_page():
+    logger.info("Accès à la page des collaborateurs")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/missions/<int:mission_id>', methods=['GET'])
+def mission_profile_page(mission_id):
+    logger.info("Accès à la fiche des missions")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/clients/liste', methods=['GET'])
+def list_clients_page():
+    logger.info("Accès à la liste des clients")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/clients/<int:client_id>', methods=['GET'])
+def client_profile_page(client_id):
+    logger.info("Accès à la fiche client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/missions/en-cours', methods=['GET'])
+def current_missions_page():
+    logger.info("Accès à la page des des missions en cours")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/recherche', methods=['GET'])
+def search_page():
+    logger.info("Accès à la page de recherche globale")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GESTION DES COLLABORATEURS
+# =============================================================================
+
+@app.route('/dev/api/collaborateurs', methods=['GET'])
+def get_collaborators():
+    logger.info("Accès à la liste des collaborateurs")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs', methods=['POST'])
+def create_collaborator():
+    logger.info("Création d'un collaborateur collaborateurs")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>', methods=['GET'])
+def get_collaborator(collaborator_id):
+    logger.info("Accès à la fiche d'un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>', methods=['PUT'])
+def update_collaborator(collaborator_id):
+    logger.info("Modification d'un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>', methods=['DELETE'])
+def delete_collaborator(collaborator_id):
+    logger.info("Suppression d'un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/cv', methods=['PUT'])
+def update_collaborator_cv(collaborator_id):
+    logger.info("Modification d'un cv pour un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/cv/regenerate', methods=['POST'])
+def regenerate_cv_section(collaborator_id):
+    logger.info("Ajout d'un nouveau cv pour un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/experiences', methods=['POST'])
+def add_experience(collaborator_id):
+    logger.info("Ajout d'une nouvelle expérience pour le cv d'un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/cv/optimize', methods=['POST'])
+def optimize_cv(collaborator_id):
+    logger.info("Optimisation du cv du collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/cv/download', methods=['GET'])
+def download_cv_uti(collaborator_id):
+    logger.info("Téléchargement du cv d'un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/cv/send-email', methods=['POST'])
+def send_cv_email(collaborator_id):
+    logger.info("Envoi du cv du collaborateur par email")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/missions/assign', methods=['POST'])
+def assign_mission_to_collaborator(collaborator_id):
+    logger.info("Assignation d'une mission à un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/<int:collaborator_id>/missions/unassign', methods=['POST'])
+def unassign_mission_from_collaborator(collaborator_id):
+    logger.info("Désassignation d'une mission à un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/import-cv', methods=['POST'])
+def import_cv():
+    logger.info("Création d'un collaborateur à partir d'un cv")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/collaborateurs/search', methods=['POST'])
+def search_collaborators():
+    logger.info("Accès à la page de recherche des collaborateurs")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GESTION DES MISSIONS
+# =============================================================================
+
+@app.route('/dev/api/missions', methods=['GET'])
+def get_missions():
+    logger.info("Accès à la page des missions")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions', methods=['POST'])
+def create_mission():
+    logger.info("Création d'une mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>', methods=['GET'])
+def get_mission(mission_id):
+    logger.info("Accès à la fiche d'une mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>', methods=['PUT'])
+def update_mission(mission_id):
+    logger.info("Modification d'une mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>', methods=['DELETE'])
+def delete_mission(mission_id):
+    logger.info("Suppression d'une mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>/collaborateurs/search', methods=['POST'])
+def search_collaborators_for_mission(mission_id):
+    logger.info("Recherche de collaborateur pour une mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>/collaborateurs/assign', methods=['POST'])
+def assign_collaborator_to_mission(mission_id):
+    logger.info("Assignation d'une mission à un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>/contact/assign', methods=['POST'])
+def assign_contact_to_mission(mission_id):
+    logger.info("Assignation d'un contact")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>/contact_partenaire/assign', methods=['POST'])
+def assign_contact_partenaire_to_mission(mission_id):
+    logger.info("Assignation d'un contact partenaire ")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/en-cours', methods=['GET'])
+def get_current_missions():
+    logger.info("Accès à la page des missions en cours")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>/rapports', methods=['GET'])
+def get_mission_reports(mission_id):
+    logger.info("Récupération des rapports d'une mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>/rapports', methods=['POST'])
+def add_mission_report(mission_id):
+    logger.info("Ajout d'un rapport de mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/missions/<int:mission_id>/rapports/<int:report_id>/download', methods=['GET'])
+def download_mission_report(mission_id, report_id):
+    logger.info("Téléchargement d'un rapport de mission")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GESTION DES CLIENTS
+# =============================================================================
+
+@app.route('/dev/api/clients', methods=['GET'])
+def get_clients():
+    logger.info("Accès à la page des clients")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients', methods=['POST'])
+def create_client():
+    logger.info("Création d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>', methods=['GET'])
+def get_client(client_id):
+    logger.info("Accès à la fiche d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>', methods=['PUT'])
+def update_client(client_id):
+    logger.info("Modification d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>', methods=['DELETE'])
+def delete_client(client_id):
+    logger.info("Suppression d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>/contacts', methods=['GET'])
+def get_client_contacts(client_id):
+    logger.info("Récupération des contacts d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>/contacts', methods=['POST'])
+def create_client_contact(client_id):
+    logger.info("Ajout d'un contact d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>/contacts/<int:contact_id>', methods=['PUT'])
+def update_client_contact(client_id, contact_id):
+    logger.info("Modifications d'un contact d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>/contacts/<int:contact_id>', methods=['DELETE'])
+def delete_client_contact(client_id, contact_id):
+    logger.info("Suppression d'un contact d'un client")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/clients/<int:client_id>/commercial', methods=['PUT'])
+def assign_commercial_to_client(client_id):
+    logger.info("Modification du commercial d'un client")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GESTION DES PARTENAIRES
+# =============================================================================
+
+@app.route('/dev/api/partenaire', methods=['GET'])
+def get_partenaire():
+    logger.info("Accès à la page des partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire', methods=['POST'])
+def create_client():
+    logger.info("Création d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>', methods=['GET'])
+def get_partenaire(partenaire_id):
+    logger.info("Accès à la fiche d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>', methods=['PUT'])
+def update_partenaire(partenaire_id):
+    logger.info("Modification d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>', methods=['DELETE'])
+def delete_partenaire(partenaire_id):
+    logger.info("Suppression d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts', methods=['GET'])
+def get_partenaire_contacts(partenaire_id):
+    logger.info("Récupération des contacts d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts', methods=['POST'])
+def create_partenaire_contact(partenaire_id):
+    logger.info("Ajout d'un contact d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts/<int:contact_id>', methods=['PUT'])
+def update_partenaire_contact(partenaire_id, contact_id):
+    logger.info("Modifications d'un contact d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/partenaire/<int:partenaire_id>/contacts/<int:contact_id>', methods=['DELETE'])
+def delete_partenaire_contact(partenaire_id, contact_id):
+    logger.info("Suppression d'un contact d'un partenaire")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GESTION DES COMMERCIAUX (ADMIN SEULEMENT)
+# =============================================================================
+
+@app.route('/dev/api/commerciaux', methods=['GET'])
+def get_commercials():
+    logger.info("Accès à la listes des commerciaux")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/commerciaux', methods=['POST'])
+def create_commercial():
+    logger.info("Création d'un commercial")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/commerciaux/<int:commercial_id>', methods=['GET'])
+def get_commercial(commercial_id):
+    logger.info("Accès à la fiche d'un commercial")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/commerciaux/<int:commercial_id>', methods=['PUT'])
+def update_commercial(commercial_id):
+    logger.info("Modification d'un commercial")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/commerciaux/<int:commercial_id>', methods=['DELETE'])
+def delete_commercial(commercial_id):
+    logger.info("Suppression d'un commercial")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API INTELLIGENCE ARTIFICIELLE
+# =============================================================================
+
+@app.route('/dev/api/ia/analyze-cv', methods=['POST'])
+def analyze_cv_with_ai():
+    logger.info("Analyse du cv par l'ia")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/ia/analyze-mission', methods=['POST'])
+def analyze_mission_with_ai():
+    logger.info("Analyse de la mission par l'ia")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/ia/match-collaborateur-mission', methods=['POST'])
+def match_collaborator_mission_ai():
+    logger.info("Recherche des collaborateurs pour une mission par l'ia")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/ia/optimize-cv-for-mission', methods=['POST'])
+def optimize_cv_for_mission_ai():
+    logger.info("Optimisation d'un cv pour une mission par l'ia")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/ia/regenerate-section', methods=['POST'])
+def regenerate_section_ai():
+    logger.info("Regénérer une section d'un cv par l'ia")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API RECHERCHE GLOBALE
+# =============================================================================
+
+@app.route('/dev/api/recherche/keyword', methods=['POST'])
+def global_search():
+    logger.info("Execution d'une recherche")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GESTION DES FICHIERS
+# =============================================================================
+
+@app.route('/dev/api/files/upload', methods=['POST'])
+def upload_file():
+    logger.info("Envoi d'un fichier")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/files/<int:file_id>/download', methods=['GET'])
+def download_file(file_id):
+    logger.info("Téléchargement d'un fichier")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/files/<int:file_id>', methods=['DELETE'])
+def delete_file(file_id):
+    logger.info("Suppression d'un fichier")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GÉNÉRATION DE CV
+# =============================================================================
+
+@app.route('/dev/api/cv/generate-uti/<int:collaborator_id>', methods=['POST'])
+def generate_cv_uti(collaborator_id):
+    logger.info("Génération d'un cv au format UTI")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/cv/generate-optimized/<int:collaborator_id>/<int:mission_id>', methods=['POST'])
+def generate_optimized_cv(collaborator_id, mission_id):
+    logger.info("Optimisation d'un cv pour une mission")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/cv/send-email/<int:collaborator_id>', methods=['POST'])
+def send_cv_by_email(collaborator_id):
+    logger.info("Envoyer le cv par email")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/cv/versions/<int:collaborator_id>', methods=['GET'])
+def get_cv_versions(collaborator_id):
+    logger.info("Récupération de la liste des cvs d'un collaborateur")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# API GESTION DES SESSIONS ET SÉCURITÉ
+# =============================================================================
+
+@app.route('/dev/api/profile', methods=['GET'])
+def get_user_profile():
+    logger.info("Récupération des droits de l'utilisateur")
+    return send_from_directory('dev', 'index.html')
+
+@app.route('/dev/api/permissions/<string:action>', methods=['GET'])
+def check_permission(action):
+    logger.info("Vérification si l'utilisateur a le droit de faire l'eaction")
+    return send_from_directory('dev', 'index.html')
+
+# =============================================================================
+# ROUTES D'ERREUR ET STATUT
+# =============================================================================
+
+@app.errorhandler(404)
+def not_found(error):
+    """Gestion des erreurs 404"""
+    pass
+
+@app.errorhandler(403)
+def forbidden(error):
+    """Gestion des erreurs 403 - Accès interdit"""
+    pass
+
+@app.errorhandler(500)
+def internal_error(error):
+    """Gestion des erreurs 500 - Erreur serveur"""
+    pass
+
+# =============================================================================
+# MIDDLEWARE ET DÉCORATEURS DE SÉCURITÉ
+# =============================================================================
+
+def require_auth(f):
+    """Décorateur pour vérifier l'authentification"""
+    def decorated_function(*args, **kwargs):
+        # Vérifier le token d'authentification
+        return f(*args, **kwargs)
+    return decorated_function
+
+def require_role(role):
+    """Décorateur pour vérifier le rôle utilisateur"""
+    def decorator(f):
+        def decorated_function(*args, **kwargs):
+            # Vérifier le rôle de l'utilisateur
+            return f(*args, **kwargs)
+        return decorated_function
+    return decorator
+
+def require_admin(f):
+    """Décorateur pour les routes admin seulement"""
+    return require_role('admin')(f)
+
+def require_commercial_or_admin(f):
+    """Décorateur pour les routes commercial ou admin"""
+    def decorated_function(*args, **kwargs):
+        # Vérifier si l'utilisateur est commercial ou admin
+        return f(*args, **kwargs)
+    return decorated_function

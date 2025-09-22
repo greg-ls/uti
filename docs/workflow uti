@@ -1,0 +1,87 @@
+Page d'accueil
+	- Commencer par s'authentifier pour savoir qui est l'utilisateur (pour éviter aux commerciaux de devoir choisir leur nom au moment de générer les cvs)
+	- Pour l'authentification, si on tape admin dans le login et admin dans le mot de passe, on sera connecté en tant qu'administrateur. 
+	- Pour l'authentification, si on tape collab dans le login et collab dans le mot de passe, on sera connecté en tant que collaborateur. 
+	- Pour l'authentification, si on tape autre chose, on sera connecté comme commercial
+	- Si on est connecté en tant que collaborateur, on aura accès directement à la fiche Collaborateur mais uniquement à cette fiche, en mode lecture seule
+	- Si on est connecté en administrateur ou en commercial, on a accès à tout le site
+
+Page "Administration" (accessible uniquement au login admin)
+	- La page affiche la liste des commerciaux existants, avec 2 boutons Modifier / Supprimmer
+	- Le bouton Modifier ouvre une popup qui permet de modifier les champs concernant un commercial
+	- Il y aura un bouton "Créer un commercial", qui ouvrira la même popup mais sans les champs pré-remplis
+
+Page "Créer un collaborateur"
+	- Deux options : 
+		- Saisir un collaborateur manuellement (=> affiche dessous un formulaire avec nom, prenom, disponible ou en mission, etc. + charger un cv)
+		- Créer un collaborateur à partir d'un cv (=> affiche dessous une zone dans laquelle on peut choisir/glisser un fichier pdf/word et un bouton Importer collaborateur)
+		- Dans les deux cas on mettra une case à cocher pour savoir si c'est un prospect ou pas
+		- Dans les deux cas, lors de la soumission du cv, on enregistra en bdd les informations ainsi que le détail du cv au format json + l'évaluation des compétences par l'ia
+		- Important : ce cv sera considéré comme le cv d'origine, donc celui sur lequel l'application se basera par la suite pour optimiser les cvs par rapport aux offres
+		- Dans les deux cas, après soumission du cv, on est redirigé vers la fiche collaborateur
+
+Page "Liste des collaborateurs"
+	- Page qui contient un formulaire de recherche, pour filtrer une liste déjà chargée des collaborateurs
+	- Pour chaque ligne collaborateur, on aura 2 boutons "Voir" ou "Supprimer" (avec popup de confirmation)
+	- Le bouton "Voir" redirige vers la fiche Collaborateur
+
+Page "Fiche collaborateur"
+	- La page affiche toutes les informations concernant le collaborateur : 
+		- Informations personnelles (tous les champs sont modifiables)
+		- La mission en cours s'il en a une. S'il a une mission, rajouter la liste des comptes rendus de missions existants ainsi qu'un bouton "Ajouter un compte rendu" qui ouvre une popup pour y permettre d'uploader un fichier)
+		- Cv détaillé (toutes les zones sont modifiables).
+		- Pour chaque zone du cv éditable, on aura en plus du bouton "éditer" un bouton "regénérer" qui appellera une ia pour retravailler la section (à la place du chat)
+		- Un tableau qui affiche l'évaluation des compétences par l'ia (non modifiable)
+		- La liste de toutes les versions du cv (nom cv + date + id + intitulé de mission)
+	- On a aussi 4 actions : 
+		- Télécharger le cv au format UTI (génèrera le cv avec les informations du commercial connecté)
+		- Envoyer le cv par mail
+		- Optimiser le cv pour un ordre de mission
+		- Ajouter une nouvelle expérience au cv de base, ce qui engendrera un nouveau calcul du niveau des compétences par l'ia
+	- Au clic sur ce dernier bouton, on aura une popup avec un champ de recherche sur les missions existantes + un bouton "Créer une offre de mission"
+	- Une fois une mission choisie, le cv sera retravaillé par l'ia pour correspondre au mieux, on affichera le cv avant/après sur deux colonnes pour voir la différence. 
+	- On laissera la possibilité au commercial d'éditer les zones retravaillées. 
+	- Il y aura 2 boutons : "Télécharger le cv optimisé" et "Envoyer le cv optimisé par mail"
+	- Cette nouvelle version du cv sera enregistrée en base.
+
+Page "Créer un offre de mission"
+	- Cette page contiendra un formulaire avec deux champs : 
+		- Un client (à choisir dans la liste existante ou créer à la volée s'il n'existe pas)
+		- Un intitulé de mission
+		- Un descriptif de mission
+	- A l'enregistrement, un ia analysera l'offre de mission pour générer un json qui contiendra toutes les compétences du poste avec le niveau demandé (sauvegardé en bdd).
+	- Une fois l'enregistrement effectué, on est redirigé vers la fiche d'un offre de mission
+
+Page "Liste des offres de mission"
+	- Page qui contient un formulaire de recherche, pour filtrer une liste déjà chargée des offres de missions
+	- Pour chaque ligne offre, on aura 1 bouton "Voir"
+	- Le bouton "Voir" redirige vers la fiche Ordre de mission
+
+Page "Offre de mission"
+	- Page qui affiche les informations en base sur l'offre : client, contact chez le client, intitulé, descriptif, tableau des compétences demandées.
+	- Les champs seront éditables (on peut rajouter un contact s'il n'y en a pas : ouvre un popup affichant la liste des contacts du client, avec pour chacun un bouton "Affecter")
+	- Deux actions possibles : 
+		- Associer un collaborateur (pour dire qu'il a été pris sur la mission), ce qui transformera l'offre en ordre de mission
+		- Rechercher un collaborateur : on utilise l'ia pour chercher dans la base de données les collaborateurs qui correspondent au mieux au profil demandé (avec une case à cocher pour chercher uniquement sur les collaborateurs non positionnés ou pas)
+
+Page "Liste des clients"
+	- Page qui contient un formulaire de recherche, pour filtrer une liste déjà chargée des clients
+	- Pour chaque ligne client, on aura 1 bouton "Voir"
+	- Le bouton "Voir" redirige vers la fiche Client
+
+Page "Fiche Client"
+	- La page contient les informations du client (Nom, adresse)
+	- La page affiche aussi la liste des contacts chez le client (nom, prénom, email, téléphone)
+	- Pour chaque élément de la liste, on peut supprimer, modifier (ouvre une popup)
+	- On a aussi un bouton "Ajouter un contact"
+	- La page affiche aussi le nom du commercial qui s'occupe du client (possibilité de modifier en changeant la valeur dans une liste des commerciaux)
+
+Page "Missions en cours"
+	- Page qui contient un formulaire de recherche, pour filtrer la liste de tous les ordres de missions
+	- Pour chaque ligne mission, on aura le nom du client, le nom du contact du client, le nom du collaborateur, la date de début, la date de fin si renseignée, un bouton Voir
+	- Le bouton "Voir" redirige vers la fiche Ordre de mission (identique à la fiche Offre de mission, si ce n'est que le collaborateur est déjà affecté et les dates de début et/ou fin déjà renseignées).
+	- On aura un bouton avec une icône en forme d'oeil à côté du nom du client et du nom du collaborateur qui redirigeront vers leur fiche respective.
+
+Page "Recherche"
+	- Un formulaire de recherche qui permettra de faire une recherche sur mots clés sur l'ensemble des collaborateurs / missions
+	- Une fois les résultats affichés dans un tableau (avec un commentaire du pourquoi il a été retenu, généré par l'ia ? ), au clic sur l'un des éléments on sera redirigé vers la bonne fiche (collaborateur ou ordre de mission)
